@@ -2,9 +2,12 @@
    python3 src/build_bank.py && python3 build.py
    -> index.html                 (Simulator Blok 3.2, bank PPT)
    -> recall-uam-2024/index.html (Simulator Recall UAM 3.2 tahun 2024, terpisah)"""
-import json,os,re
+import json,os,re,sys
+sys.path.insert(0,'src')
+from clean_opts import clean_bank
 T=open('src/template.html').read()
 def render(bank,out,title,logo,h1,intro,examtitle,key,showall=False):
+    bank,n=clean_bank(bank); print(out,'opsi dibersihkan di',n,'soal')
     s=json.dumps(bank,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')
     h=T
     for a,b in [('__TITLE__',title),('__LOGO__',logo),('__H1__',h1),('__INTRO__',intro),('__EXAMTITLE__',examtitle),('__KEY__',key),('__SHOWALL__','true' if showall else 'false'),('__BANK__',s)]:

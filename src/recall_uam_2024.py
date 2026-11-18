@@ -507,11 +507,11 @@ q("lain","asli","24","Komponen utama yang berperan dalam proses fibrinolisis di 
 
 # ---------------- ONKOLOGI / NEOPLASMA ----------------
 q("lain","asli","5","Untuk menghindari kesalahan pembelahan, sel memiliki mekanisme checkpoint. Checkpoint utama yang memastikan DNA tidak rusak sebelum sel memasuki fase sintesis terletak pada:",
-[["Akhir G1 (G1/S, restriction point)","Diatur p53 dan Rb; DNA rusak → sel berhenti di G1 untuk diperbaiki atau apoptosis.","Benar menurut kunci recall."],
+[["Akhir G1","Checkpoint G1/S (restriction point), diatur p53 dan Rb; DNA rusak → sel berhenti di G1 untuk diperbaiki atau apoptosis.","Benar menurut kunci recall."],
  ["Akhir G0","G0 adalah fase istirahat, bukan checkpoint.","Tidak sesuai."],
  ["Akhir mitosis","Bukan checkpoint klasik.","Tidak sesuai."],
  ["Akhir sintesis","Checkpoint intra-S ada, tetapi bukan jawaban utama.","Kurang tepat."],
- ["Awal mitosis (G2/M)","Juga checkpoint, memeriksa DNA sudah tereplikasi sempurna.","Lihat catatan."]],
+ ["Awal mitosis","Checkpoint G2/M, juga, memeriksa DNA sudah tereplikasi sempurna.","Lihat catatan."]],
 "Checkpoint siklus sel: G1/S (paling penting, terkait p53/Rb), G2/M, dan spindle (metafase–anafase). Mutasi p53 menghilangkan G1/S checkpoint sehingga sel dengan DNA rusak terus membelah (dasar karsinogenesis).",
 "G1/S = restriction point, dijaga p53 & Rb.","Bila hanya boleh satu, pilih G1/S.",
 "Soal recall asli menanyakan \"di mana saja\" checkpoint terjadi. Awal mitosis (G2/M) juga benar. Penulis recall awalnya menandai \"awal mitosis\", lalu membetulkan menjadi \"akhir G1\". Kalau soal di ujian memungkinkan dua jawaban, keduanya checkpoint.")

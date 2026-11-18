@@ -29,6 +29,7 @@ src/new1.py, new2.py  # soal baru (Aspek Lab DM, KFR, Respon Imun Non Infeksi, H
 src/old_banks.json    # bank soal dari kuis-kuis sebelumnya
 src/recall_uam_2024.py # recall UAM 3.2 tahun 2024
 build.py              # template + data -> index.html dan recall-uam-2024/index.html
+src/clean_opts.py     # hapus keterangan dalam kurung di opsi (dipindah ke pembahasan) saat build
 data/recall_uam_2024.json # bank soal recall 2024
 ```
 
