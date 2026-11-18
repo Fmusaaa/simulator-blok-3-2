@@ -2,7 +2,7 @@
 
 Simulator ujian blok berbasis HTML (satu file, tanpa backend) untuk Modul 3.2 Kelas B.
 
-**687 soal** dikelompokkan per judul asli PPT dosen (20 PPT) + 1 kelompok recall UAM 3.2 yang topiknya di luar PPT tersebut.
+**757 soal** dikelompokkan per judul asli PPT dosen (20 PPT) + 1 kelompok recall UAM 3.2 yang topiknya di luar PPT tersebut.
 
 ## Fitur
 - **Latihan per PPT** – jawaban langsung dinilai, pembahasan muncul.
@@ -10,7 +10,7 @@ Simulator ujian blok berbasis HTML (satu file, tanpa backend) untuk Modul 3.2 Ke
 - **Hasil** – skor, analisis per PPT & per topik, daftar soal salah/kosong, rekomendasi materi, ulangi soal salah.
 - **Pembahasan** – kunci, alasan, pembahasan tiap opsi A–E (fungsi/fakta + kenapa benar/salah), poin penting, tips, dan catatan bila slide berbeda dengan referensi.
 - Progres disimpan di `localStorage` browser. Tema terang/gelap. Shortcut: `A`–`E`, `←`/`→`, `F`.
-- Label soal: **SOAL ASLI** (recall UAM 3.2), **PREDIKSI**, **SOAL BARU**.
+- Label soal: **SOAL ASLI** (recall UAM 3.2 tahun 2024 & 2025), **SOAL DIREKONSTRUKSI** (recall 2024 yang opsinya dilengkapi), **PREDIKSI**, **SOAL BARU**.
 
 ## Cara pakai
 Buka `index.html` di browser, atau lewat GitHub Pages.
@@ -23,6 +23,7 @@ src/template.html     # tampilan & logika (placeholder __BANK__)
 src/build_bank.py     # gabung bank lama + soal baru -> data/bank.json
 src/new1.py, new2.py  # soal baru (Aspek Lab DM, KFR, Respon Imun Non Infeksi, Hemodinamik, Tumor Marker 2026)
 src/old_banks.json    # bank soal dari kuis-kuis sebelumnya
+src/recall_uam_2024.py # recall UAM 3.2 tahun 2024
 build.py              # data/bank.json + template -> index.html
 ```
 

@@ -258,6 +258,7 @@ function home(){
      '<div class="row" style="margin-top:12px">'+
        '<button class="btn" id="hWrong" '+(wrongIds.length?'':'disabled')+'>Ulangi soal salah ('+wrongIds.length+')</button>'+
        '<button class="btn" id="hFlag" '+(flagged?'':'disabled')+'>Soal ditandai ('+flagged+')</button>'+
+       '<button class="btn" id="hU24">Recall UAM 3.2 2024 ('+QS.filter(function(q){return q.src==="uam2024";}).length+')</button>'+
        '<button class="btn" id="hNew">Belum dikerjakan ('+(tot-done)+')</button>'+
      '</div>'+
      (ST.hist.length?'<div style="margin-top:14px"><div class="small muted" style="font-weight:700;margin-bottom:4px">Riwayat simulasi</div>'+ST.hist.slice(-5).reverse().map(function(r){return '<div class="small" style="display:flex;justify-content:space-between;border-bottom:1px solid var(--line);padding:3px 0"><span>'+esc(r.date)+' · '+r.n+' soal</span><b>'+r.pct+'%</b></div>';}).join('')+'</div>':'')+
@@ -288,6 +289,7 @@ function home(){
   $("exGo").onclick=startExam;
   $("hWrong").onclick=function(){startPractice(wrongIds.map(function(i){return QBY[i];}),"Ulangi semua soal salah",true);};
   $("hFlag").onclick=function(){startPractice(QS.filter(function(q){return ST.flags[q.id];}),"Soal ditandai",false);};
+  $("hU24").onclick=function(){startPractice(QS.filter(function(q){return q.src==="uam2024";}),"Recall UAM 3.2 tahun 2024",true);};
   $("hNew").onclick=function(){startPractice(shuffle(QS.filter(function(q){return !stat(q.id);})).slice(0,30),"30 soal belum dikerjakan (acak)",false);};
   $("app").onclick=function(e){
     var b=e.target.closest("button"); if(!b) return;
@@ -354,7 +356,7 @@ function quiz(){
   h+='<div class="layout"><div><div class="qcard">';
   h+='<div class="qnum">Soal '+(S.cur+1)+' dari '+S.items.length+'</div>';
   h+='<div class="row" style="margin-bottom:10px"><span class="pill">'+esc(p.title)+'</span><span class="pill">'+esc(q.topik)+'</span>'+
-     (q.tag==="asli"?'<span class="pill asli">SOAL ASLI · recall UAM 3.2</span>':q.tag==="prediksi"?'<span class="pill pred">PREDIKSI</span>':q.tag==="baru"?'<span class="pill baru">SOAL BARU</span>':'')+
+     (q.tag==="asli"?'<span class="pill asli">SOAL ASLI · recall UAM 3.2'+(q.src==="uam2024"?' (2024)':'')+'</span>':q.tag==="rekon"?'<span class="pill asli">SOAL DIREKONSTRUKSI · recall UAM 3.2 (2024)</span>':q.tag==="prediksi"?'<span class="pill pred">PREDIKSI</span>':q.tag==="baru"?'<span class="pill baru">SOAL BARU</span>':'')+
      (it.fl?'<span class="pill pred">Ditandai ragu</span>':'')+'</div>';
   h+='<div class="stem">'+q.s+'</div><div class="opts">';
   it.ord.forEach(function(oi,k){
