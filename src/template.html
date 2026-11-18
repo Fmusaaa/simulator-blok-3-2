@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Simulator Blok 3.2</title>
+<title>__TITLE__</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
@@ -180,7 +180,7 @@ kbd{font-family:inherit;font-size:11px;border:1px solid var(--line);border-botto
 </head>
 <body>
 <header class="top"><div class="wrap">
-  <div class="logo">Simulator <span>Blok 3.2</span></div>
+  <div class="logo">__LOGO__</div>
   <div class="sp"></div>
   <button class="btn sm ghost" id="homeBtn">Beranda</button>
   <button class="icon-btn" id="themeBtn" title="Ganti tema" aria-label="Ganti tema"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 3v18a9 9 0 0 0 0-18z" fill="currentColor"/></svg></button>
@@ -202,7 +202,7 @@ var PPTS=BANK.ppts, QS=BANK.qs, QBY={}, PBY={};
 QS.forEach(function(q){QBY[q.id]=q;});
 PPTS.forEach(function(p){PBY[p.id]=p;});
 var LET="ABCDEFGH";
-var KEY="sim-blok32-v1";
+var KEY="__KEY__";
 var $=function(id){return document.getElementById(id);};
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
 
@@ -252,13 +252,12 @@ function home(){
   QS.forEach(function(q){var s=stat(q.id); if(s){done++; if(s.last===1) ok++; else wrongIds.push(q.id);}});
   var flagged=Object.keys(ST.flags).filter(function(k){return ST.flags[k];}).length;
   var h='';
-  h+='<div class="hero"><div class="panel"><h1 style="font-size:24px;letter-spacing:-.3px">Bank soal Blok 3.2</h1>'+
-     '<p class="muted" style="margin:6px 0 0">'+tot+' soal dari '+(PPTS.length-1)+' judul PPT dosen + recall UAM 3.2. Tiap soal ada kunci, pembahasan semua opsi, poin penting, dan catatan bila slide berbeda dengan referensi.</p>'+
+  h+='<div class="hero"><div class="panel"><h1 style="font-size:24px;letter-spacing:-.3px">__H1__</h1>'+
+     '<p class="muted" style="margin:6px 0 0">'+tot+' __INTRO__ Tiap soal ada kunci, pembahasan semua opsi, poin penting, dan catatan bila slide berbeda dengan referensi.</p>'+
      '<div class="stats"><div class="stat"><b>'+done+'</b><span>soal pernah dijawab</span></div><div class="stat"><b>'+(done?Math.round(ok/done*100):0)+'%</b><span>akurasi terakhir</span></div><div class="stat"><b>'+wrongIds.length+'</b><span>masih salah</span></div></div>'+
      '<div class="row" style="margin-top:12px">'+
        '<button class="btn" id="hWrong" '+(wrongIds.length?'':'disabled')+'>Ulangi soal salah ('+wrongIds.length+')</button>'+
        '<button class="btn" id="hFlag" '+(flagged?'':'disabled')+'>Soal ditandai ('+flagged+')</button>'+
-       '<button class="btn" id="hU24">Recall UAM 3.2 2024 ('+QS.filter(function(q){return q.src==="uam2024";}).length+')</button>'+
        '<button class="btn" id="hNew">Belum dikerjakan ('+(tot-done)+')</button>'+
      '</div>'+
      (ST.hist.length?'<div style="margin-top:14px"><div class="small muted" style="font-weight:700;margin-bottom:4px">Riwayat simulasi</div>'+ST.hist.slice(-5).reverse().map(function(r){return '<div class="small" style="display:flex;justify-content:space-between;border-bottom:1px solid var(--line);padding:3px 0"><span>'+esc(r.date)+' · '+r.n+' soal</span><b>'+r.pct+'%</b></div>';}).join('')+'</div>':'')+
@@ -289,7 +288,6 @@ function home(){
   $("exGo").onclick=startExam;
   $("hWrong").onclick=function(){startPractice(wrongIds.map(function(i){return QBY[i];}),"Ulangi semua soal salah",true);};
   $("hFlag").onclick=function(){startPractice(QS.filter(function(q){return ST.flags[q.id];}),"Soal ditandai",false);};
-  $("hU24").onclick=function(){startPractice(QS.filter(function(q){return q.src==="uam2024";}),"Recall UAM 3.2 tahun 2024",true);};
   $("hNew").onclick=function(){startPractice(shuffle(QS.filter(function(q){return !stat(q.id);})).slice(0,30),"30 soal belum dikerjakan (acak)",false);};
   $("app").onclick=function(e){
     var b=e.target.closest("button"); if(!b) return;
@@ -328,7 +326,7 @@ function startExam(){
   var list=[]; ids.forEach(function(id){list=list.concat(pool[id].slice(0,alloc[id]));});
   shuffle(list);
   var per=parseInt($("exT").value,10);
-  S={mode:"exam",title:"Simulasi ujian Blok 3.2",items:makeItems(list,true),cur:0,done:false,t0:Date.now(),limit:per?per*list.length:0};
+  S={mode:"exam",title:"__EXAMTITLE__",items:makeItems(list,true),cur:0,done:false,t0:Date.now(),limit:per?per*list.length:0};
   quiz(); window.scrollTo(0,0);
   if(S.limit) startTimer();
 }

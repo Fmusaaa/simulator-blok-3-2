@@ -69,12 +69,6 @@ for x in N:
     add(x['c'],x['sub'],dict(s=x['s'],o=x['o'],a=0,p=x['p'],k=x['k'],t=x['t'],n=x['n']),tag='baru',src='baru')
 
 
-# Recall UAM 3.2 tahun 2024 (file "Soal uam 3.2 aldosteron 2024")
-U=[]
-exec(open('src/recall_uam_2024.py').read())
-for x in U:
-    add(x['c'],'Recall UAM 3.2 (2024)',dict(s=x['s'],o=x['o'],a=0,p=x['p'],k=x['k'],t=x['t'],n=x['n']),tag=x['tag'],src='uam2024')
-
 # dedupe by normalized stem
 def norm(s): return re.sub(r'\W+','',re.sub('<[^>]+>','',s).lower())[:160]
 seen={};out=[];dup=0

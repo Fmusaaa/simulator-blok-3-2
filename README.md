@@ -2,7 +2,7 @@
 
 Simulator ujian blok berbasis HTML (satu file, tanpa backend) untuk Modul 3.2 Kelas B.
 
-**757 soal** dikelompokkan per judul asli PPT dosen (20 PPT) + 1 kelompok recall UAM 3.2 yang topiknya di luar PPT tersebut.
+**687 soal** dikelompokkan per judul asli PPT dosen (20 PPT) + 1 kelompok recall UAM 3.2 yang topiknya di luar PPT tersebut.
 
 ## Fitur
 - **Latihan per PPT** – jawaban langsung dinilai, pembahasan muncul.
@@ -10,7 +10,11 @@ Simulator ujian blok berbasis HTML (satu file, tanpa backend) untuk Modul 3.2 Ke
 - **Hasil** – skor, analisis per PPT & per topik, daftar soal salah/kosong, rekomendasi materi, ulangi soal salah.
 - **Pembahasan** – kunci, alasan, pembahasan tiap opsi A–E (fungsi/fakta + kenapa benar/salah), poin penting, tips, dan catatan bila slide berbeda dengan referensi.
 - Progres disimpan di `localStorage` browser. Tema terang/gelap. Shortcut: `A`–`E`, `←`/`→`, `F`.
-- Label soal: **SOAL ASLI** (recall UAM 3.2 tahun 2024 & 2025), **SOAL DIREKONSTRUKSI** (recall 2024 yang opsinya dilengkapi), **PREDIKSI**, **SOAL BARU**.
+- Label soal: **SOAL ASLI** (recall UAM 3.2), **PREDIKSI**, **SOAL BARU**.
+
+## Simulator terpisah: Recall UAM 3.2 tahun 2024
+`recall-uam-2024/index.html` – 70 soal (32 asli, 38 direkonstruksi) dari file "Soal uam 3.2 aldosteron 2024", dikelompokkan per PPT. Kunci dicek ke slide dosen; 8 kunci recall dikoreksi. Tidak digabung ke bank utama.
+GitHub Pages: `/recall-uam-2024/`.
 
 ## Cara pakai
 Buka `index.html` di browser, atau lewat GitHub Pages.
@@ -24,7 +28,8 @@ src/build_bank.py     # gabung bank lama + soal baru -> data/bank.json
 src/new1.py, new2.py  # soal baru (Aspek Lab DM, KFR, Respon Imun Non Infeksi, Hemodinamik, Tumor Marker 2026)
 src/old_banks.json    # bank soal dari kuis-kuis sebelumnya
 src/recall_uam_2024.py # recall UAM 3.2 tahun 2024
-build.py              # data/bank.json + template -> index.html
+build.py              # template + data -> index.html dan recall-uam-2024/index.html
+data/recall_uam_2024.json # bank soal recall 2024
 ```
 
 Bangun ulang setelah mengedit soal:
