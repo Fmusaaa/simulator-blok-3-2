@@ -203,6 +203,7 @@ QS.forEach(function(q){QBY[q.id]=q;});
 PPTS.forEach(function(p){PBY[p.id]=p;});
 var LET="ABCDEFGH";
 var KEY="__KEY__";
+var SHOWALL=__SHOWALL__;
 var $=function(id){return document.getElementById(id);};
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
 
@@ -256,6 +257,7 @@ function home(){
      '<p class="muted" style="margin:6px 0 0">'+tot+' __INTRO__ Tiap soal ada kunci, pembahasan semua opsi, poin penting, dan catatan bila slide berbeda dengan referensi.</p>'+
      '<div class="stats"><div class="stat"><b>'+done+'</b><span>soal pernah dijawab</span></div><div class="stat"><b>'+(done?Math.round(ok/done*100):0)+'%</b><span>akurasi terakhir</span></div><div class="stat"><b>'+wrongIds.length+'</b><span>masih salah</span></div></div>'+
      '<div class="row" style="margin-top:12px">'+
+       (SHOWALL?'<button class="btn pri" id="hAll">Latihan semua soal ('+tot+')</button><button class="btn" id="hAllR">Semua soal diacak</button>':'')+
        '<button class="btn" id="hWrong" '+(wrongIds.length?'':'disabled')+'>Ulangi soal salah ('+wrongIds.length+')</button>'+
        '<button class="btn" id="hFlag" '+(flagged?'':'disabled')+'>Soal ditandai ('+flagged+')</button>'+
        '<button class="btn" id="hNew">Belum dikerjakan ('+(tot-done)+')</button>'+
@@ -286,6 +288,10 @@ function home(){
   $("exAll").onclick=function(){PPTS.forEach(function(p){examSel[p.id]=true;}); home();};
   $("exNone").onclick=function(){PPTS.forEach(function(p){examSel[p.id]=false;}); home();};
   $("exGo").onclick=startExam;
+  if(SHOWALL){
+    $("hAll").onclick=function(){startPractice(QS.slice().sort(function(x,y){return (x.ord||0)-(y.ord||0)||x.id-y.id;}),"Latihan semua soal (urut nomor recall)",true);};
+    $("hAllR").onclick=function(){startPractice(shuffle(QS.slice()),"Latihan semua soal (acak)",true);};
+  }
   $("hWrong").onclick=function(){startPractice(wrongIds.map(function(i){return QBY[i];}),"Ulangi semua soal salah",true);};
   $("hFlag").onclick=function(){startPractice(QS.filter(function(q){return ST.flags[q.id];}),"Soal ditandai",false);};
   $("hNew").onclick=function(){startPractice(shuffle(QS.filter(function(q){return !stat(q.id);})).slice(0,30),"30 soal belum dikerjakan (acak)",false);};
