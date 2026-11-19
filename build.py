@@ -6,10 +6,10 @@ import json,os,re,sys
 sys.path.insert(0,'src')
 from clean_opts import clean_bank
 T=open('src/template.html').read()
-def render(bank,out,title,logo,h1,intro,examtitle,key,showall=False):
+def render(bank,out,title,logo,h1,intro,examtitle,key,showall=False,tpl=None):
     bank,n=clean_bank(bank); print(out,'opsi dibersihkan di',n,'soal')
     s=json.dumps(bank,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')
-    h=T
+    h=tpl or T
     for a,b in [('__TITLE__',title),('__LOGO__',logo),('__H1__',h1),('__INTRO__',intro),('__EXAMTITLE__',examtitle),('__KEY__',key),('__SHOWALL__','true' if showall else 'false'),('__BANK__',s)]:
         h=h.replace(a,b)
     os.makedirs(os.path.dirname(out) or '.',exist_ok=True)
@@ -36,3 +36,15 @@ na=sum(q['tag']=='asli' for q in qs)
 render(dict(ppts=lain,qs=qs),'recall-uam-2024/index.html','Recall UAM 3.2 2024','Recall <span>UAM 3.2 · 2024</span>','Recall UAM 3.2 tahun 2024',
        'soal recall UAM 3.2 tahun 2024 ('+str(na)+' asli, '+str(len(qs)-na)+' direkonstruksi), dikelompokkan per PPT. Kunci dicek ke slide dosen; 8 kunci recall dikoreksi.',
        'Simulasi recall UAM 3.2 2024','sim-recall-uam32-2024-v1',showall=True)
+
+# ---- simulator per angkatan (Articulatio vs Calcaneus), terpisah ----
+import html as _html, subprocess
+subprocess.run([sys.executable,'src/angkatan/make_template.py'],check=True)
+subprocess.run([sys.executable,'src/angkatan/build_angkatan.py'],check=True)
+A=json.load(open('data/angkatan.json'))
+E=lambda t:_html.escape(t,quote=False)
+for q in A['qs']:
+    q['s']=E(q['s']); q['p']=E(q['p']); q['n']=E(q['n']); q['o']=[[E(o[0]),E(o[1]),E(o[2])] for o in q['o']]
+render(A,'angkatan/index.html','Bank Soal Angkatan 3.2','Soal <span>Angkatan · 3.2</span>','Bank soal angkatan Blok 3.2',
+ 'soal UAM & UAS 3.2 dari dua angkatan: Articulatio dan Calcaneus. Pilih angkatan atau set soal, lalu kerjakan dengan kunci angkatan atau kunci terverifikasi.',
+ 'Simulasi Ujian 3.2 (soal angkatan)','sim-angkatan32-v1',showall=True,tpl=open('src/angkatan/template_angkatan.html').read())

@@ -16,6 +16,14 @@ Simulator ujian blok berbasis HTML (satu file, tanpa backend) untuk Modul 3.2 Ke
 `recall-uam-2024/index.html` – 70 soal (32 asli, 38 direkonstruksi) dari file "Soal uam 3.2 aldosteron 2024", dikelompokkan per PPT. Kunci dicek ke slide dosen; 8 kunci recall dikoreksi. Tidak digabung ke bank utama.
 GitHub Pages: `/recall-uam-2024/`.
 
+## Simulator terpisah: Soal angkatan (Articulatio vs Calcaneus)
+`angkatan/index.html` – 351 soal dari 4 file angkatan, tidak digabung ke bank utama:
+- Articulatio UAM 3.2 (99 soal; no. 62 duplikat no. 61) dan UAS 3.2 (100 soal) – kunci = stabilo di file angkatan.
+- Calcaneus UAM 3.2 (53 soal dari recall: asli + direkonstruksi) dan UAS 3.2 (99 soal; no. 99–106 kosong di file) – kunci = cetak tebal di file angkatan.
+- Tombol **Kunci angkatan / Kunci terverifikasi** untuk memilih kunci penilaian. 31 soal kuncinya beda; keduanya selalu ditampilkan di pembahasan beserta alasannya.
+- Sumber data: `src/angkatan/k_*.py` (kunci + pembahasan per nomor), `src/angkatan/build_angkatan.py` → `data/angkatan.json`.
+GitHub Pages: `/angkatan/`.
+
 ## Cara pakai
 Buka `index.html` di browser, atau lewat GitHub Pages.
 

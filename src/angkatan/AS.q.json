@@ -1,0 +1,3808 @@
+[
+{
+"n": 1,
+"stem": "Manakah keadaan berikut di bawah ini termasuk dalam obesitas sentral ?",
+"opts": [
+{
+"l": "a",
+"t": "Lingkar panggul 120 cm",
+"h": 0.0,
+"d": 0.17
+},
+{
+"l": "b",
+"t": "Lingkar pinggang pada pria 80 cm",
+"h": 0.0,
+"d": 0.175
+},
+{
+"l": "c",
+"t": "Lingkar pinggang pada wanita 90 cm",
+"h": 1.0,
+"d": 0.048
+},
+{
+"l": "d",
+"t": "Waist to hip ratio 0,7",
+"h": 0.0,
+"d": 0.165
+},
+{
+"l": "e",
+"t": "Waist to height ratio 0,45",
+"h": 0.0,
+"d": 0.158
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 2,
+"stem": "Saat ini obat kanker dikembangkan sebagai imunoterapi dengan cara menggunakan antibodi monoklonal. Manakah jenis obat yang masuk kategori antibodi monoklonal ?",
+"opts": [
+{
+"l": "a",
+"t": "Transtuzumab",
+"h": 1.0,
+"d": 0.107
+},
+{
+"l": "b",
+"t": "Rapalog",
+"h": 0.0,
+"d": 0.171
+},
+{
+"l": "c",
+"t": "Imatinib",
+"h": 0.0,
+"d": 0.069
+},
+{
+"l": "d",
+"t": "Metotrexat",
+"h": 0.0,
+"d": 0.199
+},
+{
+"l": "e",
+"t": "Doxorubisin",
+"h": 0.0,
+"d": 0.125
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 3,
+"stem": "Serangkaian upaya yang bersifat medik, sosial, edukasional, dan vokasional yang terkoordinasi untuk melatih atau melatih Kembali penyandang cacat untuk mencapai kemampuan semaksimal mungkin disebut dengan apa ?",
+"opts": [
+{
+"l": "a",
+"t": "Definisi rehabilitasi menurut WHO 1995",
+"h": 0.0,
+"d": 0.113
+},
+{
+"l": "b",
+"t": "Definisi rehabilitasi menurut WHO 1978",
+"h": 0.0,
+"d": 0.176
+},
+{
+"l": "c",
+"t": "Definisi rehabilitasi menurut WHO 1981",
+"h": 0.0,
+"d": 0.163
+},
+{
+"l": "d",
+"t": "Definisi rehabilitasi menurut WHO 1947",
+"h": 0.0,
+"d": 0.146
+},
+{
+"l": "e",
+"t": "Definisi rehabilitasi menurut WHO 1969",
+"h": 1.0,
+"d": 0.074
+}
+],
+"hlstem": false,
+"ref": "e"
+},
+{
+"n": 4,
+"stem": "Warga Desa X sedang melakukan kerja bakti dalam rangka pemberantasan sarang nyamuk. Dikarenakan bebrapa bulan ini ada kejadian Demam Berdarah di RT tersebut. Para petugas jumantik mendatangi setiap rumah – rumah untuk melihat apakah terdapat jentik nyamuk di bak mandi, tempat air dan sebagainya. Apa Upaya yang dilakukan oleh masyarakat di RT 2 Sukamakmur tersebut ?",
+"opts": [
+{
+"l": "a",
+"t": "Upaya promotive",
+"h": 0.0,
+"d": 0.069
+},
+{
+"l": "b",
+"t": "Upaya preventif",
+"h": 1.0,
+"d": 0.101
+},
+{
+"l": "c",
+"t": "Upaya kuratif",
+"h": 0.0,
+"d": 0.137
+},
+{
+"l": "d",
+"t": "Upaya rehabilitative",
+"h": 0.0,
+"d": 0.134
+},
+{
+"l": "e",
+"t": "Upaya Reduksi",
+"h": 1.0,
+"d": 0.107
+}
+],
+"hlstem": false,
+"ref": [
+"b",
+"e"
+]
+},
+{
+"n": 5,
+"stem": "Apa pemeriksaan lab yang digunakan untuk menegakkan nefropati DM secara dini ?",
+"opts": [
+{
+"l": "a",
+"t": "HbA1c",
+"h": 0.0,
+"d": 0.074
+},
+{
+"l": "b",
+"t": "Glukosa puasa",
+"h": 0.0,
+"d": 0.102
+},
+{
+"l": "c",
+"t": "C Peptida darah",
+"h": 0.0,
+"d": 0.144
+},
+{
+"l": "d",
+"t": "Mikroalbuminuri",
+"h": 1.0,
+"d": 0.107
+},
+{
+"l": "e",
+"t": "Kreatinin",
+"h": 0.0,
+"d": 0.057
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 6,
+"stem": "Hemophilia B merupakan kelainan koagulasi yang disebabkan kekurangan faktor apa ?",
+"opts": [
+{
+"l": "a",
+"t": "Von willebrand",
+"h": 0.0,
+"d": 0.14
+},
+{
+"l": "b",
+"t": "Tissue factor",
+"h": 0.0,
+"d": 0.131
+},
+{
+"l": "c",
+"t": "Faktor VII",
+"h": 0.0,
+"d": 0.171
+},
+{
+"l": "d",
+"t": "Faktor VIII",
+"h": 0.0,
+"d": 0.205
+},
+{
+"l": "e",
+"t": "Faktor IX",
+"h": 1.0,
+"d": 0.151
+}
+],
+"hlstem": false,
+"ref": "e"
+},
+{
+"n": 7,
+"stem": "Seorang laki-laki berusia 51 tahun datang dengan ke poliklinik penykit dalam dengan keluhan nyeri leher sejak 3 hari yang lalu. Pasien juga mengeluhka sering lapar dan haus sejak 1 bulan yang lalu .TD 150/92,nadi 88x/menit , RR 20x/menit,suhu afebris. Hasil pemeriksaan laboratorium didapatkan GDS359 mg/dL, GDP 160mg/dL, Kolestrol total 189mg/dl, LDL 180mg/dL ,TGS 178mg/dl. Apakah diagnosis tepat pada pasien tersebut. Apa yang merupakan karakteristik sindrom metabolik pada pasien diatas ?",
+"opts": [
+{
+"l": "a",
+"t": "Hipotensi, Hipoglikemia, HDL yang rendah, dan Trigliserida yang tinggi.",
+"h": 0.0,
+"d": 0.118
+},
+{
+"l": "b",
+"t": "Hipertensi, Hiperglikemia, HDL yang rendah, dan Trigliserida yang tinggi.",
+"h": 1.0,
+"d": 0.054
+},
+{
+"l": "c",
+"t": "Hipertensi, Hiperglikemia, HDL yang tinggi, dan Trigliserida yang tinggi.",
+"h": 0.0,
+"d": 0.176
+},
+{
+"l": "d",
+"t": "Hipotensi, Hipoglikemia, HDL yang tinggi, dan Trigliserida yang rendah.",
+"h": 0.0,
+"d": 0.206
+},
+{
+"l": "e",
+"t": "Hipertensi, Hiperglikemia, HDL yang rendah, dan Trigliserida yang rendah .",
+"h": 0.0,
+"d": 0.108
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 8,
+"stem": "Bagaimana komposisi makanan yang dianjurkan pada penderita DM ?",
+"opts": [
+{
+"l": "a",
+"t": "Karbohidrat yang dianjurkan sebesar 35-55 persen dari total asupan energi total terutama karbohidrat yang berserat tinggi",
+"h": 0.0,
+"d": 0.173
+},
+{
+"l": "b",
+"t": "Karbohidrat yang dianjurkan sebesar 45-65 persen dari total asupan energi total terutama karbohidrat yang berserat tinggi",
+"h": 1.0,
+"d": 0.096
+},
+{
+"l": "c",
+"t": "Asupan lemak dianjurkan sekitar 25-30 persen dari kebutuhan energi total",
+"h": 0.0,
+"d": 0.096
+},
+{
+"l": "d",
+"t": "Kebutuhan protein sebesar kurang dari 10 persen dari kebutuhan energi total",
+"h": 0.0,
+"d": 0.181
+},
+{
+"l": "e",
+"t": "Anjuran konsumsi serat adalah 10-15 gram per hari",
+"h": 0.0,
+"d": 0.134
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 9,
+"stem": "Seorang pria 58 tahun datang mengeluh dalam 2 minggu ini sering gusi terasa bengkak dan nyeri. Os mempunyai riwayat DM 10 tahun tapi tak pernah kontrol dokter. Os membawa hasil cek gula darah sewaktu285 mg/dL. Apa Hal yang perlu saudara lakukan untuk mengetahui prediksi komplikasi kronik adalah cek lab ?",
+"opts": [
+{
+"l": "a",
+"t": "A1c",
+"h": 1.0,
+"d": 0.013
+},
+{
+"l": "b",
+"t": "Fruktosamin",
+"h": 0.0,
+"d": 0.151
+},
+{
+"l": "c",
+"t": "Gula darah post prandial",
+"h": 0.0,
+"d": 0.153
+},
+{
+"l": "d",
+"t": "C reactive protein",
+"h": 0.0,
+"d": 0.119
+},
+{
+"l": "e",
+"t": "Reduksi urin",
+"h": 0.0,
+"d": 0.131
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 10,
+"stem": "Apa hormon adrenal utama yang berperan penting dalam metabolisme glukosa",
+"opts": [
+{
+"l": "a",
+"t": "Kortisol",
+"h": 1.0,
+"d": 0.049
+},
+{
+"l": "b",
+"t": "Kortison",
+"h": 0.0,
+"d": 0.125
+},
+{
+"l": "c",
+"t": "Aldosteron",
+"h": 0.0,
+"d": 0.134
+},
+{
+"l": "d",
+"t": "Testosteron",
+"h": 0.0,
+"d": 0.136
+},
+{
+"l": "e",
+"t": "Estrogen",
+"h": 0.0,
+"d": 0.075
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 11,
+"stem": "Manakah yang merupakan jenis lemak yang bersifat paling invasive ke dalam lapisan dalam pembuluh darah ?",
+"opts": [
+{
+"l": "a",
+"t": "Small dense LDL",
+"h": 1.0,
+"d": 0.064
+},
+{
+"l": "b",
+"t": "Small dense HDL",
+"h": 0.0,
+"d": 0.167
+},
+{
+"l": "c",
+"t": "HDL",
+"h": 0.0,
+"d": 0.182
+},
+{
+"l": "d",
+"t": "IDL",
+"h": 0.0,
+"d": 0.203
+},
+{
+"l": "e",
+"t": "LDL",
+"h": 0.0,
+"d": 0.145
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 12,
+"stem": "Pada pemeriksaan x foto, obyek dengan densitas tinggi maka sinar x yang mengenai obyek akan mengalami apa?",
+"opts": [
+{
+"l": "a",
+"t": "Diserap",
+"h": 1.0,
+"d": 0.104
+},
+{
+"l": "b",
+"t": "Diteruskan",
+"h": 0.0,
+"d": 0.158
+},
+{
+"l": "c",
+"t": "Sebagian diserap",
+"h": 0.0,
+"d": 0.072
+},
+{
+"l": "d",
+"t": "Sebagian diteruskan",
+"h": 0.0,
+"d": 0.197
+},
+{
+"l": "e",
+"t": "Berbelok",
+"h": 0.0,
+"d": 0.129
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 13,
+"stem": "Seorang pria usia 65 tahun dengan keluhan kencing terus. Hasil pemeriksaan Glukosa darah sewaktu 225 mg per dl, reduksi urin positif 1, protein urin positif 2. kreatinin 2,7 mg per dl (nilai rujukan 0,6-1,3 mg per dl). Apa diagnosis pasien ini ?",
+"opts": [
+{
+"l": "a",
+"t": "DM tipe 1",
+"h": 0.0,
+"d": 0.159
+},
+{
+"l": "b",
+"t": "DM tipe 2",
+"h": 0.0,
+"d": 0.11
+},
+{
+"l": "c",
+"t": "DM tipe lain",
+"h": 0.0,
+"d": 0.161
+},
+{
+"l": "d",
+"t": "Diagnosis belum bisa ditegakkan",
+"h": 0.0,
+"d": 0.203
+},
+{
+"l": "e",
+"t": "DM dengan CKD",
+"h": 1.0,
+"d": 0.086
+}
+],
+"hlstem": false,
+"ref": "e"
+},
+{
+"n": 14,
+"stem": "Pemeriksaan laboratorium pada infeksi akut dapat ditemukan temuan berikut ini, manakah yang tidak termasuk ?",
+"opts": [
+{
+"l": "a",
+"t": "Leukositosis",
+"h": 0.0,
+"d": 0.065
+},
+{
+"l": "b",
+"t": "Peningkatan Ig M",
+"h": 0.0,
+"d": 0.221
+},
+{
+"l": "c",
+"t": "Neutrofilia",
+"h": 0.0,
+"d": 0.116
+},
+{
+"l": "d",
+"t": "Shift to the right",
+"h": 1.0,
+"d": 0.062
+},
+{
+"l": "e",
+"t": "Peningkatan CRP",
+"h": 0.0,
+"d": 0.103
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 15,
+"stem": "Berikut ini manakah yang merupakan bahaya potensial yang paling sering menyebabkan cedera di rumah sakit ?",
+"opts": [
+{
+"l": "a",
+"t": "menyarankan pasien untuk minum obat secara teratur tanpa",
+"h": 0.0,
+"d": 0.098
+},
+{
+"l": "b",
+"t": "Peledakan (ketel uap)",
+"h": 0.0,
+"d": 0.151
+},
+{
+"l": "c",
+"t": "Kebakaran (bahan-bahan kimia yang mudah terbakar)",
+"h": 0.0,
+"d": 0.153
+},
+{
+"l": "d",
+"t": "Efek somatik dan efek genetik (bahan-bahan radioaktif)",
+"h": 1.0,
+"d": 0.067
+},
+{
+"l": "e",
+"t": "Tertusuk jarum suntik (bahaya tertular virus Hepatitis, HIV)",
+"h": 0.0,
+"d": 0.162
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 16,
+"stem": "Manakah pendapat yang benar untuk petanda tumor di bawah ini ?",
+"opts": [
+{
+"l": "a",
+"t": "Tumor specific antigen banyak terdeteksi pada keganasan",
+"h": 1.0,
+"d": 0.054
+},
+{
+"l": "b",
+"t": "Tumor associated antigen tidak spesifik untuk keganasan tertentu",
+"h": 0.0,
+"d": 0.174
+},
+{
+"l": "c",
+"t": "Antigen tumor bukan termasuk petanda tumor",
+"h": 0.0,
+"d": 0.166
+},
+{
+"l": "d",
+"t": "Petanda tumor ekstrasel penting untuk menyokong diagnosis",
+"h": 0.0,
+"d": 0.13
+},
+{
+"l": "e",
+"t": "Petanda tumor molekuler genetik dipakai untuk pemantauan",
+"h": 0.0,
+"d": 0.126
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 17,
+"stem": "Hormon FT4 diproduksi dimana ?",
+"opts": [
+{
+"l": "a",
+"t": "Hipotalamus",
+"h": 0.0,
+"d": 0.088
+},
+{
+"l": "b",
+"t": "Hipofisis Anterior",
+"h": 0.0,
+"d": 0.109
+},
+{
+"l": "c",
+"t": "Hipofidid posterior",
+"h": 0.0,
+"d": 0.148
+},
+{
+"l": "d",
+"t": "Kelenjar Tiroid",
+"h": 0.67,
+"d": 0.151
+},
+{
+"l": "e",
+"t": "Supra ren",
+"h": 0.0,
+"d": 0.112
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 18,
+"stem": "Rasa hari Senin atau sesak napas dan rasa berat pada hari pertama masuk kerja merupakan gejala khas pada penyakit akibat kerja apa ?",
+"opts": [
+{
+"l": "a",
+"t": "Asbestosis",
+"h": 0.0,
+"d": 0.06
+},
+{
+"l": "b",
+"t": "Silikosis",
+"h": 0.0,
+"d": 0.147
+},
+{
+"l": "c",
+"t": "Anthrakosilikosis",
+"h": 0.0,
+"d": 0.128
+},
+{
+"l": "d",
+"t": "Bisinosis",
+"h": 1.0,
+"d": 0.123
+},
+{
+"l": "e",
+"t": "Brucellosis",
+"h": 0.0,
+"d": 0.116
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 19,
+"stem": "Seorang anak usia 7 tahun datang ke UGD dengan keluhan demam 3 hari, dari pemeriksaan fisik didapatkan keadaan compos mentis, dengan tekanan darah 100 per 80mmHg, nadi 110x per menit, dan laju pernafasan 25x per menit. Didapatkan pula tanda bintik perdarahan (positif). Pemeriksaan koagulasi apa yang dapat dilakukan segera untuk menegakkan diagnosis .?",
+"opts": [
+{
+"l": "a",
+"t": "Rumple leed",
+"h": 1.0,
+"d": 0.031
+},
+{
+"l": "b",
+"t": "Konsistensi bekuan",
+"h": 0.0,
+"d": 0.169
+},
+{
+"l": "c",
+"t": "Waktu pembekuan",
+"h": 0.0,
+"d": 0.147
+},
+{
+"l": "d",
+"t": "Retraksi bekuan",
+"h": 0.0,
+"d": 0.147
+},
+{
+"l": "e",
+"t": "D dimer",
+"h": 0.0,
+"d": 0.183
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 20,
+"stem": "Manakah dibawah ini yang termasuk obat hipoglikemik oral yang cara kerjanya meningkatkan efek incretin saluran cerna?",
+"opts": [
+{
+"l": "a",
+"t": "Liraglutide",
+"h": 1.0,
+"d": 0.079
+},
+{
+"l": "b",
+"t": "Miglitol",
+"h": 0.0,
+"d": 0.155
+},
+{
+"l": "c",
+"t": "Metformin",
+"h": 0.0,
+"d": 0.075
+},
+{
+"l": "d",
+"t": "Acarbose",
+"h": 0.0,
+"d": 0.138
+},
+{
+"l": "e",
+"t": "Gliburide",
+"h": 0.0,
+"d": 0.114
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 21,
+"stem": "Laki-laki 45 tahun datang ke IGD RSWN dengan keluhan badan lemah. Pada anamnesa didapatkan bahwa pasien juga mengalami penurunan berat badan, anoreksia sampai mual, muntah, diare dan nyeri pada seluruh tubuh. Pada pemeriksaan fisik ditemukan hiperpigmentasi pada kulit. Apakah kemungkinan diagnosis pasien tersebut?",
+"opts": [
+{
+"l": "a",
+"t": "Hiperkolestrol",
+"h": 0.0,
+"d": 0.072
+},
+{
+"l": "b",
+"t": "Hipertiroidisme",
+"h": 0.0,
+"d": 0.153
+},
+{
+"l": "c",
+"t": "Hipotiroidisme",
+"h": 0.0,
+"d": 0.127
+},
+{
+"l": "d",
+"t": "Addisons disease",
+"h": 1.0,
+"d": 0.086
+},
+{
+"l": "e",
+"t": "Cushing syndrome",
+"h": 0.0,
+"d": 0.144
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 22,
+"stem": "Apa Sifat Biologik Tumor Jinak ?",
+"opts": [
+{
+"l": "a",
+"t": "Tumbuh lambat, berkapsul",
+"h": 0.0,
+"d": 0.117
+},
+{
+"l": "b",
+"t": "Tidak infiltratif,",
+"h": 0.0,
+"d": 0.123
+},
+{
+"l": "c",
+"t": "Anak sebar (-),",
+"h": 0.0,
+"d": 0.125
+},
+{
+"l": "d",
+"t": "Kerusakan jaringan sekitar(-) , umumnya dapat disembuhkan",
+"h": 0.0,
+"d": 0.116
+},
+{
+"l": "e",
+"t": "Semua benar",
+"h": 1.0,
+"d": 0.035
+}
+],
+"hlstem": false,
+"ref": "e"
+},
+{
+"n": 23,
+"stem": "Bagaimana Gambaran radiologi metastase multiple myeloma pada costa ?",
+"opts": [
+{
+"l": "a",
+"t": "Multiple lesi litik",
+"h": 1.0,
+"d": 0.097
+},
+{
+"l": "b",
+"t": "Multiple lesi sklerotik",
+"h": 0.0,
+"d": 0.175
+},
+{
+"l": "c",
+"t": "Multiple lesi litik dan sklerotik",
+"h": 0.0,
+"d": 0.175
+},
+{
+"l": "d",
+"t": "Peningkatan densitas tulang disertai reaksi periosteal",
+"h": 0.0,
+"d": 0.185
+},
+{
+"l": "e",
+"t": "Gambaran osteoporotic",
+"h": 0.0,
+"d": 0.124
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 24,
+"stem": "Seorang wanita umur 37 tahun, mengeluh dalam 1 bulan ini sering merasa lemes dan mengantuk sesudah makan. Keluhan sering lapar disangkal, sering buang air besar disangkal, sering merasa haus disangkal. Keluhan berdebar disangkal, sesak disangkal, berat badan stabil. Riwayat sakit sakit lain disangkal. Riwayat keluarga ibu pasien mengidap diabetes melitus sejak umur 50 tahun. OS berprofesi sebagai karyawati swasta, jarang berolah raga. Hasil pemeriksaan klinis didapatkan Tekanan darah 140/90 mmHg, berat badan 80 kg, tinggi badan 155 cm. OS membawa hasil gula darah sewaktu 220. Cholesterol 213 mg/dL, trigliserida 250 mg/dL, HDL 55 mg/dL, LDL 240 mg/dL. Apa Terapi inisiasi yang tidak diperlukan pada situasi di atas ?",
+"opts": [
+{
+"l": "a",
+"t": "Edukasi",
+"h": 0.0,
+"d": 0.155
+},
+{
+"l": "b",
+"t": "Pengaturan diit",
+"h": 0.0,
+"d": 0.128
+},
+{
+"l": "c",
+"t": "Obat penurun lipid",
+"h": 0.0,
+"d": 0.12
+},
+{
+"l": "d",
+"t": "Obat hipoglikemik oral",
+"h": 1.0,
+"d": 0.098
+},
+{
+"l": "e",
+"t": "Olah raga",
+"h": 0.0,
+"d": 0.075
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 25,
+"stem": "Manakah petanda tumor yang diproduksi organ tertentu ?",
+"opts": [
+{
+"l": "a",
+"t": "Carcinoma embryonic antigen",
+"h": 0.0,
+"d": 0.138
+},
+{
+"l": "b",
+"t": "Cluster of differentiation 8 (CD 8)",
+"h": 0.0,
+"d": 0.13
+},
+{
+"l": "c",
+"t": "CA 125",
+"h": 0.0,
+"d": 0.109
+},
+{
+"l": "d",
+"t": "Prostate specific antigen",
+"h": 1.0,
+"d": 0.101
+},
+{
+"l": "e",
+"t": "Mutant p 53",
+"h": 0.0,
+"d": 0.098
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 26,
+"stem": "Apa perubahan sel leukosit yang sering ditemukan pada kasus alergi ?",
+"opts": [
+{
+"l": "a",
+"t": "Basofilia",
+"h": 1.0,
+"d": 0.087
+},
+{
+"l": "b",
+"t": "Neutrofilia",
+"h": 0.0,
+"d": 0.14
+},
+{
+"l": "c",
+"t": "Limfositosis",
+"h": 0.0,
+"d": 0.056
+},
+{
+"l": "d",
+"t": "Eosinofilia",
+"h": 0.0,
+"d": 0.199
+},
+{
+"l": "e",
+"t": "Monositosis",
+"h": 0.0,
+"d": 0.121
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 27,
+"stem": "Seorang wanita muda 34 tahun mengeluh sering berdebar, ngos ngosan bila berjalan naik tangga dalam 2 minggu ini. Pasien juga mengeluh berat badan turun 5kg dalam 4 bulan. Dalam membantu penegakan diagnosis, Apa yang terpenting dalam kasus tersebut ?",
+"opts": [
+{
+"l": "a",
+"t": "Free T4",
+"h": 0.0,
+"d": 0.082
+},
+{
+"l": "b",
+"t": "A1C",
+"h": 0.0,
+"d": 0.125
+},
+{
+"l": "c",
+"t": "TsHS",
+"h": 1.0,
+"d": 0.089
+},
+{
+"l": "d",
+"t": "Echocardiography",
+"h": 0.0,
+"d": 0.165
+},
+{
+"l": "e",
+"t": "USG Abdomen",
+"h": 0.0,
+"d": 0.087
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 28,
+"stem": "Apa saja yang harus dihindari pada pasien dengan nilai asam urat yang tinggi ?",
+"opts": [
+{
+"l": "a",
+"t": "Bayam, emping, nangka, jeroan, otak, lemak",
+"h": 0.86,
+"d": 0.062
+},
+{
+"l": "b",
+"t": "Jeroan, kangkung, hati ayam, nanas,jeruk",
+"h": 0.0,
+"d": 0.111
+},
+{
+"l": "c",
+"t": "Buncis, susu, roti, telur, ayam",
+"h": 0.0,
+"d": 0.153
+},
+{
+"l": "d",
+"t": "Daging merah, manggis, kangkung, kacang",
+"h": 0.0,
+"d": 0.178
+},
+{
+"l": "e",
+"t": "Lemak, bayam, daging putih, ikan laut",
+"h": 0.0,
+"d": 0.169
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 29,
+"stem": "Penyakit autoimun organ salah satu contohnya adalah Autoimune hemolytic anemia (AHA). Apa yang dimaksud dengan AHA adalah ?",
+"opts": [
+{
+"l": "a",
+"t": "Autoantibodi anti tiroglobulin Sebagian besar eutiroid, tetapi dapat juga hipotiroid atau hipertiroid.",
+"h": 0.0,
+"d": 0.112
+},
+{
+"l": "b",
+"t": "Toxic goiter /exopthalmic goiter dijumpai Antibodi (Long acting Thyroid stimulator : LATS atau TSAb (Thyroid Stimulating AB) terhadap reseptor (TSH) pada permukaan tiroid.",
+"h": 0.0,
+"d": 0.145
+},
+{
+"l": "c",
+"t": "Keratokonjungtivitis sikka (mata kering ) , xerostomia (mulut kering) 40 persen bentuk primer 60 persen berhubungan dengan RA, SLE.",
+"h": 0.0,
+"d": 0.154
+},
+{
+"l": "d",
+"t": "Peradangan otot skelet diperantarai kelainan Imunologik.",
+"h": 0.0,
+"d": 0.132
+},
+{
+"l": "e",
+"t": "Adanya destruksi oleh antibodi terhadap antigen pada permukaan erythrosit (autoantibodi antierytrosit)",
+"h": 1.0,
+"d": 0.061
+}
+],
+"hlstem": false,
+"ref": "e"
+},
+{
+"n": 30,
+"stem": "Apa nama Posisi x Foto untuk melihat sinus paranasal ?",
+"opts": [
+{
+"l": "a",
+"t": "Waters",
+"h": 1.0,
+"d": 0.09
+},
+{
+"l": "b",
+"t": "Schuller",
+"h": 0.0,
+"d": 0.141
+},
+{
+"l": "c",
+"t": "Rheese",
+"h": 0.0,
+"d": 0.092
+},
+{
+"l": "d",
+"t": "Eisler",
+"h": 0.0,
+"d": 0.239
+},
+{
+"l": "e",
+"t": "Stenver",
+"h": 0.0,
+"d": 0.138
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 31,
+"stem": "Obat kortikosteroid merupakan bentuk sintesis dari hormone steroid yang dihasilkan oleh glandula Suprarenalis. Manakah bagian dari Glandula Suprarenalis yang menghasilkan hormon Mineralokortikoid?",
+"opts": [
+{
+"l": "a",
+"t": "Medulla",
+"h": 0.0,
+"d": 0.069
+},
+{
+"l": "b",
+"t": "Korteks Pars Glomerulosa",
+"h": 1.0,
+"d": 0.061
+},
+{
+"l": "c",
+"t": "Korteks Pars Fasciculata",
+"h": 0.0,
+"d": 0.172
+},
+{
+"l": "d",
+"t": "Korteks Pars Reticularis",
+"h": 0.0,
+"d": 0.21
+},
+{
+"l": "e",
+"t": "Korteks Renalis",
+"h": 0.0,
+"d": 0.084
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 32,
+"stem": "Berikut merupakan faktor humoral dalam respons imun non spesifik, Manakah yang tidak termasuk ?",
+"opts": [
+{
+"l": "a",
+"t": "CRP",
+"h": 0.0,
+"d": 0.034
+},
+{
+"l": "b",
+"t": "Komplemen",
+"h": 0.0,
+"d": 0.158
+},
+{
+"l": "c",
+"t": "Lisosim",
+"h": 0.0,
+"d": 0.118
+},
+{
+"l": "d",
+"t": "Limfosit B",
+"h": 1.0,
+"d": 0.137
+},
+{
+"l": "e",
+"t": "Laktoferin",
+"h": 0.0,
+"d": 0.128
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 33,
+"stem": "Manakah pernyataan yang salah mengenai Polimiositis atau dermatomiositis ?",
+"opts": [
+{
+"l": "a",
+"t": "Penyakit autoimun organ",
+"h": 0.0,
+"d": 0.087
+},
+{
+"l": "b",
+"t": "Polimiositis merupakan peradangan otot skelet diperantarai kelainan Imunologik.",
+"h": 0.0,
+"d": 0.115
+},
+{
+"l": "c",
+"t": "Klinik berupa kelemahan otot bilateral atau Simetrik.",
+"h": 0.0,
+"d": 0.172
+},
+{
+"l": "d",
+"t": "Oleh karena kerusakan serabut otot oleh sel T sitotoxic yang memasuki dan mengitari serabut otot.",
+"h": 0.0,
+"d": 0.118
+},
+{
+"l": "e",
+"t": "Penyakit autoimun sistemik",
+"h": 1.0,
+"d": 0.077
+}
+],
+"hlstem": false,
+"ref": "e"
+},
+{
+"n": 34,
+"stem": "Manakah Klasifikasi atas dasar sel atau jaringan (histogenesis) pada tumor ?",
+"opts": [
+{
+"l": "a",
+"t": "Tumor Sel Totipoten sel yang dapat berdiferensiasi kedalam tiap jenis sel tubuh.",
+"h": 0.0,
+"d": 0.158
+},
+{
+"l": "b",
+"t": "Tumor sel embrional pluripoten tumor yang dapat berdiferensiasi ke dalam berbagai jenis sel.",
+"h": 0.0,
+"d": 0.159
+},
+{
+"l": "c",
+"t": "Pada pluripoten sebagian tumor yang akan membentuk berbagai jenis struktur alat tubuh.",
+"h": 0.0,
+"d": 0.175
+},
+{
+"l": "d",
+"t": "Tumor sel yang berdiferensiasi jenis sel yang terdapat dalan bentuk sel alat-alat tubuh pada kehidupan postnatal.",
+"h": 0.0,
+"d": 0.163
+},
+{
+"l": "e",
+"t": "Semua benar",
+"h": 1.0,
+"d": 0.043
+}
+],
+"hlstem": false,
+"ref": "e"
+},
+{
+"n": 35,
+"stem": "Seorang perempuan berusia 52 tahun datang untuk kontrol penyakitnya ke poliklinik jantung dan pembuluh darah. 2 minggu yang lalu pasien baru saja mengalami serangan jantung dan di rawat di ICU selama 5 hari. Diketahui pasien memiliki riwayat kolestrol tinggi dan DM. Pada pemeriksaan fisik tanda vital TD 10/90 mmHg, HR 89x/menit , RR 23x/menit, suhu 37 C. Pada pemeriksaan darah, didaatkan kadar kolestrol 250 mg/dL ,LDL 170 mg/dL. Apa Tatalaksana dislipidemia yang tepat pada pasien tersebut ?",
+"opts": [
+{
+"l": "a",
+"t": "Atorvastatin 1x40 mg",
+"h": 0.0,
+"d": 0.078
+},
+{
+"l": "b",
+"t": "Rosuvastatin 1x5mg",
+"h": 0.0,
+"d": 0.156
+},
+{
+"l": "c",
+"t": "Simvastatin1x20mg",
+"h": 1.0,
+"d": 0.101
+},
+{
+"l": "d",
+"t": "Allopurinol 1x100mg",
+"h": 0.0,
+"d": 0.137
+},
+{
+"l": "e",
+"t": "Atorvastatin 1x20mg",
+"h": 0.0,
+"d": 0.127
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 36,
+"stem": "Laki-laki usia 53 tahun datang ke praktik dokter dengan keluhan gula darah tetap tinggi meskipun sudah menjalani pengaturan diet diabetes dan olahraga. Pasien sudah didiagnosis menderita DM sejak 1 tahun yang lalu. Pada pemeriksaan fisik didapatkan BB 100 kg, TB 163 cm. Pemeriksaan laboratorium ditemukan kadar glukosa darah sewaktu 290 mg per dL. Apakah penatalaksanaan selanjutnya yang paling tepat pada pasien ini?",
+"opts": [
+{
+"l": "a",
+"t": "Diet diabetes + glibenclamid 1x2,5 mg sebelum makan pagi",
+"h": 0.0,
+"d": 0.091
+},
+{
+"l": "b",
+"t": "Diet diabetes + metformin 3x500mg",
+"h": 0.0,
+"d": 0.143
+},
+{
+"l": "c",
+"t": "Diet diabetes + olahraga + glibenclamide 1x 2.5 mg sebelum makan pagi",
+"h": 0.0,
+"d": 0.143
+},
+{
+"l": "d",
+"t": "Diet diabetes + olahraga + injeksi insulin 3x6 unit SC setiap akan makan",
+"h": 0.0,
+"d": 0.119
+},
+{
+"l": "e",
+"t": "Diet diabetes + olahraga + metfomin 3x500mg",
+"h": 1.0,
+"d": 0.019
+}
+],
+"hlstem": false,
+"ref": "e"
+},
+{
+"n": 37,
+"stem": "Seorang laki-laki usia 67 tahun, datang dengan lemas, mual. Riwayat kadar glukosa darah tinggi dan terapi tidak rutin. Manakah yang merupakan keadaaan yang dapat menyebabkan keadaan asidosis metabolik karena pembentukan ion H berlebihan ?",
+"opts": [
+{
+"l": "a",
+"t": "DM Ketoasidosis",
+"h": 1.0,
+"d": 0.114
+},
+{
+"l": "b",
+"t": "Terapi aspirin",
+"h": 0.0,
+"d": 0.103
+},
+{
+"l": "c",
+"t": "Gangguan fungsi pankreas",
+"h": 0.0,
+"d": 0.154
+},
+{
+"l": "d",
+"t": "Hiperaldoseteronisme",
+"h": 0.0,
+"d": 0.208
+},
+{
+"l": "e",
+"t": "Glomerulonefritis kronik",
+"h": 0.0,
+"d": 0.09
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 38,
+"stem": "Manakah yang merupakan pernyataan yang benar mengenai kalsium dalam tubuh ?",
+"opts": [
+{
+"l": "a",
+"t": "Merupakan elektrolit intraseluler",
+"h": 0.0,
+"d": 0.153
+},
+{
+"l": "b",
+"t": "Merupakan elektrolit ekstraseluler",
+"h": 1.0,
+"d": 0.055
+},
+{
+"l": "c",
+"t": "Pengaturan dikendalikan aldosteron",
+"h": 0.0,
+"d": 0.102
+},
+{
+"l": "d",
+"t": "Penurunan pH tubuh",
+"h": 0.0,
+"d": 0.202
+},
+{
+"l": "e",
+"t": "Hipokalsemia menyebabkan ileus paralitik",
+"h": 0.0,
+"d": 0.153
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 39,
+"stem": "LES dibagi menjadi 2 kelompok besar yaitu Kelompok ringan dan kelompok berat. Manakah Yang bukan termasuk kelompok ringan ?",
+"opts": [
+{
+"l": "a",
+"t": "Panas",
+"h": 0.0,
+"d": 0.153
+},
+{
+"l": "b",
+"t": "Artritis",
+"h": 0.0,
+"d": 0.106
+},
+{
+"l": "c",
+"t": "Perikarditis berat",
+"h": 1.0,
+"d": 0.099
+},
+{
+"l": "d",
+"t": "Efusi pleura atau perikard ringan",
+"h": 0.0,
+"d": 0.193
+},
+{
+"l": "e",
+"t": "Kelelahan dan sakit kepala.",
+"h": 0.0,
+"d": 0.097
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 40,
+"stem": "Seorang laki-laki 40 tahun, penderita DM tipe 2 mengeluh pola makannya tidak teratur karena kesibukan pekerjaannya. Dokter memberikan obat hipoglikemik oral yang beraksi dengan menghambat pencernaan dan penyerapan karbohidrat di usus. Apakah nama obat tersebut yang dimaksud?",
+"opts": [
+{
+"l": "a",
+"t": "Glibenclamide",
+"h": 0.0,
+"d": 0.134
+},
+{
+"l": "b",
+"t": "Metformin",
+"h": 0.0,
+"d": 0.167
+},
+{
+"l": "c",
+"t": "Acarbose",
+"h": 1.0,
+"d": 0.033
+},
+{
+"l": "d",
+"t": "Exenatide",
+"h": 0.0,
+"d": 0.196
+},
+{
+"l": "e",
+"t": "Pioglitazone",
+"h": 0.0,
+"d": 0.134
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 41,
+"stem": "Sel kanker mempunyai kemampuan dalam mensupresi peran dari sel T sitotoksik sebagai antitumor. Cara yang dilakukan dengan memproduksi reseptor PD-1. Apa jenis obat yang bekerja menghambat PD-1 ?",
+"opts": [
+{
+"l": "a",
+"t": "Rituximab",
+"h": 0.0,
+"d": 0.076
+},
+{
+"l": "b",
+"t": "Transtuzumab",
+"h": 0.0,
+"d": 0.152
+},
+{
+"l": "c",
+"t": "Cyclosporin",
+"h": 0.0,
+"d": 0.125
+},
+{
+"l": "d",
+"t": "Imatinib",
+"h": 0.0,
+"d": 0.144
+},
+{
+"l": "e",
+"t": "Nivolumab",
+"h": 1.0,
+"d": 0.041
+}
+],
+"hlstem": false,
+"ref": "e"
+},
+{
+"n": 42,
+"stem": "Manakah Contoh cacat sekunder ?",
+"opts": [
+{
+"l": "a",
+"t": "Ulkus decubitus",
+"h": 0.0,
+"d": 0.162
+},
+{
+"l": "b",
+"t": "Kontraktur",
+"h": 0.0,
+"d": 0.134
+},
+{
+"l": "c",
+"t": "Atrofi otot",
+"h": 0.0,
+"d": 0.148
+},
+{
+"l": "d",
+"t": "Osteoporosis",
+"h": 0.0,
+"d": 0.183
+},
+{
+"l": "e",
+"t": "Semua benar",
+"h": 1.0,
+"d": 0.038
+}
+],
+"hlstem": false,
+"ref": "e"
+},
+{
+"n": 43,
+"stem": "Stroke Volume adalah volume darah yang dipompa oleh tiap Ventrikel perdenyut. Manakah Pernyataan yang tidak benar mengenai hal ini ?",
+"opts": [
+{
+"l": "a",
+"t": "Stroke volume ditentukan oleh preload, contractility dan afterload.",
+"h": 0.0,
+"d": 0.121
+},
+{
+"l": "b",
+"t": "Ejection fraction adalah volume darah didalam ATRIUM pada akhir diastolic ( end diastolic volume ) yang dipompa pada saat systolic ( 2 per 3 bagian ).",
+"h": 1.0,
+"d": 0.108
+},
+{
+"l": "c",
+"t": "Untuk meningkatkan cardiac output ada 2 cara yaitu Meningkatkan Heart Rate dan meningkatkan stroke volume.",
+"h": 0.0,
+"d": 0.117
+},
+{
+"l": "d",
+"t": "Frekuensi meningkat terjadi diastolic phase singkat adalah waktu pengisian Ventrikel singkat lalu stroke volume turun",
+"h": 0.0,
+"d": 0.184
+},
+{
+"l": "e",
+"t": "Frekuensi meningkat lalu kerja jantung meningkat lalu kebutuhan oksigen meningkat.",
+"h": 0.0,
+"d": 0.11
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 44,
+"stem": "Manakah yang merupakan profil lipid yang tidak diperiksa secara rutin ?",
+"opts": [
+{
+"l": "a",
+"t": "Trigliserida",
+"h": 0.0,
+"d": 0.157
+},
+{
+"l": "b",
+"t": "Kolesterol total",
+"h": 0.0,
+"d": 0.154
+},
+{
+"l": "c",
+"t": "Kolesterol LDL",
+"h": 0.0,
+"d": 0.164
+},
+{
+"l": "d",
+"t": "Kolesterol HDL",
+"h": 0.0,
+"d": 0.215
+},
+{
+"l": "e",
+"t": "Lipoprotein A",
+"h": 1.0,
+"d": 0.095
+}
+],
+"hlstem": false,
+"ref": "e"
+},
+{
+"n": 45,
+"stem": "Selain sifat yang dibutuhkan, sinar x juga mempunyai sifat yang dapat mengganggu kualitas fotografi yang dihasilaan, sifat itu disebut apa ?",
+"opts": [
+{
+"l": "a",
+"t": "Daya tembus tinggi",
+"h": 0.0,
+"d": 0.172
+},
+{
+"l": "b",
+"t": "Berpendar",
+"h": 0.0,
+"d": 0.115
+},
+{
+"l": "c",
+"t": "Sinar hambur",
+"h": 1.0,
+"d": 0.109
+},
+{
+"l": "d",
+"t": "Efek fotografik",
+"h": 0.0,
+"d": 0.193
+},
+{
+"l": "e",
+"t": "Penyerapan",
+"h": 0.0,
+"d": 0.048
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 46,
+"stem": "Keganasan hematologik dapat dicurigai bila didapatkan petanda apa ?",
+"opts": [
+{
+"l": "a",
+"t": "Kadar hemoglobin menurun",
+"h": 0.0,
+"d": 0.179
+},
+{
+"l": "b",
+"t": "Ekspresi CD 4 berlebih",
+"h": 0.0,
+"d": 0.183
+},
+{
+"l": "c",
+"t": "Ditemukan 1 sel blast pada sediaan apus darah tepi",
+"h": 1.0,
+"d": 0.047
+},
+{
+"l": "d",
+"t": "Abnormalitas onkogen",
+"h": 0.0,
+"d": 0.173
+},
+{
+"l": "e",
+"t": "Kadar ferritin serum meningkat",
+"h": 0.0,
+"d": 0.169
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 47,
+"stem": "Bagaimana Gambaran radiografi metastase ca prostat pada tulang costa ?",
+"opts": [
+{
+"l": "a",
+"t": "Osteoblastic",
+"h": 1.0,
+"d": 0.042
+},
+{
+"l": "b",
+"t": "Osteolitik",
+"h": 0.0,
+"d": 0.136
+},
+{
+"l": "c",
+"t": "Mixed",
+"h": 0.0,
+"d": 0.071
+},
+{
+"l": "d",
+"t": "Hiperdens",
+"h": 0.0,
+"d": 0.202
+},
+{
+"l": "e",
+"t": "Porotik",
+"h": 0.0,
+"d": 0.127
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 48,
+"stem": "Obat kortikosteroid merupakan bentuk sintesis dari hormone steroid yang dihasilkan oleh glandula Suprarenalis. Manakah bagian dari Glandula Suprarenalis yang menghasilkan hormon Androgen?",
+"opts": [
+{
+"l": "a",
+"t": "Medulla",
+"h": 0.0,
+"d": 0.142
+},
+{
+"l": "b",
+"t": "Korteks Pars Glomerulosa",
+"h": 0.0,
+"d": 0.119
+},
+{
+"l": "c",
+"t": "Korteks Pars Fasciculata",
+"h": 0.0,
+"d": 0.172
+},
+{
+"l": "d",
+"t": "Korteks Pars Reticularis",
+"h": 1.0,
+"d": 0.159
+},
+{
+"l": "e",
+"t": "Korteks Renalis",
+"h": 0.0,
+"d": 0.084
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 49,
+"stem": "Apakah yang dimaksud denga keadaan asidosis metabolik ?",
+"opts": [
+{
+"l": "a",
+"t": "Asidosis yang disebabkan kelebihan basa atau kelebihan asam yang bukan CO2",
+"h": 0.0,
+"d": 0.177
+},
+{
+"l": "b",
+"t": "Asidosis yang disebabkan kelebihan basa atau kekurangan asam yang bukan CO2",
+"h": 0.0,
+"d": 0.105
+},
+{
+"l": "c",
+"t": "Asidosis yang disebabkan kekurangan basa atau kelebihan asam yang bukan CO2",
+"h": 1.0,
+"d": 0.091
+},
+{
+"l": "d",
+"t": "Asidosis yang disebabkan kelebihan basa atau kekurangan asam yang bukan CO2",
+"h": 0.0,
+"d": 0.181
+},
+{
+"l": "e",
+"t": "Asidosis yang disebabkan kekurangan basa dan kekurangan asam yang bukan CO2",
+"h": 0.0,
+"d": 0.105
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 50,
+"stem": "Pada penderita stroke sering terjadi kesulitan dalam menelan (feeding), maka pada penderita tersebut diberikan lathan oleh siapa ?",
+"opts": [
+{
+"l": "a",
+"t": "Fisioterapis",
+"h": 0.0,
+"d": 0.084
+},
+{
+"l": "b",
+"t": "Psikolog",
+"h": 0.0,
+"d": 0.125
+},
+{
+"l": "c",
+"t": "Speech therapist",
+"h": 1.0,
+"d": 0.097
+},
+{
+"l": "d",
+"t": "Rohaniaan",
+"h": 0.0,
+"d": 0.219
+},
+{
+"l": "e",
+"t": "Semua benar",
+"h": 0.0,
+"d": 0.134
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 51,
+"stem": "Seorang laki laki usia 50 th mengeluh dalam beberapa bulan ini badannya lemah letih lesu loyo, kadang disertai rasa nyeri perut, dan ruas2 jari tangan dan bibir yang berwarna lebih gelap. Beberapa kemungkinan apa penyebab yang sering pada kasus tersebut ?",
+"opts": [
+{
+"l": "a",
+"t": "CAH",
+"h": 1.0,
+"d": 0.109
+},
+{
+"l": "b",
+"t": "Autoimun",
+"h": 0.0,
+"d": 0.115
+},
+{
+"l": "c",
+"t": "Chemical",
+"h": 0.0,
+"d": 0.116
+},
+{
+"l": "d",
+"t": "Infeksi Torch",
+"h": 0.0,
+"d": 0.165
+},
+{
+"l": "e",
+"t": "Keganasan",
+"h": 0.0,
+"d": 0.077
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 52,
+"stem": "Apa pemeriksaan untuk menilai fungsi trombosit ?",
+"opts": [
+{
+"l": "a",
+"t": "Pemeriksaan hitung trombosit",
+"h": 0.0,
+"d": 0.158
+},
+{
+"l": "b",
+"t": "Pemeriksaan agregasi trombosit",
+"h": 1.0,
+"d": 0.082
+},
+{
+"l": "c",
+"t": "Pemeriksaan von willebrand",
+"h": 0.0,
+"d": 0.085
+},
+{
+"l": "d",
+"t": "Pemriksaan mean platelet volume",
+"h": 0.0,
+"d": 0.185
+},
+{
+"l": "e",
+"t": "Pemeriksaan hitung jenis",
+"h": 0.0,
+"d": 0.155
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 53,
+"stem": "Penyakit yang menggunakan air sebagai media transmisinya dimana pada awalnya disebabkan oleh masuknya air yang terkontaminasi oleh ekskresi manusia ataupun hewan yang mengandung mikroorganisme pathogen adalah definisi dari apa ?",
+"opts": [
+{
+"l": "a",
+"t": "Water borne disease",
+"h": 1.0,
+"d": 0.045
+},
+{
+"l": "b",
+"t": "Water-washed disease",
+"h": 0.0,
+"d": 0.144
+},
+{
+"l": "c",
+"t": "Water-based disease",
+"h": 0.0,
+"d": 0.136
+},
+{
+"l": "d",
+"t": "Water-related insect vector disease",
+"h": 0.0,
+"d": 0.112
+},
+{
+"l": "e",
+"t": "Food borne disease",
+"h": 0.0,
+"d": 0.097
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 54,
+"stem": "Seorang laki-laki usia 50 tahun datang ke dokter datang dengan keluhan benjolan pada ibu jari kaki kiri. Benjolan muncul sejak 4 bulan yang lalu disertai dengan nyeri dan merah. Benjolan sudah diobati dan saat ini tidak didapatkan nyeri dan merah. Status lokalis didapatkan nodul pada MTP 1. Hasil lab didapatkan asam urat 10 mg/dl. Apa Diagnosa yang tepat ?",
+"opts": [
+{
+"l": "a",
+"t": "Artritis Gout",
+"h": 1.0,
+"d": 0.055
+},
+{
+"l": "b",
+"t": "Rhematoid Artritis",
+"h": 0.0,
+"d": 0.157
+},
+{
+"l": "c",
+"t": "SLE",
+"h": 0.0,
+"d": 0.156
+},
+{
+"l": "d",
+"t": "Artritis autoimun",
+"h": 0.0,
+"d": 0.133
+},
+{
+"l": "e",
+"t": "Osteoartritis",
+"h": 0.0,
+"d": 0.116
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 55,
+"stem": "Berapa kebutuhan protein berdasarkan AMD seorang pasien 50 tahun, BB 60, TB 160 ?",
+"opts": [
+{
+"l": "a",
+"t": "50 gr",
+"h": 0.0,
+"d": 0.094
+},
+{
+"l": "b",
+"t": "45 gr",
+"h": 0.0,
+"d": 0.126
+},
+{
+"l": "c",
+"t": "60 gr",
+"h": 1.0,
+"d": 0.082
+},
+{
+"l": "d",
+"t": "52 gr",
+"h": 0.0,
+"d": 0.119
+},
+{
+"l": "e",
+"t": "40 gr",
+"h": 0.0,
+"d": 0.108
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 56,
+"stem": "Seorang wanita usia 45 tahun datang ke dokter dengan keluhan benjolan di leher sejak 1 tahun terakhir. Pasien juga mengeluhkan berat badan bertambah dan mudah lelah. Pasien dan keluarga tinggal didaerah pegunungan dan sehari-hari sering konsumsi singkong. Dari pemeriksaan fisik didapatkan TD 120/80, HR 110x/menit, RR 20x/menit, Tax 37°C dan didapatkan nodul diffuse pada leher. Apa tatalaksana yang tepat untuk pasien tersebut ?",
+"opts": [
+{
+"l": "a",
+"t": "Thionamid",
+"h": 0.0,
+"d": 0.164
+},
+{
+"l": "b",
+"t": "Propanolol",
+"h": 0.0,
+"d": 0.094
+},
+{
+"l": "c",
+"t": "Hormon replacement therapy",
+"h": 1.0,
+"d": 0.087
+},
+{
+"l": "d",
+"t": "Dexamethason",
+"h": 0.0,
+"d": 0.21
+},
+{
+"l": "e",
+"t": "Iodine radioisotope",
+"h": 0.0,
+"d": 0.079
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 57,
+"stem": "Menggunakan earplug pada saat bekerja di tempat bising merupakan salah satu hirarki pengendalian risiko gangguan kesehatan, Apa contohnya ?",
+"opts": [
+{
+"l": "a",
+"t": "Penggunaan APD",
+"h": 1.0,
+"d": 0.074
+},
+{
+"l": "b",
+"t": "Subtitusi",
+"h": 0.0,
+"d": 0.119
+},
+{
+"l": "c",
+"t": "Eliminasi",
+"h": 0.0,
+"d": 0.122
+},
+{
+"l": "d",
+"t": "Separasi",
+"h": 0.0,
+"d": 0.192
+},
+{
+"l": "e",
+"t": "Pengendalian administrative",
+"h": 0.0,
+"d": 0.085
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 58,
+"stem": "Dalam kemoterapi pasien akan dilakukan pengobatan secara bertahap. Pada kemoterapi pemberian obat dibagi menjadi berapa tahapan ?",
+"opts": [
+{
+"l": "a",
+"t": "2 tahap",
+"h": 0.0,
+"d": 0.08
+},
+{
+"l": "b",
+"t": "3 tahap",
+"h": 1.0,
+"d": 0.101
+},
+{
+"l": "c",
+"t": "4 tahap",
+"h": 0.0,
+"d": 0.17
+},
+{
+"l": "d",
+"t": "5 tahap",
+"h": 0.0,
+"d": 0.149
+},
+{
+"l": "e",
+"t": "6 tahap",
+"h": 0.0,
+"d": 0.156
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 59,
+"stem": "Pasien datang dengan keluhan mulai batuk-batuk sejak 1 bulan terakhir, pasien mempunyai Riwayat ca prostat, gambaran, setelah dilakukan x foto toraks ditemukan lesi milier multiple pada kedua lapangan paru, maka bagaimana penyebaran sel tumor ?",
+"opts": [
+{
+"l": "a",
+"t": "Endobronchial spread",
+"h": 0.0,
+"d": 0.149
+},
+{
+"l": "b",
+"t": "Pleural space",
+"h": 1.0,
+"d": 0.082
+},
+{
+"l": "c",
+"t": "Lymphangitic spread",
+"h": 0.0,
+"d": 0.081
+},
+{
+"l": "d",
+"t": "Hematogenous spread",
+"h": 0.0,
+"d": 0.171
+},
+{
+"l": "e",
+"t": "Direct extension",
+"h": 0.0,
+"d": 0.151
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 60,
+"stem": "Apa indikator yang dapat digunakan untuk mengukur keberhasilan intervensi gizi ?",
+"opts": [
+{
+"l": "a",
+"t": "Perubahan berat badan",
+"h": 0.0,
+"d": 0.166
+},
+{
+"l": "b",
+"t": "Perubahan nilai laboratorium terkait gizi",
+"h": 0.0,
+"d": 0.159
+},
+{
+"l": "c",
+"t": "Monitor asupan makan dan minum (konsumsi selama dirawat)",
+"h": 0.0,
+"d": 0.115
+},
+{
+"l": "d",
+"t": "Keadaan fisik klinis pasien",
+"h": 0.0,
+"d": 0.172
+},
+{
+"l": "e",
+"t": "Semua benar",
+"h": 1.0,
+"d": 0.098
+}
+],
+"hlstem": false,
+"ref": "e"
+},
+{
+"n": 61,
+"stem": "Tekanan darah dipengaruhi pada hemodinamika. Manakah yang tidak termasuk ?",
+"opts": [
+{
+"l": "a",
+"t": "Cardiac output,",
+"h": 0.0,
+"d": 0.067
+},
+{
+"l": "b",
+"t": "Peripheral resistance,",
+"h": 0.0,
+"d": 0.152
+},
+{
+"l": "c",
+"t": "Blood volume",
+"h": 0.0,
+"d": 0.09
+},
+{
+"l": "d",
+"t": "Viscosity.",
+"h": 0.0,
+"d": 0.127
+},
+{
+"l": "e",
+"t": "Usia",
+"h": 1.0,
+"d": 0.088
+}
+],
+"hlstem": false,
+"ref": "e"
+},
+{
+"n": 62,
+"stem": "Manakah pernyataan yang salah tentang Jantung ?",
+"opts": [
+{
+"l": "a",
+"t": "Tidak dapat berfungsi sebagai Circulatory Function adalah berfungsi sebagai sirkulasi umum bersama pembuluh darah dan volume darah.",
+"h": 1.0,
+"d": 0.093
+},
+{
+"l": "b",
+"t": "Cardiac Function adalah termasuk myocardium, katup dan sistim konduksi.",
+"h": 0.0,
+"d": 0.162
+},
+{
+"l": "c",
+"t": "Jantung terbagi menjadi 4 ruangan",
+"h": 0.0,
+"d": 0.125
+},
+{
+"l": "d",
+"t": "Atrium kanan : menerima darah dari seluruh tubuh melalui v.Cava Superior dan Inferior.",
+"h": 0.0,
+"d": 0.111
+},
+{
+"l": "e",
+"t": "Ventrikel kanan : menerima darah dari Atrium kanan dan memompa ke Paru-paru melalui a.Pulmonalis.",
+"h": 0.0,
+"d": 0.156
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 63,
+"stem": "Pasien dengan struma nodul toksik biasanya mudah terjadi relaps tidak terkontrolnya kadar hormon tiroid. Apa terapi definitif yang saudara pilih ?",
+"opts": [
+{
+"l": "a",
+"t": "Terapi hormonal",
+"h": 1.0,
+"d": 0.039
+},
+{
+"l": "b",
+"t": "Radioablasi",
+"h": 0.0,
+"d": 0.112
+},
+{
+"l": "c",
+"t": "Radio frekwensi ablasi",
+"h": 0.0,
+"d": 0.17
+},
+{
+"l": "d",
+"t": "Sitostatika",
+"h": 0.0,
+"d": 0.201
+},
+{
+"l": "e",
+"t": "Micro Surgery",
+"h": 0.0,
+"d": 0.067
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 64,
+"stem": "Seorang Wanita 50 tahun menderita obesitas dan DM tipe 2. Dokter meresepkan Metformin untuk wanita ini. Manakah yang merupakan efek samping dari Metformin?",
+"opts": [
+{
+"l": "a",
+"t": "Peningkatan berat badan",
+"h": 0.0,
+"d": 0.098
+},
+{
+"l": "b",
+"t": "Peningkatan nafsu makan",
+"h": 0.0,
+"d": 0.181
+},
+{
+"l": "c",
+"t": "Hipoglikemia",
+"h": 0.0,
+"d": 0.136
+},
+{
+"l": "d",
+"t": "Gangguan saluran cerna",
+"h": 1.0,
+"d": 0.078
+},
+{
+"l": "e",
+"t": "Retensi air",
+"h": 0.0,
+"d": 0.166
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 65,
+"stem": "Seorang laki-laki bekerja di perusahaan X. Setiap hari sebelum berangkat bekerja di perusahaan tersebut, dia mengantarkan anaknya ke sekolah menggunakan mobil. Hari ini dia terlambat bangun dan terburu-buru mengantarkan anaknya ke sekolah. Dia mengalami kecelakaan dalam perjalanan ke sekolah. Kejadian yang dialami laki-laki tersebut disebut apa ?",
+"opts": [
+{
+"l": "a",
+"t": "Kecelakaan akibat hubungan kerja",
+"h": 0.0,
+"d": 0.133
+},
+{
+"l": "b",
+"t": "Kecelakaan di luar hubungan kerja",
+"h": 1.0,
+"d": 0.109
+},
+{
+"l": "c",
+"t": "Kecelakaan dalam hubungan kerja",
+"h": 0.0,
+"d": 0.183
+},
+{
+"l": "d",
+"t": "Kecelakaan kerja",
+"h": 0.0,
+"d": 0.148
+},
+{
+"l": "e",
+"t": "Kecelakaan di luar tempat kerja",
+"h": 0.0,
+"d": 0.167
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 66,
+"stem": "Apa data yang harus dicari dalam asesmen gizi ?",
+"opts": [
+{
+"l": "a",
+"t": "Data kebiasaan makan",
+"h": 0.0,
+"d": 0.103
+},
+{
+"l": "b",
+"t": "Data fekuensi makan",
+"h": 0.0,
+"d": 0.179
+},
+{
+"l": "c",
+"t": "Data pantangan makanan",
+"h": 0.0,
+"d": 0.175
+},
+{
+"l": "d",
+"t": "Data kesukaan makanan",
+"h": 0.0,
+"d": 0.145
+},
+{
+"l": "e",
+"t": "Data antropometri",
+"h": 0.67,
+"d": 0.088
+}
+],
+"hlstem": false,
+"ref": "e"
+},
+{
+"n": 67,
+"stem": "Kriteria diagnostik KAD (ketoasidosis diabetik) menurut American Diabetes Association manakh yang benar ?",
+"opts": [
+{
+"l": "a",
+"t": "KAD ringan (gula darah lebih dari 200, ph arteri kurang dari 7,00 dan keton urine + )",
+"h": 0.0,
+"d": 0.116
+},
+{
+"l": "b",
+"t": "KAD berat (gula darah lebih 200, ph arteri 7,25-7,30 dan keton urune +)",
+"h": 0.0,
+"d": 0.186
+},
+{
+"l": "c",
+"t": "KAD sedang (gula darah lebih 250, ph arteri 7,00-7,24 dan keton urine + )",
+"h": 1.0,
+"d": 0.082
+},
+{
+"l": "d",
+"t": "KAD ringan (gula darah lebih dari 300, ph arteri kurang dari 7,00 dan keton urine - )",
+"h": 0.0,
+"d": 0.191
+},
+{
+"l": "e",
+"t": "KAD sedang (gula darah lebih dari 300, ph arteri 7,25-7,30 dan keton urine - )",
+"h": 0.0,
+"d": 0.179
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 68,
+"stem": "Sel kanker mempunyai kemampuan menghindari proses apoptosis, hal ini menyebabkan sel kanker akan berproliferasi terus menerus. Atas dasar itu saat ini dikembangkan obat yang bisa menghambat signal antiapoptosis. Apa jenis obat yang bekerja menghambat gen antiapoptosis ?",
+"opts": [
+{
+"l": "a",
+"t": "Metotrexat",
+"h": 0.0,
+"d": 0.065
+},
+{
+"l": "b",
+"t": "Transtuzumab",
+"h": 0.0,
+"d": 0.152
+},
+{
+"l": "c",
+"t": "Venetoclax",
+"h": 1.0,
+"d": 0.079
+},
+{
+"l": "d",
+"t": "Imatinib",
+"h": 0.0,
+"d": 0.144
+},
+{
+"l": "e",
+"t": "Rapalog",
+"h": 0.0,
+"d": 0.062
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 69,
+"stem": "Apa yang dimaksud Sindroma Ehler-Danios ?",
+"opts": [
+{
+"l": "a",
+"t": "Merupakan kelainan yang secara genetik dan klinis bersifat heterogen yang disebabkan oleh defek sintesis Fibrinogen.",
+"h": 0.0,
+"d": 0.167
+},
+{
+"l": "b",
+"t": "Merupakan kelainan yang secara genetik dan klinis bersifat heterogen yang disebabkan oleh defek sintesis kolagen.",
+"h": 1.0,
+"d": 0.076
+},
+{
+"l": "c",
+"t": "Kulit hipoekstensibel, sangat kuat, mudah kena trauma",
+"h": 0.0,
+"d": 0.113
+},
+{
+"l": "d",
+"t": "Sendi kaku",
+"h": 0.0,
+"d": 0.184
+},
+{
+"l": "e",
+"t": "Komplikasi internal pd organ yang sedikit kolagen, ruptur kolon dan arteri, ruptur kornea, hernia diafragmatika",
+"h": 0.0,
+"d": 0.175
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 70,
+"stem": "Obat steroid memiliki berbagai jenis berdasarkan onset dan lama kerja. Manakah derivat kortikosteroid yang memiliki daya kerja sedang?",
+"opts": [
+{
+"l": "a",
+"t": "Betametason Dipropionat",
+"h": 0.0,
+"d": 0.086
+},
+{
+"l": "b",
+"t": "Betametason Valerat",
+"h": 0.0,
+"d": 0.128
+},
+{
+"l": "c",
+"t": "Hidrokortison Asetat",
+"h": 0.0,
+"d": 0.137
+},
+{
+"l": "d",
+"t": "Hidrokortison Butirat",
+"h": 1.0,
+"d": 0.177
+},
+{
+"l": "e",
+"t": "Budesonid",
+"h": 0.0,
+"d": 0.076
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 71,
+"stem": "Seorang pasien perempuan usia 55 tahun sedang dirawat dengan DM tipe 2, pasien post amputasi pada sepertiga distal tungkai bawah kaki kanan. Saat ini BB 60 kg dan TB 165, status tanda vital dalam batas normal. Berapa kebutuhan makan siang pasien ?",
+"opts": [
+{
+"l": "a",
+"t": "365 kkal",
+"h": 0.0,
+"d": 0.137
+},
+{
+"l": "b",
+"t": "456 kkal",
+"h": 1.0,
+"d": 0.094
+},
+{
+"l": "c",
+"t": "410 kkal",
+"h": 0.0,
+"d": 0.094
+},
+{
+"l": "d",
+"t": "547 kkal",
+"h": 0.0,
+"d": 0.173
+},
+{
+"l": "e",
+"t": "556 kkal",
+"h": 0.0,
+"d": 0.14
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 72,
+"stem": "Berapa batas pH normal pada tubuh ?",
+"opts": [
+{
+"l": "a",
+"t": "7,30 -7,35",
+"h": 0.0,
+"d": 0.053
+},
+{
+"l": "b",
+"t": "7,35 -7,40",
+"h": 0.0,
+"d": 0.149
+},
+{
+"l": "c",
+"t": "7,35 - 7,45",
+"h": 1.0,
+"d": 0.028
+},
+{
+"l": "d",
+"t": "7,40- 7,50",
+"h": 0.0,
+"d": 0.124
+},
+{
+"l": "e",
+"t": "7,50 - 7,60",
+"h": 0.0,
+"d": 0.084
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 73,
+"stem": "Seorang laki-laki 60 tahun dengan DM tipe 2 diresepkan dokternya dengan Insulin Lantus dalam bentuk pen insulin. Bagaimanakah cara penyuntikan insulin pen ?",
+"opts": [
+{
+"l": "a",
+"t": "Intravena",
+"h": 0.0,
+"d": 0.145
+},
+{
+"l": "b",
+"t": "Intraperitoneal",
+"h": 0.0,
+"d": 0.161
+},
+{
+"l": "c",
+"t": "Intramuksular",
+"h": 0.0,
+"d": 0.133
+},
+{
+"l": "d",
+"t": "Subcutan",
+"h": 1.0,
+"d": 0.102
+},
+{
+"l": "e",
+"t": "Intratechal",
+"h": 0.0,
+"d": 0.135
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 74,
+"stem": "Wanita 38 tahun datang ke poliklinik metabolic RSWN dengan keluhan wajahnya yang semakin membulat dan semakin bertambah gemuk sejak 3 bulan terakhir. Pasien juga mengeluhkan badan terasa lemas dan muncul garis-garis merah pada perut dan paha. Pasien mengaku tidak sedang mengkonsumsi obat apapun. Pada pemeriksaan fisik didapatkan IMT: 30, TD: 180/100 mmHg, N:70x/menit, RR:20 x/menit, S: 36,0, striae (+). Pada saat diberikan deksametasone dosis tinggi didapatkan penurunan kortisol. Kelenjar apakah yang membentuk kortisol?",
+"opts": [
+{
+"l": "a",
+"t": "Hipofisis anterior",
+"h": 0.0,
+"d": 0.161
+},
+{
+"l": "b",
+"t": "Tiroid",
+"h": 0.0,
+"d": 0.083
+},
+{
+"l": "c",
+"t": "Pankreas",
+"h": 0.0,
+"d": 0.129
+},
+{
+"l": "d",
+"t": "Adrenal",
+"h": 0.5,
+"d": 0.168
+},
+{
+"l": "e",
+"t": "Gonad",
+"h": 0.0,
+"d": 0.054
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 75,
+"stem": "Manakah jenis obat yang masuk kategori inhibitor tirosin kinase ?",
+"opts": [
+{
+"l": "a",
+"t": "Rapalog",
+"h": 1.0,
+"d": 0.11
+},
+{
+"l": "b",
+"t": "Ofaparib",
+"h": 0.0,
+"d": 0.106
+},
+{
+"l": "c",
+"t": "Rituximab",
+"h": 0.0,
+"d": 0.133
+},
+{
+"l": "d",
+"t": "Doxorubisin",
+"h": 0.0,
+"d": 0.208
+},
+{
+"l": "e",
+"t": "Cyclosporin",
+"h": 0.0,
+"d": 0.074
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 76,
+"stem": "Seorang atlit datang memeriksakan diri ke dokter Sp.KFR dikarenakan mengalami cidera pada regio ankle joint dextra, maka dokter Sp.KFR akan memberikan terapi berupa modalitas dan exercise dibantu oleh siapa ?",
+"opts": [
+{
+"l": "a",
+"t": "Fisioterapis",
+"h": 1.0,
+"d": 0.055
+},
+{
+"l": "b",
+"t": "Social Worker",
+"h": 0.0,
+"d": 0.151
+},
+{
+"l": "c",
+"t": "Psikolog",
+"h": 0.0,
+"d": 0.131
+},
+{
+"l": "d",
+"t": "Terapis Wicara",
+"h": 0.0,
+"d": 0.141
+},
+{
+"l": "e",
+"t": "Perawat",
+"h": 0.0,
+"d": 0.128
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 77,
+"stem": "Neoplasma dapat dibedakan menjadi jinak atau ganas. Manakah yang tidak termasuk ?",
+"opts": [
+{
+"l": "a",
+"t": "Differensiasi dan anaplasia",
+"h": 0.0,
+"d": 0.104
+},
+{
+"l": "b",
+"t": "Kecepatan pertumbuhan (rate of growth)",
+"h": 0.0,
+"d": 0.144
+},
+{
+"l": "c",
+"t": "Invasilokal (local invasion)",
+"h": 0.0,
+"d": 0.12
+},
+{
+"l": "d",
+"t": "Metastasis (anaksebar)",
+"h": 0.0,
+"d": 0.141
+},
+{
+"l": "e",
+"t": "Metastasis bukan termasuk kriteria",
+"h": 1.0,
+"d": 0.047
+}
+],
+"hlstem": false,
+"ref": "e"
+},
+{
+"n": 78,
+"stem": "Seorang wanita G1P0A0 usia kehamilan 8 minggu datang ke dokter dengan keluhan benjolan di leher sejak 2 bulan yang lalu. Dari pemeriksaan fisik didapatkan TD 120/80, HR 110x/menit, RR 20x/menit, Tax 37°C dan didapatkan nodul diffuse pada leher. Pada pemeriksaan fungsi tiroid pasien didiagnosa hipotiroid. Selain diberikan obat hipotiroid pasien juga diberikan asam folat dan vitamin B12. Bagaimana cara yang harus dilakukan agar tidak terjadi interaksi obat ?",
+"opts": [
+{
+"l": "a",
+"t": "Meminum obat setelah makan",
+"h": 0.0,
+"d": 0.146
+},
+{
+"l": "b",
+"t": "Meminum obat tiroid 6 jam setelah minum vitamin",
+"h": 0.0,
+"d": 0.177
+},
+{
+"l": "c",
+"t": "Meminum obat tiroid 2 jam sebelum minum vitamin",
+"h": 1.0,
+"d": 0.095
+},
+{
+"l": "d",
+"t": "Meminum vitamin 6 jam setelah minum obat tiroid",
+"h": 0.0,
+"d": 0.138
+},
+{
+"l": "e",
+"t": "Meminum bersamaan dengan makan",
+"h": 0.0,
+"d": 0.157
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 79,
+"stem": "Seorang pria usia 45 tahun datang ke dokter dengan keluhan berdebar-debar dan gelisah sejak 1 bulan terakhir. Dari pemeriksaan fisik didapatkan TD 120/80, HR 140x/menit, RR 30x/menit, Tax 38,9°C dan didapatkan nodul diffuse pada leher ukuran 5 cm. Pasien diberikan obat untuk mengurangi takikardia. Apa jenis obat yang dimaksud ?",
+"opts": [
+{
+"l": "a",
+"t": "Agonis Beta Adrenergik",
+"h": 0.0,
+"d": 0.098
+},
+{
+"l": "b",
+"t": "Antagonis Alfa Adrenergik",
+"h": 0.0,
+"d": 0.134
+},
+{
+"l": "c",
+"t": "Agonis Alfa Adrenergik",
+"h": 0.0,
+"d": 0.161
+},
+{
+"l": "d",
+"t": "Antagonis Beta Adrenergik",
+"h": 1.0,
+"d": 0.142
+},
+{
+"l": "e",
+"t": "Antagonis Muscarinik",
+"h": 0.0,
+"d": 0.08
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 80,
+"stem": "Seorang ibu membawa anaknya ke puskesmas karena dalam 1 hari anaknya sudah BAB lebih dari 4 kali dengan konsistensi cair. Sebelum kejadian ini si anak mengkonsumsi minuman yang di jual di pinggir jalan.Ada kemungkinan minuman yang dikonsumsi tersebut terkontaminasi bakteri. Apa kemungkinan bakteri yang mengkontaminasi tersebut?",
+"opts": [
+{
+"l": "a",
+"t": "Leptospira sp.",
+"h": 0.0,
+"d": 0.051
+},
+{
+"l": "b",
+"t": "Shigella",
+"h": 0.0,
+"d": 0.138
+},
+{
+"l": "c",
+"t": "Streptococcus",
+"h": 0.0,
+"d": 0.111
+},
+{
+"l": "d",
+"t": "Echerchia coli",
+"h": 1.0,
+"d": 0.122
+},
+{
+"l": "e",
+"t": "Clostrodium Botulinum",
+"h": 0.0,
+"d": 0.099
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 81,
+"stem": "Manakah yang bukan merupakan faktor humoral dalam respons imun non spesifik ?",
+"opts": [
+{
+"l": "a",
+"t": "CRP",
+"h": 0.0,
+"d": 0.132
+},
+{
+"l": "b",
+"t": "IFN",
+"h": 0.0,
+"d": 0.123
+},
+{
+"l": "c",
+"t": "Lisosim",
+"h": 0.0,
+"d": 0.118
+},
+{
+"l": "d",
+"t": "Imunoglobulin",
+"h": 1.0,
+"d": 0.194
+},
+{
+"l": "e",
+"t": "Transferin",
+"h": 0.0,
+"d": 0.07
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 82,
+"stem": "Seorang wanita usia 28 tahun dengan benjolan didepan leher, sering merasa panas, gemetar, makan banyak tapi tetap kurus, sering berdebar debar. Hasil pemeriksaan TSH 0,22 MIU per L, FT4 4,5 ng per dl. Berdasarkan gejala klinis, apa diagnosa sementaranya ?",
+"opts": [
+{
+"l": "a",
+"t": "Hipotiroid",
+"h": 0.0,
+"d": 0.154
+},
+{
+"l": "b",
+"t": "Hipertiroid",
+"h": 0.5,
+"d": 0.114
+},
+{
+"l": "c",
+"t": "Tiroiditis Hashimoto",
+"h": 0.0,
+"d": 0.077
+},
+{
+"l": "d",
+"t": "Graves disease",
+"h": 0.0,
+"d": 0.177
+},
+{
+"l": "e",
+"t": "Goiter",
+"h": 0.0,
+"d": 0.05
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 83,
+"stem": "Pada syarat diet selain energi juga dibutuhkan nutrisi berupa apa ?",
+"opts": [
+{
+"l": "a",
+"t": "Protein tinggi, yaitu 1,5- 2 gr per kgBB",
+"h": 0.0,
+"d": 0.159
+},
+{
+"l": "b",
+"t": "Lemak rendah, yaitu 20-25 persen dari kebutuhan energi total",
+"h": 0.0,
+"d": 0.178
+},
+{
+"l": "c",
+"t": "Protein tinggi, yaitu 1-1,5 gr per kgBB",
+"h": 1.0,
+"d": 0.102
+},
+{
+"l": "d",
+"t": "Lemak sedang yaitu 20-25 persen dari kebutuhan energi total",
+"h": 0.0,
+"d": 0.175
+},
+{
+"l": "e",
+"t": "Salah semua",
+"h": 0.0,
+"d": 0.148
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 84,
+"stem": "Seorang pria usia 45 tahun datang ke dokter dengan keluhan benjolan di leher sejak 1 tahun terakhir. Pasien juga mengeluhkan berdebar-debar dan mudah gelisah. Dari pemeriksaan fisik didapatkan TD 120/80, HR 140x/menit, RR 20x/menit, Tax 37,5°C dan didapatkan nodul diffuse pada leher. Apa tatalaksana yang tepat untuk pasien tersebut untuk mengurangi keluhan berdebarnya ?",
+"opts": [
+{
+"l": "a",
+"t": "PTU 3x100 mg",
+"h": 0.0,
+"d": 0.158
+},
+{
+"l": "b",
+"t": "Metimazol 3x10 mg",
+"h": 0.0,
+"d": 0.16
+},
+{
+"l": "c",
+"t": "Propanolol 3x10mg",
+"h": 1.0,
+"d": 0.046
+},
+{
+"l": "d",
+"t": "Dexamethason 3x0.5mg",
+"h": 0.0,
+"d": 0.14
+},
+{
+"l": "e",
+"t": "Metimazol 1x20mg",
+"h": 0.0,
+"d": 0.118
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 85,
+"stem": "Manakah Pernyataan yang SALAH dibawah ini ?",
+"opts": [
+{
+"l": "a",
+"t": "Systolic adalah tekanan darah pada dinding arteri pada saat ventrikel kontraksi",
+"h": 0.0,
+"d": 0.115
+},
+{
+"l": "b",
+"t": "Diastolic adalah tekanan darah pada dinding arteri pada saat ventrikel kontraksi.",
+"h": 1.0,
+"d": 0.095
+},
+{
+"l": "c",
+"t": "Vasodilatasi dapat disebabkan oleh : ischemia, lactic acid, adenosin, CO2 tinggi, prostaglandin.",
+"h": 0.0,
+"d": 0.15
+},
+{
+"l": "d",
+"t": "Stolic adalah tekanan darah pada dinding arteri pada saat ventrikel relaksasi.",
+"h": 0.0,
+"d": 0.179
+},
+{
+"l": "e",
+"t": "Afterload adalah tekanan dinding ventrikel kiri yang dibutuhkan untuk melawan tahanan terhadap ejeksi darah dari ventrikel pada saat systolic.",
+"h": 0.0,
+"d": 0.174
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 86,
+"stem": "Seorang pasien usia 40 th datang ke klinik rawat jalan dengan keluhan nyeri dada, batuk hilang timbul, setelah dilakukan pemeriksaan fisik, dokter menemukan suara pekak pada auskultasi dan suara nafas menghilang pada medial hemitoraks kanan, apakah pemeriksaan penunjang yang diusulkan kepada pasien ?",
+"opts": [
+{
+"l": "a",
+"t": "CT Scan toraks dengan kontras",
+"h": 1.0,
+"d": 0.107
+},
+{
+"l": "b",
+"t": "CT scan toraks tanpa kontras",
+"h": 0.0,
+"d": 0.16
+},
+{
+"l": "c",
+"t": "X foto toraks PA",
+"h": 0.0,
+"d": 0.111
+},
+{
+"l": "d",
+"t": "X foto toraks lateral",
+"h": 0.0,
+"d": 0.212
+},
+{
+"l": "e",
+"t": "X foto toraks AP",
+"h": 0.0,
+"d": 0.148
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 87,
+"stem": "Seorang pasien laki-laki usia 65 tahun dengan BB 53 dan TB 175 menderita Ca nasopharing , berapa kebutuhan kalori dalam sehari ?",
+"opts": [
+{
+"l": "a",
+"t": "1.590 kkal",
+"h": 1.0,
+"d": 0.075
+},
+{
+"l": "b",
+"t": "1.908 kkal",
+"h": 0.0,
+"d": 0.07
+},
+{
+"l": "c",
+"t": "1.696 kkal",
+"h": 0.0,
+"d": 0.103
+},
+{
+"l": "d",
+"t": "1.643 kkal",
+"h": 0.0,
+"d": 0.159
+},
+{
+"l": "e",
+"t": "1.802 kkal",
+"h": 0.0,
+"d": 0.046
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 88,
+"stem": "Seorang mahasiwa Fakultas Kedokteran sedang melakukan kegiatan Kuliah Kerja Nyata (KKN) di daerah Gunungpati. Salah satu kegiatan yang dilakukan adalah penyuluhan tentang rumah sehat. Disampaikan bahwa salah satu kriteria rumah sehat sebaiknya ventilasi dalam ruangan sebaiknya diatur cross ventilation. Apa maksud dari kriteria tersebut ?",
+"opts": [
+{
+"l": "a",
+"t": "Ventilasi dibuat berjajar satu arah supaya udara tetap segar",
+"h": 0.0,
+"d": 0.167
+},
+{
+"l": "b",
+"t": "Lubang ventilasi dibuat berhadapan supaya udara mengalir secara silang, antara udara bersih dan udara yang kotor.",
+"h": 1.0,
+"d": 0.057
+},
+{
+"l": "c",
+"t": "Lubang ventilasi dibuat bawah dan atas supaya udara tetap segar",
+"h": 0.0,
+"d": 0.173
+},
+{
+"l": "d",
+"t": "Lubang ventilasi dibuat disamping dinding rumah supaya udara tidak pengap.",
+"h": 0.0,
+"d": 0.195
+},
+{
+"l": "e",
+"t": "Lubang ventilasi dibuat dengan jarring-jaring angin",
+"h": 0.0,
+"d": 0.128
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 89,
+"stem": "Pada pengambilan foto rontgen ada beberapa posisi, Apa maksud dari posisi RAO (oblik kanan depan) ?",
+"opts": [
+{
+"l": "a",
+"t": "Badan sisi kanan menempel pada film, menghadap ke film, miring 45 derajat, sinar horizontal.",
+"h": 1.0,
+"d": 0.058
+},
+{
+"l": "b",
+"t": "Badan sisi kanan menempel film, membelakangi film, miring 45 derajat, sinar horizontal.",
+"h": 0.0,
+"d": 0.163
+},
+{
+"l": "c",
+"t": "Badan sisi kanan menempel film, menghadap ke film, miring 45 derajat, sinar vertikal",
+"h": 0.0,
+"d": 0.115
+},
+{
+"l": "d",
+"t": "Badan miring ke kanan menempel pada film, sinar horizontal dari depan, film di belakang.",
+"h": 0.0,
+"d": 0.177
+},
+{
+"l": "e",
+"t": "Badan miring ke kanan, menempel pada film, sinar horizontal dari belakang, film di depan.",
+"h": 0.0,
+"d": 0.113
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 90,
+"stem": "Prognosis keganasan dapat diprediksi berdasarkan nilai apa ?",
+"opts": [
+{
+"l": "a",
+"t": "Carcinoma embryonic antigen",
+"h": 1.0,
+"d": 0.034
+},
+{
+"l": "b",
+"t": "Cluster of differentiation",
+"h": 0.0,
+"d": 0.144
+},
+{
+"l": "c",
+"t": "Mutant p53",
+"h": 0.0,
+"d": 0.134
+},
+{
+"l": "d",
+"t": "Prostate specific antigen",
+"h": 0.0,
+"d": 0.121
+},
+{
+"l": "e",
+"t": "CA 125",
+"h": 0.0,
+"d": 0.109
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 91,
+"stem": "Apa zat yang dihasilkan oleh pembuluh darah untuk membantu vasokontriksi?",
+"opts": [
+{
+"l": "a",
+"t": "Somatostatin",
+"h": 0.0,
+"d": 0.058
+},
+{
+"l": "b",
+"t": "Endotelin",
+"h": 1.0,
+"d": 0.08
+},
+{
+"l": "c",
+"t": "ADP",
+"h": 0.0,
+"d": 0.151
+},
+{
+"l": "d",
+"t": "Prostaglandin",
+"h": 0.0,
+"d": 0.194
+},
+{
+"l": "e",
+"t": "Tromboxan A2",
+"h": 0.0,
+"d": 0.073
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 92,
+"stem": "Proses Kimiawi apakah yang terjadi di dalam tubuh yang distimulasi oleh insulin?",
+"opts": [
+{
+"l": "a",
+"t": "Perubahan asam lemak menjadi glukosa",
+"h": 0.0,
+"d": 0.175
+},
+{
+"l": "b",
+"t": "Perubahan glikogen menjadi glukosa",
+"h": 0.0,
+"d": 0.11
+},
+{
+"l": "c",
+"t": "Perubahan glukosa menjadi glikogen",
+"h": 1.0,
+"d": 0.079
+},
+{
+"l": "d",
+"t": "Perubahan protein menjadi glikogen",
+"h": 0.0,
+"d": 0.18
+},
+{
+"l": "e",
+"t": "Perubahan glikogen menjadi asam lemak",
+"h": 0.0,
+"d": 0.11
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 93,
+"stem": "Seorang laki-laki 60 tahun didiagnosis dengan DM tipe-2. Dokter meresepkan obat yang bertujuan meningkatkan sensitivitas jaringan terhadap insulin. Apakah jenis obat yang dimaksud?",
+"opts": [
+{
+"l": "a",
+"t": "Metformin",
+"h": 1.0,
+"d": 0.028
+},
+{
+"l": "b",
+"t": "Sulfonilurea",
+"h": 0.0,
+"d": 0.15
+},
+{
+"l": "c",
+"t": "GLP-1 Agonis",
+"h": 0.0,
+"d": 0.094
+},
+{
+"l": "d",
+"t": "Alfa-Glukosidasi Inhibitor",
+"h": 0.0,
+"d": 0.125
+},
+{
+"l": "e",
+"t": "Penghambat SGLT-2",
+"h": 0.0,
+"d": 0.151
+}
+],
+"hlstem": false,
+"ref": "a"
+},
+{
+"n": 94,
+"stem": "Seorang perempuan 50 tahun datang ke ugd rs datang dengan keluhan demam, dada berdebar debar, dan penurunan kesadaran dan setelah di swab hasilnya (+) covid 19. Pasien memiliki Riwayat penyakit jantung dan diabetes mellitus. Hasil pemeriksaan fisik didapatkan td; 130/110 mmhg suhu 38 C nadi: 130x/menit RR : 25x/menit GXS: E3V3M3 Apakah diagnosa kasus tersebut?",
+"opts": [
+{
+"l": "a",
+"t": "Shock kardiogenik",
+"h": 0.0,
+"d": 0.101
+},
+{
+"l": "b",
+"t": "Ketoasidosis dibetikum",
+"h": 1.0,
+"d": 0.115
+},
+{
+"l": "c",
+"t": "Graves disease",
+"h": 0.0,
+"d": 0.135
+},
+{
+"l": "d",
+"t": "Thyroid strome",
+"h": 0.0,
+"d": 0.117
+},
+{
+"l": "e",
+"t": "Addisons diseases",
+"h": 0.0,
+"d": 0.152
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 95,
+"stem": "Seorang Wanita G1P0A0 usia kehamilan 8 minggu datang ke dokter dengan keluhan berdebar debar dan tidak terlalu suka ditempat yang panas. Dari pemeriksaan fisik didapatkan TD 120/80, HR 110x/menit, RR 20x/menit, Tax 37 C dan didapatkan nodul diffuse pada leher. Pada pemeriksaan fungsi hepar ditemukan hasil peningkatan SGOT dan SGPT. Apa tatalaksana yang tepat untuk pasien tersebut?",
+"opts": [
+{
+"l": "a",
+"t": "PTU 3x100 mg",
+"h": 0.0,
+"d": 0.113
+},
+{
+"l": "b",
+"t": "Metimazol 3x10 mg",
+"h": 1.0,
+"d": 0.084
+},
+{
+"l": "c",
+"t": "Propanolol 3x10 mg",
+"h": 0.0,
+"d": 0.152
+},
+{
+"l": "d",
+"t": "Dexamethason 3x0.5 mg",
+"h": 0.0,
+"d": 0.129
+},
+{
+"l": "e",
+"t": "Metimazol 1x20 mg",
+"h": 0.0,
+"d": 0.144
+}
+],
+"hlstem": false,
+"ref": "b"
+},
+{
+"n": 96,
+"stem": "Manakah yang bukan jenis PEMERIKSAAN PENUNJANG pada kanker?",
+"opts": [
+{
+"l": "a",
+"t": "Laboratorium, Rontgen Thorax",
+"h": 0.0,
+"d": 0.123
+},
+{
+"l": "b",
+"t": "USG, M.R.I",
+"h": 0.0,
+"d": 0.166
+},
+{
+"l": "c",
+"t": "CT Scan, Mamografi tidak bisa dipakai untuk menegakkan diagnosa kanker",
+"h": 1.0,
+"d": 0.029
+},
+{
+"l": "d",
+"t": "Endoskofi, Laparaskofi",
+"h": 0.0,
+"d": 0.122
+},
+{
+"l": "e",
+"t": "Tumor maker, Histopathology",
+"h": 0.0,
+"d": 0.111
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 97,
+"stem": "Apa tujuan terapi diet pada dislipidemia",
+"opts": [
+{
+"l": "a",
+"t": "Meningkatkan asupan karbohidrat sederhana",
+"h": 0.0,
+"d": 0.177
+},
+{
+"l": "b",
+"t": "Menurunkan asupan karbohidrat kompleks",
+"h": 0.0,
+"d": 0.102
+},
+{
+"l": "c",
+"t": "Menurukan asupan kolestrol makanan",
+"h": 1.0,
+"d": 0.098
+},
+{
+"l": "d",
+"t": "Pemberian jenis daan asupan lemak makanan",
+"h": 0.0,
+"d": 0.184
+},
+{
+"l": "e",
+"t": "Semua salah",
+"h": 0.0,
+"d": 0.071
+}
+],
+"hlstem": false,
+"ref": "c"
+},
+{
+"n": 98,
+"stem": "Rasa hari Senin atau sesak napas dan rasaa berat pada hari pertama masuk kerja merupakan gejala khas pada penyakit akibat kerja apa?",
+"opts": [
+{
+"l": "a",
+"t": "Asbestosis",
+"h": 0.0,
+"d": 0.06
+},
+{
+"l": "b",
+"t": "Silikosis",
+"h": 0.0,
+"d": 0.145
+},
+{
+"l": "c",
+"t": "Antharokosilikosis",
+"h": 0.0,
+"d": 0.122
+},
+{
+"l": "d",
+"t": "Bisinosis",
+"h": 1.0,
+"d": 0.096
+},
+{
+"l": "e",
+"t": "Brucellosis",
+"h": 0.0,
+"d": 0.075
+}
+],
+"hlstem": false,
+"ref": "d"
+},
+{
+"n": 99,
+"stem": "Seorang wanita datang ke klinik saudara tanpa ada keluhan dan membawa hasil laboratorium dengan hasil Tsh 30 mikrounit/ml (tinggi) dan hasil Free T4 adalah normal, Apa diagnosis yang paling mungkin dalam kasus tersebut?",
+"opts": [
+{
+"l": "a",
+"t": "Hipertiroidisme Overt",
+"h": 0.0,
+"d": 0.145
+},
+{
+"l": "b",
+"t": "Hipertiroidisme ringan",
+"h": 0.0,
+"d": 0.163
+},
+{
+"l": "c",
+"t": "Hipertiroidisme Sub klinik",
+"h": 1.0,
+"d": 0.102
+},
+{
+"l": "d",
+"t": "Hipertiroidisme Overt",
+"h": 0.0,
+"d": 0.186
+},
+{
+"l": "e",
+"t": "Gangguan Akibat Kekurangan Iodium",
+"h": 1.0,
+"d": 0.094
+}
+],
+"hlstem": false,
+"ref": [
+"c",
+"e"
+]
+},
+{
+"n": 100,
+"stem": "Glandula suprarenalis menghasilkan hormone glukokortikoid dan minrelkortikoid. Manakan dibawah ini yang trermasuk golongan hormone glukokortikoid?",
+"opts": [
+{
+"l": "a",
+"t": "Adrenalin",
+"h": 0.0,
+"d": 0.143
+},
+{
+"l": "b",
+"t": "Progesteron",
+"h": 0.0,
+"d": 0.12
+},
+{
+"l": "c",
+"t": "Aldosteron",
+"h": 0.0,
+"d": 0.043
+},
+{
+"l": "d",
+"t": "Kortisol",
+"h": 1.0,
+"d": 0.168
+},
+{
+"l": "e",
+"t": "Testosteron",
+"h": 0.0,
+"d": 0.108
+}
+],
+"hlstem": false,
+"ref": "d"
+}
+]

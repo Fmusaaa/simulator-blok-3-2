@@ -1,0 +1,20 @@
+import re
+PAIRS=[('feno brat','fenofibrat'),('gem brozil','gemfibrozil'),('asta n','astatin'),('ru n','rutin'),('kor sol','kortisol'),('Cor sol','Cortisol'),('kor kosteroid','kortikosteroid'),('kor koid','kortikoid'),('kor kal','kortikal'),('kor kosteron','kortikosteron'),('Kor kosteron','Kortikosteron'),
+('roid','tiroid'),('nggi','tinggi'),('dak','tidak'),('ndakan','tindakan'),(' sik',' fisik'),('Ak vitas','Aktivitas'),('ak vitas','aktivitas'),('ak f','aktif'),('Ak f','Aktif'),('vasi','tivasi'),
+('sensi vitas','sensitivitas'),('Ak vitas','Aktivitas'),('ak vitas','aktivitas'),('berak vitas','beraktivitas'),('Efek vitas','Efektivitas'),('Pallia ve','Palliative'),('selec ve','selective'),('Pleomor k','Pleomorfik'),('Reuma k','Reumatik'),('anali k','analitik'),('diabe kum','diabetikum'),('diabe k','diabetik'),('gene c','genetik'),('incre n','incretin'),('keto k','ketotik'),('kis k','kistik'),
+('lak k','laktik'),('li k','litik'),('memperha kan','memperhatikan'),('metasta k','metastatik'),('mula ng','mulating'),('netro l','netrofil'),('neutro l','neutrofil'),('Neutro l','Neutrofil'),('Baso l','Basofil'),('Eosino l','Eosinofil'),
+('pasi k','pasifik'),('pato siologi','patofisiologi'),('gastrointes nal','gastrointestinal'),('di usion','diffusion'),(' accid',' flaccid'),('Akvitas','Aktivitas'),('pen ng','penting'),('piezoelec c','piezoelectric'),('posi f','positif'),('prolac n','prolactin'),('reak f','reaktif'),('sep k','septik'),('spas k','spastik'),('spesi k','spesifik'),('spesi sitas','spesifisitas'),('stun ng','stunting'),
+(' pe ',' tipe '),('an gen','antigen'),('An gen','Antigen'),('in amasi','inflamasi'),('Atro ','Atrofi '),('Hipertro ','Hipertrofi '),('Kromatogra ','Kromatografi '),('Mammogra ','Mammografi '),('Ima nib','Imatinib'),('Dapagli ozin','Dapagliflozin'),('Dapaglifozin','Dapagliflozin'),
+('Lio ronine','Liotironine'),('Diodo ronin','Diiodotironin'),('Levo roksin','Levotiroksin'),('Hemo lia','Hemofilia'),('De siensi','Defisiensi'),('de siensi','defisiensi'),('Kup er','Kupffer'),('His osit','Histiosit'),('adven a','adventitia'),('Gi elman','Gitelman'),('Bar er','Bartter'),
+('Me ormin','Metformin'),('Me mazole','Metimazole'),('seper ga','sepertiga'),('di use','diffuse'),('di eren al','differential'),('e ect','effect'),('bu alo','buffalo'),('fa y','fatty'),('s mula','stimula'),('S mula','Stimula'),('a nitas','afinitas'),('terak vasi','teraktivasi'),('mengak vasi','mengaktivasi'),('Mengak an','Mengaktifkan'),
+('ana laksis','anafilaksis'),('Ana lak k','Anafilaktik'),('ana lak k','anafilaktik'),('mengin ltrasi','menginfiltrasi'),('Gluta on','Glutation'),('ke ka','ketika'),('A n','Ati'),('ar brilasi','atrial fibrilasi'),('berhen ','berhenti '),('ti ','ti '),
+(' ngkat',' tingkat'),('Efek vitas','Efektivitas'),('mengama ','mengamati '),('pu h','putih'),('he ','hati '),('lathan','latihan'),('ali di','ahli di'),('kele ','kele '),('se ap','setiap'),('Se ap','Setiap'),('o fisik','sik'),('opa ','opati '),('Ensefalopa ','Ensefalopati '),('apa s','apatis'),('kon ','konti '),('Tiazolindion','Tiazolidindion'),('Ce xime','Cefixime'),('fk',''),('hipersensi tivitas','hipersensitivitas'),('Gangguan sik','Gangguan fisik'),('Eu tiroid','Eutiroid'),('Medias num','Mediastinum'),('medias num','mediastinum'),('an diabe','antidiabe'),('An diabe','Antidiabe'),('an bodi','antibodi'),('Autoan bodi','Autoantibodi'),('an koagulan','antikoagulan'),('An tripsin','Antitripsin'),('an -in','anti-in'),('composmen s','composmentis'),('re kul','retikul'),('Re kul','Retikul'),('re cul','reticul'),('Re cul','Reticul'),('derma s','dermatitis'),('Spondili s','Spondilitis'),('arteri s','arteritis'),('sel ha ','sel hati '),(' tf',''),('maupun an ','maupun anti'),('Pemeriksaan sik','Pemeriksaan fisik'),('Ak vitas','Aktivitas')]
+def fix(s):
+    s=' '+s+' '
+    for a,b in PAIRS:
+        if a in ('roid','nggi','dak','ndakan'):
+            s=re.sub(r'(?<=\s)'+a+r'(?=[\s\.,;:?/)])',b,s)
+            s=re.sub(r'(\w) '+a+r'(?=[\s\.,;:?/)])',lambda m:m.group(0),s)
+        else: s=s.replace(a,b)
+    s=s.replace('tivitastivitas','tivitas')
+    return re.sub(r'\s+',' ',s).strip()
