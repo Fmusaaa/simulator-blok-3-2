@@ -1,0 +1,449 @@
+#141 d=1 ty=recall
+ks: Definisi DM (ADA): kelompok penyakit metabolik dengan hiperglikemia akibat kelainan sekresi insulin, kerja insulin, atau keduanya.
+kw: definisi; ADA 2010
+an: Inti definisi: hiperglikemia + mekanisme insulin (sekresi dan/atau kerja).
+A: Penyakit endokrin akibat kelebihan hormon tiroid || Definisi hipertiroidisme. || Tidak terkait hiperglikemia kronik.
+B: Keadaan kadar glukosa darah rendah yang menetap || Definisi hipoglikemia. || Arah kadar glukosa terbalik.
+C: Gangguan tubulus ginjal yang membuang glukosa ke urine || Glukosuria renal. || Glukosuria pada DM adalah akibat, bukan definisi.
+D*: Penyakit metabolik hiperglikemia akibat kelainan sekresi dan/atau kerja insulin || Definisi ADA di slide. || Mencakup semua tipe DM.
+E: Penyakit infeksi kronik pankreas || Pankreatitis dapat menyebabkan DM tipe lain. || DM bukan penyakit infeksi.
+
+#142 d=1 ty=recall
+ks: DM tipe 1: destruksi sel β → defisiensi insulin absolut → wajib insulin eksogen.
+kw: destruksi sel beta; insulin tidak ada
+an: "Insulin tidak ada sama sekali" = defisiensi absolut = tipe 1.
+A*: DM tipe 1 || Defisiensi insulin absolut. || Sesuai slide.
+B: DM tipe 2 || Penurunan sekresi dan/atau resistensi insulin. || Insulin masih diproduksi.
+C: Prediabetes || Glukosa di atas normal, belum kriteria DM. || Tidak sesuai.
+D: DM tipe lain || Penyebab spesifik (genetik, pankreas, obat). || Tidak sesuai deskripsi.
+E: DM gestasional || Terdeteksi saat hamil. || Tidak sesuai.
+
+#143 d=1 ty=recall
+ks: DM tipe 2: penurunan sekresi insulin dan/atau resistensi insulin; bentuk tersering.
+kw: resistensi insulin; penurunan sekresi
+an: Resistensi insulin adalah kata kunci tipe 2.
+A*: DM tipe 2 || Bentuk tersering, terkait obesitas dan gaya hidup. || Sesuai slide.
+B: Diabetes insipidus || Gangguan ADH (poliuria tanpa hiperglikemia). || Tidak terkait insulin.
+C: DM tipe 1 || Destruksi sel β, insulin tidak ada. || Tidak ada resistensi sebagai mekanisme utama.
+D: DM tipe lain || Penyebab spesifik. || Tidak sesuai.
+E: DM gestasional || Saat hamil. || Tidak sesuai.
+
+#144 d=1 ty=recall
+ks: DM gestasional umumnya muncul sekitar usia kehamilan 24 minggu (skrining 24–28 minggu) dan biasanya membaik setelah persalinan.
+kw: DM gestasional; usia kehamilan
+an: Resistensi insulin akibat hormon plasenta memuncak pada paruh kedua kehamilan.
+A: 12 minggu || Trimester pertama. || Resistensi insulin belum menonjol.
+B: 36 minggu || Menjelang aterm. || Bukan waktu khas di slide.
+C: Setelah melahirkan || Justru kadar kembali normal pascapersalinan. || Tidak sesuai.
+D: 4 minggu || Awal sekali kehamilan. || Terlalu dini.
+E*: 24 minggu || Sesuai slide. || Skrining umumnya 24–28 minggu.
+
+#145 d=1 ty=recall
+ks: DM tipe lain: penyakit eksokrin pankreas, endokrinopati, obat/zat kimia, infeksi, defek genetik fungsi sel β/kerja insulin.
+kw: penyebab spesifik; endokrinopati; obat
+an: Semua penyebab yang spesifik dan dapat diidentifikasi masuk "tipe lain".
+A: DM tipe 1 || Destruksi autoimun sel β. || Tidak sesuai.
+B: Sindrom metabolik || Kumpulan faktor risiko kardiometabolik. || Bukan tipe DM.
+C*: DM tipe lain || Kelompok penyebab spesifik. || Sesuai slide.
+D: DM gestasional || Saat hamil. || Tidak sesuai.
+E: DM tipe 2 || Resistensi insulin tanpa penyebab spesifik. || Tidak sesuai.
+
+#146 d=1 ty=recall
+ks: Tujuan penatalaksanaan DM: meningkatkan kualitas hidup (jangka pendek: hilangkan keluhan; jangka panjang: cegah komplikasi; akhir: turunkan morbiditas/mortalitas).
+kw: tujuan penatalaksanaan
+an: DM tidak bisa disembuhkan total; tujuannya kualitas hidup lewat tiga lapis tujuan.
+A: Menaikkan berat badan semua pasien DM || Tidak berlaku umum. || Pasien gemuk justru diturunkan BB-nya.
+B: Menghilangkan kebutuhan makan pasien || Tidak masuk akal. || Pasien tetap butuh asupan sesuai kalori.
+C*: Meningkatkan kualitas hidup pasien || Lewat tujuan jangka pendek, panjang, dan akhir. || Sesuai slide.
+D: Menyembuhkan DM secara total dan permanen || DM penyakit menahun. || Tidak sesuai slide.
+E: Menurunkan gula darah sesaat setelah makan || Terlalu sempit. || Hanya sebagian tujuan jangka pendek.
+
+#147 d=1 ty=recall
+ks: Langkah umum: riwayat penyakit, pemeriksaan fisik, evaluasi lab, penapisan komplikasi. Langkah khusus (4 pilar): edukasi, TNM, latihan jasmani, farmakologis.
+kw: langkah khusus; KECUALI
+an: Penapisan komplikasi masuk langkah umum.
+A: Latihan jasmani || Langkah khusus. || Termasuk empat pilar.
+B: Edukasi || Langkah khusus. || Termasuk empat pilar.
+C: Terapi nutrisi medis (TNM) || Langkah khusus. || Termasuk empat pilar.
+D: Terapi farmakologis || Langkah khusus. || Termasuk empat pilar.
+E*: Penapisan komplikasi || Bagian langkah UMUM. || Bukan langkah khusus, jadi inilah jawabannya.
+
+#148 d=1 ty=understanding
+ks: Prinsip TNM: mirip anjuran makan masyarakat umum (seimbang, sesuai kebutuhan kalori) dengan penekanan 3J (jumlah, jenis, jadwal).
+kw: prinsip pengaturan makan; TNM
+an: TNM tidak ekstrem; yang ditekankan adalah keteraturan.
+A: Makan sebanyak mungkin agar terhindar dari hipoglikemia || Asupan berlebih memperberat hiperglikemia. || Tidak sesuai.
+B: Puasa total pada siang hari setiap hari || Berisiko hipoglikemia bila memakai obat. || Tidak sesuai.
+C: Hanya mengonsumsi buah-buahan || Tidak seimbang. || Tidak sesuai.
+D*: Seimbang sesuai kalori, teratur dalam 3J || Hampir sama dengan anjuran makan masyarakat umum. || Sesuai slide.
+E: Menghilangkan karbohidrat sama sekali dari menu harian || KH tetap 45–65% energi. || Tidak sesuai.
+
+#149 d=1 ty=recall
+ks: Komposisi makan DM: KH 45–65%, lemak 20–25% (≤ 30%), protein 10–20% energi; pembatasan KH < 130 g/hari tidak dianjurkan.
+kw: karbohidrat; persentase energi
+an: Hafalkan tiga angka: KH 45–65, lemak 20–25, protein 10–20.
+A: 10–20% total energi || Anjuran protein. || Bukan karbohidrat.
+B: 20–25% total energi || Anjuran lemak. || Bukan karbohidrat.
+C: Lebih dari 80% total energi || Berlebihan. || Tidak sesuai.
+D: Dibatasi < 130 g/hari agar gula cepat turun || Slide: pembatasan ini tidak dianjurkan. || Tidak sesuai.
+E*: 45–65% total energi, utamakan tinggi serat || Sesuai slide. || Komposisi KH yang dianjurkan.
+
+#150 d=1 ty=recall
+ks: Sukrosa boleh maksimal 5% total energi.
+kw: sukrosa; gula pasir; batas
+an: Sukrosa tidak dilarang total, tetapi dibatasi 5%.
+A: Tidak lebih dari 30% total energi || Batas atas lemak. || Bukan sukrosa.
+B: Dilarang sama sekali || Slide membolehkan dalam batas. || Terlalu ketat.
+C*: Tidak lebih dari 5% total energi || Sesuai slide. || Batas sukrosa.
+D: Bebas asalkan obat diminum teratur || Tidak sesuai. || Sukrosa tetap dibatasi.
+E: Tidak lebih dari 20% total energi || Terlalu longgar. || Tidak sesuai.
+
+#151 d=1 ty=recall
+ks: Lemak 20–25% kebutuhan kalori, tidak boleh > 30% total energi.
+kw: lemak; persentase energi
+an: Bedakan dengan KH (45–65) dan protein (10–20).
+A: 40–50% total energi || Terlalu tinggi. || Tidak sesuai.
+B: 10–20% total energi || Anjuran protein. || Bukan lemak.
+C: 45–65% total energi || Anjuran karbohidrat. || Bukan lemak.
+D*: 20–25%, maksimal 30% total energi || Sesuai slide. || Anjuran lemak.
+E: Dihindari total untuk menurunkan berat badan || Lemak tetap dibutuhkan (asam lemak esensial, vitamin larut lemak). || Tidak sesuai.
+
+#152 d=2 ty=recall
+ks: Komposisi lemak: jenuh < 7%, tak jenuh ganda < 10%, sisanya tak jenuh tunggal; kolesterol < 200 mg/hari.
+kw: lemak jenuh; kolesterol
+an: Ingat 7–10–200 (jenuh < 7, PUFA < 10, kolesterol < 200).
+A: Kolesterol makanan dibatasi < 500 mg/hari || Terlalu longgar. || Batas di slide < 200 mg.
+B: Lemak jenuh < 30% dan tak jenuh ganda < 20% || Angka terlalu tinggi. || Tidak sesuai.
+C*: Jenuh < 7%, tak jenuh ganda < 10%, kolesterol < 200 mg || Sisa lemak dari tak jenuh tunggal. || Sesuai slide.
+D: Lemak trans dianjurkan sebagai pengganti lemak jenuh || Lemak trans harus dibatasi. || Tidak sesuai.
+E: Lemak tak jenuh tunggal dibatasi < 5% total energi || Justru sumber lemak utama. || Tidak sesuai.
+
+#153 d=1 ty=recall
+ks: Protein DM tanpa komplikasi ginjal 10–20% energi; sumber: ikan, ayam tanpa kulit, tahu, tempe, susu rendah lemak.
+kw: protein; tanpa komplikasi ginjal
+an: 10–20% untuk protein; bedakan dari lemak dan KH.
+A*: 10–20% || Sesuai slide. || Anjuran protein.
+B: 30–40% || Terlalu tinggi. || Tidak sesuai.
+C: 45–65% || Anjuran karbohidrat. || Bukan protein.
+D: < 5% || Terlalu rendah, berisiko malnutrisi. || Tidak sesuai.
+E: 20–25% || Anjuran lemak. || Bukan protein.
+
+#154 d=1 ty=recall
+ks: Nefropati diabetik: protein diturunkan menjadi 0,8 g/kgBB/hari.
+kw: nefropati diabetik; protein
+an: 0,8 g/kgBB mengurangi beban filtrasi tanpa malnutrisi.
+A: Tidak dibatasi sama sekali || Mempercepat progresi nefropati. || Tidak sesuai.
+B: 1,5 g/kgBB/hari || Terlalu tinggi. || Tidak sesuai.
+C: 2 g/kgBB/hari || Untuk kondisi katabolik berat. || Tidak sesuai.
+D*: 0,8 g/kgBB/hari || Sesuai slide. || Mengurangi beban filtrasi ginjal.
+E: 0,2 g/kgBB/hari || Terlalu rendah. || Berisiko malnutrisi.
+
+#155 d=1 ty=recall
+ks: Natrium DM tanpa hipertensi 1500–2300 mg/hari (sama dengan orang sehat); DM dengan hipertensi < 1500 mg/hari.
+kw: natrium; hipertensi
+an: Ada hipertensi → target lebih ketat (< 1500).
+A: 3000–4000 mg/hari || Terlalu tinggi. || Tidak sesuai.
+B*: < 1500 mg/hari || Sesuai slide untuk DM + hipertensi. || Target lebih ketat.
+C: 1500–2300 mg/hari || Anjuran DM tanpa hipertensi. || Kurang ketat untuk pasien hipertensi.
+D: 5000 mg/hari || Terlalu tinggi. || Tidak sesuai.
+E: Tidak perlu dibatasi bila obat antihipertensi rutin diminum || Natrium tetap dibatasi. || Tidak sesuai.
+
+#156 d=1 ty=recall
+ks: Sumber natrium: garam dapur, vetsin (MSG), soda kue, pengawet (natrium benzoat, natrium nitrit).
+kw: BUKAN sumber natrium
+an: Buah segar rendah natrium (dan tinggi kalium).
+A: Natrium nitrit pada daging olahan || Pengawet bernatrium. || Sumber natrium.
+B*: Apel segar || Rendah natrium. || Bukan sumber natrium, jadi inilah jawabannya.
+C: Natrium benzoat pada minuman kemasan || Pengawet bernatrium. || Sumber natrium.
+D: Garam dapur || NaCl. || Sumber natrium.
+E: Vetsin (monosodium glutamat) || Mengandung natrium. || Sumber natrium.
+
+#157 d=1 ty=recall
+ks: Serat 20–35 g/hari dari kacang-kacangan, buah, sayur, dan KH tinggi serat.
+kw: serat; anjuran
+an: Serat memperlambat penyerapan glukosa sehingga lonjakan postprandial berkurang.
+A: 50–60 g/hari || Terlalu tinggi, bisa mengganggu pencernaan. || Tidak sesuai.
+B*: 20–35 g/hari dari bahan makanan || Kacang, buah, sayur, KH tinggi serat. || Sesuai slide.
+C: 5–10 g/hari || Terlalu rendah. || Tidak sesuai.
+D: Dihindari karena memperlambat pengosongan lambung || Serat justru dianjurkan. || Tidak sesuai.
+E: Hanya dari suplemen serat || Dianjurkan dari bahan makanan. || Tidak sesuai.
+
+#158 d=2 ty=recall
+ks: Fruktosa sebagai pemanis tambahan tidak dianjurkan karena dapat meningkatkan LDL; fruktosa alami di buah/sayur tetap boleh.
+kw: fruktosa; pemanis tambahan
+an: Efek fruktosa yang disorot slide adalah pada lipid (LDL).
+A: Bersifat karsinogenik || Tidak disebut di slide. || Bukan alasan.
+B: Tidak bisa dicerna usus manusia || Fruktosa diserap baik. || Keliru.
+C: Menyebabkan hipoglikemia berat || Tidak sesuai. || Fruktosa tidak menurunkan glukosa.
+D: Tidak mengandung kalori sama sekali || Fruktosa berkalori (4 kkal/g). || Keliru.
+E*: Dapat meningkatkan kadar LDL || Sesuai slide. || Alasan fruktosa tambahan dihindari.
+
+#159 d=1 ty=recall
+ks: Pemanis tak berkalori (aspartam, sakarin, acesulfam-K, sukralosa, neotam) aman bila tidak melebihi ADI.
+kw: pemanis tak berkalori; ADI
+an: Pilih kelompok yang semuanya tanpa kalori.
+A: Gula aren dan gula kelapa || Pemanis berkalori. || Tidak sesuai.
+B*: Aspartam, sakarin, sukralosa || Pemanis tak berkalori. || Aman dalam batas ADI.
+C: Madu murni dan sirup maple || Berkalori tinggi. || Tidak sesuai.
+D: Fruktosa dan sorbitol || Pemanis berkalori; fruktosa menaikkan LDL. || Tidak sesuai.
+E: Glukosa dan dekstrosa || Pemanis berkalori. || Tidak sesuai.
+
+#160 d=1 ty=recall
+ks: Kalori basal DM: 25 kkal/kgBB ideal (perempuan), 30 kkal/kgBB ideal (laki-laki).
+kw: kalori basal; kkal/kgBB
+an: Basal dihitung dari BB ideal, bukan BB aktual.
+A*: 25–30 kkal/kgBB ideal || Perempuan 25, laki-laki 30. || Sesuai slide.
+B: 36–40 kkal/kgBB || Angka diet pasien keganasan. || Bukan DM.
+C: 2000 kkal tetap untuk semua pasien tanpa melihat berat badan || Tidak individual. || Tidak sesuai.
+D: 40–50 kkal/kgBB aktual || Terlalu tinggi. || Tidak sesuai.
+E: 10–15 kkal/kgBB || Terlalu rendah. || Tidak sesuai.
+
+#161 d=1 ty=application
+ks: IMT Asia Pasifik: < 18,5 kurang; 18,5–22,9 normal; 23,0–24,9 BB lebih dengan risiko; 25,0–29,9 obes I; ≥ 30 obes II.
+kw: IMT 26
+an: 26 berada di rentang 25,0–29,9 → obes I.
+A: BB lebih dengan risiko (23,0–24,9) || Batas atas 24,9. || IMT 26 melewati rentang ini.
+B: BB kurang (< 18,5) || Tidak sesuai. || IMT pasien lebih tinggi.
+C: Normal (18,5–22,9) || Tidak sesuai. || IMT pasien lebih tinggi.
+D*: Obes I (25,0–29,9) || Sesuai klasifikasi slide. || 26 di rentang ini.
+E: Obes II (≥ 30) || Belum mencapai 30. || Tidak sesuai.
+
+#162 d=1 ty=application
+ks: Koreksi umur: 40–59 th −5%; 60–69 th −10%; ≥ 70 th −20%.
+kw: 55 tahun; koreksi umur
+an: 55 tahun berada di 40–59 → −5%.
+A: Dikurangi 10% || Untuk usia 60–69 tahun. || Tidak sesuai umur pasien.
+B*: Dikurangi 5% || Usia 40–59 tahun. || Sesuai slide.
+C: Tidak perlu penyesuaian karena belum lansia || Koreksi dimulai usia 40. || Tidak sesuai.
+D: Ditambah 10% || Arah koreksi salah. || Kebutuhan menurun dengan usia.
+E: Dikurangi 20% || Untuk usia ≥ 70 tahun. || Tidak sesuai umur pasien.
+
+#163 d=1 ty=recall
+ks: Tambahan kalori aktivitas: istirahat 10%, ringan 20%, sedang 30%, berat 40%, sangat berat 50%.
+kw: aktivitas sedang
+an: Urutan naik 10% per tingkat; sedang = 30%.
+A: 50% || Aktivitas sangat berat. || Tidak sesuai.
+B: 10% || Keadaan istirahat. || Tidak sesuai.
+C: 20% || Aktivitas ringan. || Tidak sesuai.
+D*: 30% || Aktivitas sedang. || Sesuai slide.
+E: 40% || Aktivitas berat. || Tidak sesuai.
+
+#164 d=1 ty=recall
+ks: Koreksi BB: gemuk dikurangi 20–30%, kurus ditambah 20–30%; batas minimal wanita 1000–1200, pria 1200–1600 kkal.
+kw: gemuk; koreksi kalori
+an: Gemuk → dikurangi 20–30% sesuai tingkat kegemukan.
+A: Dikurangi 90% || Berbahaya. || Di bawah batas minimal.
+B: Dikurangi 5% || Koreksi umur 40–59 tahun. || Bukan koreksi berat badan.
+C*: Dikurangi 20–30% || Tergantung tingkat kegemukan. || Sesuai slide.
+D: Ditambah 20–30% || Untuk pasien kurus. || Arah salah.
+E: Tidak disesuaikan karena sudah dihitung dari BB ideal || Koreksi BB tetap dilakukan. || Tidak sesuai.
+
+#165 d=1 ty=recall
+ks: Batas minimal kalori: wanita 1000–1200 kkal/hari, pria 1200–1600 kkal/hari.
+kw: kalori minimal; pria
+an: Pria lebih tinggi dari wanita.
+A: Tidak ada batas minimal selama pasien gemuk || Ada batas minimal. || Tidak sesuai.
+B: 1000–1200 kkal/hari || Batas minimal wanita. || Bukan pria.
+C: 500–800 kkal/hari || Terlalu rendah. || Berisiko malnutrisi.
+D*: 1200–1600 kkal/hari || Sesuai slide. || Batas minimal pria.
+E: 2500–3000 kkal/hari || Bukan batas minimal. || Tidak sesuai.
+
+#166 d=1 ty=recall
+ks: Pembagian kalori: pagi 20%, siang 30%, sore 25%, selingan 2–3 porsi 10–15%.
+kw: pembagian kalori sehari
+an: Siang porsi terbesar (30%).
+A: Pagi 50%, siang 25%, malam 25% tanpa selingan || Tidak sesuai. || Pagi terlalu besar.
+B: Satu kali makan besar 100% || Tidak dianjurkan. || Risiko fluktuasi glukosa.
+C*: Pagi 20%, siang 30%, sore 25%, selingan 10–15% || Sesuai slide. || Pembagian yang dianjurkan.
+D: Pagi 10%, siang 10%, malam 80% || Tidak sesuai. || Malam terlalu besar.
+E: Pagi 30%, siang 30%, sore 30%, tanpa makanan selingan || Selingan dianjurkan. || Tidak sesuai.
+
+#167 d=1 ty=recall
+ks: 3J (Kemenkes): jumlah sesuai kebutuhan, jenis sesuai piring makan model T, jadwal 3× makan utama + 2–3× selingan.
+kw: 3J; infografis Kemenkes
+an: 3J = Jumlah, Jenis, Jadwal.
+A: Jarang makan, jauhi nasi, jajan dibatasi || Tidak sesuai. || Bukan singkatan 3J.
+B: Jagung, jeruk, dan jambu sebagai menu utama || Tidak sesuai. || Bukan prinsip 3J.
+C*: Jumlah, jenis (piring model T), jadwal || 3× makan utama + 2–3× selingan. || Sesuai infografis.
+D: Jumlah, jenis, dan jadwal dibebaskan sesuai selera || Kebalikan dari prinsip 3J. || Tidak sesuai.
+E: Jus, jamu, dan jahe setiap hari || Tidak sesuai. || Bukan prinsip 3J.
+
+#168 d=2 ty=application
+ks: Hitung kalori: basal (25/30 × BBI) → koreksi umur → tambah aktivitas → koreksi BB dan stres; semua persen dihitung dari basal.
+kw: perempuan; BBI 50 kg; 45 tahun; aktivitas ringan
+an: 25 × 50 = 1250. Umur 45 → −5% (−62,5). Ringan → +20% (+250). Hasil 1437,5 kkal.
+A: 1800 kkal || Memakai basal laki-laki. || Jenis kelamin salah.
+B: 1000 kkal || Batas minimal wanita. || Bukan hasil hitung.
+C: 1500 kkal || Ditambah aktivitas tetapi koreksi umur terlewat. || Kurang tepat.
+D: 1250 kkal || Kalori basal saja. || Belum disesuaikan.
+E*: 1437,5 kkal || 1250 − 62,5 + 250. || Perhitungan sesuai slide.
+
+#169 d=1 ty=understanding
+ks: Dokter umum adalah ujung tombak; DM sederhana tanpa penyulit dikelola tuntas di layanan primer, yang sulit dikonsultasikan ke spesialis.
+kw: dokter umum; pelayanan primer
+an: Dokter layanan primer mengelola, bukan sekadar merujuk.
+A: Tidak berperan karena DM wajib ditangani spesialis || Tidak sesuai. || Layanan primer adalah ujung tombak.
+B: Hanya menangani komplikasi berat di IGD || Tidak sesuai. || Komplikasi berat justru dirujuk.
+C: Selalu merujuk semua pasien DM ke spesialis penyakit dalam || Tidak sesuai. || DM tanpa penyulit dikelola tuntas.
+D: Hanya memberi obat tanpa edukasi || Edukasi adalah pilar. || Tidak sesuai.
+E*: Ujung tombak; kelola tuntas DM tanpa penyulit || Kasus sulit dikonsultasikan berkala ke spesialis. || Sesuai slide.
+
+#170 d=1 ty=application
+ks: Pasien dengan insulin atau sekretagog insulin perlu keteraturan jadwal, jenis, jumlah makan untuk mencegah hipoglikemia.
+kw: insulin; pemicu sekresi insulin
+an: Obat tetap menurunkan glukosa walau pasien tidak makan → jadwal makan harus teratur.
+A: Puasa panjang untuk menurunkan berat badan || Berisiko hipoglikemia. || Tidak sesuai.
+B: Makan hanya sekali sehari dalam porsi besar || Fluktuasi glukosa besar. || Tidak sesuai.
+C*: Keteraturan jadwal, jenis, dan jumlah makan || Mencegah hipoglikemia akibat obat. || Sesuai slide.
+D: Menghindari semua sumber protein hewani || Tidak sesuai. || Protein tetap 10–20%.
+E: Asupan tinggi gula sederhana setiap kali minum obat || Memperberat hiperglikemia. || Tidak sesuai.
+
+#231 d=1 ty=application
+ks: IMT = BB/TB² (m); 25,0–29,9 = obes I (Asia Pasifik).
+kw: BB 70 kg; TB 155 cm
+an: 70/(1,55)² = 70/2,40 ≈ 29,1 → obes I.
+A*: Obes I (IMT ≈ 29,1) || 70 ÷ 2,40 ≈ 29,1. || Perhitungan benar.
+B: BB kurang || IMT < 18,5. || Tidak sesuai.
+C: BB lebih dengan risiko (IMT 23,0–24,9) || Batas atas 24,9. || IMT pasien lebih tinggi.
+D: Obes II || IMT ≥ 30. || Belum 30.
+E: Normal || IMT 18,5–22,9. || Tidak sesuai.
+
+#232 d=3 ty=application
+ks: Semua koreksi dihitung dari kalori basal.
+kw: BBI 50 kg; pedagang; gemuk −20%
+an: Basal 1250; umur −62,5; aktivitas sedang +375; gemuk −250 → 1312,5 kkal.
+A: 1875 kkal || Memakai basal laki-laki. || Jenis kelamin salah.
+B: 1250 kkal || Basal saja. || Belum disesuaikan.
+C*: 1312,5 kkal || 1250 − 62,5 + 375 − 250. || Perhitungan benar.
+D: 1000 kkal || Batas minimal wanita. || Bukan hasil hitung.
+E: 1562,5 kkal || Koreksi gemuk terlewat. || Kurang tepat.
+
+#233 d=1 ty=application
+ks: Pembagian: pagi 20%, siang 30%, sore 25%, selingan 10–15%.
+kw: 1800 kkal; makan siang
+an: 30% × 1800 = 540 kkal.
+A: 900 kkal (50%) || Tidak sesuai pembagian. || Terlalu besar.
+B*: 540 kkal (30%) || 30% × 1800. || Sesuai slide.
+C: 450 kkal (25%) || Porsi makan sore. || Bukan makan siang.
+D: 360 kkal (20%) || Porsi makan pagi. || Bukan makan siang.
+E: 180 kkal (10%) || Porsi selingan. || Bukan makan siang.
+
+#234 d=1 ty=application
+ks: Natrium DM + hipertensi < 1500 mg/hari.
+kw: hipertensi; ikan asin; mi instan
+an: Ada hipertensi → target < 1500 mg.
+A: 5000 mg/hari || Terlalu tinggi. || Tidak sesuai.
+B: 3000 mg/hari || Terlalu tinggi. || Tidak sesuai.
+C: 1500–2300 mg/hari || Anjuran DM tanpa hipertensi. || Kurang ketat.
+D: Tidak perlu dibatasi bila tekanan darah sudah terkontrol obat || Natrium tetap dibatasi. || Tidak sesuai.
+E*: < 1500 mg/hari || Target DM dengan hipertensi. || Sesuai materi.
+
+#235 d=2 ty=application
+ks: Sukrosa < 5% energi; 1 g KH = 4 kkal.
+kw: 2000 kkal; teh manis; sukrosa
+an: 5% × 2000 = 100 kkal ÷ 4 = 25 g gula/hari.
+A: Tidak boleh sama sekali || Materi membolehkan < 5%. || Terlalu ketat.
+B: < 50% total energi || Terlalu tinggi. || Tidak sesuai.
+C: Bebas asalkan obat diminum teratur || Tidak sesuai. || Sukrosa tetap dibatasi.
+D: < 30% total energi (± 150 g gula/hari) || Terlalu tinggi. || Tidak sesuai.
+E*: < 5% energi (± 25 g gula/hari) || 100 kkal ÷ 4 = 25 g. || Sesuai materi.
+
+#236 d=2 ty=application
+ks: Nefropati diabetik: protein 0,8 g/kgBB/hari.
+kw: nefropati; BB 65 kg
+an: 0,8 × 65 = 52 g/hari.
+A: Protein tidak dibatasi agar tidak malnutrisi || Tidak sesuai untuk nefropati. || Mempercepat progresi.
+B: 97,5 g/hari (1,5 g/kgBB) || Dosis protein tinggi (misalnya pasien kanker). || Tidak sesuai.
+C: 130 g/hari (2 g/kgBB) || Terlalu tinggi. || Tidak sesuai.
+D: 13 g/hari (0,2 g/kgBB) || Terlalu rendah. || Berisiko malnutrisi.
+E*: 52 g/hari (0,8 g/kgBB) || 0,8 × 65. || Sesuai materi.
+
+#237 d=1 ty=application
+ks: Pemanis tak berkalori aman dalam batas ADI; fruktosa tambahan tidak dianjurkan (LDL naik).
+kw: pemanis kopi
+an: Pilih pemanis tak berkalori dalam batas ADI.
+A: Gula pasir sebanyak yang disukai || Sukrosa < 5% energi. || Tidak sesuai.
+B: Fruktosa murni karena berasal dari buah || Fruktosa tambahan menaikkan LDL. || Tidak sesuai.
+C*: Sukralosa atau aspartam dalam batas ADI || Pemanis tak berkalori. || Sesuai materi.
+D: Madu tanpa batas karena alami || Berkalori tinggi. || Tidak sesuai.
+E: Sirup glukosa dengan takaran sendok makan || Pemanis berkalori. || Tidak sesuai.
+
+#238 d=2 ty=application
+ks: Sekretagog insulin (sulfonilurea) tetap merangsang insulin walau tidak makan → hipoglikemia; tekankan keteraturan 3J.
+kw: glibenklamid; melewatkan makan; gemetar; keringat dingin
+an: Gejala adrenergik hipoglikemia setelah melewatkan makan saat memakai sulfonilurea → perbaiki keteraturan makan.
+A: Menaikkan dosis glibenklamid || Memperberat hipoglikemia. || Tidak sesuai.
+B*: Keteraturan jadwal, jenis, dan jumlah makan || Obat tetap bekerja walau pasien tidak makan. || Sesuai materi.
+C: Puasa lebih lama agar tubuh beradaptasi || Berisiko hipoglikemia berulang. || Tidak sesuai.
+D: Makan sekali sehari dengan porsi besar || Tidak dianjurkan. || Fluktuasi glukosa besar.
+E: Menghentikan semua karbohidrat || Memperberat hipoglikemia. || Tidak sesuai.
+
+#239 d=2 ty=application
+ks: Pembatasan KH total < 130 g/hari tidak dianjurkan; KH tetap 45–65% energi, utamakan tinggi serat.
+kw: diet sangat rendah karbohidrat
+an: Materi secara eksplisit tidak menganjurkan KH < 130 g/hari.
+A: Dianjurkan karena aman untuk semua penyandang DM || Bertentangan dengan materi. || Tidak sesuai.
+B: Ganti karbohidrat dengan lemak jenuh agar tetap kenyang || Lemak jenuh harus < 7%. || Tidak sesuai.
+C: Karbohidrat justru dinaikkan > 80% energi || Terlalu tinggi. || Tidak sesuai.
+D*: Tidak dianjurkan; KH tetap 45–65% energi || Utamakan KH tinggi serat. || Sesuai materi.
+E: Karbohidrat boleh 0 g asal minum obat || Berisiko ketosis dan hipoglikemia. || Tidak sesuai.
+
+#240 d=1 ty=application
+ks: Serat 20–35 g/hari.
+kw: asupan serat 10 g
+an: 10 g kurang; anjuran 20–35 g dari bahan makanan.
+A: 60 g/hari || Terlalu tinggi. || Tidak sesuai.
+B: Serat dihindari karena memperlambat pengosongan lambung || Serat justru dianjurkan. || Tidak sesuai.
+C: 5 g/hari || Terlalu rendah. || Tidak sesuai.
+D: Hanya dari suplemen serat || Dianjurkan dari bahan makanan. || Tidak sesuai.
+E*: 20–35 g/hari || Dari kacang, buah, sayur, KH tinggi serat. || Sesuai materi.
+
+#512 d=1 ty=recall
+ks: Harris-Benedict pria: 66 + 13,7 BB + 5 TB − 6,8 U; wanita: 655 + 9,6 BB + 1,8 TB − 4,7 U.
+kw: Harris-Benedict; laki-laki
+an: Konstanta pria 66 dengan koefisien besar (13,7; 5; 6,8).
+
+#513 d=2 ty=application
+ks: Harris-Benedict pria: 66 + 13,7 BB + 5 TB − 6,8 U.
+kw: pria 40 tahun; BB 70; TB 170
+an: 66 + 959 + 850 − 272 = 1603 kkal.
+
+#514 d=1 ty=understanding
+ks: Karbohidrat dihitung sebagai sisa energi: energi total − (kalori protein + kalori lemak); kkal ÷ 4 = gram.
+kw: kebutuhan karbohidrat
+an: KH mengisi sisa energi setelah protein dan lemak ditentukan.
+
+#515 d=1 ty=recall
+ks: Protein dewasa sehat 0,8 g/kgBB/hari.
+kw: protein dewasa
+an: 0,8 g/kgBB = angka kecukupan protein dewasa.
+
+#516 d=1 ty=recall
+ks: PERKENI: lemak jenuh < 7%, tak jenuh ganda < 10%, sisanya tak jenuh tunggal.
+kw: PERKENI; lemak
+an: Ingat 7–10–sisa MUFA.
+
+#517 d=1 ty=recall
+ks: Empat pilar DM: edukasi, TNM, aktivitas fisik, farmakologis.
+kw: pengaturan makan; pilar
+an: Pengaturan makan sesuai kalori = TNM; jangan tertukar dengan staging TNM tumor.
+
+#591 d=2 ty=application
+ks: Koreksi umur 60–69 tahun −10%; aktivitas ringan +20%.
+kw: pria; BBI 60; 62 tahun; aktivitas ringan
+an: 30 × 60 = 1800; −180; +360 → 1980 kkal.
+A: 1800 kkal || Kalori basal saja. || Belum disesuaikan.
+B*: 1980 kkal || 1800 − 180 + 360. || Perhitungan benar.
+C: 1620 kkal || Hanya dikurangi umur. || Aktivitas terlewat.
+D: 2160 kkal || Koreksi umur terlewat. || Kurang tepat.
+E: 1500 kkal || Memakai basal perempuan. || Jenis kelamin salah.
+
+#592 d=2 ty=application
+ks: Harris-Benedict wanita: 655 + 9,6 BB + 1,8 TB − 4,7 U.
+kw: wanita 40 tahun; BB 60; TB 160
+an: 655 + 576 + 288 − 188 = 1331 kkal.
+A: 1603 kkal || Memakai rumus pria. || Tidak sesuai.
+B*: 1331 kkal || 655 + 576 + 288 − 188. || Perhitungan benar.
+C: 676 kkal || Konstanta 655 terlewat. || Tidak sesuai.
+D: 2000 kkal || Bukan hasil rumus. || Tidak sesuai.
+E: 1519 kkal || Umur tidak dikurangkan. || Tidak sesuai.
