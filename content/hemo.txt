@@ -1,0 +1,269 @@
+#525 d=1 ty=recall
+ks: Jalur ekstrinsik: tissue factor (III) + faktor VII; dinilai dengan PT.
+kw: jalur ekstrinsik
+an: VII khas ekstrinsik; VIII, IX, XII intrinsik; X jalur bersama.
+
+#526 d=1 ty=recall
+ks: Faktor IV = ion kalsium.
+kw: kalsium; nomor faktor
+an: Sitrat dan EDTA mengikat Ca²⁺ sehingga darah tidak membeku.
+
+#527 d=1 ty=recall
+ks: Hemostasis primer: sumbat trombosit. Sekunder: bekuan fibrin melalui kaskade koagulasi.
+kw: hemostasis sekunder
+an: Sekunder = fibrin.
+
+#549 d=1 ty=understanding
+ks: Kongesti: proses pasif akibat gangguan aliran balik vena; hiperemia: proses aktif akibat dilatasi arteriol.
+kw: kongesti; mekanisme
+an: Kongesti = aliran keluar terhambat.
+
+#550 d=2 ty=understanding
+ks: Edema gagal jantung: tekanan hidrostatik vena naik + retensi Na dan air (RAAS).
+kw: gagal jantung kongestif; edema
+an: Curah jantung turun → RAAS → retensi Na/air → hidrostatik naik.
+
+#551 d=1 ty=understanding
+ks: Starling: edema bila tekanan hidrostatik naik atau tekanan onkotik turun (juga obstruksi limfe, retensi Na, permeabilitas naik).
+kw: penyebab edema
+an: Hidrostatik mendorong keluar, onkotik menarik masuk.
+
+#552 d=1 ty=application
+ks: Filariasis: obstruksi limfe oleh cacing dewasa → limfedema kronik.
+kw: kaki gajah; mekanisme
+an: Cacing di saluran limfe → aliran limfe terhambat.
+
+#553 d=1 ty=recall
+ks: Filariasis disebabkan cacing filaria (W. bancrofti, B. malayi, B. timori) yang ditularkan nyamuk.
+kw: penyebab filariasis
+an: Nematoda jaringan.
+
+#582 d=1 ty=application
+ks: Sindrom nefrotik: hipoalbuminemia → tekanan onkotik turun → cairan pindah ke interstisial.
+kw: proteinuria masif; albumin 1,8
+an: Albumin rendah → onkotik turun.
+A: Tekanan hidrostatik naik karena gagal jantung || Mekanisme edema kardiak. || Tidak ada data gagal jantung.
+B: Tekanan onkotik plasma meningkat || Akan mencegah edema. || Arah terbalik.
+C*: Tekanan onkotik plasma turun (hipoalbuminemia) || Albumin menahan cairan di intravaskular. || Sesuai.
+D: Obstruksi saluran limfe oleh parasit || Mekanisme limfedema. || Tidak sesuai.
+E: Permeabilitas vaskular meningkat akibat inflamasi akut || Mekanisme edema radang. || Tidak sesuai.
+
+#583 d=1 ty=application
+ks: Edema inflamasi: mediator (histamin) meningkatkan permeabilitas → eksudat kaya protein.
+kw: gigitan serangga; merah; hangat; nyeri
+an: Tanda radang → permeabilitas naik.
+A: Obstruksi limfe kronik || Limfedema. || Tidak sesuai onset akut.
+B: Kongesti pasif kronik || Gangguan aliran vena. || Tidak ada tanda radang.
+C*: Permeabilitas vaskular naik oleh mediator radang || Histamin melebarkan celah endotel. || Sesuai tanda radang.
+D: Retensi natrium dan air oleh ginjal || Edema ginjal/jantung. || Tidak sesuai.
+E: Tekanan onkotik plasma turun || Mekanisme hipoalbumin. || Tidak sesuai.
+
+#584 d=2 ty=application
+ks: Kongesti pasif kronik hati (nutmeg liver) pada gagal jantung kanan: darah menumpuk di vena sentralis (sentrilobular merah, perifer pucat).
+kw: gagal jantung kanan; gambaran pala
+an: Pola sentrilobular merah + pucat di sekitarnya = hati pala.
+A: Sirosis bilier || Kelainan saluran empedu. || Tidak sesuai.
+B: Perlemakan hati (steatosis) || Vakuola lemak difus. || Tidak menjelaskan pola sentrilobular merah.
+C: Infark hati || Jarang karena suplai darah ganda. || Tidak sesuai.
+D: Hiperemia aktif hati akibat dilatasi arteriol || Proses aktif. || Gagal jantung → pasif.
+E*: Kongesti pasif kronik (nutmeg liver) || Aliran vena hepatik terhambat. || Sesuai.
+
+#585 d=2 ty=application
+ks: Trias Virchow (stasis, jejas endotel, hiperkoagulabilitas) → DVT → emboli paru.
+kw: pascaoperasi panggul; imobilisasi; bengkak tungkai; sesak mendadak
+an: Bengkak tungkai (DVT) lalu sesak/nyeri dada mendadak → emboli paru.
+A: Emboli lemak dari patah tulang panjang || Pascafraktur, disertai petekie dan gangguan neurologis. || Kurang sesuai.
+B: Emboli udara akibat prosedur vaskular || Terkait kateter/prosedur. || Tidak sesuai.
+C: Infark miokard primer || Tidak menjelaskan bengkak tungkai. || Kurang sesuai.
+D*: DVT yang lepas menjadi emboli paru || Stasis akibat imobilisasi. || Sumber embolus tersering.
+E: Edema paru akibat hipoalbuminemia || Tidak menjelaskan riwayat. || Tidak sesuai.
+
+#664 d=2 ty=analysis
+ks: Asites sirosis: hidrostatik ↑ (hipertensi portal) + onkotik ↓ (hipoalbuminemia).
+kw: sirosis; asites; albumin 2,1
+an: Dua mekanisme bekerja bersamaan.
+A*: Hidrostatik naik (portal) dan onkotik turun || Slide memasukkan asites ke kedua mekanisme. || Sesuai.
+B: Obstruksi limfatik saja || Limfedema. || Bukan mekanisme utama.
+C: Inflamasi akut peritoneum || Permeabilitas naik. || Tidak sesuai.
+D: Tekanan hidrostatik portal turun || Arah terbalik. || Tekanan portal justru naik.
+E: Tekanan onkotik plasma naik || Arah terbalik. || Albumin rendah.
+
+#665 d=1 ty=recall
+ks: Anasarka: edema berat menyeluruh dengan pembengkakan subkutan.
+kw: edema seluruh tubuh
+an: "Seluruh tubuh" = anasarka; lainnya nama edema per lokasi.
+A*: Anasarka || Edema generalisata berat. || Sesuai.
+B: Hidrotoraks || Cairan di rongga pleura. || Hanya satu lokasi.
+C: Hidroperitoneum (asites) || Cairan di rongga peritoneum. || Hanya satu lokasi.
+D: Hidroperikardium || Cairan di kantong perikardium. || Hanya satu lokasi.
+E: Limfedema || Obstruksi limfe. || Tidak sesuai.
+
+#666 d=1 ty=application
+ks: Retensi natrium: asupan garam berlebih pada insufisiensi ginjal → volume ekstrasel bertambah.
+kw: penyakit ginjal kronik; garam
+an: Garam + ginjal gagal → retensi Na.
+A*: Retensi natrium || Ginjal gagal membuang garam berlebih. || Contoh persis di slide.
+B: Obstruksi limfatik || Limfedema lokal. || Tidak sesuai.
+C: Inflamasi lokal || Permeabilitas naik. || Tidak sesuai.
+D: Peningkatan tekanan onkotik plasma || Akan mencegah edema. || Arah terbalik.
+E: Tekanan eksternal oleh massa tumor || Hidrostatik lokal. || Tidak sesuai.
+
+#667 d=1 ty=understanding
+ks: Hiperemia: aktif, dilatasi arteriol, merah. Kongesti: pasif, aliran vena terhambat, merah-biru (sianosis).
+kw: hiperemia; kongesti; perbedaan
+an: Merah terang = darah kaya O₂ (aktif); kebiruan = darah terdeoksigenasi menumpuk (pasif).
+A*: Hiperemia aktif dan merah; kongesti pasif dan sianotik || Sesuai slide. || Keduanya menaikkan volume darah setempat.
+B: Hiperemia pasif, kongesti aktif || Terbalik. || Tidak sesuai.
+C: Hiperemia kebiruan, kongesti merah terang || Warna tertukar. || Kongesti berisi Hb terdeoksigenasi.
+D: Hiperemia khas pada gagal jantung kanan kronik || Keliru. || Gagal jantung → kongesti.
+E: Kongesti terjadi pada otot rangka saat berolahraga || Keliru. || Olahraga → hiperemia.
+
+#668 d=2 ty=understanding
+ks: Kongesti kronik: stasis darah miskin O₂ → hipoksia kronik → degenerasi/nekrosis.
+kw: kongesti pasif kronik; kerusakan jaringan
+an: Darah "diam" → oksigen habis.
+A*: Stasis darah miskin O₂ → hipoksia kronik || Degenerasi atau kematian sel. || Sesuai slide.
+B: Aliran arteri yang meningkat berlebihan || Ciri hiperemia. || Tidak sesuai.
+C: Kelebihan oksigen yang memicu stres oksidatif || Arah terbalik. || Justru kekurangan oksigen.
+D: Peningkatan fibrinolisis lokal || Tidak berkaitan. || Tidak sesuai.
+E: Trombositopenia akibat sekuestrasi limpa || Tidak menjelaskan kerusakan jaringan. || Tidak sesuai.
+
+#669 d=1 ty=application
+ks: Petekie 1–2 mm, purpura 3–5 mm, ekimosis 1–2 cm; perdarahan tidak memucat saat ditekan.
+kw: bintik 1–2 mm; tidak hilang ditekan; trombosit 45.000
+an: Ukuran 1–2 mm → petekie.
+A*: Petekie || Perdarahan 1–2 mm. || Sesuai.
+B: Purpura || Perdarahan 3–5 mm. || Ukuran lebih besar.
+C: Ekimosis || Memar 1–2 cm. || Ukuran jauh lebih besar.
+D: Hematoma || Akumulasi darah membentuk massa. || Tidak sesuai.
+E: Hiperemia || Memucat saat ditekan. || Lesi pasien tidak memucat.
+
+#670 d=1 ty=application
+ks: Hematoma: akumulasi darah dalam jaringan; hemo-(rongga) untuk darah di rongga tubuh.
+kw: aneurisma aorta; retroperitoneum
+an: Darah di jaringan retroperitoneal → hematoma.
+A*: Hematoma retroperitoneal || Akumulasi perdarahan di jaringan. || Contoh persis di slide.
+B: Hemoperitoneum || Darah di dalam rongga peritoneum. || Lokasinya berbeda.
+C: Ekimosis || Memar subkutan 1–2 cm. || Tidak sesuai.
+D: Petekie || Perdarahan 1–2 mm. || Tidak sesuai.
+E: Kongesti || Gangguan aliran balik vena. || Bukan perdarahan.
+
+#671 d=1 ty=understanding
+ks: Kepentingan klinis perdarahan: volume, kecepatan, dan lokasi.
+kw: 10 mL batang otak; 500 mL lengan
+an: Contoh menonjolkan faktor lokasi.
+A*: Volume, kecepatan kehilangan, dan lokasi || Tiga faktor di slide. || Sesuai.
+B: Warna darah yang keluar || Tidak relevan. || Tidak sesuai.
+C: Usia pasien semata || Tidak tercantum. || Tidak sesuai.
+D: Jenis pembuluh darah yang pecah semata || Terlalu sempit. || Tidak sesuai.
+E: Kadar hemoglobin awal pasien semata || Terlalu sempit. || Tidak sesuai.
+
+#672 d=1 ty=recall
+ks: Endotel utuh: antitrombosis, antikoagulan, fibrinolitik; jejas endotel → prokoagulan.
+kw: endotel utuh
+an: Endotel utuh menjaga darah tetap cair.
+A*: Antitrombosis, antikoagulan, dan fibrinolitik || Sesuai slide. || Darah tetap cair.
+B: Protrombosis terus-menerus || Hanya setelah jejas. || Tidak sesuai.
+C: Mengekspos kolagen subendotel ke aliran darah || Terjadi bila endotel rusak. || Tidak sesuai.
+D: Mengaktifkan agregasi trombosit || Fungsi setelah jejas. || Tidak sesuai.
+E: Menyebabkan stasis aliran darah lokal || Tidak sesuai. || Bukan sifat endotel utuh.
+
+#673 d=2 ty=recall
+ks: Hemostasis primer: adhesi (vWF) → perubahan bentuk → sekresi granula (ADP, TXA2) → rekrutmen → agregasi.
+kw: sumbat trombosit; urutan
+an: Menempel dulu, baru memanggil trombosit lain.
+A*: Adhesi → bentuk → sekresi → rekrutmen → agregasi || Sesuai slide. || Hemostasis primer.
+B: Agregasi → adhesi → sekresi → bentuk → rekrutmen || Urutan salah. || Tidak sesuai.
+C: Fibrin → adhesi → agregasi → sekresi → rekrutmen || Fibrin adalah hemostasis sekunder. || Tidak sesuai.
+D: Fibrinolisis → adhesi → agregasi → bentuk → sekresi || Fibrinolisis tahap akhir. || Tidak sesuai.
+E: Sekresi → adhesi → vasokonstriksi → agregasi → bentuk || Urutan salah. || Tidak sesuai.
+
+#674 d=2 ty=application
+ks: Trias Virchow: jejas endotel, aliran abnormal (stasis/turbulensi), hiperkoagulabilitas. AF → stasis di aurikula kiri.
+kw: fibrilasi atrium; aurikula kiri
+an: Atrium bergetar → darah diam → stasis.
+A*: Aliran darah abnormal (stasis) || Atrium tidak memompa efektif. || Sesuai.
+B: Hiperkoagulabilitas || Mutasi faktor V, kehamilan, keganasan. || Tidak ada data.
+C: Jejas endotel || Aterosklerosis, trauma, vaskulitis. || Bukan mekanisme utama.
+D: Trombositopenia || Mengurangi pembekuan. || Arah terbalik.
+E: Fibrinolisis yang berlebihan || Mengurangi trombus. || Arah terbalik.
+
+#675 d=2 ty=application
+ks: Hiperkoagulabilitas primer: faktor V Leiden, mutasi protrombin; sekunder: kehamilan, kontrasepsi, keganasan.
+kw: DVT berulang; riwayat keluarga; mutasi faktor V
+an: Genetik + usia muda + familial → hiperkoagulabilitas.
+A*: Hiperkoagulabilitas || Faktor V Leiden resisten terhadap protein C aktif. || Sesuai slide.
+B: Jejas endotel || Bukan mekanisme mutasi faktor V. || Tidak sesuai.
+C: Stasis aliran vena || Tidak ada imobilisasi. || Tidak sesuai.
+D: Turbulensi aliran di bifurkasi || Pada aneurisma, bifurkasi. || Tidak sesuai.
+E: Vasokonstriksi refleks || Bukan komponen trias Virchow. || Tidak sesuai.
+
+#676 d=3 ty=analysis
+ks: Emboli lemak: fraktur tulang panjang → lemak sumsum ke sirkulasi; 24–72 jam: sesak, bingung, petekie.
+kw: fraktur femur; 48 jam; petekie; bingung
+an: Walau 99% emboli adalah tromboemboli, trias klinis setelah fraktur tulang panjang khas emboli lemak.
+A*: Emboli lemak dari sumsum tulang || Fraktur tulang panjang melepas lemak. || Sesuai.
+B: Tromboemboli dari vena dalam tungkai || Penyebab 99% emboli. || Trias klinis ini lebih khas emboli lemak.
+C: Emboli gas nitrogen || Penyakit dekompresi. || Tidak ada riwayat menyelam.
+D: Emboli fragmen tumor || Tidak ada tumor. || Tidak sesuai.
+E: Emboli benda asing (peluru) || Tidak ada luka tembak. || Tidak sesuai.
+
+#677 d=1 ty=application
+ks: Penyakit dekompresi: nitrogen terlarut keluar menjadi gelembung saat tekanan turun cepat.
+kw: penyelam; naik cepat; the bends
+an: Seperti membuka botol soda.
+A*: Gelembung nitrogen (emboli gas) || Penyakit dekompresi. || Sesuai.
+B: Emboli lemak dari sumsum tulang || Pada fraktur tulang panjang. || Tidak sesuai.
+C: Tromboemboli dari vena dalam || Pada imobilisasi. || Tidak sesuai.
+D: Emboli cairan ketuban || Pada persalinan. || Tidak sesuai.
+E: Hipoksia jaringan akibat kongesti vena || Tidak sesuai. || Bukan mekanisme the bends.
+
+#678 d=2 ty=recall
+ks: Iskemia: aliran darah berkurang (bisa reversibel). Infark: nekrosis iskemik akibat oklusi; 99% dari trombosis/emboli arteri.
+kw: iskemia; infark
+an: Iskemia belum tentu infark.
+A*: Iskemia = aliran kurang; infark = nekrosis iskemik || 99% infark dari trombosis/emboli arteri. || Sesuai slide.
+B: Iskemia selalu berakhir menjadi infark || Iskemia bisa reversibel. || Tidak sesuai.
+C: Infark adalah peningkatan aliran darah ke organ || Itu hiperemia. || Tidak sesuai.
+D: Infark hanya disebabkan oleh oklusi vena || Mayoritas arteri. || Tidak sesuai.
+E: Iskemia berarti keluarnya darah dari pembuluh || Itu perdarahan. || Tidak sesuai.
+
+#679 d=2 ty=application
+ks: Syok septik: vasodilatasi perifer, jejas/aktivasi endotel, DIC.
+kw: pneumonia; hipotensi refrakter cairan; akral hangat; DIC
+an: Infeksi + hipotensi refrakter + akral hangat + DIC → septik.
+A*: Syok septik (vasodilatasi, jejas endotel, DIC) || Respons sistemik terhadap infeksi. || Sesuai tabel slide.
+B: Syok kardiogenik (kegagalan pompa) || Infark, tamponade, emboli paru. || Tidak ada data jantung.
+C: Syok hipovolemik (volume tidak adekuat) || Perdarahan, diare, luka bakar. || Refrakter cairan dan akral hangat tidak cocok.
+D: Syok neurogenik (hilang tonus vaskular) || Cedera medula spinalis. || Tidak ada cedera spinal.
+E: Syok anafilaktik (degranulasi sel mast) || Paparan alergen. || Tidak ada alergen.
+
+#680 d=1 ty=application
+ks: Syok neurogenik: cedera medula spinalis/anestesi → hilang tonus simpatis → vasodilatasi + bradikardia.
+kw: cedera servikal; hipotensi; bradikardia
+an: Bradikardia pada syok → neurogenik.
+A*: Syok neurogenik || Hilangnya tonus pembuluh. || Sesuai.
+B: Syok hipovolemik akibat perdarahan || Takikardia dan akral dingin. || Tidak sesuai.
+C: Syok kardiogenik || Kegagalan pompa jantung. || Tidak sesuai.
+D: Syok septik || Infeksi berat. || Tidak sesuai.
+E: Syok anafilaktik || Diperantarai IgE. || Tidak sesuai.
+
+#681 d=2 ty=understanding
+ks: Syok: hipoperfusi → anaerob → laktat ↑ → asidosis → vasokonstriksi, sfingter prekapiler gagal, pooling → pompa Na gagal → kematian sel.
+kw: asam laktat; patogenesis syok
+an: Asidosis memperburuk perfusi (lingkaran setan).
+A*: Asidosis metabolik dan pooling darah perifer || Sfingter prekapiler gagal. || Sesuai alur slide.
+B: Alkalosis respiratorik primer || Asam laktat menurunkan pH. || Tidak sesuai.
+C: Peningkatan produksi ATP sel || Anaerob menghasilkan sedikit ATP. || Tidak sesuai.
+D: Peningkatan fungsi pompa Na-K-ATPase || Pompa gagal karena kekurangan ATP. || Tidak sesuai.
+E: Penurunan permeabilitas membran sel || Membran justru rusak dan bocor. || Tidak sesuai.
+
+#682 d=1 ty=recall
+ks: Trombosis: bekuan dalam pembuluh yang tidak cedera atau oklusi setelah cedera ringan (hemostasis salah tempat).
+kw: definisi trombosis
+an: Trombus menempel; embolus terlepas.
+A*: Bekuan dalam pembuluh yang tidak cedera || Atau oklusi setelah cedera ringan. || Sesuai slide.
+B: Proses fisiologis untuk menghentikan perdarahan || Itu hemostasis. || Tidak sesuai.
+C: Keluarnya darah dari pembuluh ke jaringan || Itu perdarahan. || Tidak sesuai.
+D: Massa yang terlepas dan terbawa aliran darah || Itu embolus. || Tidak sesuai.
+E: Berkurangnya aliran darah ke organ || Itu iskemia. || Tidak sesuai.
