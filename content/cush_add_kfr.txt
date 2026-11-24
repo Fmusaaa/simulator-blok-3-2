@@ -1,0 +1,239 @@
+#474 d=1 ty=recall
+ks: Cushing syndrome: semua keadaan akibat paparan glukokortikoid berlebih kronik; Cushing's disease: khusus akibat adenoma hipofisis penghasil ACTH.
+kw: syndrome vs disease
+an: Disease adalah satu penyebab spesifik dari syndrome.
+
+#475 d=1 ty=recall
+ks: Aksis HPA: CRH (hipotalamus) → ACTH (hipofisis anterior) → kortisol (zona fasikulata).
+kw: aksis HPA; kortisol
+an: Urutan hormon dari atas ke bawah.
+
+#476 d=1 ty=recall
+ks: Zona fasikulata menghasilkan glukokortikoid (kortisol).
+kw: glukokortikoid; zona
+an: Glomerulosa–fasikulata–retikularis = garam–gula–seks.
+
+#477 d=1 ty=recall
+ks: Kortisol beredar terutama terikat corticosteroid-binding globulin (transkortin), sebagian albumin.
+kw: transport kortisol
+an: Protein pengikat spesifik = CBG.
+
+#478 d=2 ty=application
+ks: Kortisol tinggi + ACTH rendah → Cushing primer/ACTH-independent (adenoma/karsinoma adrenal).
+kw: ACTH sangat rendah; kortisol tinggi
+an: Adrenal otonom menekan ACTH lewat umpan balik.
+
+#479 d=1 ty=recall
+ks: Penyebab tersering Cushing endogen: Cushing's disease (adenoma hipofisis ACTH) ±75%.
+kw: penyebab tersering; endogen
+an: Endogen terbanyak berasal dari hipofisis.
+
+#480 d=2 ty=analysis
+ks: Tanda pembeda Cushing dari obesitas: kelemahan/atrofi otot proksimal, striae ungu lebar > 1 cm, memar mudah, plethora.
+kw: membedakan; obesitas sederhana
+an: Tanda katabolik protein tidak ada pada obesitas biasa.
+
+#481 d=3 ty=understanding
+ks: Kortisol berlebih menjenuhkan 11β-HSD2 ginjal → kortisol mengaktifkan reseptor mineralokortikoid → hipokalemia, alkalosis.
+kw: hipokalemia; alkalosis metabolik; mekanisme
+an: Enzim pelindung reseptor MR kewalahan.
+
+#482 d=2 ty=application
+ks: Skrining Cushing (Endocrine Society): gambaran tidak sesuai usia (osteoporosis/hipertensi muda), tanda khas multipel, anak dengan BB naik tinggi badan turun, insidentaloma adrenal.
+kw: skrining; KECUALI
+an: Obesitas + hipertensi sesuai usia tanpa tanda katabolik tidak perlu skrining.
+
+#483 d=1 ty=understanding
+ks: Dexamethasone suppression test 1 mg: normal tersupresi; Cushing tidak tersupresi.
+kw: overnight 1 mg; kortisol pagi
+an: Kegagalan supresi = produksi kortisol otonom.
+
+#484 d=2 ty=application
+ks: Deksametason dosis tinggi menekan kortisol pada Cushing's disease (hipofisis masih responsif) → MRI hipofisis.
+kw: dosis tinggi tersupresi; ACTH normal-tinggi
+an: Supresi pada dosis tinggi → sumber hipofisis.
+
+#485 d=3 ty=analysis
+ks: ACTH ektopik (karsinoma paru sel kecil): ACTH sangat tinggi, hipokalemia berat, tidak tersupresi dosis tinggi → CT dada/abdomen.
+kw: perokok; ACTH sangat tinggi; tidak tersupresi
+an: Sumber ACTH di luar hipofisis tidak responsif umpan balik.
+
+#486 d=1 ty=recall
+ks: Mifepriston = antagonis reseptor glukokortikoid; metirapon/ketokonazol menghambat sintesis.
+kw: antagonis reseptor
+an: Bedakan penghambat sintesis dan penghambat reseptor.
+
+#510 d=1 ty=recall
+ks: Kortisol dihasilkan korteks adrenal zona fasikulata.
+kw: glukokortikoid; adrenal
+an: Hafalkan zona korteks.
+
+#569 d=1 ty=application
+ks: Gambaran Cushing = hiperfungsi zona fasikulata (kortisol).
+kw: moon face; buffalo hump; striae
+an: Gejala glukokortikoid berlebih → fasikulata.
+
+#487 d=1 ty=recall
+ks: Addison: insufisiensi adrenal primer—korteks gagal memproduksi kortisol ± aldosteron.
+kw: definisi Addison
+an: Kelainan di kelenjar adrenal sendiri.
+
+#488 d=1 ty=recall
+ks: Penyebab Addison: autoimun (±78%), tuberkulosis (±21%).
+kw: penyebab tersering
+an: Autoimun > TB.
+
+#489 d=2 ty=application
+ks: Penyakit autoimun lain (DM tipe 1, vitiligo, tiroiditis) meningkatkan risiko Addison autoimun.
+kw: DM tipe 1; vitiligo; kulit menghitam
+an: Kluster autoimun (sindrom poliglandular).
+
+#490 d=2 ty=understanding
+ks: Kortisol rendah → ACTH naik; POMC juga menghasilkan MSH → hiperpigmentasi.
+kw: hiperpigmentasi; mekanisme
+an: Prekursor bersama (POMC).
+
+#491 d=2 ty=application
+ks: Defisiensi aldosteron → hiponatremia, hiperkalemia, asidosis metabolik; hipotensi ortostatik.
+kw: riwayat TB; hipotensi; pusing berdiri
+an: Kehilangan efek aldosteron di tubulus distal.
+
+#492 d=1 ty=recall
+ks: Addison: lemas, BB turun, hiperpigmentasi, hipotensi, mual, nyeri perut, salt craving; bukan hipertensi/BB naik.
+kw: manifestasi; KECUALI
+an: Hipertensi dan BB naik adalah gambaran kelebihan kortisol.
+
+#493 d=2 ty=understanding
+ks: Tes stimulasi ACTH: Addison → kortisol tetap rendah walau ACTH basal tinggi.
+kw: kosintropin; respons kortisol
+an: Kelenjar rusak tidak merespons ACTH.
+
+#494 d=1 ty=application
+ks: Defisiensi mineralokortikoid: fludrokortison 0,1–0,2 mg sekali sehari.
+kw: hiperkalemia; hiponatremia; terapi tambahan
+an: Ganti aldosteron dengan fludrokortison.
+
+#495 d=2 ty=application
+ks: Saat stres (demam, infeksi, operasi): naikkan dosis glukokortikoid (stress dose), bawa steroid card.
+kw: pneumonia; edukasi
+an: Kebutuhan kortisol naik saat stres.
+
+#496 d=2 ty=application
+ks: Krisis adrenal: syok refrakter cairan, hipoglikemia, hiponatremia, hiperkalemia; dipicu stres akut.
+kw: syok; GD 45; natrium rendah; kalium tinggi
+an: Stres akut pada Addison tak terdiagnosis.
+
+#497 d=2 ty=recall
+ks: Diagnosis banding hiperpigmentasi Addison: acanthosis nigricans (dan hemokromatosis, obat).
+kw: diagnosis banding; hiperpigmentasi
+an: Pilih penyakit dengan kulit menghitam.
+
+#498 d=1 ty=recall
+ks: Hidrokortison oral dibagi 2–3 kali sehari, dosis terbesar pagi (meniru ritme sirkadian).
+kw: hidrokortison; cara pemberian
+an: Ikuti puncak kortisol pagi.
+
+#499 d=1 ty=recall
+ks: Prognosis Addison baik bila terapi patuh dan dosis disesuaikan saat stres, perjalanan, trauma.
+kw: prognosis
+an: Kunci = kepatuhan dan penyesuaian dosis.
+
+#500 d=1 ty=recall
+ks: Epidemiologi Addison: ±1/100.000, semua usia, pria = wanita (sesuai slide).
+kw: epidemiologi
+an: Hafalkan angka slide.
+
+#621 d=1 ty=application
+ks: Impairment (organ) → disabilitas (aktivitas individu) → handicap (peran sosial).
+kw: tidak bisa bekerja; menafkahi keluarga
+an: Kehilangan peran sosial/pekerjaan = handicap.
+
+#622 d=1 ty=application
+ks: Disabilitas: keterbatasan melakukan aktivitas sehari-hari secara normal.
+kw: tidak mampu mandi dan berjalan
+an: Aktivitas individu → disabilitas.
+
+#623 d=1 ty=application
+ks: Cacat sekunder: komplikasi yang timbul akibat penyakit/imobilisasi (dekubitus, kontraktur), bukan dari penyakit primer.
+kw: dekubitus; kontraktur; tirah baring
+an: Akibat imobilisasi → sekunder.
+
+#624 d=1 ty=understanding
+ks: Rehabilitasi dimulai sedini mungkin, sejak fase akut, bersama disiplin lain.
+kw: hari ke-2; ICU; mencegah kontraktur
+an: Mulai dini untuk mencegah cacat sekunder.
+
+#625 d=2 ty=application
+ks: Pencegahan tingkat kedua: mencegah impairment berkembang menjadi disabilitas.
+kw: neuropati; mencegah ulkus; fungsi berjalan
+an: Sudah ada impairment (neuropati), dicegah agar tidak jadi disabilitas.
+
+#626 d=1 ty=understanding
+ks: Keberhasilan rehabilitasi: kemandirian fungsi dan kembali ke masyarakat, bukan kesembuhan total penyakit dasar.
+kw: berhasil; KECUALI
+an: Rehabilitasi berfokus pada fungsi, bukan penyembuhan.
+
+#627 d=1 ty=recall
+ks: Prof. dr. Soeharso mendirikan pusat rehabilitasi di Solo (1951).
+kw: sejarah; Solo 1951
+an: Tokoh rehabilitasi Indonesia.
+
+#628 d=1 ty=recall
+ks: SpKFR: assessment, diagnosis rehabilitasi, menyusun program, evaluasi; pemimpin tim.
+kw: diagnosis rehabilitasi; program
+an: Peran dokter spesialis dalam tim.
+
+#629 d=1 ty=application
+ks: Fisioterapis: terapi dengan modalitas fisik (panas, listrik, traksi, latihan).
+kw: traksi; diathermy
+an: Unsur fisika → fisioterapis.
+
+#630 d=1 ty=application
+ks: Okupasi terapis: latihan aktivitas sehari-hari dan fungsi tangan.
+kw: memakai baju; sendok modifikasi; koordinasi tangan
+an: AKS dan fungsi tangan → okupasi terapi.
+
+#631 d=1 ty=application
+ks: Prostetis membuat prostesis (pengganti anggota tubuh); ortotis membuat ortosis (penopang).
+kw: kaki palsu
+an: Pengganti bagian tubuh = prostesis.
+
+#632 d=2 ty=recall
+ks: Brace: kaku dan bersendi; splint: kaku tanpa sendi.
+kw: brace; splint
+an: Pembeda ada tidaknya sendi.
+
+#633 d=2 ty=application
+ks: Disartria = gangguan artikulasi; afasia = gangguan bahasa (pemahaman/pemilihan kata).
+kw: bicara pelo; mengerti pembicaraan
+an: Bahasa utuh, pengucapan terganggu → artikulasi.
+
+#634 d=2 ty=recall
+ks: Pekerja sosial medik: aspek sosial-ekonomi, keluarga, pekerjaan; psikoanalisis bukan tugasnya.
+kw: pekerja sosial; KECUALI
+an: Psikoanalisis ranah psikolog/psikiater.
+
+#635 d=1 ty=application
+ks: Fase psikologis pascadisabilitas: shock mental → … → penerimaan.
+kw: seminggu; panik; putus asa
+an: Awal kejadian dengan panik → fase shock.
+
+#636 d=1 ty=application
+ks: Fase penerimaan: pasien bersemangat berlatih dan menetapkan sasaran.
+kw: bersemangat; antusias berlatih
+an: Motivasi muncul → penerimaan.
+
+#637 d=2 ty=recall
+ks: Alat ukur fungsi: VAS untuk nyeri, ROM untuk gerak sendi.
+kw: nyeri bahu; keterbatasan gerak
+an: Nyeri → VAS; gerak → ROM.
+
+#638 d=1 ty=application
+ks: AKS dasar (mandi, makan, berpakaian) vs AKS instrumental (belanja, telepon, mengatur uang).
+kw: belanja; telepon; uang
+an: Aktivitas kompleks di lingkungan → instrumental.
+
+#639 d=1 ty=recall
+ks: Rehabilitasi medik: mengembangkan fungsi fisik dan psikis, serta mekanisme kompensasi agar mandiri.
+kw: definisi rehabilitasi medik
+an: Fokus fungsi dan kemandirian.
