@@ -1,0 +1,345 @@
+#363 d=1 ty=recall
+ks: Metformin: menurunkan glukoneogenesis hati (aktivasi AMPK) dan meningkatkan translokasi GLUT4; tidak butuh sel β berfungsi.
+kw: metformin; mekanisme
+an: Bedakan mekanisme tiap golongan OHO.
+A*: Menekan glukoneogenesis hati dan menaikkan GLUT4 || Tidak membutuhkan sel β yang masih berfungsi. || Sesuai slide.
+B: Menutup kanal KATP sel β pankreas || Mekanisme sulfonilurea. || Tidak sesuai.
+C: Menghambat reabsorpsi glukosa di tubulus proksimal ginjal || Mekanisme penghambat SGLT2. || Tidak sesuai.
+D: Menghambat enzim DPP-4 || Mekanisme gliptin. || Tidak sesuai.
+E: Menghambat α-glukosidase di brush border usus || Mekanisme akarbose. || Tidak sesuai.
+
+#364 d=1 ty=recall
+ks: Metformin tidak menyebabkan hipoglikemia (bila tunggal) dan BB netral; ESO: GI transien, asidosis laktat, defisiensi B12.
+kw: keunggulan metformin
+an: Bandingkan dengan sulfonilurea (hipoglikemia, BB naik).
+A: Menaikkan berat badan pasien kurus || Efek sulfonilurea. || Tidak sesuai.
+B: Membutuhkan sel β yang masih berfungsi || Metformin tidak membutuhkan. || Tidak sesuai.
+C*: Tanpa hipoglikemia dan BB netral || Sesuai slide. || Keunggulan biguanid.
+D: Tidak pernah menimbulkan efek samping saluran cerna || Gangguan GI transien sering. || Tidak sesuai.
+E: Aman diberikan pada gagal ginjal berat || Risiko asidosis laktat. || Tidak sesuai.
+
+#365 d=1 ty=recall
+ks: Fenformin dan buformin ditarik karena risiko tinggi asidosis laktat; metformin satu-satunya biguanid yang dipakai.
+kw: fenformin; ditarik
+an: Efek samping kelas biguanid = asidosis laktat.
+A: Menyebabkan hipoglikemia berat || Bukan sifat biguanid. || Tidak sesuai.
+B*: Risiko asidosis laktat tinggi || Sesuai slide. || Alasan penarikan.
+C: Tidak efektif menurunkan glukosa darah || Tidak sesuai. || Bukan alasan penarikan.
+D: Hepatotoksisitas berat yang sering terjadi || Tidak sesuai. || Bukan alasan utama.
+E: Teratogenik pada trimester pertama || Tidak sesuai. || Bukan alasan penarikan.
+
+#366 d=1 ty=recall
+ks: Sulfonilurea menutup kanal KATP sel β → depolarisasi → insulin dilepas tanpa bergantung glukosa.
+kw: sulfonilurea generasi II
+an: Secretagogue → kanal KATP.
+A: Memperlambat pengosongan lambung || Efek agonis GLP-1. || Tidak sesuai.
+B: Meningkatkan sensitivitas insulin melalui PPAR-γ || Mekanisme TZD. || Tidak sesuai.
+C: Meningkatkan ekskresi glukosa lewat urin || Mekanisme penghambat SGLT2. || Tidak sesuai.
+D: Menurunkan glukoneogenesis di hati || Mekanisme metformin. || Tidak sesuai.
+E*: Menutup kanal KATP sel β || Sekresi insulin meningkat. || Sesuai slide.
+
+#367 d=1 ty=recall
+ks: Kontraindikasi sulfonilurea: alergi sulfa, DM tipe 1, ketoasidosis diabetik.
+kw: kontraindikasi sulfonilurea
+an: Butuh sel β berfungsi; struktur sulfonamid.
+A*: Alergi sulfa, DM tipe 1, KAD || Sesuai slide. || Kontraindikasi.
+B: Obesitas sentral dengan IMT di atas 30 || Bukan kontraindikasi. || Tidak sesuai.
+C: Konstipasi kronik || Bukan kontraindikasi. || Tidak sesuai.
+D: Usia di atas 40 tahun || Bukan kontraindikasi. || Tidak sesuai.
+E: Hipertensi terkontrol || Bukan kontraindikasi. || Tidak sesuai.
+
+#368 d=2 ty=recall
+ks: Klorpropamid (generasi I): kerja > 36 jam, potensiasi ADH → retensi air dan hiponatremia; tolbutamid paling aman pada insufisiensi ginjal.
+kw: generasi I; hiponatremia; ADH
+an: Kerja paling panjang + efek ADH → klorpropamid.
+A: Glimepirid || Generasi II. || Tidak sesuai.
+B: Gliklazid || Generasi II. || Tidak sesuai.
+C: Tolbutamid || Kerja singkat 6–12 jam. || Tidak sesuai.
+D: Glipizid || Generasi II. || Tidak sesuai.
+E*: Klorpropamid || Sesuai slide. || Hipoglikemia berkepanjangan.
+
+#369 d=2 ty=recall
+ks: Potensiasi hipoglikemia sulfonilurea: klofibrat, alopurinol, salisilat, sulfonamid.
+kw: interaksi; sulfonilurea
+an: Obat yang menggeser ikatan protein atau menghambat metabolisme menaikkan efek.
+A: Kortikosteroid || Menaikkan gula darah. || Arah terbalik.
+B: Diuretik tiazid || Menaikkan gula darah. || Arah terbalik.
+C: Rifampisin || Penginduksi enzim, menurunkan efek. || Arah terbalik.
+D*: Klofibrat, alopurinol, salisilat, sulfonamid || Sesuai slide. || Meningkatkan efek hipoglikemia.
+E: Levotiroksin || Tidak disebut. || Tidak sesuai.
+
+#370 d=2 ty=understanding
+ks: Meglitinid: t½ ±1 jam, efek di sekitar waktu makan; diminum saat makan, dilewati bila tidak makan.
+kw: repaglinid; jadwal makan tidak teratur
+an: Kerja singkat sesuai waktu makan.
+A: Menghambat SGLT2 di ginjal || Tidak sesuai. || Mekanisme gliflozin.
+B: Cukup diminum seminggu sekali || Tidak sesuai. || Kerjanya singkat.
+C*: Kerja singkat, efek di sekitar waktu makan || t½ ± 1 jam. || Sesuai slide.
+D: Bekerja tanpa memerlukan sel β pankreas || Butuh sel β berfungsi. || Tidak sesuai.
+E: Tidak menyebabkan hipoglikemia sama sekali || Tetap ada risiko. || Tidak sesuai.
+
+#371 d=1 ty=recall
+ks: Akarbose 3×/hari bersama suapan pertama makan.
+kw: akarbose; cara minum
+an: Harus ada karbohidrat di usus saat obat bekerja.
+A: Seminggu sekali || Tidak sesuai. || Kerjanya lokal saat makan.
+B*: 3× sehari bersama suapan pertama || Sesuai slide. || Menghambat α-glukosidase saat makan.
+C: Sebelum tidur tanpa makan || Tidak ada karbohidrat untuk dihambat. || Tidak sesuai.
+D: Hanya saat terjadi hipoglikemia || Tidak sesuai. || Akarbose bukan terapi hipoglikemia.
+E: Dua jam setelah makan || Terlambat. || Tidak sesuai.
+
+#372 d=1 ty=recall
+ks: Kontraindikasi penghambat α-glukosidase: irritable bowel syndrome (efek samping GI).
+kw: kontraindikasi; α-glukosidase
+an: ESO GI memperberat penyakit usus.
+A*: Irritable bowel syndrome || Sesuai slide. || ESO GI memperberat keluhan.
+B: Obesitas || Bukan kontraindikasi. || Tidak sesuai.
+C: Usia muda || Bukan kontraindikasi. || Tidak sesuai.
+D: Hipertensi esensial yang terkontrol || Bukan kontraindikasi. || Tidak sesuai.
+E: Konstipasi kronik fungsional || Justru tercantum sebagai pro. || Tidak sesuai.
+
+#373 d=2 ty=application
+ks: TZD (agonis PPAR-γ): retensi air, edema, BB naik, hepatotoksik; kontraindikasi CHF NYHA III–IV.
+kw: gagal jantung NYHA III; retensi air
+an: Edema + gagal jantung → hindari TZD.
+A*: Tiazolidinedion || Retensi air dan edema. || Kontraindikasi NYHA III–IV.
+B: Dapagliflozin (penghambat SGLT2) || Justru bermanfaat pada gagal jantung. || Tidak sesuai.
+C: Sitagliptin (penghambat DPP-4) || Bukan kontraindikasi utama. || Tidak sesuai.
+D: Akarbose (penghambat α-glukosidase) || Bukan kontraindikasi. || Tidak sesuai.
+E: Metformin dengan fungsi ginjal normal || Tidak dikontraindikasikan. || Tidak sesuai.
+
+#374 d=1 ty=recall
+ks: Pioglitazon: tanpa hipoglikemia, HDL naik, TG turun; kerugian BB naik, edema, fraktur, biaya tinggi.
+kw: keuntungan pioglitazon
+an: Pilih keuntungan; lainnya justru kerugian.
+A*: Tanpa hipoglikemia, HDL naik, TG turun || Sesuai tabel TZD. || Keuntungan pioglitazon.
+B: Menurunkan berat badan secara bermakna || BB justru naik. || Tidak sesuai.
+C: Tanpa risiko fraktur tulang || Ada risiko fraktur. || Tidak sesuai.
+D: Aman pada gagal jantung berat || Kontraindikasi. || Tidak sesuai.
+E: Harganya murah dan mudah didapat || Biaya tinggi. || Tidak sesuai.
+
+#375 d=2 ty=understanding
+ks: Efek inkretin: glukosa oral memicu insulin lebih besar daripada glukosa IV pada kadar glukosa sama (GIP, GLP-1); defektif pada T2DM.
+kw: efek inkretin
+an: Kuncinya perbandingan rute oral vs IV.
+A: Pemecahan polisakarida menjadi monosakarida di usus || Kerja α-glukosidase. || Tidak sesuai.
+B: Ekskresi glukosa berlebih melalui urin || Efek penghambat SGLT2. || Tidak sesuai.
+C*: Glukosa oral memicu insulin lebih besar daripada IV || Dimediasi GIP dan GLP-1. || Sesuai slide.
+D: Pelepasan glukagon setelah makan || Tidak sesuai. || Inkretin justru menekan glukagon.
+E: Penurunan glukoneogenesis di hati || Efek metformin. || Tidak sesuai.
+
+#376 d=1 ty=recall
+ks: Penghambat DPP-4: inkretin endogen bertahan lebih lama → insulin naik, glukagon turun; tanpa hipoglikemia, BB netral.
+kw: gliptin; mekanisme
+an: Menghambat enzim pemecah inkretin.
+A: Mengaktifkan reseptor PPAR-γ || Mekanisme TZD. || Tidak sesuai.
+B*: Memperpanjang kerja inkretin endogen || Insulin naik, glukagon turun. || Sesuai slide.
+C: Menghambat SGLT2 di tubulus ginjal || Mekanisme gliflozin. || Tidak sesuai.
+D: Menghambat α-glukosidase di usus || Mekanisme akarbose. || Tidak sesuai.
+E: Menutup kanal KATP sel β || Mekanisme sulfonilurea. || Tidak sesuai.
+
+#377 d=2 ty=understanding
+ks: ADA: pertimbangkan GLP-1 RA bila intoleransi metformin, ada ASCVD/gagal jantung/CKD, HbA1c > 1,5% di atas target, atau target tidak tercapai dalam 3 bulan.
+kw: GLP-1 agonis; KECUALI
+an: Pasien tanpa komorbid yang sudah mencapai target tidak perlu tambahan.
+A: Kontraindikasi atau intoleransi metformin || Termasuk indikasi. || Tidak sesuai.
+B: Disertai aterosklerosis, gagal jantung, atau CKD || Termasuk indikasi. || Tidak sesuai.
+C: HbA1c lebih dari 1,5% di atas target || Termasuk indikasi. || Tidak sesuai.
+D: Tidak mencapai target HbA1c dalam 3 bulan || Termasuk indikasi. || Tidak sesuai.
+E*: Sudah mencapai target dengan metformin, tanpa komorbid || Tidak perlu tambahan obat. || Jawaban yang benar.
+
+#378 d=1 ty=recall
+ks: Penghambat SGLT2 menghambat reabsorpsi glukosa di tubulus proksimal → glukosuria → ISK dan infeksi jamur genital.
+kw: dapagliflozin; efek samping
+an: Glukosa di urin memudahkan infeksi.
+A: Edema tungkai || ESO TZD. || Tidak sesuai.
+B: Hipoglikemia berat bila tunggal || ESO sulfonilurea. || Tidak sesuai.
+C*: ISK dan infeksi genital || Glukosuria memudahkan infeksi. || Sesuai tabel.
+D: Asidosis laktat || ESO metformin. || Tidak sesuai.
+E: Flatulen dan tinja lembek || ESO penghambat α-glukosidase. || Tidak sesuai.
+n+: Koreksi pembahasan lama: SGLT2 terletak di tubulus proksimal, bukan distal.
+
+#379 d=2 ty=application
+ks: Algoritma PERKENI: HbA1c < 7,5% → gaya hidup + monoterapi; ≥ 7,5% → kombinasi 2 obat; > 9% dengan gejala dekompensasi → insulin.
+kw: HbA1c 7,2%; saat diagnosis
+an: 7,2 < 7,5 → monoterapi.
+A*: Gaya hidup sehat + monoterapi (umumnya metformin) || HbA1c < 7,5%. || Sesuai algoritma.
+B: Kombinasi tiga obat oral sekaligus || Untuk HbA1c jauh lebih tinggi. || Tidak sesuai.
+C: Kombinasi dua obat dengan mekanisme berbeda || Untuk HbA1c ≥ 7,5%. || Tidak sesuai.
+D: Insulin intensif basal-bolus || Untuk HbA1c > 9% dengan dekompensasi. || Tidak sesuai.
+E: Tanpa obat, cukup diet selama satu tahun || Kurang tepat. || Algoritma menganjurkan monoterapi.
+
+#380 d=1 ty=understanding
+ks: Strategi: diet → latihan → obat; "no meal, no drug"; kontrol ketat tanpa hipoglikemia.
+kw: strategi; pemicu insulin
+an: Keamanan secretagogue = jangan minum bila tidak makan.
+A: Tidak perlu memahami farmakokinetika obat || Justru harus dipahami. || Tidak sesuai.
+B: Obat diberikan dahulu, diet belakangan || Urutan terbalik. || Tidak sesuai.
+C: Hipoglikemia dapat diterima asal glukosa turun || Tidak sesuai. || Hipoglikemia harus dihindari.
+D*: "No meal, no drug" tanpa hipoglikemia || Sesuai slide. || Prinsip keamanan.
+E: Obat tetap diminum walaupun tidak makan || Berisiko hipoglikemia. || Tidak sesuai.
+
+#381 d=2 ty=application
+ks: HbA1c ≥ 7,5% saat diagnosis → kombinasi 2 obat (metformin + obat lain) bila tanpa dekompensasi.
+kw: HbA1c 8,2%; eLFG > 90
+an: 8,2 ≥ 7,5 tanpa dekompensasi → kombinasi 2 obat.
+
+#382 d=2 ty=application
+ks: DMT2 + PJK: tambah GLP-1 RA atau SGLT2i dengan bukti manfaat kardiovaskular.
+kw: PJK stabil; HbA1c 8,0
+an: Pilih obat dengan manfaat kardiovaskular.
+
+#383 d=2 ty=application
+ks: Gagal jantung: hindari TZD; SGLT2i lebih dipilih.
+kw: gagal jantung; HbA1c 7,8
+an: Edema memperburuk gagal jantung.
+
+#384 d=2 ty=application
+ks: Lansia tinggal sendiri dan sering lupa makan: hindari sulfonilurea kerja panjang (hipoglikemia).
+kw: lansia; lupa makan
+an: No meal, no drug tidak bisa dijamin → hindari secretagogue.
+
+#385 d=2 ty=application
+ks: Hiperglikemia signifikan tanpa dekompensasi berat → kombinasi metformin + sulfonilurea (sesuai judul kasus slide).
+kw: HbA1c 9,8%; GDP 210
+an: Butuh penurunan cepat; tidak ada ketosis.
+
+#386 d=2 ty=application
+ks: GLP-1 RA menurunkan BB → cocok untuk obesitas; TZD, insulin, sulfonilurea, meglitinid menaikkan BB.
+kw: IMT 33; tambah obat
+an: Obesitas → pilih obat yang menurunkan BB.
+A: Pioglitazon || BB naik. || Kurang cocok.
+B: Insulin basal || BB naik. || Kurang cocok.
+C: Sulfonilurea || BB naik. || Kurang cocok.
+D*: Agonis GLP-1 || Menurunkan berat badan. || Sesuai tabel pro.
+E: Meglitinid (repaglinid) || BB naik. || Kurang cocok.
+
+#387 d=2 ty=application
+ks: KAD: insulin reguler IV (infus kontinu) — onset cepat, mudah dititrasi.
+kw: Kussmaul; aseton; > 300 mg/dL
+an: Kegawatan → insulin reguler IV.
+
+#388 d=2 ty=application
+ks: DM tipe 1: regimen basal-bolus (kerja panjang + kerja cepat sebelum makan).
+kw: DM tipe 1 baru; regimen harian
+an: Meniru sekresi insulin fisiologis.
+
+#389 d=2 ty=application
+ks: Hiperkalemia: insulin reguler IV + dekstrosa memindahkan K⁺ ke intrasel.
+kw: kalium tinggi; CKD
+an: Insulin mengaktifkan Na⁺/K⁺-ATPase.
+
+#390 d=2 ty=application
+ks: Gagal OHO pada DMT2: tambah insulin basal sekali sehari malam (add-on), OHO diteruskan.
+kw: 8 tahun; HbA1c > 8,5; GDP naik
+an: Insulin basal menekan glukosa hati malam.
+
+#391 d=2 ty=application
+ks: Glukotoksisitas (HbA1c > 10%, BB turun, gejala berat) → insulin intensif sementara, lalu dapat dialihkan ke oral.
+kw: HbA1c > 10%; BB turun drastis
+an: Hilangkan glukotoksisitas dulu.
+
+#392 d=1 ty=recall
+ks: Rapid-acting (lispro, aspart, glulisin): onset 5–15 menit, puncak 1–2 jam, lama 4–6 jam.
+kw: rapid-acting; onset
+an: Hafalkan tabel jenis insulin.
+A: Onset 30–60 menit, puncak 2–4 jam || Profil insulin reguler. || Tidak sesuai.
+B*: Onset 5–15 menit, puncak 1–2 jam || Lama kerja 4–6 jam. || Sesuai tabel.
+C: Onset 24 jam tanpa puncak yang jelas || Tidak sesuai. || Bukan profil insulin mana pun.
+D: Onset 1–3 jam tanpa puncak, kerja 12–24 jam || Profil glargine/detemir. || Tidak sesuai.
+E: Onset 1,5–4 jam, puncak 4–10 jam || Profil NPH. || Tidak sesuai.
+
+#393 d=1 ty=recall
+ks: Long-acting (glargine, detemir, degludec): hampir tanpa puncak, kerja 12–24 jam → insulin basal.
+kw: tanpa puncak; basal
+an: Basal = datar tanpa puncak.
+A: Insulin reguler || Kerja singkat. || Tidak sesuai.
+B: Insulin lispro || Kerja cepat. || Tidak sesuai.
+C: NPH (isofan) dengan puncak 4–10 jam || Kerja menengah. || Ada puncak.
+D*: Glargine atau detemir || Kerja panjang. || Sesuai tabel.
+E: Insulin aspart || Kerja cepat. || Tidak sesuai.
+
+#394 d=2 ty=understanding
+ks: Koma hipoglikemia: onset cepat, kulit pucat berkeringat, napas normal/dangkal, tanpa asidosis. Koma diabetik: bertahap, kulit kering panas, napas Kussmaul, asidosis, dehidrasi.
+kw: koma hipoglikemia; koma diabetik
+an: Keringat dingin vs kulit kering; onset cepat vs bertahap.
+A: Koma diabetik berkembang sangat cepat dalam menit || Justru bertahap. || Tidak sesuai.
+B: Keduanya tidak bisa dibedakan secara klinis || Tidak sesuai. || Ada perbedaan khas.
+C: Koma hipoglikemia ditandai kulit panas dan kering || Ciri koma diabetik. || Tidak sesuai.
+D*: Hipoglikemia: onset cepat, pucat berkeringat || Napas normal, tanpa asidosis. || Sesuai tabel.
+E: Koma hipoglikemia selalu disertai asidosis berat || Tidak sesuai. || Asidosis khas koma diabetik.
+
+#395 d=1 ty=recall
+ks: GLUT4: transporter bergantung insulin di otot dan lemak; GLUT1 basal, GLUT2 sel β/hati, GLUT3 neuron, GLUT5 fruktosa.
+kw: GLUT; bergantung insulin
+an: Insulin → translokasi GLUT4.
+A: GLUT5 || Absorpsi fruktosa di usus. || Tidak sesuai.
+B: GLUT1 || Ambilan glukosa basal, sawar darah otak. || Tidak sesuai.
+C: GLUT3 || Neuron. || Tidak sesuai.
+D: GLUT2 || Sel β, hati, ginjal, usus. || Tidak sesuai.
+E*: GLUT4 || Insulin memicu translokasi ke membran. || Sesuai tabel.
+
+#396 d=1 ty=recall
+ks: ESO insulin: hipoglikemia, alergi, lipodistrofi, BB naik, hipokalemia.
+kw: efek samping insulin
+an: Bedakan ESO insulin dari OHO lain.
+A: Edema dan gagal jantung || ESO TZD. || Tidak sesuai.
+B: Defisiensi vitamin B12 || ESO metformin. || Tidak sesuai.
+C*: Hipoglikemia, lipodistrofi, BB naik, hipokalemia || Sesuai slide. || ESO insulin.
+D: Infeksi jamur genital || ESO penghambat SGLT2. || Tidak sesuai.
+E: Asidosis laktat || ESO metformin. || Tidak sesuai.
+
+#554 d=1 ty=recall
+ks: Metformin lini pertama DMT2 bila tidak ada kontraindikasi.
+kw: lini pertama
+an: Efektif, murah, tanpa hipoglikemia, BB netral.
+
+#555 d=1 ty=recall
+ks: Sulfonilurea adalah insulin secretagogue → risiko hipoglikemia.
+kw: secretagogue; hipoglikemia
+an: Memicu insulin tanpa bergantung glukosa.
+
+#556 d=1 ty=application
+ks: Gejala adrenergik dan neuroglikopenik setelah minum OHO → curigai sulfonilurea (glimepirid).
+kw: berkeringat; lemas; setelah minum obat
+an: OHO penyebab hipoglikemia tersering = sulfonilurea.
+
+#557 d=1 ty=recall
+ks: Sulfonilurea diminum ±30 menit sebelum makan atau bersama makan pertama; jangan lewatkan makan.
+kw: aturan minum glimepirid
+an: Puncak insulin bertepatan dengan kenaikan glukosa setelah makan.
+
+#558 d=1 ty=recall
+ks: Akarbose menghambat α-glukosidase usus → penyerapan karbohidrat melambat.
+kw: pencernaan karbohidrat
+an: Target di usus.
+
+#570 d=2 ty=application
+ks: Metformin kontraindikasi bila eGFR < 30 (risiko asidosis laktat).
+kw: eGFR 25; asidosis laktat
+an: Metformin diekskresi utuh lewat ginjal.
+A: Glikuidon || Dieliminasi lewat empedu. || Relatif aman pada gangguan ginjal.
+B: Insulin dengan penyesuaian dosis || Tidak dikontraindikasikan. || Tidak sesuai.
+C: Linagliptin || Tanpa penyesuaian dosis ginjal. || Tidak sesuai.
+D: Akarbose || Tidak terkait asidosis laktat. || Tidak sesuai.
+E*: Metformin || Akumulasi pada gagal ginjal. || Kontraindikasi bila eGFR < 30.
+
+#571 d=2 ty=application
+ks: Pioglitazon (agonis PPAR-γ): sensitizer insulin; ESO retensi cairan, edema, BB naik.
+kw: PPAR-γ; edema; BB naik
+an: PPAR-γ = TZD.
+A: Glimepirid || ESO hipoglikemia. || Tidak sesuai.
+B: Metformin || Tidak menyebabkan edema. || Tidak sesuai.
+C*: Pioglitazon || Agonis PPAR-γ, retensi cairan. || Sesuai.
+D: Akarbose || ESO kembung. || Tidak sesuai.
+E: Dapagliflozin || Justru menurunkan BB. || Tidak sesuai.
+
+#572 d=1 ty=application
+ks: SGLT2i → glukosuria → ISK dan infeksi jamur genital.
+kw: dapagliflozin; edukasi
+an: Glukosa di urin = media pertumbuhan mikroba.
+A: Hipoglikemia berat bila digunakan tunggal || Jarang bila tunggal. || Tidak sesuai.
+B*: ISK dan infeksi jamur genital || Akibat glukosuria. || Sesuai.
+C: Kenaikan berat badan yang bermakna || BB justru turun. || Tidak sesuai.
+D: Asidosis laktat || ESO metformin. || Tidak sesuai.
+E: Edema tungkai || ESO pioglitazon. || Tidak sesuai.
