@@ -1,0 +1,329 @@
+#111 d=1 ty=recall
+ks: Ciri trombosit: fragmen sitoplasma megakariosit tanpa inti, 1,5–3,5 µm, umur 7–10 hari.
+kw: ciri trombosit
+an: Trombosit = sel darah terkecil, tanpa inti, dari megakariosit, umur 7–10 hari. Umur 120 hari adalah eritrosit.
+A: Berasal dari limfosit di kelenjar limfe || Limfosit adalah sel imun. || Trombosit berasal dari megakariosit sumsum tulang.
+B: Sel bulat berinti dengan granula azurofil || Deskripsi mirip leukosit. || Trombosit tidak berinti.
+C: Fragmen megakariosit yang hanya hidup 1–2 hari || Asal benar, tetapi umur terlalu singkat. || Umur trombosit 7–10 hari.
+D: Sel tanpa inti berumur ±120 hari di sirkulasi || Itu ciri eritrosit. || Trombosit jauh lebih kecil dan berumur 7–10 hari.
+E*: Fragmen megakariosit tanpa inti, 1,5–3,5 µm, umur 7–10 hari || Sesuai slide. || Sel darah terkecil, bentuk cakram bikonveks.
+p: Volume 5–7 fL, bentuk cakram bikonveks.
+
+#112 d=1 ty=recall
+ks: Hitung trombosit langsung (Brecher) memakai pengencer amonium oksalat 1% yang melisiskan eritrosit.
+kw: cara langsung; Brecher; pengencer
+an: Agar trombosit mudah dihitung, eritrosit perlu dilisiskan — fungsi amonium oksalat 1%.
+A*: Amonium oksalat 1% || Melisiskan eritrosit, trombosit tetap utuh. || Sesuai slide.
+B: Larutan Hayem || Pengencer isotonik untuk hitung eritrosit. || Tidak melisiskan eritrosit.
+C: Magnesium sulfat 14% || Dipakai pada cara Fonio (sediaan hapus). || Bukan pengencer cara Brecher.
+D: Larutan Turk || Pengencer hitung leukosit (asam asetat + gentian violet). || Bukan untuk trombosit.
+E: Natrium sitrat 3,8% || Antikoagulan LED/koagulasi. || Bukan pengencer bilik hitung trombosit.
+p: Sampel darah EDTA, dipipet dengan pipet eritrosit.
+
+#113 d=2 ty=application
+ks: Faktor pengenceran pipet eritrosit: darah sampai 0,5 dan pengencer sampai 101 → 200 kali.
+kw: pipet eritrosit; angka 0,5; pengenceran
+an: Volume bulb = 100 bagian. Darah 0,5 bagian → pengenceran 100/0,5 = 200×.
+A*: 200 kali || 100 bagian bulb dibagi 0,5 bagian darah. || Sesuai slide.
+B: 10 kali || Tidak sesuai skala pipet eritrosit. || Salah hitung.
+C: 100 kali || Berlaku bila darah diisap sampai tanda 1. || Pasien diisap sampai 0,5.
+D: 20 kali || Pengenceran khas pipet leukosit. || Pipet yang dipakai berbeda.
+E: 1000 kali || Tidak sesuai skala pipet. || Salah hitung.
+p: Campur 5–10 menit, buang beberapa tetes, masukkan ke bilik hitung.
+
+#114 d=1 ty=understanding
+ks: Bilik hitung diinkubasi di cawan petri berkapas basah 15–30 menit agar trombosit mengendap dan cairan tidak menguap.
+kw: kapas basah; cawan petri; 15–30 menit
+an: Trombosit kecil dan ringan sehingga perlu waktu turun ke satu bidang fokus; ruang lembap mencegah penguapan.
+A: Agar darah di bilik hitung membeku || Darah sudah diberi antikoagulan dan diencerkan. || Pembekuan justru merusak hitung.
+B: Agar pembacaan mikroskop lebih cepat || Inkubasi justru menambah waktu. || Bukan tujuan inkubasi.
+C: Agar leukosit ikut lisis sempurna || Amonium oksalat tidak ditujukan melisiskan leukosit. || Bukan tujuan inkubasi.
+D*: Agar trombosit mengendap dan cairan tidak menguap || Trombosit butuh waktu turun ke bidang hitung. || Sesuai langkah pemeriksaan di slide.
+E: Agar trombosit terwarnai oleh uap air || Tidak ada pewarnaan pada cara Brecher. || Pernyataan keliru.
+p: Dihitung dengan pembesaran 400×.
+
+#115 d=2 ty=application
+ks: Faktor perkalian cara Brecher = pengenceran (200) ÷ volume dihitung (0,1 µL) = 2000.
+kw: seluruh bidang baca eritrosit 1 mm²; dikalikan faktor
+an: Volume 1 mm² × 0,1 mm = 0,1 µL. Per µL: ×10. Pengenceran ×200. Total ×2000.
+A: 20 || Faktor tanpa memperhitungkan pengenceran yang benar. || Salah hitung.
+B: 50 || Faktor hitung leukosit. || Perhitungan jenis sel berbeda.
+C: 10.000 || Faktor hitung eritrosit pada 5 kotak sedang. || Bidang dan sel berbeda.
+D: 200 || Hanya faktor pengenceran. || Belum dibagi volume 0,1 µL.
+E*: 2000 || 200 ÷ 0,1 µL. || Sesuai slide.
+p: Contoh: 125 trombosit × 2000 = 250.000/µL.
+
+#116 d=2 ty=application
+ks: Hitung trombosit Brecher: jumlah sel × 2000; rujukan 150.000–400.000/µL.
+kw: 110 trombosit; seluruh bidang eritrosit
+an: 110 × 2000 = 220.000/µL → dalam rujukan.
+A: 110.000/µL (trombositopenia) || Dikali 1000. || Faktor perkalian keliru.
+B*: 220.000/µL (normal) || 110 × 2000. || Dalam rentang rujukan 150.000–400.000/µL.
+C: 2.200.000/µL (trombositosis) || Dikali 20.000. || Faktor perkalian keliru.
+D: 1.100.000/µL (trombositosis) || Dikali 10.000. || Faktor perkalian keliru.
+E: 22.000/µL (trombositopenia berat) || Dikali 200. || Lupa membagi volume.
+p: Bilik hitung Neubauer improved: luas 3 × 3 mm², tinggi 0,1 mm.
+
+#117 d=1 ty=recall
+ks: Hitung trombosit tidak langsung (Fonio): MgSO₄ 14% (cegah agregasi), Giemsa (sediaan hapus), Hayem (hitung eritrosit).
+kw: cara tidak langsung; Fonio; reagen
+an: Fonio menghitung rasio trombosit/1000 eritrosit di sediaan hapus, lalu dikalikan jumlah eritrosit (Hayem).
+A: Amonium oksalat 1% saja || Pengencer cara Brecher. || Bukan reagen cara Fonio.
+B: Larutan Turk dan Hayem || Pengencer leukosit dan eritrosit. || Tidak ada pencegah agregasi dan pewarna sediaan.
+C*: MgSO₄ 14%, Giemsa, dan larutan Hayem || MgSO₄ cegah agregasi; Giemsa untuk hapus; Hayem untuk eritrosit. || Sesuai slide Fonio.
+D: Reagen Benedict dan asam asetat || Untuk urinalisis. || Tidak relevan.
+E: Asam asetat 6% dan Giemsa || Asam asetat untuk protein urin. || Komposisi tidak sesuai.
+p: Sediaan hapus dicat Giemsa 1:9.
+
+#118 d=2 ty=application
+ks: Rumus Fonio: jumlah eritrosit × (trombosit per 1000 eritrosit) ÷ 1000.
+kw: 60 trombosit per 1000 eritrosit; eritrosit 4.000.000/µL
+an: 4.000.000 × 60/1000 = 240.000/µL.
+A: 60.000/µL || Angka rasio dianggap jumlah absolut. || Belum dikalikan jumlah eritrosit.
+B: 24.000/µL || Salah satu desimal (dibagi 10.000). || Salah hitung.
+C*: 240.000/µL || 4.000.000 × 60 ÷ 1000. || Sesuai rumus slide.
+D: 2.400.000/µL || Dibagi 100. || Salah hitung.
+E: 400.000/µL || Tidak memakai rasio trombosit. || Salah hitung.
+p: Langkah: tetes MgSO₄ 14% di ujung jari, tusuk melalui tetesan, buat sediaan hapus, cat Giemsa, hitung trombosit per 1000 eritrosit.
+
+#119 d=2 ty=recall
+ks: Rujukan trombosit 150.000–400.000/µL; trombositopenia: ITP, alergi, toksik (benzena, sitostatika, sinar X); trombositosis: polisitemia, CML, osteomielofibrosis.
+kw: nilai rujukan; penyebab trombositopenia
+an: Pilih pasangan rujukan dan penyebab yang benar. CML, polisitemia, osteomielofibrosis adalah penyebab trombositosis.
+A: 150.000–400.000/µL; trombositopenia karena osteomielofibrosis || Rujukan benar. || Slide menempatkan osteomielofibrosis sebagai penyebab trombositosis.
+B: 150.000–400.000/µL; trombositopenia karena CML || Rujukan benar. || CML menyebabkan trombositosis.
+C: 50.000–100.000/µL; trombositopenia karena polisitemia || Rentang itu sudah trombositopenia. || Rujukan dan penyebab keliru.
+D: 500.000–1.000.000/µL; trombositopenia karena ITP || Rentang itu trombositosis. || Rujukan keliru.
+E*: 150.000–400.000/µL; trombositopenia pada ITP dan zat toksik || Termasuk alergi, benzena, sitostatika, sinar X. || Sesuai slide interpretasi.
+p: Trombositosis: polisitemia, CML, osteomielosklerosis, osteomielofibrosis.
+
+#120 d=2 ty=understanding
+ks: Waktu perdarahan menilai hemostasis primer: pembuluh darah, trombosit, dan sebagian faktor jaringan.
+kw: bleeding time; menilai
+an: Luka kecil berhenti berdarah karena vasokonstriksi dan sumbat trombosit, belum perlu kaskade koagulasi penuh.
+A: Faktor koagulasi jalur intrinsik saja || Dinilai dengan APTT/waktu pembekuan. || Bleeding time normal pada hemofilia.
+B: Aktivitas fibrinolisis plasmin || Dinilai dengan lisis bekuan/D-dimer. || Bukan yang diukur waktu perdarahan.
+C*: Tiga faktor hemostasis primer, terutama pembuluh darah dan trombosit || Vasokonstriksi dan sumbat trombosit menghentikan perdarahan kecil. || Sesuai slide; memanjang pada trombositopenia/gangguan fungsi trombosit.
+D: Kadar fibrinogen plasma saja || Diukur dengan metode Clauss. || Bukan tujuan waktu perdarahan.
+E: Jumlah eritrosit dan hematokrit || Diukur dengan hematologi rutin. || Tidak berkaitan dengan waktu perdarahan.
+p: Metode: Duke dan Ivy.
+
+#121 d=1 ty=recall
+ks: Obat yang memperpanjang waktu perdarahan: aspirin, antikoagulan, antiinflamasi, antineoplastik, tiazid, sulfonamid.
+kw: memperpanjang waktu perdarahan; ditanyakan sebelum tes
+an: Aspirin menghambat COX-1 trombosit (tromboksan A₂) sehingga agregasi terganggu.
+A: Parasetamol dosis terapi || Analgesik tanpa efek antiplatelet bermakna. || Tidak disebut di slide.
+B: Levotiroksin oral || Terapi hipotiroid. || Tidak memengaruhi trombosit.
+C: Antasida aluminium/magnesium || Penetral asam lambung. || Tidak memengaruhi hemostasis.
+D*: Aspirin, antikoagulan, antiinflamasi, sitostatika || Termasuk tiazid dan sulfonamid. || Sesuai persiapan tes di slide.
+E: Vitamin C dosis harian || Antioksidan. || Tidak disebut di slide.
+p: Pasien juga dijelaskan manfaat dan cara kerja tes.
+
+#122 d=1 ty=recall
+ks: Metode Duke: tusukan cuping telinga 2–3 mm; normal 1–3 menit (Ivy: volar lengan bawah, tensi 40 mmHg).
+kw: metode Duke; lokasi; nilai normal
+an: Duke = cuping telinga; Ivy = lengan bawah dengan tensimeter. Angka 9–15 menit milik waktu pembekuan Lee–White.
+A: Ujung jari; normal 9–15 menit || Rentang waktu pembekuan Lee–White. || Lokasi dan nilai keliru.
+B: Tumit; normal 10–20 menit || Lokasi tusuk tumit untuk bayi. || Tidak sesuai metode Duke.
+C: Volar lengan bawah, tensimeter 40 mmHg || Ciri metode Ivy. || Bukan Duke.
+D: Vena kubiti dengan spuit || Untuk pengambilan darah vena. || Tidak dipakai pada bleeding time.
+E*: Cuping telinga sedalam 2–3 mm; normal 1–3 menit || Sesuai slide. || Ciri khas metode Duke.
+p: Cuping telinga dipijat agar hiperemis, dibersihkan alkohol, dibiarkan kering.
+
+#123 d=1 ty=understanding
+ks: Teknik Duke: darah diisap kertas saring tiap ½ menit tanpa menyentuh luka sampai tidak ada darah.
+kw: kertas saring; setiap
+an: Menyentuh luka merusak sumbat trombosit sehingga hasil memanjang palsu.
+A: Tiap 10 detik sambil menekan luka || Menekan luka merusak sumbat trombosit. || Interval dan teknik keliru.
+B*: Tiap ½ menit tanpa menyentuh luka || Sumbat trombosit tetap utuh. || Sesuai slide.
+C: Tiap 5 menit sekali || Terlalu jarang. || Waktu berhenti tidak tercatat tepat.
+D: Hanya sekali di akhir pemeriksaan || Tidak bisa menentukan saat darah berhenti. || Tidak sesuai prosedur.
+E: Terus-menerus sambil menekan luka || Menekan mengganggu hemostasis primer. || Teknik keliru.
+p: Syarat: bercak pertama berdiameter 3–4 mm; stopwatch dijalankan saat darah mulai keluar.
+
+#124 d=1 ty=recall
+ks: Metode Ivy: tensimeter 40 mmHg, tusukan volar lengan bawah ±3 jari di bawah lipat siku sedalam 3 mm.
+kw: metode Ivy; tensimeter
+an: Tekanan vena 40 mmHg yang konstan membuat metode Ivy lebih terstandar dari Duke.
+A: 200 mmHg di atas sistolik || Menghentikan aliran arteri. || Tidak sesuai prosedur.
+B: Tanpa tensimeter, di cuping telinga || Ciri metode Duke. || Bukan Ivy.
+C: Antara sistolik–diastolik selama 5–10 menit || Ciri uji Rumpel–Leede. || Bukan Ivy.
+D*: 40 mmHg, tusukan volar lengan bawah sedalam 3 mm || Sesuai slide. || Tekanan standar membuat hasil lebih terstandar.
+E: 100 mmHg lalu langsung ditusuk || Tidak sesuai materi. || Tekanan keliru.
+p: Tetesan darah diisap dengan kertas saring seperti cara Duke.
+
+#125 d=1 ty=recall
+ks: Waktu pembekuan Lee–White memakai 3 tabung kaca: tabung I dan II masing-masing 1½ mL darah vena, tabung III kontrol.
+kw: Lee and White; alat
+an: Pembekuan diamati pada tabung kaca tanpa antikoagulan; tabung III sebagai kontrol.
+A: Kertas saring dan tusukan cuping telinga || Alat metode Duke (bleeding time). || Pemeriksaan berbeda.
+B: Satu tabung berisi natrium sitrat || Sitrat mencegah pembekuan. || Waktu pembekuan tidak bisa diukur.
+C: Bilik hitung Neubauer || Untuk menghitung sel. || Bukan untuk waktu pembekuan.
+D*: 3 tabung; 1½ mL darah di tabung I dan II, sisanya tabung III || Sesuai slide. || Tabung III sebagai kontrol.
+E: Satu tabung berisi K₂EDTA || EDTA mengikat Ca²⁺ sehingga darah tidak membeku. || Tidak sesuai.
+p: Stopwatch dijalankan saat darah mulai masuk spuit; tabung dimiringkan tiap ½ menit setelah 2–3 menit.
+
+#126 d=1 ty=recall
+ks: Pelaporan Lee–White: rata-rata waktu pembekuan tabung I dan II; normal 9–15 menit.
+kw: dilaporkan sebagai; Lee and White
+an: Tabung III hanya kontrol; laporan = rerata tabung I dan II.
+A*: Rata-rata tabung I dan II; normal 9–15 menit || Sesuai interpretasi slide. || Memanjang pada kelainan faktor koagulasi.
+B: Jumlah waktu ketiga tabung || Penjumlahan tidak sesuai prosedur. || Tidak sesuai materi.
+C: Waktu tabung I saja; normal 1–3 menit || 1–3 menit adalah rujukan bleeding time Duke. || Tidak sesuai materi.
+D: Rata-rata tabung I–III; normal 40–60 menit || Rentang terlalu panjang. || Tidak sesuai materi.
+E: Waktu tabung III saja || Tabung III adalah kontrol. || Tidak dilaporkan sebagai hasil.
+p: Pemanjangan menunjukkan gangguan hemostasis sekunder (faktor koagulasi), misalnya hemofilia.
+
+#127 d=2 ty=understanding
+ks: Pengambilan darah Lee–White harus cepat (≤ 30 detik) tanpa banyak tusukan agar tromboplastin jaringan tidak masuk.
+kw: menusuk berulang; lebih dari 1 menit
+an: Tusukan berulang melepaskan faktor jaringan yang mengaktifkan jalur ekstrinsik → darah lebih cepat membeku → waktu pembekuan memendek palsu.
+A: Tidak berpengaruh pada hasil || Bertentangan dengan catatan slide. || Teknik buruk mengubah hasil.
+B*: Tromboplastin jaringan masuk sehingga darah lebih cepat membeku || Faktor jaringan mengaktifkan kaskade. || Sesuai catatan slide: pengambilan ≤ 30 detik.
+C: Hasil justru lebih akurat dan stabil || Tidak ada dasar. || Pernyataan keliru.
+D: Darah menjadi tidak bisa membeku || Tidak ada antikoagulan yang masuk. || Arah efek keliru.
+E: Jumlah trombosit darah meningkat || Jumlah trombosit tidak bertambah. || Pernyataan keliru.
+p: Pengambilan darah harus legeartis dan cepat.
+
+#128 d=2 ty=recall
+ks: Retraksi bekuan normal: serum mulai keluar dalam ½ jam; abnormal bila setelah 2 jam serum belum tampak.
+kw: retraksi bekuan; normal
+an: Trombosit (trombostenin) menarik jaring fibrin sehingga serum terperas keluar dalam waktu singkat.
+A: Bekuan langsung lisis dalam 1 jam || Lisis cepat menandakan fibrinolisis berlebih. || Bukan kriteria retraksi normal.
+B: Bekuan tidak terbentuk sama sekali || Menandakan gangguan koagulasi berat. || Bukan kondisi normal.
+C: Serum baru keluar setelah 72 jam || 72 jam adalah patokan lisis bekuan. || Tertukar dengan parameter lain.
+D*: Serum keluar dalam ½ jam; retraksi sempurna > 24 jam || Diamati 30 menit–1 jam pada 37 °C. || Sesuai slide.
+E: Serum belum keluar setelah 2 jam || Batas abnormal di slide. || Itu tanda retraksi terganggu.
+p: Retraksi bekuan bergantung pada jumlah dan fungsi trombosit.
+
+#129 d=1 ty=recall
+ks: Konsistensi bekuan normal: licin, kompak, tidak berlubang, kenyal, tidak rapuh.
+kw: konsistensi bekuan normal
+an: Bekuan normal padat dan elastis karena fibrin dan retraksi trombosit baik.
+A*: Licin, kompak, tidak berlubang, kenyal || Juga tidak rapuh. || Sesuai slide.
+B: Rapuh, mudah hancur, dan berlubang || Menandakan fibrin/trombosit abnormal. || Bukan konsistensi normal.
+C: Keras dan kaku seperti batu || Tidak sesuai sifat bekuan fibrin. || Bukan konsistensi normal.
+D: Tetap cair dan tidak berbentuk || Menandakan bekuan tidak terbentuk. || Bukan konsistensi normal.
+E: Putih seperti susu dan lembek || Mungkin plasma lipemik. || Bukan konsistensi bekuan normal.
+p: Diperiksa dengan menekan bekuan di cawan petri memakai dasar tabung reaksi.
+
+#130 d=2 ty=recall
+ks: Lisis bekuan normal terjadi dalam 72 jam; volume serum 40–60%.
+kw: lisis bekuan; volume serum
+an: Angka slide: lisis ≤ 72 jam (fibrinolisis), serum 40–60% (retraksi).
+A: Lisis dalam 1 jam; serum ±90% || Lisis sangat cepat = fibrinolisis berlebih. || Tidak sesuai nilai normal.
+B: Lisis 7 hari; serum 100% || Angka tidak realistis. || Tidak sesuai materi.
+C*: Lisis dalam 72 jam; volume serum 40–60% || Sesuai slide. || Lisis menggambarkan aktivitas fibrinolisis.
+D: Lisis 24 jam; serum ±10% || Tidak sesuai materi. || Salah.
+E: Tidak pernah lisis; serum 0% || Tidak sesuai fisiologi. || Salah.
+p: Lisis bekuan: bekuan diinkubasi 37 °C selama 24 jam lalu diamati.
+
+#131 d=2 ty=understanding
+ks: Uji Rumpel–Leede menilai fragilitas kapiler dan fungsi trombosit melalui petekie setelah pembendungan.
+kw: tourniquet test; menilai
+an: Bendungan menaikkan tekanan kapiler; bila kapiler rapuh atau trombosit kurang, timbul petekie.
+A: Waktu pembekuan darah vena || Dinilai dengan Lee–White. || Pemeriksaan berbeda.
+B: Fungsi tiroid lewat refleks kulit || Tidak berhubungan. || Pernyataan keliru.
+C: Jumlah eritrosit di kapiler || Dihitung dengan hematologi. || Bukan tujuan uji tourniquet.
+D*: Fragilitas kapiler dan fungsi trombosit (petekie) || Pembendungan menaikkan tekanan kapiler. || Positif misalnya pada DBD dan trombositopenia.
+E: Kadar glukosa darah kapiler || Diukur dengan glukometer. || Tidak berhubungan.
+p: Pelengkap (tidak dirinci di slide): manset dipompa di antara tekanan sistolik dan diastolik selama sekitar 5 menit, lalu petekie dihitung pada lingkaran di volar lengan bawah.
+
+#132 d=2 ty=recall
+ks: Strip glukosa POCT berisi glucose oxidase (GOD) dan kalium ferisianida sebagai mediator elektron.
+kw: strip glukosa POCT; reagen
+an: GOD mengoksidasi glukosa; elektron dipindahkan ferisianida ke elektroda → arus sebanding kadar glukosa.
+A: Heparin dan EDTA kering || Antikoagulan. || Bukan reagen deteksi glukosa.
+B: Asam asetat dan asam sulfosalisilat || Pereaksi protein urin. || Tidak relevan.
+C: Amonium oksalat 1% || Pengencer hitung trombosit. || Tidak relevan.
+D*: Glucose oxidase dan kalium ferisianida || GOD + mediator elektron. || Sesuai slide.
+E: Reagen Benedict (CuSO₄) || Uji reduksi urin. || Bukan reagen strip elektrokimia.
+p: Spesimen POCT harus darah kapiler segar dari tusukan jari.
+
+#133 d=1 ty=application
+ks: Pelaporan POCT: hasil "HI", "LO", atau 600 mg/dL berarti di luar rentang ukur → tes ulang.
+kw: tampilan HI; tindakan
+an: "HI" bukan angka; alat tidak bisa mengukur. Ulang tes (dan konfirmasi lab) sebelum melapor.
+A: Mengabaikannya lalu memulangkan pasien || "HI" bisa berarti hiperglikemia berat. || Berbahaya bagi pasien.
+B: Melaporkannya sebagai 0 mg/dL || "HI" berarti terlalu tinggi, bukan nol. || Arah interpretasi terbalik.
+C: Melaporkannya sebagai 1000 mg/dL || Angka itu tidak diukur alat. || Mengarang hasil.
+D: Mengganti satuan alat ke mmol/L || Satuan tidak mengubah batas ukur. || Tidak menyelesaikan masalah.
+E*: Melakukan tes ulang || Juga bila hasil 600 mg/dL atau muncul "LO". || Sesuai slide pelaporan.
+p: Hasil dalam mg/dL tidak bertitik desimal (misalnya 96 mg/dL); dalam mmol/L selalu bertitik desimal (misalnya 5,3 mmol/L).
+
+#134 d=1 ty=recall
+ks: Uji reduksi urin Benedict: 5 mL reagen + 5–8 tetes urin, dipanaskan 5 menit, dibaca perubahan warna.
+kw: reduksi urin; Benedict; cara
+an: Rasio benar: reagen banyak (5 mL), urin sedikit (5–8 tetes), wajib dipanaskan.
+A: Urin dicampur Giemsa lalu diamati || Giemsa pewarna sediaan darah. || Bukan uji reduksi.
+B*: 5 mL Benedict + 5–8 tetes urin, panaskan 5 menit || Cu²⁺ direduksi gula menjadi Cu₂O berwarna. || Sesuai slide.
+C: 5 mL urin + 5 tetes Benedict tanpa dipanaskan || Rasio terbalik dan tanpa pemanasan. || Reaksi reduksi tidak terjadi optimal.
+D: Urin + asam asetat 6% lalu dipanaskan || Uji protein urin metode rebus. || Pemeriksaan berbeda.
+E: Urin dicampur amonium oksalat 1% || Pengencer trombosit. || Tidak relevan.
+p: Pelengkap: hasil umum dibaca biru (negatif), hijau (+), kuning (++), jingga (+++), merah bata (++++).
+
+#135 d=1 ty=recall
+ks: Bilik hitung Neubauer improved: luas 3 × 3 mm², kedalaman 0,1 mm; kotak besar 1 mm² (0,1 µL).
+kw: Neubauer improved; ukuran
+an: Hafalkan 3 × 3 mm² dan 0,1 mm; dari sini faktor hitung semua sel diturunkan.
+A: Luas 1 × 1 mm², tinggi 1 mm || Tidak sesuai dimensi Neubauer. || Salah.
+B*: Luas 3 × 3 mm², kedalaman 0,1 mm || Kotak besar 1 × 1 mm². || Sesuai slide bilik hitung.
+C: Luas 9 × 9 mm², tinggi 0,01 mm || Tidak sesuai dimensi Neubauer. || Salah.
+D: Luas 3 × 3 mm², kedalaman 0,5 mm || Kedalaman keliru. || Volume perhitungan akan salah.
+E: Luas 3 × 3 cm², kedalaman 0,1 mm || Satuan luas keliru (cm). || Salah.
+p: Volume 1 kotak besar = 1 mm² × 0,1 mm = 0,1 µL.
+
+#136 d=1 ty=recall
+ks: Trombosit cara Brecher dihitung dengan pembesaran 400×.
+kw: pembesaran mikroskop; Brecher
+an: Trombosit kecil (titik berkilau) sehingga perlu 400×, tetapi tidak perlu minyak imersi.
+A: 40× (objektif 4×) || Terlalu kecil untuk melihat trombosit. || Tidak sesuai.
+B*: 400× || Trombosit tampak sebagai titik kecil berkilau. || Sesuai langkah pemeriksaan di slide.
+C: 100× (objektif 10×) || Dipakai mencari bidang hitung. || Trombosit terlalu kecil untuk dihitung.
+D: Tanpa mikroskop (kaca pembesar) || Tidak memadai. || Tidak sesuai prosedur.
+E: 1000× dengan minyak imersi || Untuk sediaan hapus/bakteri. || Tidak dipakai pada bilik hitung.
+p: Hasil hitung dikali faktor 2000.
+
+#137 d=1 ty=application
+ks: Trombositosis: trombosit > 400.000/µL; CML termasuk penyebab di slide.
+kw: CML; splenomegali; trombosit 750.000/µL
+an: 750.000 > 400.000 → trombositosis; konteks CML sesuai penyebab di slide.
+A: Masih dalam batas normal || Rujukan 150.000–400.000/µL. || 750.000 di atas batas atas.
+B*: Trombositosis || Di atas 400.000/µL. || CML termasuk penyebab di slide.
+C: Pseudotrombositopenia akibat EDTA || Hitung palsu rendah karena agregasi. || Hasil pasien justru tinggi.
+D: Purpura trombositopenik imun (ITP) || Menyebabkan trombositopenia. || Hasil pasien tinggi.
+E: Trombositopenia || Trombosit < 150.000/µL. || Arah kelainan terbalik.
+p: Penyebab trombositosis lain: polisitemia, osteomielosklerosis, osteomielofibrosis.
+
+#138 d=2 ty=application
+ks: Retraksi bekuan abnormal bila setelah 2 jam serum belum tampak; retraksi bergantung jumlah dan fungsi trombosit.
+kw: setelah 2 jam serum belum tampak
+an: Batas abnormal slide adalah 2 jam. Retraksi digerakkan trombosit, sehingga trombositopenia/trombastenia menjadi penyebab.
+A: Normal karena retraksi butuh 24 jam || Serum normal mulai keluar dalam ½ jam. || Mencampurkan "retraksi sempurna" dengan awal retraksi.
+B: Keadaan hiperkoagulasi || Tidak berhubungan dengan lambatnya retraksi. || Interpretasi keliru.
+C*: Abnormal, mis. trombosit menurun jumlah/fungsinya || Slide: abnormal bila > 2 jam serum tak tampak. || Retraksi bekuan bergantung pada trombosit.
+D: Pasti hemofilia A || Hemofilia memperpanjang waktu pembekuan. || Retraksi bekuan umumnya normal pada hemofilia.
+E: Fibrinolisis berlebihan dengan lisis cepat || Lisis cepat menghancurkan bekuan. || Bukan masalah retraksi.
+p: Pemeriksaan memakai tabung sisa waktu pembekuan, diinkubasi 37 °C.
+
+#139 d=1 ty=recall
+ks: Spesimen glukosa POCT: darah kapiler segar dari tusukan jari.
+kw: spesimen; POCT glukosa
+an: Glukometer dikalibrasi untuk darah utuh kapiler segar; sampel lama terpengaruh glikolisis.
+A*: Darah kapiler segar dari ujung jari || Langsung diteteskan ke strip. || Sesuai slide.
+B: Serum yang disimpan semalam || Glikolisis menurunkan glukosa. || Hasil palsu rendah.
+C: Plasma sitrat dari tabung koagulasi || Pengenceran sitrat. || Tidak sesuai alat POCT.
+D: Darah EDTA yang disimpan lama || Glikolisis tetap berjalan. || Hasil palsu rendah.
+E: Urin sewaktu pasien || Untuk uji reduksi urin. || Bukan spesimen glukometer.
+p: Alat: meter, strip tes dan strip kalibrasi, lancet steril, kapas alkohol.
+
+#140 d=1 ty=recall
+ks: Penulisan hasil POCT: mg/dL tanpa desimal (96 mg/dL), mmol/L dengan desimal (5,3 mmol/L).
+kw: penulisan hasil; glukosa POCT
+an: Desimal hanya pada mmol/L; satuan harus sesuai.
+A: 5,3 mg/dL || Desimal dipakai pada satuan yang salah. || Nilai mg/dL tidak bertitik desimal.
+B: 5 mg/dL || Angka mmol/L ditulis dengan satuan mg/dL. || Satuan keliru.
+C*: 96 mg/dL atau 5,3 mmol/L || mg/dL tanpa desimal; mmol/L dengan desimal. || Sesuai aturan pelaporan di slide.
+D: 96 g/L || Satuan g/L keliru. || Tidak sesuai.
+E: 96,0 mmol/L || Angka mg/dL diberi satuan mmol/L. || Satuan dan desimal keliru.
+p: Hasil harus dilaporkan dalam mg/dL; bila alat menampilkan satuan yang salah, ubah lewat panduan alat.
