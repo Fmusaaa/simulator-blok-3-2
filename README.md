@@ -5,6 +5,9 @@ Simulator ujian blok berbasis HTML (satu file, tanpa backend) untuk Modul 3.2 Ke
 **687 soal** dikelompokkan per judul asli PPT dosen (20 PPT) + 1 kelompok recall UAM 3.2 yang topiknya di luar PPT tersebut.
 
 ## Fitur
+- **Latihan kustom** – pilih PPT (atau satu bagian sekaligus), sumber soal (semua / belum dikerjakan / salah terakhir / ditandai), jenis soal (asli recall / prediksi / baru / reguler), jumlah, dan urutan (acak / urut per PPT).
+- **Latihan semua soal** – 687 soal urut per PPT atau diacak.
+- **Lanjutkan latihan** – posisi & jawaban sesi latihan disimpan; muncul tombol *Lanjutkan* di beranda setelah halaman ditutup.
 - **Latihan per PPT** – jawaban langsung dinilai, pembahasan muncul.
 - **Simulasi ujian** – soal diambil proporsional dari PPT yang dipilih, diacak, timer per soal, peta nomor, tandai ragu, konfirmasi sebelum kirim. Kunci baru tampil setelah ujian dikirim.
 - **Hasil** – skor, analisis per PPT & per topik, daftar soal salah/kosong, rekomendasi materi, ulangi soal salah.

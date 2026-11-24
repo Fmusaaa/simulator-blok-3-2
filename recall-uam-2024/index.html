@@ -60,6 +60,10 @@ select,input[type=number]{font:inherit;background:var(--paper);color:var(--ink);
 .chips{display:flex;flex-wrap:wrap;gap:6px;max-height:190px;overflow:auto;padding:2px}
 .chip{border:1px solid var(--line);border-radius:999px;padding:4px 10px;font-size:12.5px;background:var(--paper);user-select:none}
 .chip.on{background:var(--brand-soft);border-color:var(--brand);color:var(--brand);font-weight:600}
+.lp-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+@media (max-width:720px){.lp-grid{grid-template-columns:1fr 1fr}}
+.bag-btns{display:flex;flex-wrap:wrap;gap:6px;margin:4px 0 6px}
+.resume{display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:var(--brand-soft);border:1px solid var(--brand);border-radius:14px;padding:12px 14px;margin:0 0 16px}
 .sect-t{display:flex;align-items:baseline;gap:10px;margin:22px 0 10px}
 .sect-t h2{font-size:17px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
@@ -204,6 +208,7 @@ PPTS.forEach(function(p){PBY[p.id]=p;});
 var LET="ABCDEFGH";
 var KEY="sim-recall-uam32-2024-v1";
 var SHOWALL=true;
+var CUSTOM=false;
 var $=function(id){return document.getElementById(id);};
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
 
@@ -253,6 +258,9 @@ function home(){
   QS.forEach(function(q){var s=stat(q.id); if(s){done++; if(s.last===1) ok++; else wrongIds.push(q.id);}});
   var flagged=Object.keys(ST.flags).filter(function(k){return ST.flags[k];}).length;
   var h='';
+  var rs=ST.sess;
+  if(rs&&rs.ids&&rs.ids.length){ var ra=rs.ans.filter(function(a){return a!==null;}).length;
+    h+='<div class="resume"><div style="flex:1;min-width:200px"><b>Lanjutkan latihan terakhir</b><div class="small muted">'+esc(rs.title)+' · '+ra+'/'+rs.ids.length+' dijawab · terakhir di soal '+(rs.cur+1)+'</div></div><button class="btn pri" id="hRes">Lanjutkan</button><button class="btn ghost sm" id="hResX">Buang</button></div>'; }
   h+='<div class="hero"><div class="panel"><h1 style="font-size:24px;letter-spacing:-.3px">Recall UAM 3.2 tahun 2024</h1>'+
      '<p class="muted" style="margin:6px 0 0">'+tot+' soal recall UAM 3.2 tahun 2024 (32 asli, 38 direkonstruksi), dikelompokkan per PPT. Kunci dicek ke slide dosen; 8 kunci recall dikoreksi. Tiap soal ada kunci, pembahasan semua opsi, poin penting, dan catatan bila slide berbeda dengan referensi.</p>'+
      '<div class="stats"><div class="stat"><b>'+done+'</b><span>soal pernah dijawab</span></div><div class="stat"><b>'+(done?Math.round(ok/done*100):0)+'%</b><span>akurasi terakhir</span></div><div class="stat"><b>'+wrongIds.length+'</b><span>masih salah</span></div></div>'+
@@ -269,6 +277,7 @@ function home(){
      '<div class="field" style="flex:1"><label for="exT">Waktu per soal</label><select id="exT"><option value="0">Tanpa batas</option><option value="45">45 detik</option><option value="60" selected>60 detik</option><option value="90">90 detik</option></select></div></div>'+
      '<div class="field"><label>PPT yang diikutkan <button class="btn sm ghost" id="exAll" style="margin-left:6px">Semua</button><button class="btn sm ghost" id="exNone">Kosongkan</button></label><div class="chips" id="exChips"></div></div>'+
      '<button class="btn pri" id="exGo" style="width:100%;justify-content:center;margin-top:6px">Mulai simulasi</button></div></div>';
+  if(CUSTOM) h+=customPanel();
   h+='<div class="sect-t"><h2>Latihan per PPT</h2><span class="muted small">Pilih jawaban, langsung dinilai dan dibahas</span></div>';
   var bag=null;
   PPTS.forEach(function(p){
@@ -289,9 +298,11 @@ function home(){
   $("exNone").onclick=function(){PPTS.forEach(function(p){examSel[p.id]=false;}); home();};
   $("exGo").onclick=startExam;
   if(SHOWALL){
-    $("hAll").onclick=function(){startPractice(QS.slice().sort(function(x,y){return (x.ord||0)-(y.ord||0)||x.id-y.id;}),"Latihan semua soal (urut nomor recall)",true);};
+    $("hAll").onclick=function(){startPractice(QS.slice().sort(function(x,y){return (x.ord||0)-(y.ord||0)||PIDX[x.ppt]-PIDX[y.ppt]||x.id-y.id;}),"Latihan semua soal ("+(CUSTOM?"urut per PPT":"urut nomor recall")+")",true);};
     $("hAllR").onclick=function(){startPractice(shuffle(QS.slice()),"Latihan semua soal (acak)",true);};
   }
+  if(rs&&$("hRes")){ $("hRes").onclick=resumeSess; $("hResX").onclick=function(){ask("Buang sesi latihan ini?","Progres jawaban per soal tetap tersimpan di statistik; hanya posisi sesi yang dihapus.",function(){delete ST.sess;save();home();},"Buang");}; }
+  if(CUSTOM) bindCustom();
   $("hWrong").onclick=function(){startPractice(wrongIds.map(function(i){return QBY[i];}),"Ulangi semua soal salah",true);};
   $("hFlag").onclick=function(){startPractice(QS.filter(function(q){return ST.flags[q.id];}),"Soal ditandai",false);};
   $("hNew").onclick=function(){startPractice(shuffle(QS.filter(function(q){return !stat(q.id);})).slice(0,30),"30 soal belum dikerjakan (acak)",false);};
@@ -304,6 +315,84 @@ function home(){
     else if((id=b.getAttribute("data-tp"))) $("tp-"+id).classList.toggle("open");
   };
   window.scrollTo(0,0);
+}
+
+/* ================= LATIHAN KUSTOM ================= */
+var PIDX={}; PPTS.forEach(function(p,i){PIDX[p.id]=i;});
+var LP={sel:{},src:"all",tag:"all",n:"20",order:"rnd"};
+PPTS.forEach(function(p){LP.sel[p.id]=true;});
+try{ if(ST.lp){ for(var k2 in ST.lp) if(k2!=="sel") LP[k2]=ST.lp[k2]; if(ST.lp.sel) PPTS.forEach(function(p){ if(p.id in ST.lp.sel) LP.sel[p.id]=!!ST.lp.sel[p.id]; }); } }catch(e){}
+function lpPool(){
+  return QS.filter(function(q){
+    if(!LP.sel[q.ppt]) return false;
+    if(LP.tag!=="all" && (q.tag||"")!==LP.tag) return false;
+    var s=stat(q.id);
+    if(LP.src==="new") return !s;
+    if(LP.src==="wrong") return s&&s.last===0;
+    if(LP.src==="flag") return !!ST.flags[q.id];
+    return true;
+  });
+}
+function opt(v,l,cur){return '<option value="'+v+'"'+(String(cur)===v?' selected':'')+'>'+l+'</option>';}
+function customPanel(){
+  var bags=[]; PPTS.forEach(function(p){ if(bags.indexOf(p.bagian)<0) bags.push(p.bagian); });
+  var tg={}; QS.forEach(function(q){tg[q.tag||""]=(tg[q.tag||""]||0)+1;});
+  return '<div class="panel" style="margin-bottom:6px"><h2>Latihan kustom</h2><p class="muted small" style="margin:0">Atur sendiri soal latihan. Jawaban langsung dinilai dan dibahas; posisi latihan disimpan, jadi bisa dilanjutkan nanti.</p>'+
+   '<div class="lp-grid">'+
+   '<div class="field"><label for="lpSrc">Sumber soal</label><select id="lpSrc">'+opt("all","Semua soal",LP.src)+opt("new","Belum dikerjakan",LP.src)+opt("wrong","Salah terakhir",LP.src)+opt("flag","Ditandai ragu",LP.src)+'</select></div>'+
+   '<div class="field"><label for="lpTag">Jenis soal</label><select id="lpTag">'+opt("all","Semua jenis",LP.tag)+opt("asli","Soal asli recall ("+(tg.asli||0)+")",LP.tag)+opt("prediksi","Prediksi ("+(tg.prediksi||0)+")",LP.tag)+opt("baru","Soal baru ("+(tg.baru||0)+")",LP.tag)+opt("","Bank reguler ("+(tg[""]||0)+")",LP.tag)+'</select></div>'+
+   '<div class="field"><label for="lpN">Jumlah soal</label><select id="lpN">'+opt("10","10",LP.n)+opt("20","20",LP.n)+opt("50","50",LP.n)+opt("100","100",LP.n)+opt("all","Semua yang cocok",LP.n)+'</select></div>'+
+   '<div class="field"><label for="lpO">Urutan</label><select id="lpO">'+opt("rnd","Acak",LP.order)+opt("seq","Urut per PPT",LP.order)+'</select></div>'+
+   '</div>'+
+   '<div class="field" style="margin-top:0"><label>PPT <button class="btn sm ghost" id="lpAll" style="margin-left:6px">Semua</button><button class="btn sm ghost" id="lpNone">Kosongkan</button></label>'+
+   '<div class="bag-btns">'+bags.map(function(b){return '<button class="btn sm" data-bag="'+esc(b)+'">'+esc(b)+'</button>';}).join('')+'</div>'+
+   '<div class="chips" id="lpChips">'+PPTS.map(function(p){return '<span class="chip'+(LP.sel[p.id]?' on':'')+'" data-lp="'+p.id+'">'+esc(p.title)+'</span>';}).join('')+'</div></div>'+
+   '<button class="btn pri" id="lpGo" style="width:100%;justify-content:center;margin-top:6px"></button></div>';
+}
+function lpRefresh(){
+  ST.lp=LP; save();
+  var n=lpPool().length, take=LP.n==="all"?n:Math.min(parseInt(LP.n,10),n), b=$("lpGo");
+  b.disabled=!n; b.textContent=n?('Mulai latihan · '+take+' soal'+(take<n?' dari '+n+' yang cocok':'')):'Tidak ada soal yang cocok';
+}
+function bindCustom(){
+  $("lpSrc").onchange=function(){LP.src=this.value;lpRefresh();};
+  $("lpTag").onchange=function(){LP.tag=this.value;lpRefresh();};
+  $("lpN").onchange=function(){LP.n=this.value;lpRefresh();};
+  $("lpO").onchange=function(){LP.order=this.value;lpRefresh();};
+  function paint(){document.querySelectorAll("[data-lp]").forEach(function(c){c.classList.toggle("on",!!LP.sel[c.getAttribute("data-lp")]);}); lpRefresh();}
+  $("lpChips").onclick=function(e){var c=e.target.closest("[data-lp]"); if(!c) return; var id=c.getAttribute("data-lp"); LP.sel[id]=!LP.sel[id]; paint();};
+  $("lpAll").onclick=function(e){e.stopPropagation();PPTS.forEach(function(p){LP.sel[p.id]=true;}); paint();};
+  $("lpNone").onclick=function(e){e.stopPropagation();PPTS.forEach(function(p){LP.sel[p.id]=false;}); paint();};
+  document.querySelectorAll("[data-bag]").forEach(function(b){ b.onclick=function(e){ e.stopPropagation(); var bg=b.getAttribute("data-bag"); PPTS.forEach(function(p){LP.sel[p.id]=(p.bagian===bg);}); paint(); }; });
+  $("lpGo").onclick=function(e){
+    e.stopPropagation();
+    var pool=lpPool(); if(!pool.length) return;
+    var list=LP.order==="seq"? pool.slice().sort(function(x,y){return PIDX[x.ppt]-PIDX[y.ppt]||x.id-y.id;}) : shuffle(pool.slice());
+    if(LP.n!=="all") list=list.slice(0,parseInt(LP.n,10));
+    if(LP.order==="seq") list.sort(function(x,y){return PIDX[x.ppt]-PIDX[y.ppt]||x.id-y.id;});
+    var nSel=PPTS.filter(function(p){return LP.sel[p.id];});
+    var src={all:"",new:"belum dikerjakan",wrong:"salah terakhir",flag:"ditandai"}[LP.src];
+    var title="Latihan kustom · "+(nSel.length===PPTS.length?"semua PPT":nSel.length===1?nSel[0].title:nSel.length+" PPT")+(src?" · "+src:"")+(LP.tag!=="all"?" · "+(LP.tag||"reguler"):"");
+    startPractice(list,title,true);
+  };
+  lpRefresh();
+}
+
+/* ---------- simpan & lanjutkan sesi latihan ---------- */
+function saveSess(){
+  if(!S||S.mode!=="practice") return;
+  if(S.done){ delete ST.sess; save(); return; }
+  ST.sess={title:S.title,ids:S.items.map(function(x){return x.q.id;}),ord:S.items.map(function(x){return x.ord;}),ans:S.items.map(function(x){return x.ans;}),cur:S.cur,t0:S.t0};
+  save();
+}
+function resumeSess(){
+  var r=ST.sess; if(!r) return;
+  var items=[];
+  r.ids.forEach(function(id,i){ var q=QBY[id]; if(!q) return; var ord=r.ord[i]; if(!ord||ord.length!==q.o.length) ord=q.o.map(function(_,k){return k;});
+    items.push({q:q,ord:ord,ans:(r.ans[i]==null?null:r.ans[i]),struck:{},fl:!!ST.flags[id]}); });
+  if(!items.length){delete ST.sess;save();home();return;}
+  S={mode:"practice",title:r.title,items:items,cur:Math.min(r.cur||0,items.length-1),done:false,t0:r.t0||Date.now()};
+  quiz(); window.scrollTo(0,0);
 }
 
 /* ================= SESI ================= */
@@ -382,6 +471,7 @@ function quiz(){
         return '<button class="'+c+'" data-go="'+i+'">'+(i+1)+'</button>';}).join('')+'</div>'+
      '<div class="small muted" style="margin-top:8px">'+(exam&&!S.done?'Kunci & pembahasan tampil setelah ujian dikirim.':'')+'</div></div></aside></div>';
   $("app").innerHTML=h;
+  saveSess();
   bindQuiz();
 }
 function bindQuiz(){
@@ -456,6 +546,7 @@ function explain(it){
 /* ================= HASIL ================= */
 function results(){
   stopTimer(); location.hash="hasil";
+  if(S.mode==="practice"&&ST.sess){ delete ST.sess; save(); }
   var items=S.items, exam=S.mode==="exam";
   var ans=items.filter(function(x){return x.ans!==null;}), ok=items.filter(function(x){return x.ans===x.q.a;}), wrong=ans.filter(function(x){return x.ans!==x.q.a;});
   var denom=exam?items.length:Math.max(ans.length,1), pct=Math.round(ok.length/denom*100);

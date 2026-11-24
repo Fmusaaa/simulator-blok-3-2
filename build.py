@@ -6,11 +6,11 @@ import json,os,re,sys
 sys.path.insert(0,'src')
 from clean_opts import clean_bank
 T=open('src/template.html').read()
-def render(bank,out,title,logo,h1,intro,examtitle,key,showall=False,tpl=None):
+def render(bank,out,title,logo,h1,intro,examtitle,key,showall=False,tpl=None,custom=False):
     bank,n=clean_bank(bank); print(out,'opsi dibersihkan di',n,'soal')
     s=json.dumps(bank,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')
     h=tpl or T
-    for a,b in [('__TITLE__',title),('__LOGO__',logo),('__H1__',h1),('__INTRO__',intro),('__EXAMTITLE__',examtitle),('__KEY__',key),('__SHOWALL__','true' if showall else 'false'),('__BANK__',s)]:
+    for a,b in [('__TITLE__',title),('__LOGO__',logo),('__H1__',h1),('__INTRO__',intro),('__EXAMTITLE__',examtitle),('__KEY__',key),('__SHOWALL__','true' if showall else 'false'),('__CUSTOM__','true' if custom else 'false'),('__BANK__',s)]:
         h=h.replace(a,b)
     os.makedirs(os.path.dirname(out) or '.',exist_ok=True)
     open(out,'w').write(h); print(out,len(bank['qs']),'soal')
@@ -18,7 +18,7 @@ def render(bank,out,title,logo,h1,intro,examtitle,key,showall=False,tpl=None):
 # 1) Simulator utama
 b=json.load(open('data/bank.json'))
 render(b,'index.html','Simulator Blok 3.2','Simulator <span>Blok 3.2</span>','Bank soal Blok 3.2',
-       'soal dari 20 judul PPT dosen + recall UAM 3.2.','Simulasi ujian Blok 3.2','sim-blok32-v1')
+       'soal dari 20 judul PPT dosen + recall UAM 3.2.','Simulasi ujian Blok 3.2','sim-blok32-v1',showall=True,custom=True)
 
 # 2) Simulator recall UAM 3.2 tahun 2024 (terpisah)
 U=[]

@@ -53,8 +53,8 @@ T=T[:i]+r'''function explain(it){
 }
 
 '''+T[j:]
-R('"Latihan semua soal (urut nomor recall)"','"Latihan semua soal (urut set & nomor)"')
-R("QS.slice().sort(function(x,y){return (x.ord||0)-(y.ord||0)||x.id-y.id;})","QS.slice()")
+R('"Latihan semua soal ("+(CUSTOM?"urut per PPT":"urut nomor recall")+")"','"Latihan semua soal (urut set & nomor)"')
+R("QS.slice().sort(function(x,y){return (x.ord||0)-(y.ord||0)||PIDX[x.ppt]-PIDX[y.ppt]||x.id-y.id;})","QS.slice()")
 R('Tiap soal ada kunci, pembahasan semua opsi, poin penting, dan catatan bila slide berbeda dengan referensi.','Tiap soal ada kunci, pembahasan semua opsi, dan catatan bila kunci angkatan perlu dikoreksi.')
 open(os.path.join(D,'template_angkatan.html'),'w').write(T)
 print('ok')
