@@ -67,7 +67,7 @@ def validate(b, ppt=None, verbose=True):
         if len(set(texts)) != len(texts): errs.append((q['id'], 'opsi kembar'))
         for i, o in enumerate(q['o']):
             if len(o) < 3: errs.append((q['id'], f'opsi {i} tanpa pembahasan')); continue
-            if len(strip(o[2])) < 25: warns.append((q['id'], f'pembahasan opsi {"ABCDE"[i]} terlalu pendek'))
+            if len(strip(o[1]) + strip(o[2])) < 25: warns.append((q['id'], f'pembahasan opsi {"ABCDE"[i]} terlalu pendek'))
         for k in ('d', 'ty', 'ks', 'kw', 'an'):
             if q.get(k): meta[k] += 1
         if q.get('ty') and q['ty'] not in TYPES: errs.append((q['id'], 'ty tidak valid'))

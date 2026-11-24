@@ -1,0 +1,224 @@
+#522 d=1 ty=recall
+ks: Rumus Friedewald (LDL = TC − HDL − TG/5) tidak valid bila TG > 400 mg/dL.
+kw: Friedewald; batas TG
+an: TG tinggi membuat estimasi VLDL (TG/5) tidak akurat.
+
+#523 d=1 ty=recall
+ks: Trigliserida: puasa 10–12 jam.
+kw: puasa; trigliserida
+an: Kilomikron postprandial menaikkan TG palsu.
+
+#524 d=2 ty=understanding
+ks: PT (ekstrinsik + bersama) dan APTT (intrinsik + bersama) sama-sama memanjang → defek jalur bersama atau kedua jalur.
+kw: PT dan APTT memanjang
+an: Bagian yang diperiksa kedua tes adalah jalur bersama.
+
+#532 d=1 ty=recall
+ks: TNM: T = ukuran/ekstensi tumor primer, N = kelenjar limfe regional, M = metastasis jauh.
+kw: TNM; huruf T
+an: T = tumor primer.
+
+#533 d=1 ty=application
+ks: N0 = tidak ada metastasis kelenjar limfe regional.
+kw: tidak ada metastasis KGB
+an: Angka 0 = tidak ada.
+
+#534 d=1 ty=recall
+ks: Metastasis adalah ciri paling pasti keganasan.
+kw: pembeda ganas–jinak
+an: Ciri lain (ukuran, kecepatan) tidak absolut.
+
+#535 d=1 ty=recall
+ks: Leiomioma = tumor jinak otot polos; leiomiosarkoma = ganas.
+kw: otot polos; jinak
+an: Akhiran -oma (jinak) + leio- (otot polos).
+
+#536 d=1 ty=recall
+ks: Papiloma = tumor jinak epitel skuamosa dengan tonjolan seperti jari.
+kw: epitel gepeng; tonjolan jari
+an: Tonjolan papiler → papiloma.
+
+#537 d=1 ty=recall
+ks: Seminoma = tumor ganas sel germinal testis (walau berakhiran -oma).
+kw: sel germinal; testis
+an: Pengecualian nomenklatur: -oma tetapi ganas.
+
+#541 d=1 ty=recall
+ks: Metastasis osteoblastik tersering dari karsinoma prostat.
+kw: osteoblastik; vertebra
+an: Prostat → sklerotik.
+
+#542 d=1 ty=recall
+ks: Bevacizumab = antibodi anti-VEGF (antiangiogenesis).
+kw: VEGF; neovaskularisasi
+an: -mab anti-VEGF.
+
+#543 d=1 ty=recall
+ks: Venetoclax menghambat BCL-2 → apoptosis sel kanker.
+kw: BCL-2
+an: BCL-2 = protein antiapoptosis.
+
+#544 d=1 ty=recall
+ks: Nivolumab (dan pembrolizumab) menghambat PD-1 (immune checkpoint).
+kw: PD-1
+an: Penghambat checkpoint melepas rem sel T.
+
+#545 d=1 ty=recall
+ks: Mediastinum superior: timus, trakea, esofagus, arkus aorta.
+kw: mediastinum superior
+an: Hafalkan isi kompartemen mediastinum.
+
+#546 d=2 ty=recall
+ks: 4T mediastinum anterior: thymoma, teratoma, thyroid, "terrible" lymphoma; tumor neurogenik di mediastinum posterior.
+kw: 4T; BUKAN
+an: Neurogenik berasal dari ganglion paravertebral (posterior).
+
+#559 d=1 ty=recall
+ks: Foto Rontgen konvensional adalah pemeriksaan radiologi tersering.
+kw: radiologi tersering
+an: Murah dan tersedia luas.
+
+#560 d=1 ty=recall
+ks: Lesi paru bulat > 3 cm = massa; ≤ 3 cm = nodul.
+kw: lesi 5 cm
+an: 5 cm > 3 cm → massa.
+
+#561 d=2 ty=understanding
+ks: Proyeksi PA: jantung dekat film → magnifikasi minimal → CTR akurat.
+kw: PA vs AP; ukuran jantung
+an: Objek jauh dari film tampak membesar.
+
+#562 d=2 ty=application
+ks: Kecelakaan perjalanan dari rumah ke tempat kerja (rute wajar) termasuk kecelakaan kerja.
+kw: berangkat ke kantor; kecelakaan di jalan
+an: Perjalanan berangkat kerja dilindungi sebagai kecelakaan kerja.
+
+#563 d=1 ty=application
+ks: Bisinosis: debu kapas; sesak memburuk hari Senin (Monday fever/chest tightness).
+kw: tekstil; hari Senin
+an: Pola hari Senin khas bisinosis.
+
+#564 d=1 ty=recall
+ks: Jarak minimal sumur ke tangki septik: 10 meter (SNI).
+kw: sumur; tangki septik
+an: Mencegah kontaminasi tinja.
+
+#573 d=1 ty=application
+ks: HER2 positif → trastuzumab (anti-HER2).
+kw: kanker payudara; HER2 positif
+an: Cocokkan target molekuler dengan obatnya.
+A: Bevacizumab || Antibodi anti-VEGF (antiangiogenesis). || Target bukan HER2.
+B: Nivolumab || Penghambat checkpoint PD-1. || Target bukan HER2.
+C: Imatinib || Penghambat tirosin kinase BCR-ABL. || Untuk CML.
+D*: Trastuzumab || Antibodi monoklonal anti-HER2. || Sesuai target.
+E: Rituximab || Antibodi anti-CD20 sel B. || Untuk limfoma sel B.
+
+#574 d=1 ty=application
+ks: Kromosom Philadelphia (BCR-ABL) → imatinib (penghambat tirosin kinase).
+kw: Philadelphia; BCR-ABL; CML
+an: Target BCR-ABL.
+A: Trastuzumab || Anti-HER2. || Target berbeda.
+B: Bevacizumab || Anti-VEGF. || Target berbeda.
+C: Venetoclax || Penghambat BCL-2. || Target berbeda.
+D: Siklosporin || Imunosupresan penghambat kalsineurin. || Bukan terapi target kanker.
+E*: Imatinib || Penghambat tirosin kinase BCR-ABL. || Terapi CML.
+
+#575 d=1 ty=application
+ks: CD20 pada sel B → rituximab.
+kw: limfoma sel B; CD20
+an: Anti-CD20 = rituximab.
+A*: Rituximab || Anti-CD20; menghancurkan sel B lewat ADCC dan komplemen. || Sesuai.
+B: Bevacizumab || Anti-VEGF. || Target berbeda.
+C: Trastuzumab || Anti-HER2. || Target berbeda.
+D: Nivolumab || Anti-PD-1. || Target berbeda.
+E: Imatinib || Penghambat BCR-ABL. || Target berbeda.
+
+#576 d=1 ty=understanding
+ks: Grading = derajat diferensiasi (mikroskopik); staging = luas penyebaran anatomis (TNM).
+kw: berdiferensiasi buruk
+an: Diferensiasi → grading.
+A: Metastasis ke kelenjar limfe regional (N) || Komponen staging. || Tidak menilai diferensiasi.
+B*: Grading tumor || Kemiripan sel tumor dengan jaringan asal. || Diferensiasi buruk = grade tinggi.
+C: Ukuran dan ekstensi tumor primer (T) || Komponen staging. || Tidak menilai diferensiasi.
+D: Kadar petanda tumor dalam serum || Pemeriksaan laboratorium. || Tidak menilai diferensiasi.
+E: Staging TNM secara keseluruhan || Penyebaran anatomis. || Bukan diferensiasi sel.
+
+#577 d=1 ty=recall
+ks: M0 = tanpa metastasis jauh; M1 = ada metastasis jauh.
+kw: T2N1M1; komponen M
+an: M = metastasis jauh.
+A: Tumor grade 1 (berdiferensiasi baik) || Istilah grading. || Bukan komponen M.
+B: Metastasis ke satu kelenjar limfe regional || Komponen N. || Bukan M.
+C*: Ada metastasis jauh || M1 = metastasis jauh positif. || Sesuai.
+D: Tumor primer berukuran 1 cm || Terkait komponen T. || Bukan M.
+E: Tumor bersifat jinak || Staging TNM hanya untuk keganasan. || Tidak sesuai.
+
+#578 d=1 ty=recall
+ks: Tumor ganas mesenkimal: akhiran -sarkoma; lipo- = lemak.
+kw: ganas; jaringan lemak
+an: Lemak + ganas = liposarkoma.
+A: Fibrosarkoma || Ganas jaringan ikat fibrosa. || Asal jaringan berbeda.
+B: Adenokarsinoma || Ganas epitel kelenjar. || Bukan mesenkimal.
+C: Leiomiosarkoma || Ganas otot polos. || Asal jaringan berbeda.
+D*: Liposarkoma || Ganas jaringan lemak. || Sesuai.
+E: Lipoma || Tumor jinak jaringan lemak. || Tidak ganas.
+
+#579 d=1 ty=recall
+ks: Adenoma = tumor jinak epitel kelenjar; adenokarsinoma = ganas.
+kw: jinak; epitel kelenjar
+an: Adeno- + -oma.
+A: Adenokarsinoma || Ganas epitel kelenjar. || Tidak jinak.
+B: Papiloma || Jinak epitel dengan tonjolan seperti jari. || Bukan epitel kelenjar.
+C*: Adenoma || Tumor jinak epitel kelenjar. || Sesuai.
+D: Leiomioma || Jinak otot polos. || Asal jaringan berbeda.
+E: Fibroma || Jinak jaringan ikat. || Asal jaringan berbeda.
+
+#586 d=2 ty=application
+ks: APTT memanjang dengan PT normal dan trombosit normal pada anak laki-laki dengan hemartrosis → hemofilia A (faktor VIII, X-linked).
+kw: hemartrosis; APTT memanjang; PT normal
+an: Defek jalur intrinsik saja.
+A*: Hemofilia A || Defisiensi faktor VIII; APTT memanjang, PT normal. || X-linked resesif.
+B: Koagulasi intravaskular diseminata (DIC) || PT dan APTT memanjang, trombosit turun. || Tidak sesuai.
+C: Defisiensi faktor VII kongenital || PT memanjang, APTT normal. || Tidak sesuai.
+D: Defisiensi vitamin K || PT dan APTT memanjang. || Tidak sesuai.
+E: Trombositopenia imun || Trombosit rendah. || Trombosit pasien normal.
+
+#587 d=2 ty=understanding
+ks: Warfarin menurunkan faktor vitamin K (II, VII, IX, X); faktor VII berwaktu paruh terpendek → PT memanjang paling dulu.
+kw: warfarin; PT memanjang lebih dulu
+an: t½ terpendek → turun paling cepat.
+A: Faktor I (fibrinogen) || Bukan faktor yang bergantung vitamin K. || Tidak sesuai.
+B: Faktor XII (Hageman) || Bukan faktor yang bergantung vitamin K. || Tidak sesuai.
+C: Faktor IV (kalsium) || Ion, bukan protein vitamin K. || Tidak sesuai.
+D*: Faktor VII || Faktor vitamin K dengan waktu paruh terpendek. || PT menilai jalur ekstrinsik.
+E: Faktor VIII (antihemofilik) || Bukan faktor yang bergantung vitamin K. || Tidak sesuai.
+
+#589 d=2 ty=application
+ks: Friedewald: LDL = TC − HDL − TG/5 (valid bila TG < 400).
+kw: TC 240; HDL 40; TG 200
+an: 240 − 40 − 40 = 160 mg/dL.
+A: 120 mg/dL || Hasil bila TG dibagi 2,5 (bukan 5). || Salah hitung.
+B: Tidak bisa dihitung || Rumus tidak valid hanya bila TG > 400. || TG pasien 200.
+C: 0 mg/dL || Tidak masuk akal secara fisiologis. || Salah hitung.
+D: 200 mg/dL || HDL tidak dikurangkan. || Salah hitung.
+E*: 160 mg/dL || 240 − 40 − (200/5). || Rumus valid.
+
+#593 d=2 ty=application
+ks: Asbes (galangan kapal, atap asbes): asbestosis, plak pleura, mesotelioma.
+kw: asbes; plak pleura; efusi
+an: Plak pleura khas pajanan asbes.
+A*: Asbestosis dengan risiko mesotelioma || Fibrosis paru, plak pleura, mesotelioma. || Sesuai pajanan.
+B: Bisinosis akibat debu kapas tekstil || Gejala hari Senin. || Pajanan berbeda.
+C: Silikosis akibat debu silika tambang || Nodul silikotik lobus atas. || Pajanan berbeda.
+D: Asma alergi biasa tanpa kaitan pekerjaan || Tidak menjelaskan plak pleura. || Kurang tepat.
+E: Antrakosis akibat debu batu bara || Pajanan berbeda. || Tidak sesuai.
+
+#594 d=1 ty=application
+ks: Kehamilan: pilih modalitas tanpa radiasi pengion (USG).
+kw: hamil 12 minggu; nodul tiroid
+an: USG aman dan pilihan utama untuk nodul tiroid.
+A: Skintigrafi tiroid || Memakai radioisotop. || Kontraindikasi saat hamil.
+B: Foto Rontgen leher || Radiasi pengion. || Dihindari bila tidak perlu.
+C: PET scan || Radioisotop. || Kontraindikasi saat hamil.
+D: CT scan leher || Radiasi pengion dosis lebih besar. || Dihindari.
+E*: USG || Gelombang suara tanpa radiasi pengion. || Aman untuk ibu hamil.
