@@ -1,0 +1,239 @@
+#640 d=1 ty=recall
+ks: Respons vaskular inflamasi akut: vasokonstriksi transien → vasodilatasi → permeabilitas naik → edema → stasis → marginasi leukosit.
+kw: fase awal; pertama kali; hemodinamik
+an: Kata "pertama kali" menunjuk refleks vasokonstriksi singkat sebelum vasodilatasi oleh histamin/NO.
+A*: Vasokonstriksi sesaat lalu vasodilatasi || Refleks neurogenik singkat, lalu arteriol melebar oleh histamin dan NO. || Sesuai slide: "diawali vasokonstriksi, dilanjutkan vasodilatasi".
+B: Vasodilatasi arteriol langsung tanpa didahului fase lain || Vasodilatasi memang terjadi. || Melewatkan vasokonstriksi transien di awal.
+C: Penurunan permeabilitas venula pascakapiler || Arah keliru. || Permeabilitas justru naik sehingga terjadi edema.
+D: Penurunan viskositas darah akibat hemodilusi lokal || Arah keliru. || Cairan keluar → darah mengental (stasis).
+E: Neutrofil langsung keluar pembuluh tanpa marginasi || Melewatkan tahapan. || Ada marginasi, rolling, adhesi, diapedesis.
+
+#641 d=1 ty=recall
+ks: Mediator peningkat permeabilitas: histamin, serotonin, bradikinin, LTC4/D4/E4. Lipoksin bersifat antiinflamasi.
+kw: permeabilitas vaskular; KECUALI
+an: Cari mediator yang justru "rem" inflamasi: lipoksin menghambat neutrofil.
+A*: Lipoksin || Produk lipoksigenase yang antiinflamasi; menghambat kemotaksis dan adhesi neutrofil. || Tidak meningkatkan permeabilitas, jadi inilah jawabannya.
+B: Histamin dari sel mast || Amin vasoaktif. || Meningkatkan permeabilitas.
+C: Serotonin dari trombosit || Amin vasoaktif. || Meningkatkan permeabilitas.
+D: Bradikinin hasil sistem kinin || Produk akhir kaskade kinin. || Meningkatkan permeabilitas dan nyeri.
+E: Leukotrien sisteinil C4, D4, dan E4 || Produk jalur lipoksigenase. || Meningkatkan permeabilitas dan bronkokonstriksi.
+
+#642 d=2 ty=understanding
+ks: Kaskade rekrutmen leukosit: selektin (rolling) → kemokin mengaktifkan integrin → integrin–ICAM-1/VCAM-1 (adhesi kuat) → diapedesis (PECAM-1).
+kw: adhesi kuat; neutrofil; endotel
+an: Bedakan ikatan lemah (selektin, rolling) dan ikatan kuat (integrin–Ig superfamili).
+A*: Integrin neutrofil dengan ICAM-1/VCAM-1 || Integrin diaktifkan kemokin, lalu mengikat erat molekul adhesi endotel. || Sesuai langkah 3–4 slide.
+B: E- dan P-selektin endotel dengan ligan karbohidrat neutrofil || Ikatan berafinitas rendah. || Itu tahap rolling, bukan adhesi kuat.
+C: Reseptor Fc dengan IgE || Ikatan pada sel mast/basofil. || Bukan adhesi neutrofil–endotel.
+D: TCR dengan MHC kelas II || Presentasi antigen ke sel T CD4. || Tidak terkait migrasi neutrofil.
+E: C3b dengan reseptor komplemen fagosit || Opsonisasi. || Bukan adhesi ke endotel.
+
+#643 d=2 ty=recall
+ks: Granula primer (azurofilik) neutrofil: MPO, elastase, defensin, BPI, hidrolase asam. Granula sekunder: LAP, laktoferin, kolagenase, B12-binding protein.
+kw: granula primer; azurofilik; HOCl
+an: MPO hanya ada di granula primer dan membentuk HOCl dari H₂O₂ + Cl⁻.
+A*: Mieloperoksidase (MPO) || Granula azurofilik; mengubah H₂O₂ + Cl⁻ menjadi HOCl. || Sesuai slide.
+B: Leukocyte alkaline phosphatase (LAP) granula spesifik || Isi granula sekunder. || Bukan granula primer dan tidak membentuk HOCl.
+C: Laktoferin || Granula sekunder, mengikat besi. || Bukan granula primer.
+D: Kolagenase || Granula sekunder. || Bukan granula primer.
+E: Protein pengikat vitamin B12 || Granula sekunder. || Bukan granula primer.
+
+#644 d=2 ty=application
+ks: Pemicu pelepasan histamin sel mast: ikatan IgE, jejas fisik, anafilatoksin C3a/C5a, sitokin IL-1.
+kw: sengatan lebah; urtikaria; KECUALI
+an: LTB4 bekerja menarik neutrofil, bukan memicu degranulasi sel mast.
+A*: Leukotrien B4 || Kemoatraktan neutrofil. || Tidak tercantum sebagai pemicu histamin, jadi inilah jawabannya.
+B: Ikatan silang IgE pada permukaan sel mast || Pemicu utama alergi. || Sesuai slide.
+C: Jejas fisik (trauma, dingin, panas) || Tercantum di slide. || Sesuai slide.
+D: Anafilatoksin C3a dan C5a || Tercantum di slide. || Sesuai slide.
+E: Sitokin IL-1 || Tercantum di slide. || Sesuai slide.
+
+#645 d=1 ty=recall
+ks: Sistem kinin: faktor XIIa → prekalikrein menjadi kalikrein → HMWK menjadi bradikinin.
+kw: bradikinin; efek
+an: Bradikinin = nyeri + permeabilitas + vasodilatasi + kontraksi otot polos.
+A*: Permeabilitas naik, nyeri, vasodilatasi, bronkokonstriksi || Efek bradikinin di slide. || Mediator kunci nyeri radang.
+B: Vasokonstriksi kuat disertai agregasi trombosit || Efek tromboksan A2. || Bukan bradikinin.
+C: Kemotaksis neutrofil ke lokasi jejas || Efek LTB4, C5a, IL-8. || Bukan bradikinin.
+D: Opsonisasi bakteri agar mudah difagosit || Efek C3b. || Bukan bradikinin.
+E: Demam dan induksi reaktan fase akut di hati || Efek IL-1 dan TNF. || Bukan bradikinin.
+
+#646 d=2 ty=understanding
+ks: TXA2 (trombosit): vasokonstriksi + agregasi. PGI2 (endotel): vasodilatasi + antiagregasi. LTB4: kemotaksis. Lipoksin: antiinflamasi.
+kw: siklooksigenase; pasangan mediator–efek
+an: TXA2 dan PGI2 adalah pasangan berlawanan; cek sumber sel dan efeknya.
+A*: TXA2: vasokonstriksi + agregasi; PGI2: kebalikannya || TXA2 dari trombosit, PGI2 dari endotel. || Sesuai slide.
+B: TXA2 menyebabkan vasodilatasi, sedangkan PGI2 memicu agregasi trombosit || Pasangan efek tertukar. || Tidak sesuai.
+C: PGE2 terutama menarik neutrofil (kemotaksis) || Kemotaksis oleh LTB4. || PGE2 menyebabkan nyeri dan demam.
+D: Leukotrien B4 menyebabkan vasokonstriksi dan bronkokonstriksi || LTB4 untuk kemotaksis. || Vasokonstriksi oleh LTC4, D4, E4.
+E: Lipoksin meningkatkan kemotaksis dan adhesi neutrofil || Arah efek terbalik. || Lipoksin menghambat neutrofil.
+
+#647 d=1 ty=recall
+ks: Komplemen: C3b opsonin; C3a/C5a anafilatoksin; C5a kemotaksis; C5b–C9 MAC.
+kw: opsonin
+an: Opsonin = penanda yang melapisi mikroba untuk fagositosis → C3b.
+A*: C3b || Melapisi mikroba dan dikenali reseptor komplemen fagosit. || Opsonin utama.
+B: C5a || Kemotaktik leukosit dan anafilatoksin. || Bukan opsonin.
+C: C3a || Anafilatoksin. || Bukan opsonin.
+D: Kompleks C5b–C9 (membrane attack complex) || Melubangi membran sel. || Fungsinya lisis, bukan opsonisasi.
+E: C1q || Inisiasi jalur klasik. || Bukan opsonin utama.
+
+#648 d=2 ty=application
+ks: IL-1 dan TNF: pirogen endogen (via PGE2 hipotalamus) dan penginduksi protein fase akut hati.
+kw: demam; CRP; sitokin
+an: Demam + CRP naik → sitokin proinflamasi sistemik IL-1/TNF.
+A*: IL-1 dan TNF || Menaikkan set point suhu dan menginduksi reaktan fase akut. || Sesuai slide.
+B: IL-8 dari makrofag || Kemoatraktan neutrofil. || Bukan penyebab utama demam di slide.
+C: IL-4 dari sel Th2 || Memicu peralihan kelas ke IgE. || Tidak sesuai.
+D: TGF-β yang imunosupresif dan fibrogenik || Berperan pada fibrosis dan supresi imun. || Tidak menyebabkan demam.
+E: IL-10 sebagai sitokin antiinflamasi || Menekan makrofag. || Efeknya berlawanan.
+
+#649 d=1 ty=application
+ks: Empat luaran inflamasi akut: resolusi sempurna, resolusi dengan jaringan parut, abses, transisi ke kronik.
+kw: Staphylococcus; kumpulan pus; dinding fibrosa
+an: Pus berbatas jaringan fibrosa → abses.
+A*: Pembentukan abses || Kumpulan neutrofil mati dan jaringan nekrotik yang berbatas. || Sesuai gambaran pus berdinding.
+B: Resolusi sempurna dengan regenerasi jaringan || Jaringan kembali normal. || Pasien masih punya kumpulan pus.
+C: Resolusi dengan jaringan parut (fibrosis) || Terjadi setelah kerusakan luas. || Fokus utama gambaran ini adalah pus.
+D: Transisi ke inflamasi kronik dengan dominasi limfosit || Infiltrat makrofag dan limfosit. || Pus dan neutrofil menunjuk abses.
+E: Inflamasi granulomatosa || Inflamasi kronik spesifik. || Tidak ada granuloma.
+
+#650 d=1 ty=recall
+ks: Makrofag jaringan berasal dari monosit: histiosit (jaringan ikat), makrofag alveolar (paru), Kupffer (hati), osteoklas (tulang), mikroglia (otak).
+kw: nama makrofag; lokasi
+an: Cocokkan nama dengan organ; Langerhans dan osteoblas adalah pengecoh.
+A*: Hati – Kupffer; otak – mikroglia; tulang – osteoklas || Semua turunan monosit. || Sesuai slide.
+B: Hati – mikroglia; otak – sel Kupffer; tulang – osteoklas || Hati dan otak tertukar. || Tidak sesuai.
+C: Paru – osteoklas; hati – Kupffer; otak – mikroglia || Makrofag paru adalah makrofag alveolar. || Tidak sesuai.
+D: Jaringan ikat – sel Langerhans; hati – Kupffer || Langerhans adalah sel dendritik kulit. || Jaringan ikat: histiosit.
+E: Tulang – osteoblas; otak – mikroglia; hati – Kupffer || Osteoblas berasal dari mesenkim. || Makrofag tulang adalah osteoklas.
+
+#651 d=1 ty=understanding
+ks: Penyebab inflamasi kronik: infeksi persisten, autoimun, benda asing, tumor, inflamasi akut yang tidak tuntas.
+kw: KECUALI; inflamasi kronik
+an: "Cepat dibersihkan" menandakan proses akut yang sembuh.
+A*: Infeksi piogenik akut yang cepat tuntas || Pola inflamasi akut yang sembuh. || Bukan penyebab kronik, jadi inilah jawabannya.
+B: Penyakit autoimun || Tercantum di slide. || Penyebab kronik.
+C: Infeksi persisten mikobakteri, virus, parasit, atau jamur || Tercantum di slide. || Penyebab kronik.
+D: Respons terhadap benda asing (misalnya silika, benang jahit) || Tercantum di slide. || Penyebab kronik.
+E: Respons terhadap tumor ganas || Tercantum di slide. || Penyebab kronik.
+
+#652 d=2 ty=understanding
+ks: Toleransi sentral (timus, sumsum tulang): seleksi negatif, pembentukan Treg. Toleransi perifer: anergi, supresi Treg, delesi Fas/FasL.
+kw: toleransi perifer; KECUALI
+an: Seleksi negatif terjadi di organ limfoid primer → sentral.
+A*: Seleksi negatif di timus || Terjadi di organ limfoid primer. || Termasuk toleransi sentral, jadi inilah jawabannya.
+B: Anergi karena tidak ada kostimulasi CD28–CD80/86 || Toleransi perifer. || Sesuai slide.
+C: Supresi oleh sel T regulator CD4⁺CD25⁺FoxP3⁺ || Toleransi perifer. || Sesuai slide.
+D: Delesi sel T autoreaktif lewat apoptosis jalur Fas/FasL || Toleransi perifer (AICD). || Sesuai slide.
+E: Inaktivasi fungsional sel T yang mengenali antigen tanpa sinyal kedua || Ini definisi anergi. || Sesuai slide.
+
+#653 d=3 ty=integrated
+ks: Mutasi AIRE → sel epitel medula timus gagal mengekspresikan antigen jaringan → sel T autoreaktif lolos seleksi negatif → APECED.
+kw: kandidiasis mukokutan; hipoparatiroid; Addison; AIRE
+an: Trias kandidiasis + hipoparatiroid + Addison dengan mutasi AIRE → gagal toleransi sentral.
+A*: Gagal seleksi negatif di timus || AIRE membuat medula timus menampilkan antigen organ untuk menghapus sel T autoreaktif. || Sesuai slide (APECED).
+B: Kegagalan anergi perifer akibat kostimulasi yang berlebihan || Mekanisme toleransi perifer. || AIRE bekerja pada toleransi sentral.
+C: Mimikri molekuler antara antigen Candida dan jaringan paratiroid || Bukan mekanisme APECED. || Tidak ada bukti kemiripan epitop.
+D: Defisiensi IgA selektif || Imunodefisiensi humoral tersering. || Tidak menjelaskan autoimun multiorgan.
+E: Hipersensitivitas tipe I yang diperantarai IgE || Alergi cepat. || Tidak sesuai.
+
+#654 d=2 ty=application
+ks: Mimikri molekuler: epitop patogen mirip antigen diri → reaktivitas silang (contoh: demam rematik pascastreptokokus).
+kw: faringitis Streptococcus; karditis; poliartritis; 3 minggu
+an: Infeksi → beberapa minggu → autoimun organ yang epitopnya mirip protein M → mimikri molekuler.
+A*: Mimikri molekuler || Protein M streptokokus mirip antigen miokard sehingga terjadi reaksi silang. || Contoh klasik di slide.
+B: Epitope spreading akibat pelepasan antigen dari jaringan rusak || Perluasan respons setelah kerusakan. || Bisa sekunder; pemicu awalnya mimikri.
+C: Bystander activation oleh sitokin selama infeksi || Aktivasi sel T autoreaktif nonspesifik. || Bukan mekanisme klasik demam rematik.
+D: Defek gen AIRE || Gagal toleransi sentral. || Tidak sesuai riwayat infeksi.
+E: Hipersensitivitas tipe I || Diperantarai IgE. || Tidak sesuai.
+
+#655 d=2 ty=understanding
+ks: Epitope spreading: kerusakan jaringan melepaskan antigen diri baru → respons autoimun meluas dan memperkuat diri.
+kw: siklus; antigen diri dilepaskan; autoantibodi
+an: Tidak ada patogen; kerusakan memicu antigen baru → lingkaran amplifikasi.
+A*: Epitope spreading || Respons autoimun meluas ke epitop baru dari jaringan rusak. || Sesuai siklus di slide.
+B: Mimikri molekuler antara patogen dan antigen diri || Butuh patogen pemicu. || Tidak ada patogen di siklus ini.
+C: Anergi sel T akibat tidak adanya sinyal kostimulasi || Mekanisme toleransi. || Kebalikan dari aktivasi.
+D: Delesi klonal sel autoreaktif || Mekanisme toleransi. || Kebalikan dari aktivasi.
+E: Imunoediting tumor || Interaksi imun–tumor. || Tidak sesuai.
+
+#656 d=2 ty=recall
+ks: Graves: TRAb agonis reseptor TSH. MG: anti-AChR (blokade/degradasi). SLE: anti-dsDNA/Sm (tipe III). RA: anti-CCP/RF (pannus). DM tipe 1: GAD65 (CD8⁺).
+kw: tabel autoimun; autoantibodi; mekanisme
+an: Periksa tiap komponen pasangan; satu yang salah membuat pilihan gugur.
+A*: Graves – TRAb – stimulasi reseptor TSH || Autoantibodi bekerja seperti TSH. || Sesuai tabel slide.
+B: Miastenia gravis – TRAb – stimulasi reseptor asetilkolin || Antibodi keliru. || MG: anti-AChR yang memblokir dan mendegradasi reseptor.
+C: SLE – anti-CCP – pembentukan pannus sendi || Anti-CCP milik artritis reumatoid. || SLE: anti-dsDNA, anti-Sm.
+D: DM tipe 1 – anti-dsDNA – deposit kompleks imun || Antibodi keliru. || DM tipe 1: GAD65/insulin, destruksi oleh CD8⁺.
+E: Artritis reumatoid – anti-Smith – hipersensitivitas tipe III || Anti-Smith khas SLE. || RA: anti-CCP, RF.
+
+#657 d=2 ty=application
+ks: Hipersensitivitas tipe II: IgG/IgM terhadap antigen permukaan sel (contoh: eritroblastosis fetalis, reaksi transfusi).
+kw: ibu Rh-negatif; anak kedua; hemolitik; hidrops
+an: IgG anti-Rh ibu menembus plasenta → eritrosit janin dihancurkan → tipe II.
+A*: Tipe II (IgG terhadap antigen permukaan sel) || Anti-Rh IgG ibu menembus plasenta dan menghancurkan eritrosit janin. || Contoh slide: eritroblastosis fetalis.
+B: Tipe I yang diperantarai IgE || Alergi cepat. || IgE tidak menembus plasenta.
+C: Tipe III, kompleks imun || Antigen terlarut. || Antigen Rh menempel di permukaan sel.
+D: Tipe IV yang diperantarai sel T || Reaksi lambat. || Tidak sesuai.
+E: Autoimunitas terhadap antigen diri janin || Antigen Rh adalah aloantigen bagi ibu. || Bukan autoimun.
+
+#658 d=2 ty=application
+ks: Hipersensitivitas tipe III: kompleks imun antigen terlarut–IgG mengendap dan mengaktifkan komplemen (Arthus lokal, serum sickness sistemik).
+kw: serum antitoksin kuda; 10 hari; demam; ruam; proteinuria
+an: Antigen serum asing terlarut + 1–2 minggu + gejala sistemik (sendi, ginjal) → serum sickness.
+A*: Tipe III (kompleks imun) – serum sickness || Kompleks imun mengendap di pembuluh, sendi, glomerulus. || Sesuai slide.
+B: Tipe I, anafilaksis || Terjadi dalam menit. || Waktu 10 hari dan proteinuria tidak sesuai.
+C: Tipe II, antibodi terhadap antigen pada sel || Antigen menempel di sel. || Antigen serum kuda terlarut.
+D: Tipe IVa yang diperantarai sel Th1 dan makrofag || Contoh: reaksi tuberkulin. || Tidak sesuai.
+E: Tipe IVd dengan efektor neutrofil (misalnya AGEP) || Pustulosis eksantematosa. || Tidak sesuai.
+
+#659 d=2 ty=recall
+ks: Subtipe tipe IV: IVa Th1–makrofag; IVb Th2–eosinofil; IVc CTL; IVd neutrofil (CXCL8).
+kw: eosinofil; IL-4/IL-5/IL-13; Th2
+an: Eosinofil + sitokin Th2 → IVb.
+A*: Tipe IVb || Diperantarai Th2 dan eosinofil. || Sesuai tabel.
+B: Tipe IVa (Th1, IFN-γ, makrofag) || Contoh: tuberkulin, dermatitis kontak. || Efektornya makrofag.
+C: Tipe IVc (sel T sitotoksik) || Perforin/granzim B. || Efektornya CTL.
+D: Tipe IVd (CXCL8, GM-CSF, neutrofil) || Contoh: AGEP, Behçet. || Efektornya neutrofil.
+E: Tipe II || IgG terhadap sel. || Bukan tipe IV.
+
+#660 d=1 ty=recall
+ks: Imunoediting kanker (Schreiber 2011): eliminasi → ekuilibrium → escape.
+kw: imunoediting; urutan fase
+an: Tumor mula-mula dibasmi, lalu tertahan seimbang, akhirnya lolos.
+A*: Eliminasi → ekuilibrium → escape || Dibasmi → tertahan → lolos dan tumbuh. || Sesuai slide.
+B: Escape → eliminasi → ekuilibrium || Urutan salah. || Escape adalah fase akhir.
+C: Ekuilibrium → escape → eliminasi || Urutan salah. || Eliminasi adalah fase awal.
+D: Inisiasi → promosi → progresi || Tahapan karsinogenesis kimia. || Bukan imunoediting.
+E: Toleransi → anergi → delesi || Mekanisme toleransi. || Bukan imunoediting.
+
+#661 d=2 ty=understanding
+ks: Mekanisme escape tumor: imunogenisitas rendah (MHC/kostimulasi turun), modulasi antigen, imunosupresi (TGF-β, IL-10, Treg), privileged site.
+kw: fase escape; KECUALI
+an: Pilihan yang membuat tumor lebih mudah dikenali pasti bukan escape.
+A*: Ekspresi MHC dan kostimulasi meningkat || Membuat tumor lebih mudah dikenali sel T. || Kebalikan escape, jadi inilah jawabannya.
+B: Sekresi TGF-β dan IL-10 yang menghambat sel T || Imunosupresi. || Mekanisme escape.
+C: Induksi sel T regulator di lingkungan mikro tumor || Imunosupresi. || Mekanisme escape.
+D: Modulasi antigenik (endositosis dan degradasi antigen permukaan) || Antigen hilang dari permukaan. || Mekanisme escape.
+E: Barier fisik berupa tumor-induced privileged site || Tercantum di slide. || Mekanisme escape.
+
+#662 d=1 ty=understanding
+ks: Innate: cepat, nonspesifik (pola patogen), tanpa memori. Adaptif: spesifik, memiliki memori, respons primer butuh hari.
+kw: innate; adaptif; perbedaan
+an: Memori dan spesifisitas adalah ciri adaptif; keduanya berinteraksi lewat presentasi antigen.
+A*: Adaptif spesifik dan bermemori; innate siap sejak awal || Innate tersedia sebelum infeksi dan tanpa memori. || Ciri dasar kedua sistem.
+B: Imunitas innate memiliki memori jangka panjang terhadap patogen || Keliru. || Memori adalah ciri adaptif.
+C: Imunitas adaptif bekerja dalam hitungan menit sejak paparan pertama || Keliru. || Respons primer adaptif butuh beberapa hari.
+D: Imunitas innate hanya bekerja pada satu patogen tertentu || Keliru. || Innate mengenali pola umum (PAMP).
+E: Keduanya bekerja terpisah tanpa saling berinteraksi || Keliru. || Makrofag mempresentasikan antigen ke sel T.
+
+#663 d=2 ty=understanding
+ks: Imunopatologi (Abbas): berlebihan → hipersensitivitas; terhadap diri → autoimunitas; tidak adekuat → imunodefisiensi; terhadap jaringan asing/ganas → rejeksi transplantasi/gagal mengenali tumor.
+kw: penyakit non-infeksi; pasangan
+an: Hubungkan sifat respons (berlebih, salah sasaran, kurang) dengan nama penyakitnya.
+A*: Berlebihan → hipersensitivitas; terhadap diri → autoimunitas || Dua dari empat jalur di slide. || Keduanya benar.
+B: Respons yang tidak adekuat menyebabkan autoimunitas || Keliru. || Tidak adekuat → imunodefisiensi.
+C: Respons yang diarahkan ke diri sendiri menyebabkan imunodefisiensi || Keliru. || Itu autoimunitas.
+D: Gagal mengenali sel ganas menyebabkan hipersensitivitas || Keliru. || Itu kegagalan imunologi tumor.
+E: Penolakan jaringan transplantasi digolongkan sebagai autoimunitas || Keliru. || Rejeksi adalah respons terhadap aloantigen.
