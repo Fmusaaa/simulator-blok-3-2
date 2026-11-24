@@ -56,7 +56,7 @@ def validate(b, ppt=None, verbose=True):
     qs = [q for q in b['qs'] if not ppt or q['ppt'] == ppt]
     ids = collections.Counter(q['id'] for q in b['qs'])
     errs, warns = [], []
-    longest = 0; ratios = []; meta = collections.Counter()
+    longest = 0; ratios = []; meta = collections.Counter(); stand = []
     for q in qs:
         tag = q.get('tag') or ''
         if ids[q['id']] > 1: errs.append((q['id'], 'id ganda'))
@@ -74,6 +74,9 @@ def validate(b, ppt=None, verbose=True):
         if q.get('d') and q['d'] not in (1, 2, 3): errs.append((q['id'], 'd tidak valid'))
         if tag in LOCKED: continue
         isl, r = clue(q); ratios.append(r); longest += isl
+        ls = sorted(len(strip(o[0])) for o in q['o'])
+        if isl and len(ls) > 1 and len(strip(q['o'][q['a']][0])) >= 1.2 * ls[-2] and len(strip(q['o'][q['a']][0])) - ls[-2] >= 8:
+            stand.append(q['id'])
         if r >= 1.5: warns.append((q['id'], f'kunci {r:.1f}× lebih panjang dari distraktor'))
         ab = [bool(ABSOLUTE.search(t)) for t in texts]
         if any(ab) and not ab[q['a']] and sum(ab) == len(ab) - 1:
@@ -82,11 +85,13 @@ def validate(b, ppt=None, verbose=True):
     rep = {
         'soal': len(qs), 'dinilai_anti_clue': n,
         'kunci_terpanjang_%': round(100 * longest / n, 1) if n else 0,
+        'kunci_menonjol_%': round(100 * len(stand) / n, 1) if n else 0,
         'rasio_panjang_rata2': round(statistics.mean(ratios), 2) if ratios else 0,
         'metadata': {k: f'{meta[k]}/{len(qs)}' for k in ('d', 'ty', 'ks', 'kw', 'an')},
         'error': len(errs), 'peringatan': len(warns),
         'posisi_kunci': dict(collections.Counter('ABCDE'[q['a']] for q in qs if q['a'] < 5)),
     }
+    rep['kunci_menonjol_id'] = stand[:40]
     if verbose:
         print(json.dumps(rep, ensure_ascii=False, indent=1))
         for e in errs[:50]: print('ERROR', *e)
