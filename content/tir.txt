@@ -1,0 +1,329 @@
+#81 d=1 ty=understanding
+ks: Anatomi tiroid: kapsula fibrosa melekatkan kelenjar pada fascia pretrakeal sehingga tiroid ikut naik saat menelan.
+kw: terangkat ke kranial; menelan
+an: Fascia pretrakeal melekat pada laring/trakea yang naik saat menelan; tiroid ikut terangkat. Ini dasar pemeriksaan fisik benjolan leher.
+A: Kelenjar melekat langsung pada tulang hioid || Duktus tiroglosus (embriologis) berhubungan dengan hioid, tetapi kelenjar dewasa tidak melekat langsung. || Bukan mekanisme yang disebut slide.
+B*: Kapsula fibrosa menggantung kelenjar pada fascia pretrakeal || Fascia ini melekat ke laring dan trakea. || Sesuai slide; dasar pemeriksaan: benjolan tiroid ikut bergerak saat menelan.
+C: Kelenjar tiroid terletak di dalam lumen laring || Tiroid berada di leher depan, di luar laring. || Lokasi anatomis keliru.
+D: Kontraksi otot sternokleidomastoideus menariknya || SCM memutar dan memfleksikan kepala. || SCM tidak menarik tiroid saat menelan.
+E: Kelenjar tiroid tidak ikut bergerak saat menelan || Bertentangan dengan pemeriksaan fisik normal. || Tiroid normal justru ikut bergerak.
+p: Anatomi: berat 10–20 g, bentuk kupu-kupu, 2 lobus dihubungkan isthmus yang menutupi cincin trakea 2 dan 3; vaskularisasi a. tiroidea superior dan inferior.
+
+#82 d=1 ty=recall
+ks: Isthmus tiroid menutupi cincin trakea 2–3.
+kw: isthmus; menutupi
+an: Hafalkan landmark: isthmus di depan cincin trakea 2–3, di bawah kartilago krikoid.
+A: Kartilago krikoid || Terletak tepat di atas isthmus. || Isthmus berada di bawahnya.
+B: Kartilago tiroid (jakun) || Landmark laring yang lebih kranial. || Terlalu tinggi untuk isthmus.
+C*: Cincin trakea 2 dan 3 || Landmark anatomis isthmus. || Sesuai slide anatomi.
+D: Manubrium sterni || Tulang di dasar leher. || Terlalu kaudal; struma retrosternal baru mencapai area ini.
+E: Cincin trakea 5 dan 6 || Lebih kaudal dari posisi normal isthmus. || Tidak sesuai anatomi normal.
+p: Masing-masing lobus terdiri dari folikel-folikel.
+
+#83 d=1 ty=recall
+ks: Tahapan sintesis hormon tiroid diawali iodine trapping oleh sodium iodide symporter (NIS).
+kw: langkah pertama; sintesis hormon tiroid
+an: Tanpa iodida masuk ke sel folikel, tahap berikutnya tidak bisa terjadi. Jadi trapping oleh NIS adalah langkah pertama.
+A*: Iodine trapping oleh sodium iodide symporter (NIS) || Transpor aktif sekunder iodida ke sel folikel. || Sesuai urutan slide.
+B: Proteolisis tiroglobulin di dalam lisosom || Melepaskan T3/T4 dari tiroglobulin. || Langkah kelima, setelah resorpsi koloid.
+C: Coupling MIT dan DIT oleh tiroid peroksidase || Membentuk T3 dan T4. || Langkah ketiga.
+D: Deiodinasi perifer T4 menjadi T3 oleh deiodinase || Terjadi di jaringan perifer. || Langkah terakhir.
+E: Oksidasi iodida dan iodinasi tiroglobulin oleh TPO || Organifikasi iodium. || Langkah kedua, setelah trapping.
+p: Urutan slide: trapping → oksidasi dan iodinasi → coupling → resorpsi koloid → proteolisis tiroglobulin → deiodinasi intratiroid → deiodinasi T4 menjadi T3.
+
+#84 d=1 ty=recall
+ks: Sekresi kelenjar tiroid: T4 ±93% dan T3 ±7%; T4 dikonversi menjadi T3 di perifer.
+kw: proporsi sekresi
+an: Tiroid terutama menyekresi T4 (prohormon); T3 aktif kebanyakan berasal dari deiodinasi perifer.
+A: Hanya T3 tanpa T4 || T3 hanya sebagian kecil sekresi. || Tiroid justru dominan menyekresi T4.
+B: T3 dan T4 masing-masing 50% || Proporsi ini tidak sesuai. || T4 jauh lebih dominan.
+C: Hanya kalsitonin dari sel C || Kalsitonin dari sel parafolikular. || Bukan hormon tiroid utama dari sel folikel.
+D: T3 ±93% dan T4 ±7% || Proporsinya tertukar. || Yang dominan adalah T4.
+E*: T4 ±93% dan T3 ±7% || Sesuai slide. || T4 kemudian dikonversi menjadi T3 di perifer.
+p: T3 lebih poten (kecepatan dan intensitas kerja 4× T4), jumlahnya lebih sedikit, dan keberadaannya dalam darah lebih singkat.
+
+#85 d=1 ty=recall
+ks: Protein pengikat hormon tiroid: TBG ±75%, TBPA/transtiretin ±20%, albumin ±5%.
+kw: protein pengikat terbanyak
+an: TBG kadarnya kecil tetapi afinitasnya paling tinggi sehingga mengikat porsi terbesar hormon tiroid.
+A*: TBG (thyroxine-binding globulin), ±75% || Afinitas tertinggi terhadap T4. || Sesuai slide.
+B: Hemoglobin dalam eritrosit || Pengangkut oksigen. || Tidak mengikat hormon tiroid.
+C: Albumin, ±75% || Albumin hanya mengikat ±5%. || Persentase keliru.
+D: Transferin plasma || Protein pengangkut besi. || Tidak mengikat hormon tiroid.
+E: TBPA (transtiretin), ±75% || TBPA hanya mengikat ±20%. || Persentase keliru.
+p: Hanya hormon bebas (FT4, FT3) yang aktif; perubahan TBG mengubah kadar total, bukan bebas.
+
+#86 d=1 ty=recall
+ks: TSH dari adenohipofisis diatur TRH dan ditekan T3/T4; meningkatkan ambilan iodium, endositosis koloid, dan pertumbuhan tiroid.
+kw: adenohipofisis; diatur TRH; meningkatkan iodine uptake
+an: Hormon hipofisis anterior yang dirangsang TRH dan mengatur kelenjar tiroid = TSH.
+A*: TSH (thyroid-stimulating hormone) || Diproduksi tirotrof hipofisis anterior. || Sesuai slide TSH.
+B: Kalsitonin || Diproduksi sel C tiroid. || Mengatur kalsium, bukan pertumbuhan tiroid.
+C: TRH (thyrotropin-releasing hormone) || Diproduksi hipotalamus. || TRH yang mengatur TSH, bukan sebaliknya.
+D: Tiroksin (T4) || Diproduksi sel folikel tiroid. || T4 menekan TSH lewat umpan balik.
+E: Prolaktin || Dari laktotrof hipofisis. || Bukan pengatur kelenjar tiroid.
+p: Poros hipotalamus (TRH) → hipofisis anterior (TSH) → tiroid (T4, T3), dengan umpan balik negatif.
+
+#87 d=2 ty=understanding
+ks: TRH disekresi hipotalamus secara pulsatil/sirkadian ke sistem porta hipofisis dan ditekan T3/T4.
+kw: TRH; pernyataan benar
+an: TRH bekerja pada hipofisis lewat porta; umpan balik negatif T3/T4 menekan TRH. Pernyataan lain membalik arah atau lokasinya.
+A: Meningkat bila kadar T3 dan T4 tinggi || Umpan balik negatif. || Justru T3/T4 tinggi menekan TRH.
+B: Diproduksi oleh sel folikel kelenjar tiroid || Tiroid memproduksi T3/T4. || TRH dari hipotalamus.
+C: Dilepas langsung ke vena jugularis interna || Bukan jalur transport TRH. || TRH lewat sistem porta hipotalamus–hipofisis.
+D: Bekerja langsung pada sel folikel tiroid || Sel folikel dirangsang TSH. || TRH bekerja pada tirotrof hipofisis anterior.
+E*: Dari hipotalamus, pulsatil, lewat porta ke adenohipofisis || Sesuai slide TRH. || Aktivitasnya ditekan T4 dan T3.
+p: TRH merangsang sekresi TSH.
+
+#88 d=1 ty=understanding
+ks: Efek hormon tiroid: termogenesis, konsumsi O₂ meningkat, metabolisme KH/lemak/protein, konversi provitamin A, perkembangan otak.
+kw: efek hormon tiroid; KECUALI
+an: Hormon tiroid meningkatkan laju metabolisme dan konsumsi O₂. Pernyataan "menurunkan pemakaian O₂" berlawanan.
+A: Meningkatkan produksi panas tubuh || Efek kalorigenik lewat Na⁺/K⁺-ATPase. || Termasuk efek hormon tiroid.
+B: Memacu konversi provitamin A menjadi vitamin A || Disebut di slide. || Termasuk efek hormon tiroid.
+C: Memacu metabolisme karbohidrat, lemak, protein || Meningkatkan laju metabolik basal. || Termasuk efek hormon tiroid.
+D*: Menurunkan pemakaian oksigen di jaringan || Hormon tiroid meningkatkan konsumsi O₂. || Bukan efek hormon tiroid, jadi inilah jawabannya.
+E: Mendukung pertumbuhan saraf otak pada 3 tahun pertama || Penting untuk mielinisasi dan sinaptogenesis. || Termasuk efek (dasar retardasi pada hipotiroid kongenital).
+p: Efek lain: sistem kardiovaskuler, kerja ginjal, sistem reproduksi.
+
+#89 d=2 ty=application
+ks: Penyakit Graves: TRAb merangsang reseptor TSH → T3/T4 naik, TSH tertekan; eksoftalmus khas.
+kw: eksoftalmus; struma difus; TSH menurun
+an: T3/T4 naik dengan TSH rendah → hipertiroid primer. Eksoftalmus + struma difus → Graves.
+A*: Graves: antibodi reseptor TSH merangsang sel folikel || TRAb meniru kerja TSH. || TSH tertekan karena umpan balik negatif.
+B: Hipotiroid sentral akibat penyakit hipofisis || T4 rendah dengan TSH rendah/normal. || Pasien hipertiroid, bukan hipotiroid.
+C: Defisiensi iodium dengan gondok endemik || Menyebabkan hipotiroid/eutiroid dengan gondok. || Tidak menjelaskan T3/T4 tinggi dan eksoftalmus.
+D: Tiroiditis Hashimoto fase lanjut || Penyebab hipotiroid autoimun. || Fungsi tiroid pasien justru berlebih.
+E: Adenoma hipofisis penghasil TSH || T3, T4, dan TSH semuanya naik. || TSH pasien rendah.
+p: Pembeda Graves vs adenoma hipofisis: TSH (rendah vs tinggi).
+
+#90 d=2 ty=application
+ks: Hipertiroid sekunder: adenoma hipofisis penghasil TSH → T3, T4, dan TSH semuanya naik.
+kw: T3, T4, dan TSH semuanya meningkat
+an: Hormon perifer dan TSH sama-sama tinggi → sumber masalah di atas tiroid (hipofisis), bukan di tiroid.
+A*: Adenoma hipofisis yang menyekresi TSH || Hipertiroid sekunder (sentral). || Sesuai etiologi di slide.
+B: Hipotiroid kongenital dengan disgenesis || T4 rendah dengan TSH tinggi. || Hormon tiroid pasien tinggi.
+C: Kelebihan TBG pada kehamilan || T4 total naik, FT4 dan TSH normal. || TSH pasien tinggi dan bukan hanya T4 total.
+D: Tiroiditis Hashimoto || Hipotiroid dengan TSH tinggi dan T4 rendah. || T3/T4 pasien tinggi.
+E: Penyakit Graves || Hipertiroid primer dengan TSH tertekan. || TSH pasien tinggi.
+p: Hipertiroid primer: TSH rendah. Sekunder (hipofisis): TSH tinggi.
+
+#91 d=1 ty=recall
+ks: Tiroiditis Hashimoto: hipotiroid autoimun dengan AMA (anti-TPO) dan ATA positif pada 80–100% kasus.
+kw: autoimun; merusak kelenjar; hipotiroid
+an: Autoimun + destruksi + hipotiroid = Hashimoto. Graves juga autoimun tetapi merangsang (hipertiroid).
+A: Insufisiensi sekresi TSH hipofisis || Hipotiroid sentral. || Tidak bersifat autoimun pada tiroid.
+B: Penyakit Graves || Autoimun yang merangsang reseptor TSH. || Menyebabkan hipertiroid, bukan hipotiroid.
+C: Disgenesis tiroid kongenital || Kelainan perkembangan kelenjar. || Bukan proses autoimun.
+D: Adenoma hipofisis penghasil TSH || Menyebabkan hipertiroid sekunder. || Bukan autoimun dan bukan hipotiroid.
+E*: Tiroiditis Hashimoto || Limfosit dan autoantibodi merusak folikel. || AMA (anti-TPO) dan ATA positif pada 80–100% kasus.
+p: Etiologi lain: hipotiroid kongenital, hipotiroid sentral.
+
+#92 d=1 ty=recall
+ks: Hipotiroid sentral: penyakit hipofisis/hipotalamus → TSH tidak cukup → T4 rendah dengan TSH rendah/normal.
+kw: penyakit hipofisis; sekresi TSH tidak cukup
+an: Masalah di hipofisis → hipotiroid sentral (sekunder). Hipotiroid primer justru TSH tinggi.
+A: Hipotiroid primer || Kelainan di kelenjar tiroid; TSH tinggi. || Pasien masalahnya di hipofisis.
+B: Hipertiroid sekunder || Hormon tiroid tinggi karena TSH berlebih. || Hormon tiroid pasien rendah.
+C: Tiroiditis Hashimoto || Penyebab hipotiroid primer autoimun. || Kelainannya di tiroid, bukan hipofisis.
+D: Hipotiroid kongenital transien || Gangguan sementara pada neonatus. || Tidak sesuai penyebab hipofisis.
+E*: Hipotiroid sentral || Sesuai slide. || TSH rendah atau normal dengan T4 rendah.
+p: Uji TRH dipakai membedakan kelainan hipofisis dan hipotalamus.
+
+#93 d=2 ty=recall
+ks: Hipotiroid kongenital transien (±40%): faktor maternal vs faktor neonatus.
+kw: transien; faktor maternal; KECUALI
+an: Pisahkan faktor ibu (transfer transplasenta, antibodi penghambat TSH-R, OAT ibu, defisiensi iodium) dari faktor bayi (paparan iodium, hemangioma hati, mutasi DUOX).
+A: Transfer transplasenta dari ibu || Faktor maternal. || Termasuk faktor maternal.
+B*: Hemangioma hati kongenital || Termasuk faktor neonatus (menghasilkan deiodinase tipe 3). || Bukan faktor maternal, jadi inilah jawabannya.
+C: Antibodi penghambat reseptor TSH dari ibu || Faktor maternal. || Termasuk faktor maternal.
+D: Terapi obat antitiroid pada ibu || Faktor maternal. || Termasuk faktor maternal.
+E: Defisiensi iodium pada ibu || Faktor maternal. || Termasuk faktor maternal.
+p: Faktor neonatus: paparan iodium dosis tinggi saat lahir, hemangioma hati kongenital, mutasi gen DUOX dan DUOXA2.
+
+#94 d=1 ty=recall
+ks: Gejala hipotiroid kongenital tidak jelas saat lahir dan baru tampak pada usia 3–6 bulan.
+kw: gejala mulai tampak jelas
+an: Karena hormon ibu dan sisa fungsi tiroid, bayi tampak normal saat lahir. Jendela 3–6 bulan terlalu terlambat untuk mencegah retardasi → perlu skrining.
+A: Saat remaja menjelang pubertas || Terlalu terlambat. || Retardasi sudah permanen jauh sebelumnya.
+B: Sejak lahir dengan gejala yang jelas || Saat lahir gejala tidak jelas. || Itulah alasan skrining diperlukan.
+C: Sekitar usia 5 tahun || Terlalu terlambat. || Tidak sesuai materi.
+D*: Usia 3–6 bulan || Sesuai slide. || Karena itu skrining bayi baru lahir sangat penting.
+E: Baru pada usia dewasa || Tidak sesuai konsep kongenital. || Salah.
+p: Gejala: lambat tumbuh, perawakan pendek, retardasi mental, makroglosia, miksedema, letargi, malas menyusu, kulit kering, rambut rontok, tangis serak, konstipasi.
+
+#95 d=2 ty=recall
+ks: Skor klinis hipotiroid kongenital: fasies khas skor 3; total maksimal 13.
+kw: skor tertinggi
+an: Hafalkan item bernilai besar: fasies khas (3), ubun-ubun besar dan kulit kering (1,5), lainnya 1.
+A: Ubun-ubun besar yang lebar || Skor 1,5. || Bukan skor tertinggi.
+B: Kulit kering || Skor 1,5. || Bukan skor tertinggi.
+C: Hernia umbilikalis || Skor 1. || Bukan skor tertinggi.
+D*: Fasies khas || Skor 3. || Sesuai tabel skor.
+E: Konstipasi || Skor 1. || Bukan skor tertinggi.
+p: Total skor maksimal 13. Gejala lain (gangguan makan, konstipasi, tidak aktif, hipotoni, hernia umbilikalis, makroglosi, kutis marmorata) masing-masing 1.
+
+#96 d=1 ty=recall
+ks: Skrining hipotiroid kongenital nasional: TSH neonatus dari dried blood spot (heel-prick), metode mikro-ELISA.
+kw: skrining bayi baru lahir; program nasional
+an: Skrining massal butuh sampel mudah (tetes darah tumit di kertas saring) dan parameter paling sensitif (TSH).
+A: Iodium urin bayi baru lahir || Menilai asupan iodium populasi. || Bukan skrining hipotiroid kongenital.
+B: BMR dengan spirometer || Uji efek perifer pada dewasa. || Tidak bisa diterapkan pada neonatus.
+C*: TSH dari dried blood spot (tumit), mikro-ELISA || Sampel heel-prick di kertas saring. || Sesuai slide.
+D: Antibodi TRAb serum bayi || Untuk Graves. || Bukan alat skrining hipotiroid kongenital.
+E: FT4 dari darah tali pusat dengan IRMA || Bukan metode program nasional di slide. || Tidak sesuai materi.
+p: Heel-prick = tusukan tumit.
+
+#97 d=2 ty=recall
+ks: Iodium urin diukur dengan reaksi Sandell–Kolthoff (katalisis Ce⁴⁺ → Ce³⁺ oleh iodium) setelah digesti asam.
+kw: ion Ceric menjadi Cerous; arsenit menjadi arsenat
+an: Reaksi katalitik serium–arsenit adalah ciri Sandell–Kolthoff.
+A: Reaksi Benedict || Uji gula pereduksi (Cu²⁺ → Cu⁺). || Analit dan pereaksi berbeda.
+B*: Reaksi Sandell–Kolthoff || Iodium mengkatalisis reduksi Ce⁴⁺ oleh arsenit. || Sesuai slide; didahului digesti asam kuat untuk menghilangkan pengganggu.
+C: Metode Lee–White || Pengukuran waktu pembekuan darah. || Bukan pemeriksaan iodium.
+D: Metode Fonio || Hitung trombosit pada apusan. || Bukan pemeriksaan iodium.
+E: Metode CHOD-PAP || Pengukuran kolesterol enzimatik. || Bukan pemeriksaan iodium.
+p: Pemeriksaan iodium menilai kecukupan asupan iodium secara tidak langsung.
+
+#98 d=1 ty=application
+ks: Klasifikasi iodium urin (µg/L): < 20 berat, 20–49 sedang, 50–99 ringan, 100–199 adekuat, 200–299 lebih dari adekuat, ≥ 300 berlebih.
+kw: iodium urin 150 mcg/L
+an: 150 berada di rentang 100–199 → adekuat.
+A: Defisiensi sedang (20–49) || Kategori defisiensi sedang. || 150 jauh di atas rentang ini.
+B*: Adekuat/optimal (100–199) || Sesuai tabel slide. || 150 berada dalam rentang ini.
+C: Defisiensi ringan (50–99) || Kategori defisiensi ringan. || 150 di atas rentang ini.
+D: Berlebih (≥ 300) || Risiko hipertiroid/autoimun. || 150 jauh di bawah rentang ini.
+E: Lebih dari adekuat (200–299) || Risiko hipertiroid pada kelompok rentan. || 150 di bawah rentang ini.
+p: ≥ 300 = risiko hipertiroid dan penyakit tiroid autoimun.
+
+#99 d=1 ty=recall
+ks: Tiosianat urin menggambarkan konsumsi singkong (glukosida sianogen → HCN → tiosianat).
+kw: tiosianat urin; menggambarkan
+an: Sumber utama tiosianat adalah metabolisme sianida dari singkong; inilah goitrogen diet.
+A*: Pola diet tinggi singkong (cassava) || Linamarin singkong → HCN → tiosianat. || Sesuai slide.
+B: Proses autoimun pada kelenjar tiroid || Dinilai dengan AMA/ATA/TRAb. || Tiosianat tidak menggambarkan autoimun.
+C: Fungsi filtrasi glomerulus ginjal || Dinilai dengan kreatinin/eGFR. || Tidak terkait tiosianat.
+D: Fungsi sekresi hipofisis anterior || Dinilai dengan TSH dan uji TRH. || Tidak terkait tiosianat.
+E: Kecukupan asupan iodium harian || Dinilai dengan iodium urin. || Tiosianat menggambarkan goitrogen, bukan iodium.
+p: Normal sekitar 2 mg/dL. Sampel urin sewaktu tanpa pengawet, stabil 7 hari pada suhu kamar; dibaca spektrofotometer (warna kuning-jingga).
+
+#100 d=2 ty=understanding
+ks: Tiosianat berkompetisi dengan iodida pada NIS sehingga memperberat defisiensi iodium (goitrogen).
+kw: defisiensi iodium ringan; tiosianat tinggi; memperberat
+an: Tiosianat anion berukuran mirip iodida dan bersaing di NIS → trapping iodium turun → sintesis hormon makin terganggu.
+A: Tiosianat meningkatkan kadar TBG plasma || TBG naik pada kehamilan/estrogen. || Tidak berhubungan dengan tiosianat.
+B: Tiosianat mempercepat ekskresi T4 di ginjal || Tidak disebut di materi. || Bukan mekanisme goitrogenik.
+C*: Tiosianat berkompetisi dengan iodium saat trapping || Bersaing di sodium iodide symporter. || Sesuai interpretasi slide; ambilan iodium makin turun.
+D: Tiosianat menghancurkan TSH dalam darah || Tidak ada mekanisme demikian. || Pernyataan keliru.
+E: Tiosianat mengubah T4 menjadi T3 di perifer || Itu kerja deiodinase. || Tiosianat tidak berperan dalam konversi.
+p: Itulah sebabnya singkong disebut goitrogen.
+
+#101 d=2 ty=recall
+ks: Pra-analitik iodium urin: urin sewaktu dengan pengawet kristal thymol, stabil ±1 bulan pada 25 °C.
+kw: pengawet; iodium urin
+an: Jangan tertukar dengan tiosianat urin yang justru tanpa pengawet.
+A: EDTA || Antikoagulan untuk darah. || Bukan pengawet urin iodium.
+B: Asam asetat glasial || Tidak disebut sebagai pengawet iodium urin. || Tidak sesuai materi.
+C: Formalin 10% || Fiksatif jaringan. || Tidak sesuai materi.
+D: Tanpa pengawet apa pun || Ketentuan untuk tiosianat urin. || Iodium urin memakai thymol.
+E*: Kristal thymol || Sesuai pra-analitik di slide. || Stabil sekitar 1 bulan pada suhu 25 °C.
+p: Pembacaan dengan spektrofotometer: intensitas warna kuning berkurang sesuai kadar iodium.
+
+#102 d=2 ty=understanding
+ks: Perbedaan immunoassay: IRMA memakai label radioaktif (I-125) dibaca gamma counter; ELISA memakai label enzim dibaca spektrofotometer.
+kw: IRMA; ELISA; perbedaan prinsip
+an: Keduanya reaksi antigen–antibodi; bedanya pada label dan alat baca.
+A: Keduanya tidak membutuhkan alat pembaca || Keduanya butuh alat baca. || Pernyataan keliru.
+B: IRMA tidak memakai antibodi sama sekali || IRMA = immunoradiometric assay, berbasis antibodi. || Pernyataan keliru.
+C: ELISA memakai label radioaktif || ELISA memakai label enzim. || Label tertukar.
+D*: IRMA berlabel radioaktif (gamma counter); ELISA berlabel enzim || Sesuai slide. || Keduanya berdasarkan reaksi antigen–antibodi.
+E: IRMA dibaca dengan mikroskop fluoresens || IRMA dibaca gamma counter. || Alat baca keliru.
+p: ELISA: antibodi monoklonal, label enzim + substrat + kromogen membentuk warna; intensitas warna = kadar hormon.
+
+#103 d=2 ty=recall
+ks: Pra-analitik T4 total: serum atau plasma heparin; sitrat dan EDTA mengganggu; obat dihentikan 24 jam sebelumnya.
+kw: persiapan sampel; T4 total
+an: Pilih pernyataan yang memuat ketiga syarat slide: jenis sampel, antikoagulan yang dihindari, penghentian obat.
+A: Darah utuh tanpa disentrifus || Analisis memakai serum/plasma. || Darah utuh tidak sesuai.
+B: Obat tidak perlu dihentikan sebelumnya || Slide: hentikan obat 24 jam. || Banyak obat memengaruhi T4.
+C: Harus memakai plasma sitrat || Sitrat justru memengaruhi hasil. || Antikoagulan keliru.
+D*: Serum/plasma heparin; obat dihentikan 24 jam || Sitrat dan EDTA dapat memengaruhi hasil. || Sesuai pra-analitik slide; stabil 48 jam pada 2–8 °C.
+E: Urin tampung 24 jam || T4 diukur di serum. || Jenis sampel keliru.
+p: Prinsip tes: EIA (enzyme immunoassay).
+
+#104 d=2 ty=analysis
+ks: T4 total naik pada kehamilan karena TBG naik (estrogen); FT4 biasanya normal sehingga perlu dinilai FT4.
+kw: ibu hamil; T4 total meningkat; tanpa gejala
+an: T4 total = terikat + bebas. Estrogen kehamilan menaikkan TBG → fraksi terikat naik → T4 total naik walau FT4 normal.
+A: Kesalahan kalibrasi alat laboratorium || Tidak ada data mendukung. || Ada penjelasan fisiologis yang jelas.
+B*: Kehamilan menaikkan TBG sehingga T4 total naik; nilai FT4 || Sesuai daftar penyebab T4 total meningkat. || FT4 umumnya normal, pasien eutiroid.
+C: Hipotiroid subklinis kehamilan || TSH tinggi dengan FT4 normal. || T4 total pasien naik dan tanpa data TSH tinggi.
+D: Pasti adenoma hipofisis penghasil TSH || Butuh TSH dan T4 bebas tinggi dengan klinis hipertiroid. || Kesimpulan tidak berdasar.
+E: Pasti penyakit Graves dalam kehamilan || Butuh FT4 tinggi, TSH tertekan, klinis hipertiroid. || Kesimpulan berlebihan.
+p: T4 total juga meningkat pada penyakit hati kronik, penyakit ginjal, DM, neonatus, obat (heroin, metadon, estrogen). Menurun pada hipoproteinemia, androgen, kortikosteroid, antikonvulsan, PTU.
+
+#105 d=2 ty=application
+ks: Free T4 index (FT4I = TT4 × 10/TBG) dengan rujukan: hipotiroid 0,1–2,6; eutiroid 3,7–6,5; hipertiroid 7,8–20,2.
+kw: FT4I 12
+an: 12 berada di rentang 7,8–20,2 → hipertiroid.
+A: Hipotiroid (0,1–2,6) || Rentang hipotiroid. || 12 jauh di atasnya.
+B: Eutiroid (3,7–6,5) || Rentang normal. || 12 di atas rentang ini.
+C: Normal pada kehamilan karena TBG naik || FT4I justru dikoreksi terhadap TBG. || Koreksi TBG menghilangkan efek kehamilan.
+D: Tidak dapat diinterpretasi tanpa TSH || Slide memberi rentang interpretasi FT4I. || Tetap bisa diinterpretasi.
+E*: Hipertiroid (7,8–20,2) || Sesuai nilai rujukan slide. || 12 berada di rentang hipertiroid.
+p: FT4I menilai T4 bebas lewat T4 total dan protein pengikat TBG; sampel serum vena, stabil 1 bulan pada −20 °C.
+
+#106 d=2 ty=understanding
+ks: TSH naik pada hipotiroid primer, Hashimoto, hipertiroid sekunder, terapi antitiroid; turun pada hipertiroid primer (Graves).
+kw: TSH meningkat; KECUALI
+an: Graves = hipertiroid primer → T4 tinggi menekan TSH. Inilah satu-satunya keadaan dengan TSH turun di pilihan.
+A: Hipertiroid sekunder akibat hiperaktivitas hipofisis || TSH meningkat sebagai penyebab. || Termasuk TSH meningkat.
+B*: Hipertiroidisme primer (penyakit Graves) || TSH tertekan oleh umpan balik negatif T4/T3. || Jawaban: TSH menurun.
+C: Tiroiditis Hashimoto || Tiroid rusak → T4 turun → TSH naik. || Termasuk TSH meningkat.
+D: Terapi obat antitiroid berlebihan || T4 turun → TSH naik. || Termasuk TSH meningkat.
+E: Hipotiroidisme primer || Umpan balik berkurang → TSH naik. || Termasuk TSH meningkat.
+p: TSH menurun: hipotiroid sekunder, hipertiroid primer, hipofungsi hipofisis anterior, obat (aspirin, kortikosteroid, heparin, dopamin).
+
+#107 d=2 ty=recall
+ks: Persiapan TSH sensitif: puasa makanan berlemak 10–12 jam, hindari glukokortikoid/dopamin, hindari hemolisis.
+kw: persiapan pasien; TSHs
+an: Glukokortikoid dan dopamin menekan TSH; lipemia dan hemolisis mengganggu immunoassay.
+A*: Puasa lemak 10–12 jam, stop glukokortikoid/dopamin, cegah hemolisis || Sesuai slide TSHs. || Semua syarat pra-analitik terpenuhi.
+B: Tidak memerlukan persiapan khusus apa pun || Bertentangan dengan slide. || Ada beberapa persiapan.
+C: Makan tinggi lemak sebelum pengambilan || Lipemia mengganggu pemeriksaan. || Kebalikan dari anjuran.
+D: Sampel dibekukan semalam sebelum disentrifus || Sampel segera disentrifus. || Pembekuan darah utuh menyebabkan hemolisis.
+E: Minum dopamin sebelum tes agar stabil || Dopamin menekan sekresi TSH. || Hasil palsu rendah.
+p: Nilai rujukan 0,4–5,5 mIU/L; batas pengukuran 0,002–20 mIU/L.
+
+#108 d=3 ty=analysis
+ks: Uji TRH: TSH tidak naik setelah TRH dengan T3/T4 rendah → hipotiroid sekunder (hipofisis); respons terlambat → tersier (hipotalamus).
+kw: uji TRH; TSH tidak meningkat; T3 dan T4 rendah
+an: Hipofisis yang rusak tidak bisa merespons TRH sama sekali. Bila masalah di hipotalamus, hipofisis masih bisa merespons (biasanya terlambat). Hipotiroid primer: TSH basal tinggi dan respons berlebih.
+A: Hipotiroid tersier (hipotalamus) || TSH naik (terlambat) setelah rangsangan. || Hipofisis pasien tidak merespons sama sekali.
+B: Fungsi poros tiroid normal || TSH normal naik setelah TRH. || Pasien tidak merespons dan T3/T4 rendah.
+C: Hipertiroid primer (Graves) || TSH tertekan dengan T3/T4 tinggi. || T3/T4 pasien rendah.
+D: Hipotiroid primer || TSH basal tinggi dan respons berlebih. || TSH pasien tidak naik.
+E*: Hipotiroid sekunder (kelainan hipofisis) || Hipofisis tidak mampu merespons TRH. || Sesuai slide poros hipotalamus-hipofisis-tiroid.
+p: Cara uji TRH: IV 200–400 mcg (cek TSH 30 menit), oral 40 mg (cek 3 jam), atau semprot hidung 2 mg (cek 30 menit).
+
+#109 d=1 ty=understanding
+ks: Efek perifer hormon tiroid: hipertiroid → BMR naik, kolesterol turun, relaksasi refleks Achilles cepat; hipotiroid sebaliknya.
+kw: jaringan perifer; hipertiroid
+an: Hormon tiroid meningkatkan metabolisme dan klirens LDL, serta mempercepat relaksasi otot.
+A: BMR normal, kolesterol tinggi || Kombinasi yang tidak khas. || Tidak sesuai gambaran hipertiroid.
+B: Refleks Achilles hilang sama sekali || Refleks hilang menandakan gangguan saraf. || Pada hipertiroid refleks justru cepat.
+C*: BMR naik, kolesterol turun, relaksasi Achilles cepat || Sesuai slide. || Hipotiroid: kebalikannya.
+D: BMR rendah, kolesterol tinggi, refleks lambat || Gambaran hipotiroid. || Arah perubahan terbalik.
+E: Hanya kolesterol yang meningkat tinggi || Kolesterol tinggi khas hipotiroid. || Tidak sesuai hipertiroid.
+p: BMR diukur dengan spirometer (konsumsi O₂ saat istirahat); kolesterol dengan metode CHOD-PAP (rujukan 200 mg/dL).
+
+#110 d=2 ty=application
+ks: Pola autoantibodi tiroid: Graves TRAb 90–100%, AMA/ATA 50–80%; Hashimoto AMA/ATA 80–100%, TRAb 0–5%.
+kw: TRAb positif kuat; AMA/ATA positif sebagian
+an: TRAb yang sangat tinggi khas Graves; Hashimoto ditandai AMA/ATA tinggi dengan TRAb hampir tidak ada.
+A: Tiroiditis autoimun (Hashimoto) || AMA/ATA 80–100%, TRAb 0–5%. || TRAb pasien positif kuat.
+B: Tiroiditis subakut (de Quervain) || AMA/ATA 10–30%, TRAb 0. || TRAb pasien positif.
+C*: Penyakit Graves || TRAb 90–100%, AMA/ATA 50–80%. || Sesuai tabel.
+D: Goiter nodular nontoksik || AMA/ATA 10–20%, TRAb 0. || TRAb pasien positif.
+E: Karsinoma tiroid berdiferensiasi || AMA/ATA 0–5%, TRAb 0. || TRAb pasien positif.
+p: AMA = anti microsomal antibody = anti-TPO antibody; ATA = anti thyroglobulin antibody; TRAb = TSH receptor antibody.
