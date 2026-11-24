@@ -1,0 +1,399 @@
+#171 d=1 ty=recall
+ks: Dislipidemia: kelainan metabolisme lipid dengan kenaikan maupun penurunan fraksi lipid plasma.
+kw: definisi dislipidemia
+an: "Dis-" berarti kelainan dua arah (naik/turun), bukan hanya hiperlipidemia.
+A*: Kelainan metabolisme lipid dengan kenaikan atau penurunan fraksi lipid plasma || Definisi slide. || Mencakup HDL yang turun.
+B: Kekurangan protein plasma terutama albumin || Definisi hipoalbuminemia. || Bukan lipid.
+C: Penumpukan asam urat di sendi dan jaringan lunak || Hiperurisemia/gout. || Bukan lipid.
+D: Kelebihan glukosa darah yang menetap || Hiperglikemia. || Bukan lipid.
+E: Peningkatan trigliserida plasma saja || Terlalu sempit. || Dislipidemia mencakup semua fraksi.
+
+#172 d=1 ty=recall
+ks: Kelainan utama: kolesterol total, LDL, TG naik dan HDL turun.
+kw: fraksi lipid utama
+an: HDL adalah satu-satunya fraksi yang "buruk bila turun".
+A: Kenaikan albumin serum || Bukan fraksi lipid. || Tidak sesuai.
+B: Kenaikan HDL disertai penurunan LDL || Profil protektif. || Kebalikan dislipidemia.
+C: Penurunan LDL dan kolesterol total || Arah keliru. || Tidak sesuai.
+D: Penurunan trigliserida dengan HDL normal || Arah keliru. || Tidak sesuai.
+E*: Kolesterol total, LDL, TG naik; HDL turun || Sesuai slide. || Profil aterogenik.
+
+#173 d=1 ty=recall
+ks: Lipid tubuh terdiri dari dua komponen utama: kolesterol dan trigliserida.
+kw: komponen lipid
+an: Pilih pasangan yang keduanya lipid.
+A: Natrium dan kalium || Elektrolit. || Tidak sesuai.
+B: Albumin dan globulin || Protein plasma. || Tidak sesuai.
+C: Vitamin A dan D || Vitamin larut lemak. || Bukan komponen utama.
+D*: Kolesterol dan trigliserida || Sesuai slide. || Dua komponen utama lipid.
+E: Glukosa dan fruktosa || Karbohidrat. || Tidak sesuai.
+
+#174 d=2 ty=recall
+ks: MUFA (minyak zaitun, kanola, kacang, alpukat): lebih tahan oksidasi, cair di suhu ruang, memadat di lemari pendingin.
+kw: tahan oksidasi; memadat di lemari pendingin; zaitun
+an: Ciri fisik + contoh zaitun/alpukat → MUFA.
+A: Lemak jenuh || Padat di suhu ruang (mentega, lemak hewan). || Tidak sesuai.
+B: Lemak tak jenuh ganda (minyak jagung, kedelai) || Banyak ikatan rangkap. || Kurang tahan oksidasi.
+C: Kolesterol || Sterol hewani. || Tidak sesuai.
+D*: Lemak tak jenuh tunggal (MUFA) || Sesuai slide. || Satu ikatan rangkap, lebih stabil.
+E: Lemak trans hasil hidrogenasi parsial || Contoh: margarin keras. || Tidak sesuai.
+
+#175 d=1 ty=recall
+ks: PUFA: minyak jagung, bunga matahari, kedelai, biji kapuk; termasuk omega-3.
+kw: minyak jagung; kedelai
+an: Minyak biji-bijian → PUFA.
+A: Lemak trans || Hasil hidrogenasi. || Tidak sesuai.
+B*: Lemak tak jenuh ganda (PUFA) || Membantu menurunkan kolesterol darah. || Sesuai slide.
+C: Lemak jenuh || Lemak hewani, kelapa. || Tidak sesuai.
+D: Kolesterol || Hanya dari bahan hewani. || Tidak sesuai.
+E: Lemak tak jenuh tunggal seperti pada minyak zaitun || Contoh MUFA. || Bukan kelompok minyak biji di soal.
+
+#176 d=1 ty=recall
+ks: Omega-3 (PUFA): DHA dan EPA, banyak pada ikan laut.
+kw: omega-3
+an: Bedakan dengan oleat (omega-9), palmitat/stearat (jenuh), elaidat (trans).
+A: Asam elaidat || Lemak trans. || Tidak sesuai.
+B: LDL dan HDL || Lipoprotein. || Bukan asam lemak.
+C: Asam palmitat dan stearat || Asam lemak jenuh. || Tidak sesuai.
+D: Asam oleat || Omega-9 (MUFA). || Bukan omega-3.
+E*: DHA dan EPA || Banyak pada ikan laut. || Sesuai slide.
+
+#177 d=1 ty=understanding
+ks: Pencegahan primer: pada orang belum sakit. Sekunder: pada pasien yang sudah punya penyakit aterosklerosis/kardiovaskular.
+kw: pencegahan sekunder
+an: Sekunder = sudah sakit, mencegah kejadian berikutnya.
+A*: Mencegah komplikasi lanjutan pada pasien yang sudah sakit kardiovaskular || Sesuai slide. || Definisi pencegahan sekunder.
+B: Rehabilitasi pascaoperasi jantung semata || Terlalu sempit. || Tidak sesuai.
+C: Menyembuhkan semua penyakit jantung secara total || Berlebihan. || Tidak sesuai.
+D: Mencegah komplikasi kardiovaskular pada orang yang belum sakit || Definisi pencegahan primer. || Tidak sesuai.
+E: Menurunkan berat badan tanpa memperhatikan profil lipid || Terlalu sempit. || Tidak sesuai.
+
+#178 d=1 ty=recall
+ks: Pilar utama dislipidemia: nonfarmakologis (diet, latihan jasmani, pengelolaan BB); obat antilipid sebagai tambahan.
+kw: pilar utama
+an: Gaya hidup selalu menjadi dasar terapi.
+A*: Diet, latihan jasmani, dan pengelolaan berat badan || Upaya nonfarmakologis. || Sesuai slide.
+B: Puasa total beberapa hari setiap minggu || Berbahaya. || Tidak sesuai.
+C: Suplemen herbal penurun kolesterol || Tidak disebut di slide. || Tidak sesuai.
+D: Obat antilipid saja tanpa perubahan pola makan || Obat adalah tambahan. || Tidak sesuai.
+E: Operasi bypass koroner || Untuk penyakit jantung lanjut. || Bukan pilar dislipidemia.
+
+#179 d=1 ty=recall
+ks: Latihan: minimal 30 menit intensitas sedang, 4–6×/minggu (jalan cepat, sepeda statis, berenang).
+kw: latihan jasmani; dislipidemia
+an: Frekuensi teratur intensitas sedang; olahraga menaikkan HDL dan menurunkan TG.
+A: Lari maraton setiap minggu || Berlebihan. || Tidak sesuai.
+B*: ≥ 30 menit intensitas sedang, 4–6×/minggu || Jalan cepat, sepeda statis, berenang. || Sesuai slide.
+C: Tidak perlu olahraga bila diet sudah dijalankan || Latihan termasuk pilar. || Tidak sesuai.
+D: Angkat beban maksimal setiap hari || Tidak disebut di slide. || Tidak sesuai.
+E: Sepuluh menit sekali sebulan || Terlalu sedikit. || Tidak sesuai.
+
+#180 d=1 ty=understanding
+ks: Tujuan diet dislipidemia: ubah jenis/asupan lemak, turunkan kolesterol makanan, naikkan KH kompleks, turunkan BB bila gemuk.
+kw: KECUALI; tujuan diet
+an: KH sederhana menaikkan trigliserida, jadi bukan tujuan.
+A: Mengubah jenis dan asupan lemak makanan || Tujuan diet. || Termasuk.
+B: Menurunkan asupan kolesterol makanan || Tujuan diet. || Termasuk.
+C*: Meningkatkan asupan karbohidrat sederhana || Gula sederhana menaikkan TG. || Bukan tujuan, jadi inilah jawabannya.
+D: Meningkatkan asupan karbohidrat kompleks || Tujuan diet. || Termasuk.
+E: Menurunkan berat badan bila kegemukan || Tujuan diet. || Termasuk.
+
+#181 d=1 ty=recall
+ks: Diet dislipidemia ada dua: tahap I dan tahap II (lebih ketat).
+kw: jenis diet
+an: Dua tahap, bertingkat.
+A: Diet rendah protein tinggi lemak || Tidak sesuai. || Bukan diet dislipidemia.
+B: Tiga tahap || Tidak sesuai. || Slide hanya dua.
+C: Lima tahap || Tidak sesuai. || Slide hanya dua.
+D*: Dua tahap (I dan II) || Sesuai slide. || Tahap II lebih ketat.
+E: Satu jenis untuk semua pasien || Tidak sesuai. || Ada dua tingkat.
+
+#182 d=1 ty=recall
+ks: Lemak total diet dislipidemia sedang: < 30% energi total.
+kw: lemak total
+an: Batas lemak total < 30%; komposisi jenuh berbeda antar tahap.
+A*: < 30% energi total || Lemak sedang. || Sesuai slide.
+B: < 5% energi total || Terlalu rendah. || Tidak sesuai.
+C: 40–45% energi total || Terlalu tinggi. || Tidak sesuai.
+D: > 50% energi total || Terlalu tinggi. || Tidak sesuai.
+E: Bebas asal berasal dari minyak nabati || Lemak total tetap dibatasi. || Tidak sesuai.
+
+#183 d=1 ty=recall
+ks: Lemak jenuh tahap I < 10%, tahap II < 7% energi.
+kw: lemak jenuh; tahap I; tahap II
+an: Tahap II lebih ketat → angka lebih kecil.
+A: Sama-sama < 20% || Tidak sesuai. || Tidak ada pembedaan tahap.
+B: < 7% dan < 10% || Urutan terbalik. || Tidak sesuai.
+C*: < 10% dan < 7% || Sesuai slide. || Tahap II lebih ketat.
+D: < 15% dan < 15% || Kisaran MUFA/PUFA. || Bukan lemak jenuh.
+E: < 30% dan < 20% || Batas lemak total. || Tidak sesuai.
+
+#184 d=1 ty=recall
+ks: Kolesterol tahap I < 300 mg/hari, tahap II < 200 mg/hari.
+kw: kolesterol; tahap I; tahap II
+an: Tahap II lebih ketat → 200 mg.
+A: < 200 mg dan < 300 mg || Urutan terbalik. || Tidak sesuai.
+B: Tidak dibatasi asal lemak jenuh rendah || Kolesterol tetap dibatasi. || Tidak sesuai.
+C*: < 300 mg dan < 200 mg || Sesuai slide. || Tahap II lebih ketat.
+D: < 500 mg dan < 400 mg || Terlalu longgar. || Tidak sesuai.
+E: < 100 mg dan < 50 mg || Terlalu ketat. || Tidak sesuai.
+
+#185 d=1 ty=recall
+ks: MUFA dan PUFA 10–15% energi total, sama pada tahap I dan II.
+kw: lemak tak jenuh; tahap I dan II
+an: Yang berbeda antartahap hanya lemak jenuh dan kolesterol.
+A: < 10% energi total || Batas lemak jenuh tahap I. || Tidak sesuai.
+B: < 7% energi total || Batas lemak jenuh tahap II. || Tidak sesuai.
+C: 30–40% energi total || Terlalu tinggi. || Melebihi batas lemak total.
+D*: 10–15% energi total || Sesuai slide. || Sama untuk kedua tahap.
+E: Dihindari karena tetap termasuk lemak || Justru membantu menurunkan kolesterol. || Tidak sesuai.
+
+#186 d=1 ty=recall
+ks: Diet dislipidemia: protein 10–20% (ikan, protein nabati), KH sedang 50–60% energi.
+kw: protein; karbohidrat
+an: Bedakan dengan DM (KH 45–65%).
+A*: Protein 10–20%, karbohidrat 50–60% || Utamakan ikan dan protein nabati. || Sesuai slide.
+B: Protein 50–60%, karbohidrat 10–20% || Angka tertukar. || Tidak sesuai.
+C: Protein 30–40%, karbohidrat 20% || Tidak sesuai. || Protein terlalu tinggi.
+D: Tanpa karbohidrat, protein dinaikkan bebas || Tidak sesuai. || KH tetap dibutuhkan.
+E: Protein 5%, karbohidrat 80% || Tidak sesuai. || KH terlalu tinggi.
+
+#187 d=1 ty=recall
+ks: Serat larut (apel, beras merah, havermut, kacang-kacangan) mengikat asam empedu → kolesterol turun.
+kw: serat larut air
+an: Pilih sumber serat; pengecoh lain tinggi lemak atau rendah serat.
+A: Susu full cream || Tinggi lemak jenuh. || Tidak sesuai.
+B*: Apel, beras merah, havermut, kacang-kacangan || Mengikat asam empedu. || Sesuai slide.
+C: Gorengan dan keripik || Tinggi lemak. || Tidak sesuai.
+D: Daging merah berlemak || Tinggi lemak jenuh. || Tidak sesuai.
+E: Roti tawar putih dari tepung terigu || Rendah serat. || Tidak sesuai.
+
+#188 d=1 ty=recall
+ks: Multivitamin dianjurkan bila asupan energi < 1200 kkal/hari.
+kw: multivitamin; asupan energi
+an: Diet rendah energi berisiko kurang mikronutrien.
+A: 500 kkal per hari || Tidak sesuai. || Bukan ambang slide.
+B*: 1200 kkal per hari || Sesuai slide. || Diet rendah energi berisiko kurang vitamin dan mineral.
+C: 2500 kkal per hari || Tidak sesuai. || Bukan ambang slide.
+D: 3000 kkal per hari || Tidak sesuai. || Bukan ambang slide.
+E: Semua pasien tanpa melihat asupan energi || Tidak sesuai. || Ada syarat ambang energi.
+
+#189 d=1 ty=recall
+ks: Evaluasi diet: ukur kolesterol setelah 4–6 minggu dan setelah 3 bulan.
+kw: evaluasi; kolesterol
+an: Perubahan profil lipid butuh beberapa minggu.
+A: Satu minggu || Terlalu cepat. || Tidak sesuai.
+B: Satu hari || Terlalu cepat. || Tidak sesuai.
+C*: 4–6 minggu dan 3 bulan || Sesuai slide. || Menilai perlu tidaknya naik ke tahap II.
+D: Tidak perlu dievaluasi bila pasien patuh || Evaluasi tetap perlu. || Tidak sesuai.
+E: Lima tahun || Terlalu lama. || Tidak sesuai.
+
+#190 d=2 ty=application
+ks: Alur diet: tahap I → nilai kepatuhan → tahap II → konsultasi dietisien.
+kw: patuh; target tidak tercapai
+an: Pasien sudah patuh → naik ke tahap II.
+A*: Naik ke tahap II, lalu dietisien bila tetap gagal || Sesuai alur slide. || Bila tidak patuh, nilai dulu penerimaan pasien.
+B: Menaikkan asupan lemak jenuh || Memperburuk profil lipid. || Tidak sesuai.
+C: Menghentikan diet karena tidak bermanfaat || Tidak sesuai. || Diet tetap dasar terapi.
+D: Langsung dirujuk untuk tindakan bedah || Tidak sesuai. || Bukan langkah berikutnya.
+E: Kembali ke pola makan semula sambil menunggu || Tidak sesuai. || Memperburuk profil lipid.
+
+#191 d=1 ty=recall
+ks: PAGT: asesmen, diagnosis, intervensi, monitoring dan evaluasi gizi.
+kw: PAGT; empat langkah
+an: Bedakan langkah PAGT dari komponen asesmen (ABCD).
+A: Skrining, rujukan, operasi, kontrol || Tidak sesuai. || Bukan PAGT.
+B: Edukasi, latihan, obat, insulin || Pilar DM. || Bukan PAGT.
+C*: Asesmen, diagnosis, intervensi, monev gizi || Sesuai slide. || Empat langkah PAGT.
+D: Anamnesis, pemeriksaan fisik, laboratorium, terapi || Langkah medis umum. || Bukan PAGT.
+E: Antropometri, biokimia, klinis, dietary || Komponen asesmen. || Hanya sebagian langkah pertama.
+
+#192 d=2 ty=recall
+ks: Lima domain asesmen gizi (Kemenkes 2014): riwayat gizi/makanan; antropometri; biokimia, tes medis, prosedur; pemeriksaan fisik fokus gizi; riwayat klien.
+kw: asesmen gizi; lima domain
+an: Asesmen = data; pengecoh menyebut domain intervensi atau format PES.
+A: Pemberian makan, edukasi, konseling, koordinasi || Domain intervensi. || Bukan asesmen.
+B: Berat badan pasien saja || Terlalu sempit. || Tidak sesuai.
+C*: Riwayat makan, antropometri, biokimia, fisik, riwayat klien || Sesuai slide. || Lima domain asesmen.
+D: Profil lipid pasien saja || Terlalu sempit. || Tidak sesuai.
+E: Problem, etiologi, dan sign/symptoms || Format diagnosis PES. || Bukan asesmen.
+
+#193 d=1 ty=understanding
+ks: Riwayat makan pasien dislipidemia: ultra-olahan, padat energi (lemak), daging berlemak, junk food, gula, soft drink, rendah serat.
+kw: pola makan; riwayat makan
+an: Pilih pola yang meningkatkan lipid.
+A: Tinggi sayur dan buah || Justru protektif. || Tidak sesuai.
+B*: Ultra-olahan, tinggi lemak dan gula, rendah serat || Junk food, soft drink, daging berlemak. || Sesuai slide.
+C: Tinggi ikan laut || Sumber omega-3, protektif. || Tidak sesuai.
+D: Tinggi kacang-kacangan || Sumber serat larut, protektif. || Tidak sesuai.
+E: Rendah energi dengan porsi kecil || Pola pasien justru padat energi. || Tidak sesuai.
+
+#194 d=2 ty=recall
+ks: Biokimia asesmen dislipidemia: profil lipid (kolesterol total, HDL, LDL, TG) dan pemeriksaan jantung (CPK, LDH/HBDH, AST) serta EKG.
+kw: biokimia; asesmen
+an: Fokus pada lipid dan penanda jantung.
+A: Hemoglobin saja || Tidak sesuai. || Tidak menilai lipid.
+B: Tes kehamilan saja || Tidak sesuai. || Tidak relevan.
+C: Kultur darah dan uji sensitivitas antibiotik || Untuk infeksi. || Tidak sesuai.
+D*: Profil lipid, enzim jantung, dan EKG || Kolesterol total, HDL, LDL, TG, CPK, LDH, AST. || Sesuai slide.
+E: Urin rutin saja || Tidak sesuai. || Tidak menilai lipid.
+
+#195 d=1 ty=recall
+ks: Diagnosis gizi ditulis dengan format PES: Problem berkaitan dengan Etiologi ditandai oleh Sign/Symptoms.
+kw: kalimat diagnosis gizi
+an: PES; bedakan dengan ADIME (dokumentasi) dan SOAP (catatan medis).
+A: ADIME || Format dokumentasi PAGT keseluruhan. || Bukan format kalimat diagnosis.
+B*: PES (Problem, Etiologi, Sign/Symptoms) || Sesuai slide. || Format kalimat diagnosis gizi.
+C: TNM || Staging tumor. || Tidak sesuai.
+D: SOAP || Format catatan medis. || Tidak sesuai.
+E: ABCD || Komponen asesmen. || Tidak sesuai.
+
+#196 d=2 ty=application
+ks: Domain diagnosis gizi: NI (asupan), NC (klinis), NB (perilaku-lingkungan). Overweight (IMT) termasuk NC.3.3.
+kw: overweight; IMT > 27
+an: Problem "overweight" adalah kondisi klinis → NC.
+A: NB.1.5 || Gangguan pola makan. || Domain perilaku.
+B: NB.1.3 || Ketidaksiapan diet. || Domain perilaku.
+C*: NC.3.3 || Overweight/obesitas, domain klinis. || Sesuai contoh slide.
+D: NI.5.8 || Kekurangan asupan serat. || Tidak sesuai problem.
+E: NI.5.1 || Kelebihan asupan zat gizi. || Domain asupan, bukan kondisi klinis.
+
+#197 d=1 ty=application
+ks: Ketidaksiapan diet karena kurang motivasi = domain perilaku (NB.1.3).
+kw: kurang motivasi; tidak patuh
+an: Motivasi dan kepatuhan → perilaku (NB).
+A: NI (asupan) || Masalah jumlah/jenis asupan. || Tidak sesuai.
+B: NE || Bukan domain diagnosis gizi. || Tidak ada.
+C*: NB (perilaku-lingkungan), NB.1.3 || Sesuai contoh slide. || Masalahnya perilaku.
+D: NC (klinis) || Kondisi fisik/medis. || Tidak sesuai.
+E: NA || Bukan domain diagnosis gizi. || Tidak ada.
+
+#198 d=1 ty=recall
+ks: Empat domain intervensi gizi: pemberian makanan, edukasi, konseling, koordinasi asuhan gizi.
+kw: domain intervensi
+an: Bedakan domain intervensi dari langkah PAGT dan komponen asesmen.
+A: Problem, etiologi, sign/symptoms || Format diagnosis. || Bukan intervensi.
+B: Oral, enteral, parenteral || Rute pemberian nutrisi. || Bukan domain intervensi.
+C*: Pemberian makanan, edukasi, konseling, koordinasi || Sesuai slide. || Empat domain intervensi.
+D: Asesmen, diagnosis, intervensi, monev || Langkah PAGT. || Bukan domain intervensi.
+E: Antropometri, biokimia, klinis, diet || Komponen asesmen. || Bukan intervensi.
+
+#199 d=1 ty=recall
+ks: Implementasi intervensi gizi: tenaga gizi mengomunikasikan rencana ke pasien dan pihak terkait (produksi makanan, perawat, keluarga).
+kw: implementasi; tenaga gizi
+an: Implementasi = komunikasi dan pelaksanaan rencana gizi.
+A: Meresepkan obat antilipid || Kewenangan dokter. || Tidak sesuai.
+B: Melakukan tindakan operasi || Tidak sesuai. || Bukan peran gizi.
+C: Menegakkan diagnosis medis penyakit || Kewenangan dokter. || Tidak sesuai.
+D*: Mengomunikasikan rencana ke pasien dan pihak terkait || Bagian produksi makanan, perawat, keluarga. || Sesuai slide.
+E: Menghentikan semua makanan pasien sementara || Tidak sesuai. || Bukan implementasi gizi.
+
+#200 d=1 ty=recall
+ks: Indikator monev: asupan makan dan minum (harian), laboratorium terkait gizi, perubahan BB, keadaan fisik klinis.
+kw: monitoring; evaluasi; indikator
+an: Indikator harus mencerminkan status gizi dan respons intervensi.
+A: Warna kulit pasien saja || Tidak sesuai. || Bukan indikator gizi.
+B: Besarnya biaya rawat inap || Indikator administratif. || Tidak sesuai.
+C: Tidak perlu indikator bila pasien patuh || Monev tetap butuh indikator. || Tidak sesuai.
+D: Jumlah kunjungan keluarga pasien || Tidak sesuai. || Bukan indikator gizi.
+E*: Asupan harian, laboratorium, berat badan, klinis || Sesuai slide. || Indikator monev.
+
+#241 d=1 ty=application
+ks: Tahap I: lemak jenuh < 10%, kolesterol < 300 mg/hari.
+kw: diet tahap I
+an: Awal terapi → tahap I.
+A*: Lemak jenuh < 10%, kolesterol < 300 mg || Syarat tahap I. || Sesuai materi.
+B: Kolesterol < 500 mg tanpa batas lemak jenuh || Terlalu longgar. || Tidak sesuai.
+C: Lemak jenuh < 7%, kolesterol < 200 mg || Syarat tahap II. || Belum diperlukan di awal.
+D: Lemak jenuh < 30% total energi || Batas lemak total. || Tidak sesuai.
+E: Lemak jenuh bebas asal kolesterol dibatasi || Lemak jenuh tetap dibatasi. || Tidak sesuai.
+
+#242 d=2 ty=application
+ks: Tahap I gagal pada pasien patuh → tahap II (jenuh < 7%, kolesterol < 200 mg); tetap gagal → dietisien.
+kw: 3 bulan; patuh; target belum tercapai
+an: Kepatuhan baik → naik ke tahap yang lebih ketat.
+A: Menaikkan asupan lemak jenuh || Memperburuk profil lipid. || Tidak sesuai.
+B*: Naik ke diet tahap II || Jenuh < 7%, kolesterol < 200 mg. || Sesuai alur materi.
+C: Mengulang tahap I tanpa batas waktu || Tidak sesuai alur. || Target tidak akan tercapai.
+D: Menghentikan olahraga agar fokus pada diet || Latihan tetap pilar. || Tidak sesuai.
+E: Kembali ke pola makan lama || Memperburuk profil lipid. || Tidak sesuai.
+
+#243 d=1 ty=application
+ks: MUFA (minyak zaitun) menurunkan kolesterol dan lebih tahan oksidasi; mentega, santan, minyak kelapa, lemak sapi tinggi lemak jenuh; margarin keras mengandung trans.
+kw: mentega; menumis; pengganti
+an: Ganti lemak jenuh dengan MUFA.
+A: Santan kental || Tinggi lemak jenuh. || Tidak sesuai.
+B: Margarin keras hasil hidrogenasi parsial || Mengandung lemak trans. || Tidak sesuai.
+C*: Minyak zaitun (kaya MUFA) || Menurunkan kolesterol dan tahan oksidasi. || Sesuai materi.
+D: Minyak kelapa yang tinggi lemak jenuh || Justru harus dibatasi. || Tidak sesuai.
+E: Lemak sapi || Lemak jenuh hewani. || Tidak sesuai.
+
+#244 d=1 ty=application
+ks: Ikan laut kaya omega-3 (DHA, EPA): turunkan risiko serangan jantung, cegah aritmia, turunkan tekanan darah.
+kw: ikan laut; manfaat
+an: Ikan laut → omega-3.
+A: Kolesterol tinggi untuk membentuk hormon || Bukan tujuan anjuran. || Tidak sesuai.
+B: Natrium tinggi untuk menjaga tekanan darah || Tidak sesuai. || Natrium justru dibatasi.
+C: Karbohidrat sederhana sebagai sumber energi cepat || Tidak sesuai. || Ikan bukan sumber KH.
+D*: Omega-3 (DHA, EPA) yang kardioprotektif || Turunkan risiko infark, aritmia, tekanan darah. || Sesuai materi.
+E: Lemak trans untuk menaikkan HDL || Lemak trans merugikan. || Tidak sesuai.
+
+#245 d=2 ty=application
+ks: PES: Problem → "berkaitan dengan" Etiologi → "ditandai oleh" Sign/Symptoms.
+kw: berkaitan dengan; komponen PES
+an: Frasa setelah "berkaitan dengan" adalah etiologi.
+A: Sign/Symptoms (S) || Ditulis setelah "ditandai oleh". || Tidak sesuai.
+B: Problem (P) || Masalahnya adalah kekurangan asupan serat. || Tidak sesuai.
+C*: Etiologi (E) || Penyebab masalah, setelah "berkaitan dengan". || Sesuai format PES.
+D: Intervensi gizi || Bukan bagian kalimat diagnosis. || Tidak sesuai.
+E: Monitoring dan evaluasi || Bukan bagian kalimat diagnosis. || Tidak sesuai.
+
+#246 d=3 ty=analysis
+ks: NI.5.1 = kelebihan asupan zat gizi (domain asupan), ditandai recall > 150% kebutuhan; NC.3.3 = overweight (klinis).
+kw: recall > 150%; porsi besar; kode
+an: Problem yang ditonjolkan adalah asupan berlebih (recall > 150%) → domain NI.
+A*: NI.5.1 (kelebihan asupan zat gizi) || Domain asupan; recall > 150%. || Sesuai contoh slide.
+B: NB.1.3 (ketidaksiapan diet) || Domain perilaku. || Tidak sesuai.
+C: NB.1.5 (gangguan pola makan karena kurang pengetahuan) || Domain perilaku. || Tidak sesuai.
+D: NI.5.8 (kekurangan asupan serat) || Domain asupan, masalah berbeda. || Tidak sesuai.
+E: NC.3.3 (overweight) || Domain klinis. || Fokus soal pada kelebihan asupan.
+
+#247 d=1 ty=application
+ks: Latihan pada pralansia/lansia: jalan cepat, sepeda statis, berenang ≥ 30 menit intensitas sedang, 4–6×/minggu.
+kw: 62 tahun; olahraga
+an: Intensitas sedang, teratur, aman untuk lansia.
+A*: Jalan cepat/sepeda statis/berenang ≥ 30 menit, 4–6×/minggu || Intensitas sedang. || Sesuai materi.
+B: Lari sprint lima menit sebulan sekali || Terlalu jarang dan intens. || Tidak sesuai.
+C: Angkat beban maksimal setiap hari || Tidak disebut dan berisiko. || Tidak sesuai.
+D: Olahraga intens tiga jam setiap hari || Berlebihan. || Tidak sesuai.
+E: Tidak berolahraga karena sudah lansia || Latihan tetap pilar. || Tidak sesuai.
+
+#248 d=2 ty=application
+ks: Edukasi gizi = memberi informasi/pengetahuan (leaflet, ceramah); konseling = proses dua arah untuk perubahan perilaku.
+kw: leaflet; daftar makanan
+an: Memberi leaflet = transfer informasi satu arah → edukasi.
+A: Pemberian makanan || Menyediakan diet. || Tidak sesuai.
+B: Asesmen gizi || Pengumpulan data. || Bukan intervensi.
+C*: Edukasi gizi || Memberi informasi/pengetahuan. || Sesuai domain intervensi.
+D: Konseling gizi dua arah untuk mengubah perilaku || Butuh interaksi dan pemecahan masalah bersama. || Kurang tepat untuk pemberian leaflet.
+E: Koordinasi asuhan gizi || Kerja sama antartenaga kesehatan. || Tidak sesuai.
+
+#249 d=1 ty=application
+ks: Monev: pantau asupan harian, laboratorium, BB, klinis untuk menilai respons intervensi.
+kw: mencatat asupan setiap hari; profil lipid; menimbang
+an: Pemantauan berulang selama intervensi → monev.
+A: Diagnosis gizi || Merumuskan masalah PES. || Tidak sesuai.
+B: Skrining MST pada pasien kanker || Alat skrining malnutrisi. || Tidak sesuai.
+C*: Monitoring dan evaluasi gizi || Menilai respons intervensi. || Sesuai indikator materi.
+D: Intervensi gizi || Tindakan memperbaiki masalah. || Tidak sesuai.
+E: Asesmen gizi awal saat pasien masuk || Pengumpulan data awal. || Bukan pemantauan berulang.
+
+#250 d=1 ty=application
+ks: Multivitamin bila asupan energi < 1200 kkal/hari.
+kw: 1000 kkal; obesitas
+an: 1000 < 1200 → tambahkan multivitamin.
+A: Nutrisi parenteral melalui infus || Berlebihan. || Tidak sesuai.
+B: Tidak perlu tambahan apa pun selama berat badan turun || Risiko defisiensi mikronutrien. || Tidak sesuai.
+C: Tambahan gula sederhana agar tidak lemas || Memperburuk TG. || Tidak sesuai.
+D: Tambahan lemak jenuh agar kenyang lebih lama || Memperburuk profil lipid. || Tidak sesuai.
+E*: Suplemen multivitamin || Asupan < 1200 kkal/hari. || Sesuai materi.
