@@ -1,0 +1,266 @@
+#331 d=1 ty=recall
+ks: Hidrokortison = kortisol endogen dari zona fasikulata; triamsinolon, metilprednisolon, deksametason sintetik.
+kw: natural; produced by the body
+an: Satu-satunya yang endogen adalah hidrokortison.
+
+#332 d=1 ty=recall
+ks: Kortikosteroid: anti-inflamasi, imunosupresif, anti-alergi; justru menaikkan glukosa, TD, dan BB.
+kw: corticosteroids are
+an: Pilihan lain adalah efek kebalikan dari efek samping kortikosteroid.
+
+#333 d=1 ty=recall
+ks: Indikasi profilaktik kortikosteroid: transplantasi organ (imunosupresi), maturasi paru janin.
+kw: transplantation; prevent reaction
+an: Efek imunosupresif mencegah rejeksi.
+
+#334 d=1 ty=recall
+ks: Efek samping kortikosteroid bergantung durasi; prinsip dosis terendah, waktu sesingkat mungkin.
+kw: prolonged duration; side effects
+an: Durasi panjang → efek samping meningkat.
+
+#335 d=1 ty=understanding
+ks: Terapi kontinu 2–3 minggu menekan aksis HPA → harus tapering untuk mencegah insufisiensi adrenal.
+kw: stopped suddenly; 2–3 weeks
+an: Adrenal atrofi akibat supresi ACTH.
+
+#336 d=1 ty=recall
+ks: Kortikosteroid inhalasi (beklometason, budesonid, flutikason) untuk asma dan rinitis.
+kw: inhaled corticosteroid
+an: Rute inhalasi untuk saluran napas.
+
+#337 d=1 ty=recall
+ks: Steroid jangka panjang → habitus Cushing (moon face, buffalo hump, obesitas trunkal, striae).
+kw: long-term appearance
+an: Kelebihan glukokortikoid = Cushing; kekurangan = Addison.
+
+#338 d=1 ty=recall
+ks: Imunosupresi kortikosteroid meningkatkan risiko dan kekambuhan infeksi.
+kw: flare up of infection
+an: Imunosupresi → infeksi.
+
+#339 d=1 ty=recall
+ks: Glucocorticoid-induced osteoporosis: osteoklas aktif, osteoblas menurun; tulang trabekular; muncul setelah 6–12 bulan.
+kw: thinning of bone
+an: Penipisan tulang = osteoporosis.
+
+#340 d=3 ty=integrated
+ks: Miopati steroid: kelemahan proksimal tanpa nyeri, CK normal, atrofi serat tipe II; disertai tanda Cushing lain.
+kw: proximal weakness; CK normal; high-dose steroid; vertebral demineralization
+an: Tidak nyeri + CK/ESR normal + tanda Cushing → miopati steroid, bukan statin/inflamasi.
+
+#341 d=2 ty=application
+ks: Osteonekrosis (avascular necrosis) terkait prednison dosis tinggi jangka panjang; tersering panggul dan lutut; MRI paling sensitif.
+kw: avascular necrosis; femoral head; SLE
+an: Di antara obat pasien, prednison penyebab klasik osteonekrosis.
+
+#342 d=1 ty=recall
+ks: Zona glomerulosa: mineralokortikoid; fasikulata: glukokortikoid; retikularis: androgen; medula: katekolamin.
+kw: zone; glucocorticoids
+an: "GFR": Glomerulosa–Fasciculata–Reticularis = Garam–Gula–Seks.
+A: Adrenal medulla || Menghasilkan epinefrin dan norepinefrin. || Tidak sesuai.
+B*: Zona fasciculata || Menghasilkan kortisol. || Sesuai slide.
+C: Zona reticularis || Menghasilkan androgen (DHEA). || Tidak sesuai.
+D: Zona glomerulosa || Menghasilkan aldosteron. || Tidak sesuai.
+E: Adrenal capsule || Jaringan ikat pembungkus. || Tidak menghasilkan hormon.
+
+#343 d=1 ty=recall
+ks: Mineralokortikoid (aldosteron) terutama diatur sistem renin-angiotensin dan kadar kalium; glukokortikoid oleh ACTH.
+kw: mineralocorticoid; regulation
+an: Aldosteron mengikuti RAAS dan K⁺.
+A: ACTH alone || Pengatur utama glukokortikoid. || Kurang tepat.
+B: Thyroid-stimulating hormone (TSH) || Untuk tiroid. || Tidak sesuai.
+C*: Renin-angiotensin system and potassium || Sesuai catatan slide. || Pengatur utama aldosteron.
+D: Insulin secreted by pancreatic β cells || Tidak sesuai. || Bukan pengatur utama.
+E: Antidiuretic hormone from the posterior pituitary || Mengatur air bebas. || Bukan pengatur aldosteron.
+
+#344 d=1 ty=recall
+ks: Hidrokortison: kerja singkat 8–12 jam, GC:MC 1:1; obat darurat (krisis adrenal, syok anafilaktik, status asmatikus).
+kw: short-acting; emergency
+an: Kerja singkat + darurat → hidrokortison.
+A: Dexamethasone || Kerja panjang (36–72 jam). || Tidak sesuai.
+B: Prednisone || Kerja menengah (12–36 jam). || Tidak sesuai.
+C: Betamethasone || Kerja panjang. || Tidak sesuai.
+D*: Hydrocortisone || Kerja singkat; GC:MC 1:1. || Sesuai tabel slide.
+E: Triamcinolone || Kerja menengah. || Tidak sesuai.
+
+#345 d=1 ty=recall
+ks: Deksametason: kerja panjang 36–72 jam, potensi GC 30, MC ≈ 0; maturasi paru janin, edema serebri; supresi HPA kuat.
+kw: long-acting; no mineralocorticoid; fetal lung
+an: Poten + tanpa efek MC + kerja panjang → deksametason.
+A: Prednisolone || Kerja menengah. || Tidak sesuai.
+B*: Dexamethasone || Potensi GC 30, MC hampir 0. || Sesuai tabel slide.
+C: Hydrocortisone || Kerja singkat. || Tidak sesuai.
+D: Fludrocortisone || Mineralokortikoid kuat. || Tidak sesuai.
+E: Methylprednisolone || Kerja menengah. || Tidak sesuai.
+
+#346 d=2 ty=application
+ks: Ekuivalen 5 mg prednison = 0,75 mg deksametason = 4 mg metilprednisolon = 20 mg kortisol = 25 mg kortison.
+kw: dose equivalence; 5 mg prednisone
+an: Hafalkan tabel ekuivalen dosis.
+A: 50 mg of methylprednisolone || Setara 4 mg. || Tidak sesuai.
+B: 5 mg of dexamethasone || Deksametason jauh lebih poten. || Tidak sesuai.
+C: 2 mg of hydrocortisone || Setara 20 mg kortisol. || Tidak sesuai.
+D*: 0.75 mg of dexamethasone || Sesuai tabel ekuivalen. || Juga setara 4 mg metilprednisolon.
+E: 25 mg of prednisolone || Prednisolon setara 5 mg. || Tidak sesuai.
+
+#347 d=1 ty=application
+ks: Fludrokortison: mineralokortikoid sintetik kuat untuk mengganti aldosteron pada Addison.
+kw: Addison; mineralocorticoid replacement
+an: Addison kehilangan kortisol dan aldosteron.
+A: Betamethasone || Efek mineralokortikoid minimal. || Tidak sesuai.
+B: Budesonide || Kortikosteroid inhalasi. || Tidak sesuai.
+C*: Fludrocortisone || Mineralokortikoid sintetik. || Mengganti aldosteron.
+D: Dexamethasone || Efek mineralokortikoid hampir 0. || Tidak sesuai.
+E: Triamcinolone || Efek mineralokortikoid minimal. || Tidak sesuai.
+
+#348 d=2 ty=understanding
+ks: Mekanisme genomik: kompleks GC–reseptor masuk inti, menekan NF-κB dan AP-1 (transrepresi) → sitokin proinflamasi turun; aktivasi GRE → IL-10, lipokortin-1.
+kw: genomic mechanism; anti-inflammatory
+an: Efek utama: menekan faktor transkripsi proinflamasi.
+A: Binds directly to bacterial cell walls || Tidak sesuai. || GC tidak bekerja pada bakteri.
+B: Destroys B lymphocytes directly || GC hampir tidak berefek pada sel B. || Tidak sesuai.
+C*: Suppresses NF-κB and AP-1 in the nucleus || Sitokin proinflamasi berkurang. || Sesuai slide.
+D: Blocks β-adrenergic receptors on the cell surface || Tidak sesuai. || Bukan mekanisme GC.
+E: Activates cyclooxygenase-2 expression || Arah terbalik. || GC menekan COX-2.
+
+#349 d=1 ty=recall
+ks: GC menginduksi lipokortin (anneksin-1) yang menghambat fosfolipase A2 → prostaglandin dan leukotrien turun.
+kw: lipocortin; arachidonic acid
+an: Hulu jalur asam arakidonat = PLA2.
+A: Cyclooxygenase-1 only || Bukan target lipokortin. || Kurang tepat.
+B: Na⁺/K⁺-ATPase || Tidak sesuai. || Tidak terkait.
+C: 5-alpha reductase || Tidak sesuai. || Enzim androgen.
+D*: Phospholipase A2 || Sesuai slide. || PG dan LT berkurang.
+E: Lipoxygenase alone || Hilir PLA2. || Kurang tepat.
+
+#350 d=2 ty=application
+ks: GC menghambat adhesi neutrofil ke endotel (demarginasi) → leukositosis neutrofilik; limfosit, monosit, eosinofil turun.
+kw: neutrophilic leukocytosis; prednisone
+an: Bukan infeksi; neutrofil marginal masuk sirkulasi.
+A*: Neutrophil demargination from endothelium || Adhesi ke endotel dihambat. || Sesuai slide.
+B: Bone marrow infection || Tidak sesuai. || Tidak ada tanda infeksi.
+C: Increased lymphocyte production || GC justru menurunkan limfosit. || Tidak sesuai.
+D: Allergic reaction to prednisone || Tidak sesuai. || Bukan reaksi alergi.
+E: Eosinophil proliferation in the bone marrow || GC menurunkan eosinofil. || Tidak sesuai.
+
+#351 d=2 ty=recall
+ks: GC hampir tidak berefek pada fungsi sel B dan produksi imunoglobulin; target utama sel T, makrofag, fibroblas, granulosit.
+kw: almost no effect
+an: Sel B dan antibodi relatif tidak terpengaruh.
+A*: B-cell function and antibody production || Sesuai slide. || Sel B relatif tidak terpengaruh.
+B: Fibroblasts || Termasuk target GC. || Tidak sesuai.
+C: T lymphocytes || Termasuk target GC. || Tidak sesuai.
+D: Macrophages || Termasuk target GC. || Tidak sesuai.
+E: Eosinophils and basophils || Termasuk target GC. || Tidak sesuai.
+
+#352 d=2 ty=application
+ks: Tapering terapi lama: turunkan setengah dosis tiap minggu sampai 25 mg prednisolon, lalu 1 mg tiap 3–7 hari.
+kw: tapering; several months
+an: Pemulihan aksis HPA butuh bulan sampai 2 tahun.
+A: Double the dose before stopping || Tidak sesuai. || Tidak ada dasar.
+B*: Halve weekly to 25 mg, then 1 mg every 3–7 days || Sesuai slide. || Pemulihan HPA bertahap.
+C: Stop the drug immediately || Risiko insufisiensi adrenal. || Tidak sesuai.
+D: Reduce by 50% every day until stopped || Untuk terapi < 1 minggu. || Tidak sesuai.
+E: Switch to an equal dose of dexamethasone indefinitely || Supresi HPA lebih kuat. || Tidak sesuai.
+
+#353 d=1 ty=recall
+ks: Cegah supresi HPA: dosis tunggal pagi hari, alternate-day, pulse therapy.
+kw: prevent HPA suppression
+an: Pagi hari sesuai ritme sirkadian kortisol.
+A: Daily long-acting dexamethasone || Supresi HPA kuat. || Tidak sesuai.
+B*: Single morning or alternate-day dosing || Sesuai slide. || Mengikuti ritme sirkadian.
+C: Continuous IV infusion for months || Tidak sesuai. || Supresi HPA berat.
+D: Divided doses given at night || Lebih menekan HPA. || Tidak sesuai.
+E: High-dose daily therapy with abrupt stop || Risiko insufisiensi adrenal. || Tidak sesuai.
+
+#354 d=1 ty=understanding
+s: According to the lecture, which statement about the adverse effects of glucocorticoids is correct?
+ks: Dosis tunggal atau beberapa dosis GC praktis tanpa efek samping bermakna; efek samping terkait durasi lama.
+kw: single dose; adverse effects
+an: Efek samping kumulatif, bukan dari dosis tunggal.
+A*: A single or few doses rarely cause adverse effects || Sesuai slide. || Efek samping terkait durasi.
+B: A single dose usually causes Cushing's habitus || Butuh terapi lama. || Tidak sesuai.
+C: Any dose for one day suppresses the HPA axis permanently || Supresi butuh terapi kontinu. || Tidak sesuai.
+D: Adverse effects are unrelated to duration of therapy || Justru terkait durasi. || Tidak sesuai.
+E: Short courses always require tapering over months || Tidak perlu untuk terapi singkat. || Tidak sesuai.
+
+#355 d=2 ty=application
+s: A patient takes prednisone 15 mg/day for 10 days. Regarding live vaccines, the lecture states that:
+ks: Vaksin hidup boleh bila prednison < 20 mg/hari ≤ 14 hari, dosis fisiologis jangka panjang, atau GC topikal; kontraindikasi pada dosis tinggi/jangka panjang.
+kw: live vaccine; < 20 mg; ≤ 14 days
+an: 15 mg selama 10 hari → di bawah ambang → boleh.
+A*: They may be given || < 20 mg/hari selama ≤ 14 hari. || Sesuai slide.
+B: They are absolutely contraindicated at any steroid dose || Hanya pada dosis tinggi/lama. || Tidak sesuai.
+C: They can only be given after a 6-month steroid-free period || Tidak sesuai. || Terlalu ketat.
+D: They should be replaced with intravenous immunoglobulin || Tidak sesuai. || Tidak diperlukan.
+E: They can be given only if the dose is doubled first || Tidak sesuai. || Tidak ada dasar.
+
+#356 d=2 ty=recall
+ks: Profilaksis PCP pada prednison ≥ 20 mg/hari > 2 minggu; hentikan bila dosis < 20 mg/hari.
+kw: Pneumocystis; prophylaxis
+an: Ambang yang sama (20 mg) dengan aturan vaksin.
+A: Only topical corticosteroids || Tidak sesuai. || Risiko sistemik minimal.
+B: 5 mg per day for 3 days || Terlalu rendah. || Tidak sesuai.
+C: Any single dose of prednisone || Tidak sesuai. || Dosis tunggal tidak berisiko.
+D*: ≥ 20 mg/day for more than 2 weeks || Sesuai slide. || Dihentikan bila < 20 mg/hari.
+E: 10 mg every other day for one week || Terlalu rendah. || Tidak sesuai.
+
+#357 d=1 ty=application
+ks: GC + NSAID/antikoagulan → risiko ulkus dan perdarahan GI → tambahkan PPI.
+kw: prednisone; NSAID; prevention
+an: Proteksi lambung.
+A*: A proton pump inhibitor || Risiko ulkus dan perdarahan GI meningkat. || Sesuai slide.
+B: Insulin to prevent hyperglycemia || Tidak sesuai. || Bukan pencegahan ulkus.
+C: A broad-spectrum antibiotic || Tidak sesuai. || Tidak ada indikasi.
+D: A loop diuretic || Tidak sesuai. || Tidak terkait.
+E: An additional NSAID for synergy || Memperberat risiko. || Tidak sesuai.
+
+#358 d=1 ty=recall
+ks: Kontraindikasi GC sistemik: infeksi jamur sistemik, malaria serebral, hipersensitivitas, vaksin hidup pada dosis tinggi.
+kw: contraindication; systemic
+an: Pilihan lain adalah indikasi GC.
+A: Asthma || Indikasi. || Tidak sesuai.
+B*: Cerebral malaria || Kontraindikasi di slide. || GC memperburuk luaran.
+C: Cerebral edema due to tumor || Indikasi. || Tidak sesuai.
+D: Nephrotic syndrome || Indikasi. || Tidak sesuai.
+E: Rheumatoid arthritis flare || Indikasi. || Tidak sesuai.
+
+#359 d=2 ty=application
+ks: Penghentian mendadak GC lama → krisis adrenal: lemah, muntah, nyeri perut, hipotensi, hipoglikemia; terapi hidrokortison IV + cairan.
+kw: stopped abruptly; hypotension; glucose 52
+an: Riwayat steroid lama + stop mendadak + hipotensi + hipoglikemia → krisis adrenal.
+A: Diabetic ketoacidosis || Glukosa justru rendah. || Tidak sesuai.
+B: Cushing syndrome || Gambaran kelebihan steroid. || Arah terbalik.
+C: Steroid-induced psychosis || Tidak sesuai gejala. || Tidak ada gejala psikiatri.
+D*: Adrenal crisis from HPA suppression || Atrofi adrenal setelah supresi ACTH. || Sesuai slide.
+E: Acute pancreatitis due to prednisone || Tidak menjelaskan hipoglikemia dan hipotensi. || Kurang sesuai.
+
+#360 d=1 ty=application
+ks: ESO oftalmologik GC: katarak (subkapsular posterior) dan peningkatan tekanan intraokular (glaukoma).
+kw: blurred vision; lens opacity; raised IOP
+an: Kekeruhan lensa + TIO naik pada steroid lama.
+A: Diabetic retinopathy only || Kelainan retina, bukan lensa. || Kurang tepat.
+B*: Steroid cataract and raised IOP || Sesuai ESO oftalmologik. || Butuh pemeriksaan mata berkala.
+C: Side effects of antimalarials only || Retinopati, bukan katarak. || Kurang tepat.
+D: Signs of hypothyroidism || Tidak sesuai. || Tidak terkait.
+E: Normal age-related presbyopia || Tidak menjelaskan TIO naik. || Kurang tepat.
+
+#361 d=2 ty=application
+ks: Psikosis akibat GC: hentikan GC; bila perlu klorpromazin atau lorazepam.
+kw: acute psychosis; methylprednisolone
+an: Langkah pertama hentikan penyebab.
+A: Add dexamethasone || Memperberat. || Tidak sesuai.
+B*: Discontinue the glucocorticoid || Sesuai slide. || Bila perlu klorpromazin/lorazepam.
+C: Double the steroid dose || Memperberat. || Tidak sesuai.
+D: Ignore the symptoms || Tidak sesuai. || Psikosis harus ditangani.
+E: Start levothyroxine || Tidak sesuai. || Tidak terkait.
+
+#362 d=2 ty=recall
+ks: Antagonis GC: metirapon (11β-hidroksilase), aminoglutetimid (kolesterol → pregnenolon), ketokonazol (CYP), mitotan (adrenolitik), mifepriston (antagonis reseptor).
+kw: 11β-hydroxylase; Cushing
+an: Metirapon menghambat langkah akhir sintesis kortisol.
+A: Aminoglutethimide || Menghambat konversi kolesterol menjadi pregnenolon. || Tidak sesuai.
+B: Mifepristone || Antagonis reseptor, bukan penghambat enzim. || Tidak sesuai.
+C: Mitotane || Adrenolitik untuk kanker adrenal inoperabel. || Tidak sesuai.
+D*: Metyrapone || Sesuai daftar slide. || Menghambat 11β-hidroksilase.
+E: Ketoconazole || Menghambat enzim CYP450 secara luas. || Bukan penghambat spesifik di soal.
