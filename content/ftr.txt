@@ -1,0 +1,404 @@
+#291 d=2 ty=understanding
+ks: ¹³¹I diambil sel tiroid lewat pompa iodida (NIS) seperti iodida biasa, lalu memancarkan radiasi β di dalam sel.
+kw: ¹³¹I; destruksi selektif
+an: Selektivitas berasal dari tahap ambilan iodida, bukan dari tahap lain.
+A: Pelepasan T3 dan T4 dari tiroglobulin || Dihambat iodida dosis tinggi. || Tidak sesuai.
+B: Oksidasi iodida oleh enzim peroksidase tiroid || Dihambat tionamid. || Tidak sesuai.
+C*: Ambilan aktif iodida ke kelenjar || ¹³¹I ikut terambil lalu memancarkan radiasi. || Sesuai tabel sintesis.
+D: Coupling MIT dan DIT menjadi T3 dan T4 || Dihambat tionamid. || Tidak sesuai.
+E: Konversi T4 menjadi T3 di jaringan perifer || Dihambat propranolol dan PTU. || Tidak sesuai.
+
+#292 d=1 ty=recall
+ks: Iodida dosis tinggi menghambat pelepasan (proteolisis) hormon dari tiroglobulin secara akut.
+kw: pelepasan hormon; tiroglobulin
+an: Cocokkan tahap sintesis dengan obat penghambatnya.
+A*: Iodida dosis tinggi || Menghambat pelepasan hormon secara akut. || Sesuai tabel sintesis.
+B: Levotiroksin || Hormon pengganti. || Tidak menghambat pelepasan.
+C: Propranolol || Menghambat konversi perifer T4 → T3. || Tahap berbeda.
+D: Metimazol || Menghambat peroksidase dan coupling. || Tahap berbeda.
+E: Kalsitriol || Vitamin D aktif. || Tidak terkait tiroid.
+
+#293 d=2 ty=understanding
+ks: Hormon tiroid menambah jumlah reseptor β-adrenergik dan respons terhadap katekolamin → takikardia, kontraktilitas naik.
+kw: takikardia; mekanisme
+an: Itu sebabnya β-bloker meredakan gejala tirotoksikosis.
+A: Menurunkan jumlah reseptor β-adrenergik jantung || Arah terbalik. || Tidak sesuai.
+B*: Menambah reseptor β dan respons katekolamin || Sesuai tabel efek fisiologis. || Dasar penggunaan β-bloker.
+C: Mengurangi konsumsi oksigen miokard || Arah terbalik. || Tidak sesuai.
+D: Menghambat lipolisis jaringan adiposa || Hormon tiroid menstimulasi lipolisis. || Tidak sesuai.
+E: Menurunkan laju metabolisme basal || Arah terbalik. || Tidak sesuai.
+
+#294 d=1 ty=application
+ks: Hipertiroid primer: FT4/T3 tinggi menekan TSH (umpan balik negatif).
+kw: FT4 tinggi; T3 tinggi; TSH rendah
+an: Hormon tinggi + TSH rendah → sumber di kelenjar tiroid.
+A: Hipotiroid sentral || FT4 rendah dengan TSH rendah/normal. || Tidak sesuai.
+B: Peningkatan TBG (misalnya kehamilan) || T4 total naik, FT4 dan TSH normal. || Tidak sesuai.
+C*: Hipertiroid primer || Hormon tinggi menekan TSH. || Sesuai tabel tes fungsi tiroid.
+D: Eutiroid || Semua nilai normal. || Tidak sesuai.
+E: Hipotiroid primer || FT4 rendah, TSH tinggi. || Tidak sesuai.
+
+#295 d=1 ty=recall
+ks: Levotiroksin (T4 sintetik): pilihan sulih hormon; stabil, murah, tidak antigenik, potensi seragam, t½ ±7 hari.
+kw: terapi sulih hormon; hipotiroid
+an: Pilihan utama = levotiroksin.
+A: Thyroid USP (ekstrak kelenjar kering) || Stabilitas hormon tidak terprediksi. || Bukan pilihan.
+B: Propiltiourasil (PTU) || Obat antitiroid. || Memperberat hipotiroid.
+C: Liotriks (kombinasi T4 dan T3) || Mahal dan tidak rasional. || Bukan pilihan.
+D: Iodida (larutan Lugol) || Persiapan operasi hipertiroid. || Tidak sesuai.
+E*: Levotiroksin || T4 sintetik yang stabil dan murah. || Sesuai materi.
+
+#296 d=1 ty=recall
+ks: Liotironin (T3 sintetik): absorpsi seragam, onset cepat, t½ ±1,5 hari; dipakai juga pada koma miksedema.
+kw: t½ 1,5 hari; onset cepat
+an: t½ pendek dan onset cepat → T3.
+A: Levotiroksin || Waktu paruh ± 7 hari. || Tidak sesuai.
+B*: Liotironin (T3 sintetik) || Sesuai tabel sediaan. || Onset cepat.
+C: Tiroglobulin ekstrak babi || Sediaan lama. || Tidak sesuai.
+D: Thyroid USP dari kelenjar sapi atau babi || Potensi tidak seragam. || Tidak sesuai.
+E: Metimazol || Antitiroid. || Tidak sesuai.
+
+#297 d=2 ty=application
+ks: Lansia/penyakit jantung: levotiroksin mulai 25 mcg/hari, naik 25 mcg tiap bulan.
+kw: 75 tahun; angina; dosis awal
+an: Mulai rendah, naikkan pelan untuk mencegah iskemia.
+A: Tidak boleh diberi levotiroksin sama sekali || Tetap diberikan dengan titrasi pelan. || Tidak sesuai.
+B: 300–500 mcg intravena bolus || Dosis koma miksedema. || Tidak sesuai.
+C: 10–17 mcg/kg/hari || Dosis neonatus. || Tidak sesuai.
+D: Dosis penuh sesuai berat badan sejak hari pertama || Berisiko angina dan infark. || Tidak sesuai.
+E*: 25 mcg/hari, naik 25 mcg tiap bulan || Mencegah beban jantung mendadak. || Sesuai materi.
+
+#298 d=2 ty=application
+ks: Kehamilan meningkatkan kebutuhan levotiroksin ±20–50%; pantau TSH tiap bulan.
+kw: hamil; levotiroksin; penyesuaian
+an: TBG naik dan kebutuhan janin → dosis naik.
+A: Diturunkan 50% karena metabolisme melambat || Arah terbalik. || Tidak sesuai.
+B: Diganti PTU agar aman bagi janin || PTU obat hipertiroid. || Tidak sesuai.
+C*: Dinaikkan 20–50%, pantau TSH tiap bulan || Kebutuhan hormon naik saat hamil. || Sesuai materi.
+D: Dosis tetap tanpa pemantauan || Kebutuhan berubah. || Tidak sesuai.
+E: Dihentikan selama kehamilan || Berbahaya bagi perkembangan otak janin. || Tidak sesuai.
+
+#299 d=2 ty=application
+ks: Kalsium dan besi menurunkan absorpsi levotiroksin; beri jarak ≥ 2 jam sebelum atau ≥ 6 jam sesudah.
+kw: vitamin prenatal; kalsium; besi
+an: Pisahkan waktu minum.
+A: Levotiroksin dicampur susu agar tidak mual || Kalsium menurunkan absorpsi. || Tidak sesuai.
+B: Levotiroksin diminum setelah makan besar || Sebaiknya perut kosong. || Tidak sesuai.
+C: Vitamin prenatal dihentikan selama kehamilan || Tidak perlu. || Tidak sesuai.
+D*: Beri jarak 2 jam sebelum atau 6 jam sesudah || Kalsium dan besi mengikat levotiroksin. || Sesuai materi.
+E: Diminum bersamaan dalam satu waktu agar praktis || Absorpsi turun. || Tidak sesuai.
+
+#300 d=2 ty=application
+ks: Hipotiroid kongenital: levotiroksin 10–17 mcg/kg/hari dosis penuh segera.
+kw: neonatus; hipotiroid kongenital
+an: Otak bayi butuh hormon tiroid segera.
+A*: 10–17 mcg/kg/hari, mulai segera || Mencegah gangguan perkembangan otak. || Sesuai materi.
+B: 3–6 mcg/kg/hari || Dosis anak usia 1–10 tahun. || Tidak sesuai.
+C: 5–7 mcg/kg/hari || Dosis bayi usia sekitar 6 bulan. || Tidak sesuai.
+D: 25 mcg per minggu || Terlalu rendah. || Tidak sesuai.
+E: Ditunda sampai anak berusia 1 tahun || Berbahaya bagi perkembangan otak. || Tidak sesuai.
+
+#301 d=2 ty=application
+ks: Rifampisin (penginduksi enzim hati) meningkatkan klirens levotiroksin → dosis perlu naik.
+kw: rifampisin; levotiroksin
+an: Induktor enzim → metabolisme naik → kebutuhan dosis naik.
+A: Tidak berpengaruh terhadap dosis || Rifampisin induktor enzim. || Tidak sesuai.
+B: Levotiroksin harus diganti PTU || Tidak sesuai. || PTU obat hipertiroid.
+C: Kebutuhan dosis levotiroksin turun || Arah terbalik. || Tidak sesuai.
+D: Levotiroksin harus dihentikan selama terapi TB || Tidak sesuai. || Pasien tetap butuh hormon.
+E*: Kebutuhan dosis naik || Klirens levotiroksin meningkat. || Sesuai tabel.
+
+#302 d=1 ty=recall
+ks: Cek TSH 6–8 minggu setelah perubahan dosis/merek (±5–6 × t½ 7 hari untuk kadar tunak).
+kw: pemantauan TSH
+an: Kadar tunak tercapai setelah ±5 waktu paruh.
+A: Tidak perlu diperiksa ulang || Tidak sesuai. || Dosis harus dievaluasi.
+B: Satu tahun kemudian || Terlalu lama. || Tidak sesuai.
+C: Satu minggu kemudian || Belum tunak. || Tidak sesuai.
+D*: 6–8 minggu || Waktu mencapai kadar tunak. || Sesuai tabel pemantauan.
+E: 1–2 hari kemudian || Terlalu cepat. || Tidak sesuai.
+
+#303 d=2 ty=application
+ks: Koma miksedema: levotiroksin IV 300–500 mcg bolus + hidrokortison IV 100 mg/8 jam sampai insufisiensi adrenal disingkirkan.
+kw: penurunan kesadaran; hipotermia; bradikardia; TSH tinggi
+an: Kondisi darurat → terapi IV agresif + steroid.
+A*: Levotiroksin IV bolus + hidrokortison IV || 300–500 mcg; hidrokortison 100 mg/8 jam. || Sesuai materi.
+B: Levotiroksin oral 25 mcg/hari dengan titrasi bulanan || Terlalu lambat untuk kondisi darurat. || Tidak sesuai.
+C: Propranolol intravena || Memperberat bradikardia. || Tidak sesuai.
+D: Iodida oral dosis tinggi || Tidak sesuai. || Menghambat pelepasan hormon.
+E: PTU dosis tinggi || Obat hipertiroid. || Tidak sesuai.
+
+#304 d=1 ty=recall
+ks: Levotiroksin berlebih jangka panjang: densitas tulang turun (fraktur), gagal jantung, angina, infark.
+kw: dosis berlebih; jangka panjang
+an: Tirotoksikosis iatrogenik meningkatkan resorpsi tulang.
+A: Densitas tulang meningkat || Arah terbalik. || Tidak sesuai.
+B: Bradikardia menetap || Justru takikardia. || Tidak sesuai.
+C: Berat badan bertambah || Justru turun. || Tidak sesuai.
+D: Hipoglikemia berat berulang || Tidak khas. || Tidak sesuai.
+E*: Densitas tulang turun, risiko fraktur || Sesuai materi. || Juga gangguan jantung.
+
+#305 d=1 ty=recall
+ks: Tionamid (PTU, metimazol) menghambat peroksidase → organifikasi dan coupling terhambat.
+kw: mekanisme PTU; metimazol
+an: Menghambat sintesis baru; hormon tersimpan masih keluar.
+A: Memblok reseptor β-adrenergik di jantung || Mekanisme β-bloker. || Tidak sesuai.
+B: Mengikat fosfat di saluran cerna || Mekanisme pengikat fosfat. || Tidak sesuai.
+C: Menggantikan hormon tiroid yang kurang || Mekanisme levotiroksin. || Tidak sesuai.
+D: Menghancurkan sel tiroid dengan radiasi || Mekanisme ¹³¹I. || Tidak sesuai.
+E*: Menghambat peroksidase tiroid || Organifikasi dan coupling terhambat. || Sesuai materi.
+
+#306 d=1 ty=recall
+ks: PTU juga menghambat konversi perifer T4 → T3 (metimazol tidak) → dipakai pada krisis tiroid.
+kw: kelebihan PTU
+an: Keunggulan PTU = efek perifer.
+A: Lebih aman sebagai pilihan pertama pada anak || Pilihan anak metimazol. || Tidak sesuai.
+B*: Juga menghambat konversi T4 → T3 || Metimazol tidak. || Sesuai materi.
+C: Tidak bersifat hepatotoksik || PTU justru hepatotoksik. || Tidak sesuai.
+D: Dosis harian lebih kecil daripada metimazol || PTU 300–600 mg vs metimazol 30–60 mg. || Tidak sesuai.
+E: Tidak pernah menyebabkan agranulositosis || Keduanya bisa. || Tidak sesuai.
+
+#307 d=2 ty=application
+ks: Demam + nyeri tenggorokan pada pengguna tionamid → singkirkan agranulositosis (periksa hitung jenis, hentikan obat).
+kw: metimazol; demam; nyeri tenggorokan
+an: Efek samping fatal yang harus disingkirkan dulu.
+A: Krisis tiroid akibat dosis kurang || Mungkin, tetapi agranulositosis harus disingkirkan dulu. || Kurang tepat.
+B: Hipotiroid akibat dosis berlebih || Tidak menyebabkan demam tinggi. || Tidak sesuai.
+C: Pembengkakan kelenjar ludah || Efek samping iodida. || Tidak sesuai.
+D: Hipokalsemia || Tidak terkait. || Tidak sesuai.
+E*: Agranulositosis || Efek samping tionamid yang berbahaya. || Sesuai daftar efek samping.
+
+#308 d=1 ty=recall
+ks: Iodida (SSKI) 7–14 hari praoperasi: kelenjar mengecil dan vaskularisasi turun → perdarahan operasi berkurang.
+kw: SSKI; praoperasi
+an: Tujuan iodida praoperasi = kelenjar lebih kecil dan kurang berdarah.
+A: Mencegah hipokalsemia pascaoperasi || Tidak terkait. || Tidak sesuai.
+B: Menghancurkan sel tiroid sebelum operasi || Mekanisme ¹³¹I. || Tidak sesuai.
+C: Menurunkan nadi di bawah 90×/menit || Fungsi propranolol. || Tidak sesuai.
+D: Mengganti hormon tiroid setelah operasi || Fungsi levotiroksin. || Tidak sesuai.
+E*: Mengecilkan kelenjar dan vaskularisasinya || Perdarahan operasi berkurang. || Sesuai materi.
+
+#309 d=2 ty=application
+ks: Persiapan tiroidektomi Graves: tionamid sampai eutiroid (6–8 minggu) → iodida 1–14 hari praoperasi → propranolol (nadi < 90).
+kw: urutan persiapan; tiroidektomi
+an: Eutiroid dulu, lalu iodida, lalu operasi.
+A*: Tionamid → eutiroid, lalu iodida, plus propranolol || Nadi < 90×/menit. || Sesuai materi.
+B: Langsung operasi tanpa persiapan obat || Berisiko krisis tiroid. || Tidak sesuai.
+C: Iodida selama enam bulan sebelum operasi || Efek iodida sementara (escape). || Tidak sesuai.
+D: Yodium radioaktif lalu operasi keesokan harinya || Tidak sesuai. || Bukan persiapan operasi.
+E: Levotiroksin dosis tinggi beberapa hari sebelum operasi || Memperberat tirotoksikosis. || Tidak sesuai.
+
+#310 d=1 ty=understanding
+ks: β-bloker hanya meredakan gejala adrenergik, tidak menurunkan sintesis hormon.
+kw: β-bloker; sementara
+an: Simtomatik, bukan kausal.
+A: Tidak efektif meredakan palpitasi || Justru efektif. || Tidak sesuai.
+B: Menyebabkan hipotiroid bila diberikan lama || Tidak sesuai. || Tidak memengaruhi sintesis.
+C: Bersifat teratogenik pada semua pasien || Bukan alasan. || Tidak sesuai.
+D*: Hanya simtomatik, tidak menekan sintesis || Sesuai materi. || Butuh terapi spesifik.
+E: Menghancurkan sel tiroid secara perlahan || Tidak sesuai. || Bukan mekanisme β-bloker.
+
+#311 d=2 ty=recall
+ks: Propranolol (nonselektif) juga menghambat konversi T4 → T3; dosis 20–40 mg 4×/hari, target nadi < 90.
+kw: propranolol; nonselektif
+an: Keuntungan tambahan propranolol.
+A: Lebih kardioselektif daripada β-bloker lain || Propranolol nonselektif. || Tidak sesuai.
+B: Harganya paling murah di antara β-bloker || Bukan alasan utama. || Tidak sesuai.
+C: Tidak pernah memicu bronkospasme pada asma || Justru bisa. || Tidak sesuai.
+D*: Juga menghambat konversi T4 → T3 || Keuntungan tambahan. || Sesuai materi.
+E: Bekerja menghambat peroksidase tiroid || Mekanisme tionamid. || Tidak sesuai.
+
+#312 d=2 ty=application
+ks: Trimester I: PTU (metimazol teratogenik); trimester II–III: metimazol (PTU hepatotoksik).
+kw: hamil 8 minggu; Graves
+an: Trimester I → PTU.
+A: Tanpa terapi sampai persalinan || Hipertiroid tidak terkontrol berbahaya. || Tidak sesuai.
+B: Levotiroksin || Memperberat hipertiroid. || Tidak sesuai.
+C: Metimazol karena PTU lebih teratogenik || Alasan terbalik. || Tidak sesuai.
+D*: PTU; metimazol teratogenik di trimester I || Sesuai materi. || Beralih ke metimazol setelah trimester I.
+E: Yodium radioaktif dosis rendah || Kontraindikasi saat hamil. || Tidak sesuai.
+
+#313 d=2 ty=application
+ks: Graves anak: metimazol 0,2–0,5 mg/kg/hari; β-bloker bila bergejala atau nadi > 100.
+kw: anak 10 tahun; nadi 115
+an: Anak → metimazol (PTU hepatotoksik); nadi > 100 → tambah β-bloker.
+A: Tiroidektomi segera || Bukan pilihan pertama. || Tidak sesuai.
+B: PTU dosis tinggi jangka panjang || Risiko hepatotoksik pada anak. || Tidak sesuai.
+C: Levotiroksin || Memperberat hipertiroid. || Tidak sesuai.
+D*: Metimazol ditambah β-bloker || Metimazol 0,2–0,5 mg/kg/hari. || Sesuai materi.
+E: Yodium radioaktif sebagai pilihan pertama || Pilihan bila tidak remisi. || Tidak sesuai.
+
+#314 d=1 ty=application
+ks: Goiter multinodular toksik/nodul toksik: terapi terbaik ¹³¹I.
+kw: goiter multinodular toksik; 60 tahun
+an: Nodul otonom jarang remisi dengan obat → ablasi.
+A: Levotiroksin || Memperberat hipertiroid. || Tidak sesuai.
+B: Iodida jangka panjang || Efek sementara. || Tidak sesuai.
+C*: Yodium radioaktif (¹³¹I) || Terapi terbaik untuk nodul toksik. || Sesuai tabel.
+D: Propranolol jangka panjang sebagai terapi tunggal || Tidak menurunkan sintesis. || Tidak sesuai.
+E: Tanpa terapi karena usia lanjut || Tidak sesuai. || Tirotoksikosis berisiko pada lansia.
+
+#315 d=2 ty=recall
+ks: Kekurangan ¹³¹I: hipotiroid permanen hampir pasti, bisa memperburuk oftalmopati, kehamilan ditunda 6–12 bulan, tidak boleh menyusui.
+kw: yodium radioaktif; kekurangan
+an: Bedakan kekurangan tiap modalitas.
+A: Paling invasif dan paling mahal || Kekurangan operasi. || Tidak sesuai.
+B: Harus diminum setiap hari seumur hidup || Tidak sesuai. || ¹³¹I dosis tunggal.
+C*: Hipotiroid permanen; tunda hamil 6–12 bulan || Bisa memperburuk oftalmopati. || Sesuai tabel.
+D: Tingkat remisi rendah setelah obat dihentikan || Kekurangan obat antitiroid. || Tidak sesuai.
+E: Risiko paresis nervus laringeus rekuren || Komplikasi operasi. || Tidak sesuai.
+
+#316 d=2 ty=application
+ks: Krisis tiroid: demam tinggi, takikardia berat, delirium, diare; pencetus infeksi, putus obat, trauma, operasi, ¹³¹I.
+kw: demam 40°C; nadi 160; delirium; tidak patuh
+an: Tirotoksikosis dekompensata + pencetus jelas.
+A*: Krisis tiroid akibat infeksi dan putus obat || Sesuai daftar pencetus. || Mengancam nyawa.
+B: Syok anafilaktik akibat antibiotik pneumonia || Tidak sesuai. || Tidak ada urtikaria atau hipotensi.
+C: Koma miksedema || Hipotermia dan bradikardia. || Tidak sesuai.
+D: Krisis hiperparatiroid dengan hiperkalsemia berat || Tidak sesuai. || Tidak ada data kalsium.
+E: Hipoglikemia berat || Tidak sesuai. || Tidak menjelaskan demam dan takikardia.
+
+#317 d=2 ty=recall
+ks: Krisis tiroid: esmolol IV, iodida, PTU dosis besar (atau metimazol), asetaminofen, cairan/elektrolit, hidrokortison IV.
+kw: tata laksana krisis tiroid
+an: Blok gejala, sintesis, pelepasan, konversi + suportif + steroid.
+A: Observasi tanpa obat || Kondisi mengancam nyawa. || Tidak sesuai.
+B: Levotiroksin intravena bolus || Untuk koma miksedema. || Tidak sesuai.
+C: Aspirin untuk demam || Materi menyebut asetaminofen. || Tidak sesuai.
+D*: Esmolol, iodida, PTU, asetaminofen, hidrokortison || Plus cairan dan elektrolit. || Sesuai materi.
+E: Yodium radioaktif segera saat krisis || Bisa mencetuskan krisis. || Tidak sesuai.
+
+#318 d=1 ty=recall
+ks: Obat antitiroid pada Graves dievaluasi untuk dihentikan setelah 12–18 bulan.
+kw: penghentian; remisi
+an: Remisi dinilai setelah 12–18 bulan terapi.
+A: Sepuluh tahun || Terlalu lama. || Tidak sesuai.
+B*: 12–18 bulan || Sesuai materi. || Waktu menilai remisi.
+C: Satu minggu || Terlalu cepat. || Tidak sesuai.
+D: Satu bulan || Terlalu cepat. || Tidak sesuai.
+E: Tidak pernah dihentikan seumur hidup || Tidak sesuai. || Remisi bisa terjadi.
+
+#319 d=1 ty=understanding
+ks: Hiperparatiroid sekunder (CKD): PTH naik sebagai respons hipokalsemia (bagian CKD-MBD).
+kw: hiperparatiroid sekunder; gagal ginjal
+an: Sekunder = respons terhadap rangsang (Ca rendah).
+A: Adenoma paratiroid || Penyebab hiperparatiroid primer. || Tidak sesuai.
+B: Kelebihan asupan vitamin D || Menekan PTH. || Tidak sesuai.
+C*: PTH naik sebagai respons kalsium rendah || Sesuai materi. || Bagian CKD-MBD.
+D: Riwayat operasi tiroidektomi || Penyebab hipoparatiroid. || Tidak sesuai.
+E: Destruksi autoimun kelenjar paratiroid || Penyebab hipoparatiroid primer. || Tidak sesuai.
+
+#320 d=2 ty=application
+ks: Hipoparatiroid pascatiroidektomi: kalsium + vitamin D aktif (kalsitriol/alfakalsidol); PTH tidak tersedia.
+kw: kesemutan; kejang otot; tiroidektomi total
+an: Hipokalsemia karena paratiroid terganggu → ganti Ca dan vitamin D aktif.
+A*: Kalsium dan vitamin D aktif || Kalsitriol atau alfakalsidol. || Sesuai materi.
+B: Furosemid untuk mengeluarkan cairan || Menurunkan kalsium. || Tidak sesuai.
+C: Bisfosfonat intravena || Menurunkan kalsium. || Tidak sesuai.
+D: Propiltiourasil || Obat hipertiroid. || Tidak sesuai.
+E: Injeksi PTH rutin setiap hari || Tidak tersedia menurut materi. || Tidak sesuai.
+
+#321 d=2 ty=recall
+ks: Status vitamin D dinilai dari 25(OH)D (bentuk simpanan), bukan 1,25(OH)₂D (bentuk aktif).
+kw: defisiensi vitamin D; plasma
+an: 25(OH)D mencerminkan cadangan.
+A*: 25(OH)D3 || Bentuk simpanan yang mencerminkan status. || Sesuai materi.
+B: PTH serum sebagai penanda tunggal || Penanda tidak langsung. || Kurang tepat.
+C: TSH || Untuk fungsi tiroid. || Tidak sesuai.
+D: 1,25(OH)2D3 || Bentuk aktif hasil konversi ginjal. || Bukan penanda cadangan.
+E: Kreatinin serum || Untuk fungsi ginjal. || Tidak sesuai.
+
+#322 d=2 ty=application
+ks: ACE inhibitor/ARB dan NSAID menurunkan perfusi glomerulus → AKI prerenal (hemodinamik).
+kw: lisinopril; ibuprofen; kreatinin naik
+an: ACEi melebarkan arteriol eferen, NSAID menyempitkan aferen → GFR turun.
+A: Nekrosis tubular akut || Khas aminoglikosida, amfoterisin, cisplatin. || Kurang tepat.
+B*: AKI prerenal (hemodinamik) || Perfusi glomerulus menurun. || Sesuai tabel.
+C: AKI postrenal akibat obstruksi aliran urin || Tidak ada obstruksi. || Tidak sesuai.
+D: CKD stadium akhir || Bukan akut. || Tidak sesuai.
+E: Nefritis interstisial akut || Khas β-laktam, fluorokuinolon. || Kurang tepat.
+
+#323 d=2 ty=application
+ks: Aminoglikosida, amfoterisin B, cisplatin → nekrosis tubular akut (AKI intrinsik).
+kw: gentamisin; 10 hari
+an: Aminoglikosida toksik terhadap tubulus proksimal.
+A: AKI postrenal karena kristal obat || Khas asiklovir, metotreksat, indinavir. || Tidak sesuai.
+B: Nefritis interstisial alergi || Khas β-laktam. || Kurang tepat.
+C*: Nekrosis tubular akut (intrinsik) || Toksisitas aminoglikosida. || Sesuai tabel.
+D: Glomerulonefritis pascainfeksi || Tidak terkait obat ini. || Tidak sesuai.
+E: AKI prerenal akibat dehidrasi || Tidak menjelaskan riwayat gentamisin. || Kurang tepat.
+
+#324 d=1 ty=recall
+ks: AKI postrenal akibat kristal: asiklovir, metotreksat, indinavir (cegah dengan hidrasi).
+kw: kristal; postrenal
+an: Cocokkan obat dengan jenis AKI.
+A: Aminoglikosida || Penyebab nekrosis tubular. || Tidak sesuai.
+B: ACE inhibitor dan ARB || Penyebab prerenal. || Tidak sesuai.
+C: β-laktam dan sulfonamid || Penyebab nefritis interstisial. || Tidak sesuai.
+D: Levotiroksin dan liotironin || Tidak terkait ginjal. || Tidak sesuai.
+E*: Asiklovir, metotreksat, indinavir || Sesuai tabel. || Cegah dengan hidrasi.
+
+#325 d=1 ty=recall
+ks: AKI belum punya terapi definitif; suportif: cairan, elektrolit, asam basa, nutrisi, terapi pengganti ginjal, komplikasi nonrenal.
+kw: prinsip tata laksana AKI
+an: Suportif.
+A: Observasi saja tanpa intervensi || Kurang tepat. || Komplikasi harus ditangani.
+B*: Suportif: cairan, elektrolit, nutrisi, dialisis || Belum ada terapi definitif. || Sesuai materi.
+C: Selalu diberi antibiotik spektrum luas || Bukan prinsip umum. || Tidak sesuai.
+D: Selalu transplantasi ginjal || Untuk gagal ginjal tahap akhir. || Tidak sesuai.
+E: Memberi NSAID untuk mengatasi nyeri || Memperberat AKI. || Tidak sesuai.
+
+#326 d=3 ty=understanding
+ks: Dosis pada AKI sulit: kreatinin belum stabil (Cockcroft-Gault/MDRD tidak akurat), Vd naik karena retensi cairan, klirens turun.
+kw: penyesuaian dosis; AKI
+an: Rumus eGFR mengasumsikan kreatinin tunak.
+A: Kreatinin selalu normal pada AKI || Kreatinin justru naik. || Tidak sesuai.
+B*: Kreatinin belum stabil sehingga rumus eGFR tidak akurat || Vd naik, klirens turun. || Sesuai tabel.
+C: Semua obat tidak diekskresi lewat ginjal || Banyak obat diekskresi ginjal. || Tidak sesuai.
+D: Volume distribusi obat selalu menurun || Bisa naik karena retensi cairan. || Tidak sesuai.
+E: Dialisis tidak memengaruhi kadar obat || Dialisis memengaruhi. || Tidak sesuai.
+
+#327 d=2 ty=recall
+ks: Pemantauan AKI: tiap shift cairan masuk-keluar dan hemodinamik; harian elektrolit, BUN/kreatinin, BB, nutrisi, obat.
+kw: setiap shift
+an: Parameter yang cepat berubah dipantau tiap shift.
+A: Kadar obat dalam darah || Setelah perubahan regimen. || Kurang tepat.
+B*: Cairan masuk-keluar dan hemodinamik || TD, nadi, MAP. || Sesuai tabel.
+C: Elektrolit darah lengkap || Dipantau harian. || Kurang tepat.
+D: Status nutrisi dan asupan kalori || Dipantau harian. || Kurang tepat.
+E: Berat badan || Dipantau harian. || Kurang tepat.
+
+#328 d=1 ty=application
+ks: Nonfarmakologis CKD: protein 0,8 g/kg/hari, berhenti merokok, olahraga ≥ 30 menit 5×/minggu, IMT 20–25.
+kw: CKD; GFR 25
+an: Tujuan menunda progresi.
+A: Target IMT 30 kg/m² agar cadangan energi cukup || Tidak sesuai. || Target IMT 20–25.
+B: Tirah baring total untuk mengurangi beban ginjal || Tidak dianjurkan. || Tidak sesuai.
+C*: Protein 0,8 g/kg, stop rokok, olahraga, IMT 20–25 || Sesuai materi. || Menunda progresi.
+D: Tetap merokok asalkan jumlahnya sedikit || Tidak sesuai. || Rokok mempercepat progresi.
+E: Protein tinggi 2 g/kg/hari || Memperberat progresi. || Tidak sesuai.
+
+#329 d=2 ty=application
+ks: CKD + hipertensi + albuminuria: ACEi atau ARB, target TD < 130/80; jangan kombinasi ACEi + ARB.
+kw: albuminuria 350 mg; hipertensi
+an: ACEi/ARB menurunkan tekanan intraglomerulus dan albuminuria.
+A*: ACEi atau ARB, target < 130/80 mmHg || Menurunkan albuminuria. || Sesuai algoritma.
+B: Target tekanan darah < 160/100 mmHg || Terlalu longgar. || Tidak sesuai.
+C: Tanpa obat, cukup diet rendah garam || Tidak sesuai. || Albuminuria butuh ACEi/ARB.
+D: β-bloker sebagai satu-satunya obat || Bukan pilihan pertama. || Tidak sesuai.
+E: Kombinasi ACE inhibitor dan ARB dosis penuh || Tidak dianjurkan (hiperkalemia, AKI). || Tidak sesuai.
+
+#330 d=2 ty=application
+ks: Sevelamer: pengikat fosfat tanpa kalsium dan aluminium, menurunkan LDL; dipilih bila berisiko kalsifikasi.
+kw: hemodialisis; hiperfosfatemia; kalsifikasi
+an: Hindari beban kalsium → sevelamer.
+A: Levotiroksin || Tidak terkait. || Tidak sesuai.
+B: Kalsium karbonat dosis tinggi || Menambah beban kalsium. || Memperberat kalsifikasi.
+C: Propiltiourasil || Tidak terkait. || Tidak sesuai.
+D*: Sevelamer || Tanpa kalsium dan aluminium. || Sesuai tabel.
+E: Aluminium hidroksida jangka panjang || Toksisitas aluminium; hanya jangka pendek. || Tidak sesuai.
+
+#509 d=2 ty=application
+ks: Trimester I: PTU (metimazol teratogenik); ¹³¹I kontraindikasi saat hamil.
+kw: hamil 10 minggu; Graves
+an: Trimester I → PTU.
