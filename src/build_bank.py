@@ -1,3 +1,7 @@
+import sys
+if '--force' not in sys.argv:
+    raise SystemExit("LEGACY: data/bank.json sekarang sumber utama (sudah direvisi v2). "
+                     "Menjalankan skrip ini akan MENIMPA revisi. Pakai --force bila benar-benar perlu.")
 import json,re,random,collections,html
 d=json.load(open('src/old_banks.json'))
 
