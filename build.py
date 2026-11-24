@@ -6,8 +6,9 @@ import json,os,re,sys
 sys.path.insert(0,'src')
 from clean_opts import clean_bank
 T=open('src/template.html').read()
-def render(bank,out,title,logo,h1,intro,examtitle,key,showall=False,tpl=None,custom=False):
-    bank,n=clean_bank(bank); print(out,'opsi dibersihkan di',n,'soal')
+def render(bank,out,title,logo,h1,intro,examtitle,key,showall=False,tpl=None,custom=False,clean=True):
+    # bank v2 (index.html) sudah lolos validator anti-clue (tools/bank_tool.py) -> tidak dibersihkan lagi
+    if clean: bank,n=clean_bank(bank); print(out,'opsi dibersihkan di',n,'soal')
     s=json.dumps(bank,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')
     h=tpl or T
     for a,b in [('__TITLE__',title),('__LOGO__',logo),('__H1__',h1),('__INTRO__',intro),('__EXAMTITLE__',examtitle),('__KEY__',key),('__SHOWALL__','true' if showall else 'false'),('__CUSTOM__','true' if custom else 'false'),('__BANK__',s)]:
@@ -24,7 +25,7 @@ def app_template():
     return sh.replace('/*__CSS__*/',css).replace('/*__JS__*/',js)
 b=json.load(open('data/bank.json'))
 render(b,'index.html','Simulator Blok 3.2 · Medical Exam & Learning','Simulator <span>Blok 3.2</span>','Bank soal Blok 3.2',
-       '','Simulasi ujian Blok 3.2','sim-blok32-v2',tpl=app_template())
+       '','Simulasi ujian Blok 3.2','sim-blok32-v2',tpl=app_template(),clean=False)
 
 # 2) Simulator recall UAM 3.2 tahun 2024 (terpisah)
 U=[]
