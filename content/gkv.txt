@@ -1,0 +1,409 @@
+#201 d=1 ty=recall
+ks: Lima kategori asesmen gizi: riwayat asupan, antropometri, biokimia, pemeriksaan fisik, riwayat klien.
+kw: asesmen gizi; KECUALI
+an: Riwayat pekerjaan orang tua tidak relevan dengan status gizi pasien.
+A: Data pemeriksaan biokimia || Kategori asesmen. || Termasuk.
+B: Data asupan makanan sebelum dan selama dirawat || Kategori riwayat makan. || Termasuk.
+C: Data antropometri pasien || Kategori asesmen. || Termasuk.
+D*: Riwayat pekerjaan orang tua pasien || Tidak termasuk lima kategori. || Jawaban yang benar.
+E: Data pemeriksaan fisik fokus gizi || Kategori asesmen. || Termasuk.
+
+#202 d=2 ty=understanding
+ks: Problem (P) menentukan tujuan intervensi; Etiologi (E) menentukan strategi intervensi; Sign (S) dipakai untuk monev.
+kw: PES; tujuan; strategi
+an: Masalah → apa yang ingin dicapai (tujuan); penyebab → cara mengatasinya (strategi).
+A: Monitoring; evaluasi || Monev memakai sign/symptoms. || Tidak sesuai.
+B: Diagnosis medis; terapi obat || Ranah dokter. || Tidak sesuai.
+C: Strategi; tujuan || Urutan terbalik. || Tidak sesuai.
+D: Antropometri; biokimia || Komponen asesmen. || Tidak sesuai.
+E*: Tujuan; strategi intervensi || Sesuai slide. || P → tujuan, E → strategi.
+
+#203 d=1 ty=understanding
+ks: Tujuan intervensi gizi jantung: makanan sesuai kebutuhan dan syarat diet, bentuk sesuai kondisi, edukasi dan pemilihan makanan.
+kw: tujuan intervensi; KECUALI
+an: Garam justru dibatasi pada diet jantung.
+A: Bentuk makanan sesuai kondisi agar dihabiskan || Tujuan di slide. || Termasuk.
+B: Membantu pasien memilih makanan yang tepat || Tujuan di slide. || Termasuk.
+C*: Makanan tinggi garam agar nafsu makan naik || Garam dibatasi pada diet jantung. || Bukan tujuan, jadi inilah jawabannya.
+D: Memberikan pengetahuan pengaturan diet penyakit jantung || Tujuan di slide. || Termasuk.
+E: Memberikan makanan sesuai kebutuhan dan syarat diet jantung || Tujuan di slide. || Termasuk.
+
+#204 d=1 ty=recall
+ks: Strategi diet jantung: makanan mudah cerna, tidak menimbulkan gas, tanpa bumbu tajam (lunak/nasi tim), per oral, cairan cukup.
+kw: strategi intervensi; jantung
+an: Prinsipnya mengurangi beban kerja jantung saat mencerna.
+A: Makanan pedas berbumbu tajam untuk merangsang nafsu makan || Harus dihindari. || Tidak sesuai.
+B: Makanan digoreng berminyak || Dihindari. || Tidak sesuai.
+C*: Mudah cerna, tidak bergas, tanpa bumbu tajam || Lunak/nasi tim, per oral, cairan cukup. || Sesuai slide.
+D: Makanan tinggi gas seperti kol dan nangka || Dihindari. || Tidak sesuai.
+E: Puasa total sampai kondisi jantung stabil || Tidak sesuai. || Kebutuhan tetap dipenuhi.
+
+#205 d=1 ty=recall
+ks: Koreksi energi pasien jantung: IMT kurang +10%, IMT lebih −10%.
+kw: IMT kurang; koreksi energi
+an: Bandingkan dengan DM (±20–30%).
+A: Dikurangi 10% || Untuk IMT lebih. || Arah salah.
+B*: Ditambah 10% || Sesuai slide. || IMT kurang.
+C: Tidak diubah karena sudah dihitung dari AMD || Koreksi tetap dilakukan. || Tidak sesuai.
+D: Ditambah 50% || Terlalu besar. || Tidak sesuai.
+E: Dikurangi 30% || Mirip koreksi gemuk pada DM. || Arah dan besar salah.
+
+#206 d=1 ty=recall
+ks: AMD Harris-Benedict pria: 66 + 13,7 BB + 5 TB − 6,8 U.
+kw: AMD; laki-laki
+an: Konstanta pria 66.
+A: 25–30 kkal × BB ideal || Rumus kalori basal DM. || Tidak sesuai.
+B: 655 + 9,6 BB + 1,8 TB − 4,7 U || Rumus wanita. || Tidak sesuai.
+C: 0,8 × BB || Rumus protein. || Tidak sesuai.
+D: BB ÷ TB² || Rumus IMT. || Tidak sesuai.
+E*: 66 + 13,7 BB + 5 TB − 6,8 U || Harris-Benedict pria. || Sesuai slide.
+
+#207 d=2 ty=application
+ks: AMD pria = 66 + 13,7 BB + 5 TB − 6,8 U.
+kw: 65 tahun; BB 75; TB 165
+an: 66 + 1027,5 + 825 − 442 = 1476,5 kkal.
+A: 1027,5 kkal || Hanya 13,7 × BB. || Tidak lengkap.
+B: 2000 kkal || Bukan hasil rumus. || Tidak sesuai.
+C: 1918,5 kkal || Umur tidak dikurangkan. || Tidak sesuai.
+D: 1410,5 kkal || Konstanta 66 terlewat. || Tidak sesuai.
+E*: 1476,5 kkal || 66 + 1027,5 + 825 − 442. || Sesuai contoh slide.
+
+#208 d=1 ty=recall
+ks: Energi total = AMD × faktor aktivitas × faktor stres.
+kw: energi total
+an: Faktor dikalikan, bukan dijumlahkan.
+A: AMD dikurangi kalori protein || Tidak sesuai. || Rumus keliru.
+B*: AMD × faktor aktivitas × faktor stres || Sesuai slide. || Rumus energi total.
+C: AMD dibagi faktor aktivitas || Tidak sesuai. || Rumus keliru.
+D: AMD × 0,8 || Mirip koefisien protein. || Rumus keliru.
+E: AMD ditambah 500 kkal || Tidak sesuai. || Rumus keliru.
+
+#209 d=1 ty=recall
+ks: Lemak diet jantung = 25% × energi total (kkal ÷ 9 = gram).
+kw: rumus lemak
+an: Protein 0,8 g/kgBB; lemak 25%; KH sisa.
+A: 0,8 g × BB || Rumus protein. || Tidak sesuai.
+B: 50% × energi total || Terlalu tinggi. || Tidak sesuai.
+C: 10% × energi total || Terlalu rendah. || Tidak sesuai.
+D: Energi total − (protein + lemak) || Rumus karbohidrat. || Tidak sesuai.
+E*: 25% × energi total || Sesuai slide. || Rumus lemak.
+
+#210 d=3 ty=application
+ks: KH = energi total − (kalori protein + kalori lemak); protein 0,8 g/kgBB (×4); lemak 25% energi.
+kw: 2000 kkal; BB 60 kg; karbohidrat
+an: Protein 48 g = 192 kkal; lemak 500 kkal; KH = 2000 − 692 = 1308 kkal ≈ 327 g.
+A: 2000 kkal || Belum dikurangi protein dan lemak. || Tidak sesuai.
+B*: ± 1308 kkal (± 327 g) || 2000 − (192 + 500). || Sesuai rumus slide.
+C: 1500 kkal || Hanya dikurangi lemak. || Protein terlewat.
+D: 500 kkal || Itu kalori lemak. || Tidak sesuai.
+E: 1808 kkal || Hanya dikurangi protein. || Lemak terlewat.
+
+#211 d=2 ty=recall
+ks: Tabel diet jantung: ikan laut 2–3×/minggu; ayam tanpa kulit 1–3×/minggu; kacang 2–4 porsi/hari; buah 2–4; sayur 4–8; minyak zaitun 4–6 sdm; manis/berlemak 1–2×/bulan.
+kw: frekuensi; bahan makanan
+an: Cocokkan bahan dengan frekuensinya.
+A*: Ikan laut 2–3 kali per minggu || Sesuai tabel slide. || Pasangan benar.
+B: Makanan berlemak 4–6 porsi per hari || Slide: 1–2 kali per bulan. || Tidak sesuai.
+C: Minyak zaitun 10–12 sdm per hari || Slide: 4–6 sdm/hari. || Tidak sesuai.
+D: Sayuran cukup satu porsi per minggu || Slide: 4–8 porsi/hari. || Tidak sesuai.
+E: Makanan dan minuman manis setiap hari || Slide: 1–2 kali per bulan. || Tidak sesuai.
+
+#212 d=1 ty=recall
+ks: Standar penukar bahan makanan memudahkan penyusunan menu sesuai kebutuhan.
+kw: penyusunan menu
+an: Penukar menerjemahkan kebutuhan zat gizi ke porsi bahan makanan.
+A*: Standar penukar bahan makanan || Misal nasi 4 gelas, lauk hewani 3 potong. || Sesuai slide.
+B: Jadwal olahraga mingguan || Tidak terkait menu. || Tidak sesuai.
+C: Daftar diagnosis medis pasien || Tidak terkait menu. || Tidak sesuai.
+D: Rekapitulasi hasil laboratorium || Bagian asesmen. || Tidak sesuai.
+E: Resep obat dari dokter || Tidak terkait menu. || Tidak sesuai.
+
+#213 d=1 ty=recall
+ks: Urutan asuhan gizi: asesmen → diagnosis → intervensi → monitoring dan evaluasi.
+kw: langkah terakhir
+an: Monev menilai keberhasilan asuhan.
+A: Intervensi gizi || Langkah ketiga. || Bukan terakhir.
+B: Skrining MST || Alat skrining malnutrisi. || Bukan langkah PAGT.
+C: Asesmen gizi || Langkah pertama. || Bukan terakhir.
+D: Diagnosis gizi || Langkah kedua. || Bukan terakhir.
+E*: Monitoring dan evaluasi gizi || Sesuai slide. || Langkah terakhir.
+
+#214 d=2 ty=recall
+ks: Terapi nutrisi pasien kanker bila ≥ 2 dari 3: BB turun > 10% dalam 3 bulan, transferin < 150 mg/dL, albumin < 3,4 g/dL.
+kw: kriteria terapi nutrisi; kanker
+an: Ketiga kriteria menunjukkan malnutrisi.
+A: BB naik, albumin tinggi, HDL tinggi || Tanda gizi baik. || Tidak sesuai.
+B*: BB turun > 10%/3 bulan, transferin < 150, albumin < 3,4 || Sesuai slide. || Penanda malnutrisi.
+C: Tekanan darah tinggi, nadi cepat, demam || Tanda vital. || Tidak sesuai.
+D: Usia lebih dari 60 tahun saja || Tidak sesuai. || Bukan kriteria.
+E: Kadar gula darah tinggi saja || Tidak sesuai. || Bukan kriteria.
+
+#215 d=2 ty=application
+ks: MST: BB turun tidak yakin = 2; asupan berkurang = 1; skor ≥ 2 → asesmen gizi oleh dietisien.
+kw: baju longgar; nafsu makan berkurang
+an: 2 (tidak yakin) + 1 (asupan kurang) = 3 → ≥ 2 → asesmen dietisien.
+A: Skor 1; ulang skrining sebulan lagi || Hitungan keliru. || Tidak sesuai.
+B: Skor 2; langsung nutrisi parenteral || Skor dan tindak lanjut keliru. || Tidak sesuai.
+C*: Skor 3; lanjut asesmen gizi dietisien || 2 + 1 = 3 (≥ 2). || Sesuai slide MST.
+D: Skor 0; tidak perlu tindak lanjut || Hitungan keliru. || Tidak sesuai.
+E: Skor 5; dirujuk untuk tindakan bedah || Hitungan dan tindak lanjut keliru. || Tidak sesuai.
+
+#216 d=1 ty=application
+ks: Skor MST penurunan BB: 1–5 kg = 1; 6–10 kg = 2; 11–15 kg = 3; > 15 kg = 4.
+kw: 8 kg; 6 bulan
+an: 8 kg di rentang 6–10 → skor 2.
+A: 0 || Ada penurunan BB. || Tidak sesuai.
+B: 1 (penurunan 1–5 kg) || Rentang lebih kecil. || Tidak sesuai.
+C: 4 (penurunan > 15 kg) || Rentang lebih besar. || Tidak sesuai.
+D: 3 (penurunan 11–15 kg) || Rentang lebih besar. || Tidak sesuai.
+E*: 2 (penurunan 6–10 kg) || Sesuai tabel MST. || 8 kg di rentang ini.
+
+#217 d=1 ty=recall
+ks: Diet kanker: tinggi energi tinggi protein (TKTP), disusun individual.
+kw: prinsip diet kanker
+an: Keganasan meningkatkan kebutuhan → TKTP.
+A: Rendah energi dan rendah protein || Memperberat malnutrisi. || Tidak sesuai.
+B: Puasa sebelum setiap kemoterapi || Tidak disebut di slide. || Tidak sesuai.
+C: Rendah serat pada semua pasien || Hanya bila diare. || Tidak sesuai.
+D*: Tinggi energi dan tinggi protein (TKTP) || Kebutuhan meningkat akibat keganasan. || Sesuai slide.
+E: Tinggi lemak jenuh untuk menambah kalori || Lemak dibatasi sedang. || Tidak sesuai.
+
+#218 d=1 ty=recall
+ks: Energi pasien kanker: laki-laki gizi baik 36, gizi kurang 40; perempuan gizi baik 32, gizi kurang 36 kkal/kgBB.
+kw: laki-laki; gizi kurang
+an: Laki-laki + gizi kurang → angka tertinggi (40).
+A: 36 kkal/kgBB || Laki-laki gizi baik atau perempuan gizi kurang. || Tidak sesuai.
+B: 32 kkal/kgBB || Perempuan gizi baik. || Tidak sesuai.
+C*: 40 kkal/kgBB || Sesuai slide. || Laki-laki gizi kurang.
+D: 25 kkal/kgBB || Kalori basal DM perempuan. || Tidak sesuai.
+E: 20 kkal/kgBB || Terlalu rendah. || Tidak sesuai.
+
+#219 d=1 ty=recall
+ks: Diet kanker: protein 1–1,5 g/kgBB; lemak sedang 15–20% energi; KH cukup (sisa).
+kw: protein; lemak; kanker
+an: Bedakan dari diet jantung (protein 0,8 g/kg, lemak 25%).
+A*: Protein 1–1,5 g/kgBB; lemak 15–20% || Sesuai slide. || KH mengisi sisa energi.
+B: Lemak 40–50% energi untuk menambah kalori || Terlalu tinggi. || Tidak sesuai.
+C: Protein dihindari agar tumor tidak tumbuh || Mitos. || Protein justru tinggi.
+D: Protein 0,58 g/kgBB || Kebutuhan bayi. || Tidak sesuai.
+E: Protein 0,8 g/kgBB; lemak 25% energi || Angka diet jantung. || Tidak sesuai.
+
+#220 d=1 ty=recall
+ks: Medikasi radioaktif internal (misalnya iodium radioaktif) → diet rendah iodium.
+kw: radioaktif internal
+an: Iodium makanan bersaing dengan iodium radioaktif.
+A: Tinggi iodium || Mengganggu ambilan radioaktif. || Tidak sesuai.
+B: Tinggi gula sederhana || Tidak relevan. || Tidak sesuai.
+C: Tanpa protein sama sekali || Memperberat malnutrisi. || Tidak sesuai.
+D*: Rendah iodium || Sesuai slide. || Agar terapi radioaktif efektif.
+E: Tinggi garam beriodium || Mengganggu terapi. || Tidak sesuai.
+
+#221 d=2 ty=understanding
+ks: Enteral (NGT): sulit menelan/asupan kurang, usus berfungsi baik. Parenteral: ada gangguan pencernaan/absorpsi.
+kw: NGT; enteral; indikasi
+an: Selama usus berfungsi, gunakan usus.
+A: Pasien sehat tanpa keluhan makan || Cukup oral. || Tidak sesuai.
+B: Tidak sulit menelan dan asupan adekuat || Cukup oral. || Tidak sesuai.
+C*: Sulit menelan, asupan kurang, usus masih baik || Sesuai slide. || Indikasi enteral.
+D: Ada gangguan fungsi pencernaan dan absorpsi usus || Indikasi parenteral. || Tidak sesuai.
+E: Tidak mau makan karena tidak suka rasa makanan rumah sakit || Atasi dengan modifikasi menu. || Bukan indikasi utama.
+
+#222 d=1 ty=recall
+ks: Hindari makan dan minum selama 2 jam setelah kemoterapi/radiasi (mengurangi mual-muntah).
+kw: setelah kemoterapi
+an: Jeda 2 jam mengurangi mual.
+A: Segera beri makan porsi besar || Memicu mual. || Tidak sesuai.
+B*: Jeda makan-minum 2 jam setelah terapi || Mengurangi mual dan muntah. || Sesuai slide.
+C: Beri makanan pedas untuk merangsang selera || Iritatif. || Tidak sesuai.
+D: Beri makanan tinggi lemak agar cepat kenyang || Memperberat mual. || Tidak sesuai.
+E: Hentikan semua cairan selama dua hari || Berbahaya, risiko dehidrasi. || Tidak sesuai.
+
+#223 d=1 ty=application
+ks: Gangguan pengecapan (rasa logam): pakai alat makan plastik, minuman segar, kumur larutan soda.
+kw: rasa logam
+an: Alat makan logam memperberat rasa logam.
+A: Menghindari semua bumbu || Bumbu yang sesuai justru membantu. || Tidak sesuai.
+B: Makan makanan dalam keadaan sangat panas || Dianjurkan suhu ruang/dingin. || Tidak sesuai.
+C: Tidak makan sama sekali sampai rasa membaik || Memperberat malnutrisi. || Tidak sesuai.
+D: Menggunakan sendok dan garpu besi || Memperberat rasa logam. || Tidak sesuai.
+E*: Alat makan plastik || Sesuai slide. || Mengurangi rasa logam.
+
+#224 d=1 ty=application
+ks: Mual-muntah: makanan kering, hindari berbau tajam/berlemak/terlalu manis/bergas, makan perlahan, tetap duduk 1–2 jam setelah makan.
+kw: mual; muntah
+an: Kurangi rangsang mual dan refluks.
+A: Makanan tinggi lemak || Memperlambat pengosongan lambung. || Tidak sesuai.
+B*: Makanan kering, makan perlahan, duduk 1–2 jam || Hindari bau tajam, lemak, terlalu manis. || Sesuai slide.
+C: Langsung berbaring setelah makan || Memicu refluks dan mual. || Tidak sesuai.
+D: Makan dengan cepat agar porsi habis || Dianjurkan makan perlahan. || Tidak sesuai.
+E: Minum banyak bersamaan dengan makan || Cairan dibatasi saat makan. || Tidak sesuai.
+
+#225 d=1 ty=application
+ks: Diare: makanan rendah serat; konstipasi: tinggi serat.
+kw: diare; kanker
+an: Serat tinggi mempercepat transit; pada diare dikurangi.
+A: Makanan pedas || Iritatif terhadap usus. || Tidak sesuai.
+B: Puding ekstra tinggi serat || Untuk konstipasi. || Tidak sesuai.
+C*: Rendah serat || Sesuai slide. || Mengurangi frekuensi BAB.
+D: Makanan tinggi serat dari sayur mentah || Untuk konstipasi. || Tidak sesuai.
+E: Makanan tinggi lemak || Memperberat diare. || Tidak sesuai.
+
+#226 d=1 ty=application
+ks: Anoreksia: porsi kecil sering (> 3×/hari), makan makanan disukai walau tidak lapar, hindari minum dekat waktu makan, olahraga sesuai kemampuan.
+kw: anoreksia; kanker
+an: Strategi: kecil-sering dan menghindari rasa penuh oleh cairan.
+A*: Porsi kecil sering; jangan minum dekat waktu makan || Makan makanan disukai walau tidak lapar. || Sesuai slide.
+B: Banyak minum saat makan agar mudah menelan || Membuat cepat kenyang. || Tidak sesuai.
+C: Makan hanya saat benar-benar lapar || Asupan menjadi kurang. || Tidak sesuai.
+D: Porsi besar dua kali sehari || Sulit dihabiskan. || Tidak sesuai.
+E: Tidak berolahraga sama sekali agar energi tersimpan || Slide menganjurkan olahraga sesuai kemampuan. || Tidak sesuai.
+
+#227 d=2 ty=recall
+ks: Contoh kode slide: NC-1.2 kesulitan mengunyah; NC-2.1 gangguan utilisasi zat gizi; NC-3.2 penurunan BB tak diharapkan; NI-5.2 malnutrisi energi-protein; NB-1.2 keyakinan salah tentang makanan.
+kw: kesulitan mengunyah; kode
+an: Mengunyah = fungsi klinis (NC-1.x).
+A: NB-1.2 || Keyakinan/sikap salah tentang makanan. || Tidak sesuai.
+B: NC-3.2 || Penurunan BB yang tidak diharapkan. || Tidak sesuai.
+C: NC-2.1 || Gangguan utilisasi zat gizi. || Tidak sesuai.
+D: NI-5.2 || Malnutrisi energi-protein nyata. || Tidak sesuai.
+E*: NC-1.2 || Kesulitan mengunyah. || Sesuai tabel slide.
+
+#228 d=1 ty=recall
+ks: Sumber keganasan di slide: sinar X berlebihan → leukemia; sinar matahari → kanker kulit; hexachlorophene → kerusakan otak/Ca otak.
+kw: leukemia; sumber
+an: Radiasi pengion → leukemia.
+A*: Paparan sinar X berlebihan || Sesuai slide. || Dikaitkan dengan leukemia.
+B: Hexachlorophene pada sabun antiseptik || Dikaitkan kerusakan otak. || Tidak sesuai.
+C: Sinar matahari berlebihan || Dikaitkan kanker kulit. || Tidak sesuai.
+D: Smog (ozon, CO, NO₂) || Sumber umum lain. || Tidak spesifik leukemia.
+E: Kadmium dari asap kendaraan dan pupuk fosfat || Sumber umum lain. || Tidak spesifik leukemia.
+
+#229 d=1 ty=recall
+ks: Dibatasi: aspartam, natrium nitrit (sosis, ham, bacon), makanan berlemak. Dianjurkan: antioksidan (vitamin A, C, E, selenium) dan serat.
+kw: dibatasi; memicu kanker
+an: Pilih kelompok yang justru dibatasi.
+A: Brokoli dan tomat || Kaya antioksidan. || Dianjurkan.
+B: Ikan laut segar yang dikukus || Dianjurkan. || Tidak sesuai.
+C: Tempe dan kedelai || Dianjurkan. || Tidak sesuai.
+D*: Aspartam, nitrit daging olahan, makanan berlemak || Sesuai slide. || Bahan yang dibatasi.
+E: Bawang putih segar sebagai bumbu masakan || Dianjurkan. || Tidak sesuai.
+
+#230 d=1 ty=recall
+ks: Pencegahan kanker: serat ≥ 30 g/hari, lemak ≤ 30% kalori, berhenti merokok, olahraga ±30 menit 3×/minggu, 5 porsi buah-sayur.
+kw: mengurangi risiko kanker
+an: Pilih pola hidup protektif.
+A*: Serat ≥ 30 g, lemak ≤ 30%, stop rokok, olahraga || Sesuai slide. || Upaya pencegahan.
+B: Sering makan makanan dibakar dan diasinkan || Karsinogenik. || Harus dihindari.
+C: Kopi lebih dari enam gelas sehari || Slide: tidak boleh lebih dari 6 gelas. || Tidak sesuai.
+D: Diet tinggi lemak untuk menjaga berat badan || Meningkatkan risiko Ca mamae. || Tidak sesuai.
+E: Minum minuman sangat panas setiap hari || Risiko Ca mulut dan esofagus. || Tidak sesuai.
+
+#251 d=2 ty=application
+ks: AMD pria = 66 + 13,7 BB + 5 TB − 6,8 U.
+kw: 50 tahun; BB 70; TB 170
+an: 66 + 959 + 850 − 340 = 1535 kkal.
+A: 1875 kkal || Umur tidak dikurangkan. || Tidak sesuai.
+B: 1469 kkal || Konstanta 66 terlewat. || Tidak sesuai.
+C: 2000 kkal || Bukan hasil rumus. || Tidak sesuai.
+D*: 1535 kkal || 66 + 959 + 850 − 340. || Perhitungan benar.
+E: 1603 kkal || Memakai umur 40 tahun. || Tidak sesuai.
+
+#252 d=2 ty=application
+ks: Energi total = AMD × faktor aktivitas × faktor stres.
+kw: AMD 1500; aktivitas 1,2; stres 1,3
+an: 1500 × 1,2 × 1,3 = 2340 kkal.
+A*: 2340 kkal || 1500 × 1,2 × 1,3. || Rumus benar.
+B: 3750 kkal || Faktor dijumlahkan (2,5). || Tidak sesuai.
+C: 1800 kkal || Hanya × faktor aktivitas. || Faktor stres terlewat.
+D: 1500 kkal || AMD saja. || Tidak sesuai.
+E: 1950 kkal || Hanya × faktor stres. || Faktor aktivitas terlewat.
+
+#253 d=2 ty=application
+ks: Protein 0,8 g/kgBB; lemak 25% energi (÷ 9 = gram).
+kw: BB 70; 2000 kkal
+an: Protein 0,8 × 70 = 56 g; lemak 25% × 2000 = 500 kkal ≈ 55,6 g.
+A: Protein 105 g dan lemak 400 kkal || Rumus diet kanker (1,5 g/kg; 20%). || Tidak sesuai.
+B: Protein 28 g dan lemak 200 kkal || Terlalu rendah. || Tidak sesuai.
+C: Protein 70 g dan lemak 800 kkal || Tidak sesuai rumus. || Tidak sesuai.
+D*: Protein 56 g dan lemak 500 kkal || 0,8 × 70 dan 25% × 2000. || Sesuai rumus slide.
+E: Protein 140 g dan lemak 1000 kkal || Terlalu tinggi. || Tidak sesuai.
+
+#254 d=1 ty=application
+ks: Strategi diet jantung: lunak/nasi tim, mudah cerna, tidak bergas, tanpa bumbu tajam.
+kw: pascaserangan jantung
+an: Kurangi beban jantung saat mencerna.
+A: Sayur kol, nangka, dan minuman bersoda || Menimbulkan gas. || Tidak sesuai.
+B*: Nasi tim lunak, tidak bergas, tidak tajam || Sesuai strategi slide. || Mengurangi beban kerja jantung.
+C: Puasa total sampai pasien diperbolehkan pulang || Tidak sesuai. || Kebutuhan tetap dipenuhi.
+D: Makanan digoreng berminyak || Dihindari. || Tidak sesuai.
+E: Makanan pedas dan bersantan kental || Dihindari. || Tidak sesuai.
+
+#255 d=1 ty=recall
+ks: Makanan/minuman manis dan berlemak dibatasi 1–2 kali per bulan.
+kw: manis; berlemak; frekuensi
+an: Frekuensi terendah di tabel.
+A: 4–6 porsi per hari || Frekuensi nasi/kentang/ubi. || Tidak sesuai.
+B: Bebas asal olahraga teratur || Tidak sesuai. || Tetap dibatasi.
+C: 2–3 kali per minggu || Frekuensi ikan laut. || Tidak sesuai.
+D: Setiap hari dalam porsi kecil || Tidak sesuai. || Terlalu sering.
+E*: 1–2 kali per bulan || Sesuai tabel slide. || Dibatasi.
+
+#256 d=2 ty=application
+ks: Energi kanker perempuan gizi kurang = 36 kkal/kgBB.
+kw: wanita; BB 45 kg; gizi kurang
+an: 36 × 45 = 1620 kkal.
+A: 1125 kkal (25 kkal/kg) || Kalori basal DM perempuan. || Tidak sesuai.
+B: 1800 kkal (40 kkal/kg) || Laki-laki gizi kurang. || Tidak sesuai.
+C: 1440 kkal (32 kkal/kg) || Perempuan gizi baik. || Tidak sesuai.
+D*: 1620 kkal (36 kkal/kg) || 36 × 45. || Sesuai materi.
+E: 2250 kkal (50 kkal/kg) || Tidak sesuai. || Terlalu tinggi.
+
+#257 d=1 ty=application
+ks: Protein diet kanker 1–1,5 g/kgBB.
+kw: BB 50 kg; protein
+an: 1–1,5 × 50 = 50–75 g.
+A: 40 g/hari (0,8 g/kgBB) || Rumus diet jantung. || Tidak sesuai.
+B*: 50–75 g/hari (1–1,5 g/kgBB) || Sesuai syarat. || Protein tinggi.
+C: 150 g/hari (3 g/kgBB) || Terlalu tinggi. || Tidak sesuai.
+D: 25 g/hari (0,5 g/kgBB) || Terlalu rendah. || Tidak sesuai.
+E: Protein dibatasi agar tumor tidak tumbuh || Mitos. || Tidak sesuai.
+
+#258 d=2 ty=application
+ks: MST: BB turun 11–15 kg = 3; asupan berkurang = 1; ≥ 2 → asesmen dietisien.
+kw: turun 12 kg; nafsu makan berkurang
+an: 3 + 1 = 4 → ≥ 2 → asesmen gizi.
+A: Skor 5; langsung nutrisi parenteral || Hitungan dan tindak lanjut keliru. || Tidak sesuai.
+B*: Skor 4; lanjut asesmen gizi dietisien || 3 + 1 = 4. || Sesuai tabel MST.
+C: Skor 2; cukup observasi tanpa tindak lanjut || Hitungan keliru. || Tidak sesuai.
+D: Skor 0 || Hitungan keliru. || Tidak sesuai.
+E: Skor 1; skrining ulang bulan depan || Hitungan keliru. || Tidak sesuai.
+
+#259 d=1 ty=application
+ks: Sulit menelan + usus berfungsi → enteral via NGT.
+kw: kanker nasofaring; sulit menelan; usus baik
+an: Usus masih berfungsi → enteral, bukan parenteral.
+A*: Enteral melalui NGT || Usus masih berfungsi. || Sesuai materi.
+B: Oral biasa dengan makanan padat || Pasien sulit menelan. || Kurang tepat.
+C: Parenteral melalui vena sentral || Untuk gangguan pencernaan/absorpsi. || Usus pasien masih baik.
+D: Rektal || Bukan jalur nutrisi. || Tidak sesuai.
+E: Puasa sampai pasien bisa menelan kembali || Memperberat malnutrisi. || Tidak sesuai.
+
+#260 d=1 ty=application
+ks: Imunitas sangat turun/kemoterapi agresif → makanan steril.
+kw: leukemia; leukosit rendah; kemoterapi agresif
+an: Neutropenia → cegah infeksi dari makanan.
+A: Makanan tinggi iodium || Tidak relevan. || Tidak sesuai.
+B: Lalapan sayur mentah segar || Berisiko kontaminasi kuman. || Tidak sesuai.
+C: Makanan dibakar || Mengandung karsinogen. || Tidak sesuai.
+D: Makanan rendah protein || Protein justru tinggi. || Tidak sesuai.
+E*: Makanan steril || Mencegah infeksi. || Sesuai materi.
+
+#518 d=1 ty=recall
+ks: Asesmen gizi inti: antropometri, biokimia, klinis/fisik, riwayat makan.
+kw: asesmen gizi; KECUALI
+an: Riwayat pekerjaan bukan komponen inti ABCD.
+
+#519 d=1 ty=recall
+ks: Tujuan intervensi gizi jantung: makanan sesuai kebutuhan dan syarat diet jantung.
+kw: tujuan intervensi
+an: Pilihan lain bertentangan dengan prinsip diet jantung (porsi kecil, rendah lemak jenuh dan garam).
