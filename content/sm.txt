@@ -1,0 +1,169 @@
+#445 d=1 ty=recall
+ks: Sindroma metabolik ditegakkan bila ≥ 3 kriteria (obesitas sentral, resistensi insulin/glukosa, hipertensi, dislipidemia).
+kw: diagnosis; sindroma metabolik
+an: Ambang jumlah kriteria adalah tiga.
+
+#446 d=1 ty=recall
+ks: Hipotesis utama: resistensi insulin sebagai penyebab primer sindroma metabolik.
+kw: penyebab primer
+an: Semua komponen dihubungkan oleh resistensi insulin.
+
+#447 d=2 ty=understanding
+ks: Tenenbaum: hiperinsulinemia kompensasi memicu komplikasi makrovaskular (jantung).
+kw: hipersekresi insulin; Tenenbaum
+an: Insulin tinggi bersifat aterogenik.
+
+#448 d=2 ty=understanding
+ks: Adiposa viseral: leptin, TNF-α, IL-6, PAI-1, resistin naik; adiponektin (protektif) turun.
+kw: adipokin; KECUALI
+an: Adiponektin satu-satunya adipokin protektif yang justru turun.
+
+#449 d=3 ty=analysis
+ks: NCEP-ATP III: lingkar pinggang > 102/88 cm, TG ≥ 150, HDL < 40/50, TD ≥ 130/85, GDP ≥ 110 (tabel slide); butuh ≥ 3.
+kw: pinggang 98 cm; TD 136/86; TG 190; HDL 44; GDP 96
+an: Pria: pinggang 98 < 102, HDL 44 ≥ 40, GDP normal → hanya TG dan TD (2 kriteria).
+
+#450 d=1 ty=recall
+ks: IDF mewajibkan obesitas sentral (lingkar pinggang sesuai etnis) ditambah ≥ 2 kriteria lain.
+kw: IDF; wajib
+an: IDF = obesitas sentral dulu.
+
+#451 d=2 ty=recall
+ks: Kriteria WHO mewajibkan resistensi insulin/gangguan glukosa dan mencantumkan mikroalbuminuria.
+kw: WHO; pembeda
+an: Mikroalbuminuria hanya ada pada kriteria WHO.
+
+#452 d=2 ty=application
+ks: IMT Asia-Pasifik: 25–29,9 obese I; lingkar pinggang perempuan ≥ 80 cm meningkatkan risiko.
+kw: BB 70; TB 160; pinggang 86
+an: IMT 70/2,56 = 27,3 (obese I) + pinggang ≥ 80 → risiko berat.
+
+#453 d=1 ty=recall
+ks: Evaluasi obesitas: berat badan, tinggi badan (IMT), lingkar pinggang.
+kw: tiga faktor; evaluasi obesitas
+an: IMT + distribusi lemak.
+
+#454 d=2 ty=understanding
+ks: Lingkar pinggang diukur di tengah antara iga terbawah dan krista iliaka; mengukur di garis ikat pinggang di bawah perut buncit memberi nilai lebih rendah.
+kw: kesalahan pengukuran; nilai lebih rendah
+an: Titik ukur yang salah meremehkan obesitas sentral.
+
+#455 d=1 ty=recall
+ks: ACE terutama di endotel paru mengubah angiotensin I menjadi angiotensin II.
+kw: ACE; asal
+an: Paru adalah tempat konversi utama.
+
+#456 d=2 ty=understanding
+ks: Hiperinsulinemia menaikkan TD lewat aktivasi simpatis, retensi natrium ginjal, proliferasi otot polos vaskular.
+kw: hiperinsulinemia; hipertensi; KECUALI
+an: Insulin justru menahan natrium, bukan meningkatkan ekskresi.
+
+#457 d=1 ty=recall
+ks: Hipertensi primer (±90%): tanpa penyebab spesifik; dikaitkan genetik, usia, jenis kelamin, diet tinggi garam/lemak, obesitas.
+kw: hipertensi esensial
+an: Mayoritas hipertensi tidak punya penyebab tunggal.
+
+#458 d=2 ty=application
+ks: Koarktasio aorta: TD lengan tinggi, tungkai rendah, pulsasi femoral lemah/terlambat (radiofemoral delay).
+kw: usia muda; TD tungkai rendah; femoral lemah
+an: Perbedaan TD lengan-tungkai → hipertensi sekunder vaskular.
+
+#459 d=2 ty=application
+ks: Alur diagnosis hipertensi: TD klinik tinggi tanpa kerusakan organ → konfirmasi HBPM/ABPM atau kunjungan ulang.
+kw: TD 150/95; tanpa kerusakan organ target
+an: Singkirkan white-coat hypertension sebelum diagnosis.
+
+#460 d=2 ty=application
+ks: Algoritma slide: hipertensi derajat 1 usia < 60 tahun → ACE inhibitor atau ARB.
+kw: 52 tahun; derajat 1; gagal gaya hidup
+an: Usia < 60 tanpa komorbid → ACEi/ARB.
+
+#461 d=1 ty=recall
+ks: Latihan: ≥ 30 menit intensitas sedang, 4–6×/minggu, pengeluaran ≥ 200 kkal/hari, ditambah penguatan otot.
+kw: latihan fisik; rekomendasi
+an: Hafalkan frekuensi dan durasi.
+
+#462 d=1 ty=recall
+ks: Handy portion guide: lauk = seukuran telapak tangan dan setebal jari kelingking.
+kw: porsi tangan; daging
+an: Telapak tangan untuk protein.
+
+#463 d=1 ty=application
+ks: Klasifikasi lipid: LDL ≥ 160 tinggi, kolesterol total ≥ 240 tinggi, HDL < 40 rendah, TG 200–499 tinggi.
+kw: LDL 165; total 245; HDL 38; TG 210
+an: Bandingkan tiap nilai dengan tabel.
+
+#464 d=2 ty=application
+ks: Dislipidemia sekunder: akibat penyakit lain (sindroma nefrotik, hipotiroid, DM, obat).
+kw: edema anasarka; proteinuria masif; kolesterol 380
+an: Ada penyakit dasar yang jelas → sekunder.
+
+#465 d=2 ty=recall
+ks: Obat penyebab hipertrigliseridemia: β-bloker, estrogen, glukokortikoid (juga tiazid, retinoid).
+kw: obat; hipertrigliseridemia
+an: Cocokkan obat dengan efek lipid di tabel.
+
+#466 d=1 ty=recall
+ks: Jalur eksogen: lipid makanan dikemas menjadi kilomikron di enterosit, masuk limfe lewat duktus torasikus.
+kw: jalur eksogen; duktus torasikus
+an: Lipoprotein dari usus = kilomikron.
+
+#467 d=2 ty=recall
+ks: LDL teroksidasi ditangkap makrofag melalui reseptor scavenger (SR-A) → sel busa.
+kw: LDL teroksidasi; sel busa
+an: Reseptor scavenger tidak diregulasi umpan balik → kolesterol menumpuk.
+
+#468 d=1 ty=recall
+ks: Statin (penghambat HMG-CoA reduktase): pantau fungsi hati dan miositis.
+kw: HMG-CoA reduktase; efek samping
+an: ESO statin = hati + otot.
+
+#469 d=2 ty=application
+ks: TG > 1000 mg/dL → risiko pankreatitis akut; fibrat paling efektif menurunkan TG.
+kw: TG 1.150; nyeri epigastrium; lipase naik
+an: Hipertrigliseridemia berat → pankreatitis → fibrat.
+
+#470 d=1 ty=recall
+ks: Ezetimibe menghambat absorpsi kolesterol di usus halus (NPC1L1).
+kw: ezetimibe; mekanisme
+an: Target di brush border usus.
+
+#471 d=2 ty=application
+ks: Target LDL risiko ekstrem (penyakit kardiovaskular progresif): < 55 mg/dL.
+kw: infark + DM + stroke; risiko ekstrem
+an: Kategori risiko tertinggi → target terendah.
+
+#472 d=1 ty=recall
+ks: Berhenti merokok ≥ 30 hari meningkatkan HDL secara signifikan.
+kw: berhenti merokok; 30 hari
+an: Rokok menurunkan HDL.
+
+#473 d=1 ty=understanding
+ks: Pencegahan sekunder: mencegah kejadian berulang pada pasien yang sudah sakit.
+kw: PJK terbukti; statin
+an: Sudah ada penyakit → sekunder.
+
+#502 d=1 ty=recall
+ks: Obesitas sentral Asia: pria ≥ 90 cm, wanita ≥ 80 cm.
+kw: lingkar pinggang; Asia
+an: Batas Asia lebih rendah dari Barat.
+
+#503 d=1 ty=recall
+ks: NCEP ATP III: ≥ 3 dari 5 kriteria.
+kw: jumlah kriteria
+an: Ambang tiga.
+
+#504 d=2 ty=application
+ks: ATP III (batas Asia): pinggang ≥ 80 cm wanita, TD ≥ 130/85, TG ≥ 150, HDL < 50 wanita, GDP ≥ 100.
+kw: wanita; pinggang 92; TD 135/88; TG 180; HDL 45
+an: Pinggang, TD, TG, HDL memenuhi → 4 kriteria.
+
+#520 d=1 ty=recall
+ks: LDL adalah lipoprotein dengan kandungan kolesterol terbanyak.
+kw: kolesterol terbanyak
+an: Kilomikron/VLDL kaya TG; HDL kaya protein.
+
+#521 d=1 ty=recall
+ks: Apo B-100 pada LDL/VLDL berikatan dengan reseptor LDL.
+kw: apolipoprotein aterogenik
+an: Apo B = penanda partikel aterogenik.
