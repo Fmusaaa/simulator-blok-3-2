@@ -1,0 +1,249 @@
+#397 d=1 ty=recall
+ks: Aksis HPT: hipotalamus (TRH) → hipofisis anterior (TSH) → tiroid (T4 > T3), dengan umpan balik negatif fT4/fT3.
+kw: hipofisis anterior; merangsang sintesis T4/T3
+an: Hormon dari hipofisis anterior yang bekerja langsung pada tiroid adalah TSH.
+
+#398 d=3 ty=analysis
+ks: Tirotoksikosis = kelebihan hormon tiroid di jaringan; hipertiroidisme = tirotoksikosis karena produksi kelenjar berlebih. Uptake rendah → tanpa hipertiroidisme.
+kw: uptake iodium rendah; tiroglobulin tinggi; nyeri leher pascainfeksi
+an: TSH rendah + fT4 tinggi tetapi uptake rendah dan tiroglobulin tinggi → hormon bocor dari folikel rusak (tiroiditis), bukan produksi berlebih.
+
+#399 d=1 ty=application
+ks: Hipertiroidisme primer: TSH rendah, fT4/fT3 tinggi (TSH dan fT4 berlawanan arah).
+kw: palpitasi; BB turun; mata menonjol
+an: Kelainan di kelenjar → hormon tinggi menekan TSH.
+
+#400 d=2 ty=recall
+ks: Hipertiroidisme sekunder: stimulator dari luar tiroid (TSHoma, hCG trimester I, resistensi hormon tiroid).
+kw: hipertiroidisme sekunder; tabel penyebab
+an: Cari sumber rangsangan di luar kelenjar tiroid.
+
+#401 d=2 ty=application
+ks: Tirotoksikosis faktisia: hormon eksogen, kelenjar tertekan, tiroglobulin rendah.
+kw: levotiroksin diam-diam; tiroglobulin rendah; tiroid tidak membesar
+an: Hormon dari luar tidak membawa tiroglobulin → bukan hipertiroidisme.
+
+#402 d=2 ty=application
+ks: Tirotoksikosis gestasi trimester I: hCG (mirip TSH) merangsang reseptor TSH → hipertiroidisme sekunder.
+kw: hamil 10 minggu; hiperemesis; tanpa goiter/oftalmopati
+an: Puncak hCG trimester I + tanpa tanda Graves → tirotoksikosis gestasi.
+
+#403 d=1 ty=recall
+ks: Tionamida (PTU, tiamazol, karbimazol) menghambat tiroid peroksidase → oksidasi iodida dan organifikasi terhambat.
+kw: mekanisme OAT
+an: Target OAT di dalam kelenjar tiroid (TPO).
+
+#404 d=1 ty=recall
+ks: Dosis awal tiamazol: 10–15 mg (ringan, kelenjar kecil) atau 20–40 mg (berat, kelenjar besar); rumatan 5–10 mg.
+kw: Graves ringan; kelenjar kecil; dosis awal
+an: Ringan + kecil → dosis awal rendah.
+
+#405 d=2 ty=application
+ks: Karbimazol (prodrug) = 140% dosis tiamazol.
+kw: konversi; tiamazol 10 mg
+an: 1,4 × 10 mg = 14 mg.
+
+#406 d=1 ty=recall
+ks: Evaluasi fungsi tiroid pertama 4–6 minggu setelah mulai OAT, lalu tiap 2–3 bulan bila eutiroid.
+kw: evaluasi pertama; tiamazol
+an: Hormon simpanan harus habis dulu.
+
+#407 d=1 ty=recall
+ks: Rumatan OAT 12–18 bulan setelah eutiroid sebelum dicoba dihentikan.
+kw: durasi rumatan
+an: Waktu cukup untuk remisi autoimun.
+
+#408 d=1 ty=understanding
+ks: Propranolol: β-bloker nonselektif simptomatik yang juga menghambat konversi T4 → T3 perifer.
+kw: propranolol; alasan pemilihan
+an: Nilai tambah propranolol = efek perifer pada deiodinase.
+
+#409 d=1 ty=recall
+ks: Kontraindikasi absolut ablasi RAI: hamil dan menyusui.
+kw: kontraindikasi absolut; yodium radioaktif
+an: Radiasi dapat mencapai janin/bayi.
+
+#410 d=2 ty=application
+ks: Indikasi tiroidektomi: goiter besar dengan penekanan, oftalmopati berat, kecurigaan keganasan, relaps OAT; dilanjutkan levotiroksin.
+kw: relaps; goiter menekan trakea; oftalmopati berat
+an: Oftalmopati aktif berat bisa memburuk dengan RAI; goiter obstruktif → bedah.
+
+#411 d=1 ty=recall
+ks: Indikasi tiroidektomi termasuk nodul yang dicurigai atau terbukti ganas.
+kw: indikasi tiroidektomi
+an: Keganasan butuh pengangkatan jaringan.
+
+#412 d=1 ty=understanding
+ks: Hipertiroidisme: berdebar, tidak tahan panas, berkeringat, BB turun, diare/sering BAB; konstipasi dan intoleransi dingin = hipotiroid.
+kw: KECUALI; gejala hipertiroid
+an: Cari gejala hipometabolik.
+
+#413 d=1 ty=recall
+ks: Obat penyebab hipertiroidisme primer di tabel slide: yodium berlebih dan litium.
+kw: bipolar; obat jangka panjang
+an: Obat bipolar klasik = litium.
+
+#414 d=1 ty=application
+ks: Hipotiroidisme subklinis: TSH naik, fT4 normal, sering tanpa gejala.
+kw: TSH 7,8; fT4 normal; tanpa keluhan
+an: TSH naik dengan fT4 normal → subklinis.
+
+#415 d=1 ty=application
+ks: Hipotiroidisme klinis primer: TSH tinggi dan fT4 rendah (berlawanan arah).
+kw: kedinginan; BB naik; TSH tinggi; fT4 rendah
+an: Kelainan di kelenjar → TSH naik kompensasi.
+
+#416 d=2 ty=application
+ks: Sindrom Sheehan (nekrosis hipofisis pascapersalinan) → hipotiroidisme sekunder: fT4 rendah dengan TSH rendah/normal.
+kw: perdarahan postpartum; tidak bisa menyusui; TSH rendah-normal
+an: TSH dan fT4 searah rendah → kelainan sentral.
+
+#417 d=1 ty=recall
+ks: Gejala hipotiroidisme: menoragia, kulit kasar/kering, gerakan dan bicara lamban, intoleransi dingin, BB naik.
+kw: gejala hipotiroid
+an: Pilih kelompok gejala hipometabolik.
+
+#418 d=2 ty=application
+ks: Dosis penuh levotiroksin dewasa sehat ±1,6 mcg/kgBB/hari.
+kw: BB 60 kg; tanpa penyakit kardiovaskular
+an: 1,6 × 60 = 96 mcg ≈ 100 mcg.
+
+#419 d=2 ty=application
+ks: Lansia/penyakit jantung: mulai levotiroksin 12,5–50 mcg/hari, titrasi 12,5–25 mcg tiap 4–8 minggu.
+kw: 72 tahun; angina stabil
+an: Mulai rendah, naik pelan untuk mencegah iskemia.
+
+#420 d=2 ty=understanding
+ks: TSH dievaluasi 6–8 minggu setelah mulai/ubah dosis karena kadar tunak tercapai setelah ±5–6 waktu paruh (±7 hari).
+kw: evaluasi TSH; alasan
+an: t½ 7 hari × 5–6 ≈ 6 minggu.
+
+#421 d=2 ty=application
+ks: Tiroiditis subakut (De Quervain): pascainfeksi virus, nyeri tiroid menjalar, tirotoksikosis dengan uptake rendah dan tiroglobulin tinggi.
+kw: nyeri leher; pascainfeksi; uptake rendah
+an: Nyeri + uptake rendah + pascainfeksi → De Quervain.
+
+#422 d=1 ty=recall
+ks: Tiroiditis subakut trifasik: tirotoksik → hipotiroid → eutiroid.
+kw: trifasik; urutan
+an: Hormon bocor dulu, simpanan habis, lalu pulih.
+
+#423 d=1 ty=recall
+ks: Nyeri tiroiditis subakut: NSAID lini pertama; kortikosteroid bila berat/tidak respons.
+kw: nyeri tiroid; lini pertama
+an: Inflamasi ringan-sedang → NSAID.
+
+#424 d=2 ty=understanding
+ks: Fase tirotoksik tiroiditis bukan karena produksi berlebih → OAT tidak bermanfaat; β-bloker untuk gejala.
+kw: tidak bermanfaat; fase tirotoksik
+an: OAT menghambat sintesis, padahal masalahnya kebocoran hormon simpanan.
+
+#425 d=2 ty=analysis
+ks: Uptake RAI rendah pada tiroiditis vs tinggi difus pada Graves.
+kw: membedakan tiroiditis dan Graves
+an: Uptake mencerminkan aktivitas produksi kelenjar.
+
+#426 d=2 ty=recall
+ks: Tiroiditis nyeri: subakut, supuratif (akut), radiasi; tanpa nyeri: silent, postpartum, Hashimoto, obat.
+kw: tanpa nyeri; KECUALI
+an: Supuratif (infeksi bakteri) selalu nyeri.
+
+#427 d=1 ty=application
+ks: Goiter nodusa non toksik: nodul dengan fungsi tiroid normal; terkait defisiensi yodium.
+kw: pegunungan; nodul; TSH dan fT4 normal
+an: Nodul + eutiroid → non toksik.
+
+#428 d=1 ty=application
+ks: Goiter difus toksik = pembesaran merata dengan hiperfungsi (Graves).
+kw: difus; eksoftalmus; TSH tertekan
+an: Difus + toksik.
+
+#429 d=1 ty=recall
+ks: Penyebab goiter non toksik: kekurangan yodium kronik.
+kw: goiter non toksik; penyebab
+an: Defisiensi yodium → TSH naik → kelenjar membesar.
+
+#430 d=1 ty=recall
+ks: Paratiroid umumnya 4 (2 superior, 2 inferior) di posterior tiroid, sebesar kacang polong.
+kw: anatomi paratiroid
+an: Hafalkan jumlah dan lokasi.
+
+#431 d=1 ty=understanding
+ks: Kalsium rendah merangsang, kalsium tinggi menghambat sintesis PTH (via CaSR).
+kw: regulasi PTH
+an: Umpan balik negatif.
+
+#432 d=1 ty=recall
+ks: Organ sasaran PTH: ginjal, tulang, usus (tidak langsung via vitamin D).
+kw: organ sasaran PTH
+an: Tiga organ homeostasis kalsium.
+
+#433 d=1 ty=recall
+ks: Regulator kalsium: PTH, vitamin D3 (kalsitriol), kalsitonin.
+kw: hormon pengatur kalsium
+an: Tiga hormon kalsium.
+
+#434 d=2 ty=application
+ks: Hipoparatiroidisme pascatiroidektomi: kesemutan perioral, spasme karpopedal (tetani) akibat hipokalsemia.
+kw: 36 jam pascatiroidektomi; kesemutan; tangan kaku
+an: Paratiroid terganggu saat operasi → hipokalsemia.
+
+#435 d=2 ty=recall
+ks: Hipoparatiroidisme: Ca rendah, fosfat tinggi, fosfatase alkali normal/rendah.
+kw: pola laboratorium
+an: Tanpa PTH, ginjal menahan fosfat.
+
+#436 d=2 ty=application
+ks: Hipokalsemia kronik: QT memanjang dan kalsifikasi ganglia basalis.
+kw: EKG; CT kepala; hipokalsemia kronis
+an: Ca rendah memperpanjang fase plateau.
+
+#437 d=2 ty=application
+ks: Diet hipoparatiroidisme: tinggi kalsium rendah fosfor; hindari susu, produk susu, kuning telur, bayam (sesuai slide).
+kw: diet; hipoparatiroidisme
+an: Fosfat sudah tinggi → batasi fosfor.
+
+#438 d=2 ty=analysis
+ks: Hiperkalsemia non-PTH (metastasis tulang) menekan PTH → disebut hipoparatiroidisme sekunder di slide.
+kw: metastasis tulang; PTH rendah
+an: PTH turun sebagai respons fisiologis terhadap Ca tinggi.
+
+#439 d=2 ty=application
+ks: Hiperparatiroidisme primer: Ca tinggi, fosfat rendah, PTH tinggi; batu ginjal, nyeri tulang, osteoporosis.
+kw: batu ginjal; kalsium tinggi; PTH tinggi
+an: PTH dan Ca sama-sama tinggi → sumber di paratiroid.
+
+#440 d=2 ty=application
+ks: Hiperparatiroidisme sekunder (CKD): PTH tinggi, Ca rendah-normal, fosfat tinggi, vitamin D aktif rendah.
+kw: CKD stadium 4; PTH tinggi; fosfat tinggi
+an: PTH naik sebagai kompensasi hipokalsemia.
+
+#441 d=3 ty=analysis
+ks: Hiperparatiroidisme tersier: sekunder lama → kelenjar otonom, PTH sangat tinggi dengan Ca tinggi.
+kw: hemodialisis 8 tahun; kalsium tinggi; vitamin D dihentikan
+an: Ca tinggi tanpa vitamin D → PTH tidak lagi tertekan (otonom).
+
+#442 d=1 ty=application
+ks: Hiperparatiroidisme primer simtomatik: paratiroidektomi.
+kw: adenoma; tatalaksana definitif
+an: Angkat sumbernya.
+
+#443 d=1 ty=understanding
+ks: Hiperparatiroidisme sekunder/tersier: atasi etiologi (defisiensi vitamin D, CKD).
+kw: kunci terapi
+an: Hilangkan pemicu kompensasi.
+
+#444 d=1 ty=recall
+ks: Diagnosis hiperparatiroidisme: kalsium serum, fosfat serum, PTH.
+kw: menegakkan diagnosis
+an: Trio Ca–P–PTH.
+
+#508 d=2 ty=application
+ks: Hipotiroidisme (goiter akibat defisiensi yodium/goitrogen singkong): terapi sulih levotiroksin.
+kw: singkong; pegunungan; T3 T4 turun
+an: Hormon rendah → sulih hormon.
+
+#568 d=1 ty=application
+ks: Graves: tirotoksikosis + goiter difus + oftalmopati (eksoftalmus).
+kw: eksoftalmus; struma difus; TSH rendah
+an: Trias khas Graves.
