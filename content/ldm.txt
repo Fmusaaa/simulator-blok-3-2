@@ -1,0 +1,384 @@
+#501 d=1 ty=recall
+ks: Sel endokrin pulau Langerhans: α (glukagon), β (insulin + amilin), δ (somatostatin), PP (polipeptida pankreas).
+kw: insulin; dihasilkan oleh
+an: Hafalkan pasangan sel–hormon: β = insulin.
+A: = || Sel δ menyekresi somatostatin. || Somatostatin menghambat insulin dan glukagon, bukan insulin itu sendiri.
+B: = || Sel PP menyekresi polipeptida pankreas. || Hormonnya berbeda.
+C: = || Sel asinar adalah bagian eksokrin yang menyekresi enzim pencernaan. || Bukan sel endokrin penghasil hormon.
+D: = || Sel α menyekresi glukagon. || Glukagon justru menaikkan glukosa darah.
+E*: = || Sel β (±60–70% sel pulau) menyekresi insulin dan amilin. || Insulin menurunkan glukosa darah.
+p: Cara ingat: α = glukagon (naik), β = insulin (turun), δ = somatostatin (rem).
+
+#505 d=2 ty=application
+ks: Diagnosis DM tipe 2: gejala klasik + GDS ≥ 200 mg/dL atau GDP ≥ 126 mg/dL pada dewasa tanpa tanda ketoasidosis.
+kw: polifagia; polidipsia; GDS 326; GDP 136
+an: GDS ≥ 200 + gejala klasik dan GDP ≥ 126 → DM. Dewasa, tanpa ketoasidosis, ada hipertensi/dislipidemia → tipe 2. Hipertensi dan dislipidemia adalah penyerta, bukan diagnosis utama.
+A: = || DM tipe 1: defisiensi insulin absolut, biasanya muda, kurus, rawan ketoasidosis. || Profil pasien (dewasa, sindrom metabolik) tidak sesuai.
+B*: = || Gejala klasik + GDS ≥ 200 dan GDP ≥ 126 mg/dL. || Dua kriteria terpenuhi; dewasa tanpa ketoasidosis → tipe 2.
+C: = || JNC 7: grade II bila ≥ 160/100. || TD 150/90 masih grade I.
+D: = || Sindrom metabolik butuh ≥ 3 kriteria. || Bisa ada, tetapi diagnosis utamanya DM karena GDS/GDP sudah diagnostik.
+E: = || LDL 150 dan TG 170 memang tinggi. || Penyerta, bukan diagnosis utama yang ditanyakan.
+p: Kriteria DM (PERKENI): GDP ≥ 126, GDS ≥ 200 dengan gejala klasik, TTGO 2 jam ≥ 200, atau HbA1c ≥ 6,5% (metode terstandar).
+
+#506 d=1 ty=application
+ks: Prediabetes GDPT: GDP 100–125 mg/dL.
+kw: GDP 118
+an: 118 berada di 100–125 → GDPT (prediabetes). TGT butuh data TTGO.
+A: = || Normal bila GDP < 100 mg/dL. || 118 di atas normal.
+B*: = || GDPT bila GDP 100–125 mg/dL. || 118 berada di rentang ini.
+C: = || Hipoglikemia bila < 70 mg/dL. || Glukosa pasien tinggi.
+D: = || DM butuh GDP ≥ 126 mg/dL. || Belum memenuhi.
+E: = || TGT dinilai dari TTGO 2 jam 140–199 mg/dL. || Data TTGO tidak ada.
+p: Prediabetes = GDPT (GDP 100–125), TGT (TTGO 2 jam 140–199), atau HbA1c 5,7–6,4%.
+
+#507 d=1 ty=recall
+ks: Cut-off diagnosis DM dengan HbA1c ≥ 6,5% (metode terstandar NGSP).
+kw: cut-off HbA1c; diagnosis
+an: Bedakan ambang diagnosis (6,5%) dari target terapi (< 7%) dan batas prediabetes (5,7%).
+A: = || HbA1c < 7% adalah target kendali glikemik umum. || Itu target terapi, bukan kriteria diagnosis.
+B: = || Bukan cut-off baku. || Tidak dipakai dalam kriteria ADA/PERKENI.
+C: = || 5,7% adalah batas bawah prediabetes. || Belum DM.
+D*: = || Kriteria diagnosis DM (NGSP). || Sesuai recall UAM.
+E: = || Target longgar untuk lansia/komorbid berat. || Bukan kriteria diagnosis.
+p: HbA1c mencerminkan rata-rata glukosa 2–3 bulan (umur eritrosit). Tidak akurat pada anemia, hemoglobinopati, transfusi.
+
+#511 d=2 ty=integrated
+ks: Ketoasidosis diabetik menyebabkan asidosis metabolik dengan kompensasi respiratorik (napas Kussmaul).
+kw: Kussmaul; keton positif; pH 7,20; HCO₃⁻ 10; PaCO₂ 25
+an: pH rendah + HCO₃⁻ rendah (searah) → asidosis metabolik primer. PaCO₂ rendah → kompensasi respiratorik (Kussmaul).
+A*: = || pH dan HCO₃⁻ turun; PaCO₂ turun sebagai kompensasi. || Khas ketoasidosis diabetik.
+B: = || Asidosis respiratorik: pH rendah dengan PaCO₂ tinggi. || PaCO₂ pasien justru rendah.
+C: = || Normal bila pH 7,35–7,45. || pH pasien 7,20.
+D: = || Alkalosis metabolik: pH dan HCO₃⁻ tinggi. || Kedua nilai pasien rendah.
+E: = || Alkalosis respiratorik: pH tinggi dengan PaCO₂ rendah. || pH pasien rendah; PaCO₂ rendah adalah kompensasi.
+p: Langkah baca AGD: (1) pH asidosis/alkalosis, (2) PaCO₂ vs HCO₃⁻ mana yang searah dengan pH (penyebab primer), (3) nilai kompensasi.
+
+#565 d=1 ty=application
+ks: TTGO 2 jam ≥ 200 mg/dL memenuhi kriteria diagnosis DM.
+kw: TTGO 2 jam 210; tanpa keluhan
+an: 210 ≥ 200 → DM. Pada pasien tanpa gejala, praktiknya dikonfirmasi dengan pemeriksaan ulang.
+A*: Diabetes melitus || TTGO 2 jam ≥ 200 mg/dL. || Kriteria diagnosis terpenuhi.
+B: Hipoglikemia reaktif pascabeban glukosa || Glukosa rendah setelah makan/beban. || Glukosa pasien tinggi.
+C: Glukosa darah puasa terganggu (GDPT) || Dinilai dari GDP 100–125. || Data yang ada adalah TTGO 2 jam.
+D: Toleransi glukosa normal || TTGO 2 jam < 140. || 210 jauh di atas normal.
+E: Toleransi glukosa terganggu (TGT) || TTGO 2 jam 140–199. || 210 sudah melewati 199.
+p: Kriteria DM: GDP ≥ 126, TTGO 2 jam ≥ 200, GDS ≥ 200 + gejala klasik, atau HbA1c ≥ 6,5%.
+
+#566 d=1 ty=application
+ks: TGT (prediabetes): TTGO 2 jam 140–199 mg/dL dengan GDP bisa normal.
+kw: TTGO 2 jam 165; GDP 95
+an: GDP 95 normal; TTGO 165 di 140–199 → TGT.
+A: DM gestasional || Didiagnosis saat hamil. || Pasien tidak hamil.
+B: Diabetes melitus || Butuh TTGO ≥ 200 atau GDP ≥ 126. || Belum memenuhi.
+C*: TGT (prediabetes) || TTGO 2 jam 140–199 mg/dL. || GDP normal, TTGO terganggu.
+D: Toleransi glukosa normal || TTGO 2 jam < 140 dan GDP < 100. || TTGO pasien 165.
+E: GDPT (glukosa puasa terganggu) || GDP 100–125. || GDP pasien 95, normal.
+p: Prediabetes: GDPT, TGT, atau HbA1c 5,7–6,4%. Intervensi gaya hidup dapat mencegah progresi ke DM.
+
+#567 d=2 ty=application
+ks: Ketoasidosis diabetik pada DM tipe 1: defisiensi insulin absolut → lipolisis → badan keton → asidosis metabolik AG tinggi.
+kw: DM tipe 1; muntah; Kussmaul berbau buah; keton +3
+an: Hiperglikemia + ketonuria berat + napas Kussmaul berbau aseton pada remaja DM tipe 1 = KAD.
+A: Asidosis respiratorik akibat hipoventilasi || pCO₂ naik karena napas dangkal. || Napas pasien cepat dan dalam (Kussmaul).
+B*: Ketoasidosis diabetik (KAD) || Badan keton menumpuk → asidosis AG tinggi. || Napas Kussmaul dan bau aseton khas.
+C: Status hiperglikemik hiperosmolar (HHS) || Khas DM tipe 2 lansia, keton minimal. || Keton pasien +3 dan usia muda.
+D: Hipoglikemia berat level 3 || Glukosa rendah dengan gangguan kesadaran. || Glukosa pasien 520.
+E: Alkalosis metabolik akibat muntah || pH tinggi karena kehilangan HCl. || Keton tinggi dan Kussmaul menunjuk asidosis.
+p: Tata laksana KAD: cairan, insulin intravena, koreksi kalium.
+
+#590 d=1 ty=recall
+ks: Persiapan GDP: puasa minimal 8 jam (air putih boleh).
+kw: persiapan; glukosa darah puasa
+an: Puasa terlalu singkat → hasil tinggi palsu; terlalu lama tanpa minum → dehidrasi/berisiko.
+A: Puasa 24 jam tanpa minum air || Berlebihan dan menyebabkan dehidrasi. || Tidak sesuai syarat baku.
+B: Makan tinggi karbohidrat 1 jam sebelumnya || Membuat hasil postprandial. || Bukan GDP.
+C: Puasa 2 jam sebelum pengambilan || Terlalu singkat. || Masih dipengaruhi makanan.
+D*: Puasa minimal 8 jam, air putih boleh || Syarat baku GDP. || Air putih mencegah hemokonsentrasi.
+E: Tidak perlu persiapan khusus apa pun || Berlaku untuk GDS. || GDP mensyaratkan puasa.
+p: Pemeriksaan trigliserida butuh puasa lebih lama, sekitar 10–12 jam.
+
+#595 d=1 ty=recall
+ks: Definisi DM: kelompok penyakit metabolik dengan hiperglikemia akibat kelainan sekresi insulin, kerja insulin, atau keduanya.
+kw: definisi diabetes melitus
+an: Definisi harus mencakup semua tipe: sekresi (tipe 1), kerja ± sekresi (tipe 2). Pilihan yang hanya menyebut satu mekanisme terlalu sempit.
+A*: Hiperglikemia akibat kelainan sekresi dan/atau kerja insulin || Definisi resmi ADA/PERKENI di slide. || Mencakup tipe 1 (sekresi) dan tipe 2 (kerja ± sekresi).
+B: Penyakit infeksi pankreas yang menyebabkan hiperglikemia || Pankreatitis bisa menyebabkan DM tipe spesifik lain. || Terlalu sempit untuk definisi umum.
+C: Hiperglikemia akibat gangguan sekresi insulin semata || Hanya defek sel β. || Mengabaikan resistensi insulin yang dominan pada tipe 2.
+D: Destruksi autoimun sel β pankreas || Definisi DM tipe 1 autoimun. || Hanya satu subtipe.
+E: Gangguan primer metabolisme lemak yang menimbulkan dislipidemia || Dislipidemia bisa menyertai DM. || Ciri utama DM adalah hiperglikemia.
+p: DM adalah sindrom hiperglikemia kronik. Mekanismenya bisa di "pabrik" (sekresi insulin oleh sel β), di "kunci pintu" (kerja insulin/resistensi), atau keduanya.
+
+#596 d=3 ty=analysis
+ks: MODY (diabetes monogenik) termasuk tipe spesifik lain: onset muda, tidak obes, autoantibodi negatif, pewarisan autosomal dominan.
+kw: hiperglikemia ringan sejak 12 tahun; tiga generasi; autoantibodi negatif
+an: Muda + tidak obes + autoantibodi negatif + diabetes di tiga generasi (autosomal dominan) → MODY, bukan tipe 1 atau 2.
+A*: Tipe spesifik lain: diabetes monogenik (MODY) || Mutasi gen tunggal, autosomal dominan. || Slide memasukkan MODY ke tipe spesifik lain.
+B: DM tipe 1 autoimun || Destruksi sel β dengan autoantibodi positif. || Autoantibodi pasien negatif.
+C: DM tipe 1 idiopatik || Defisiensi insulin absolut tanpa autoimun, sering ketosis. || Pasien hiperglikemia ringan tanpa ketosis.
+D: DM tipe 2 onset muda || Resistensi insulin, umumnya obes. || Tubuh normal dan pola keturunan dominan lebih khas MODY.
+E: DM gestasional || Didiagnosis saat kehamilan. || Pasien remaja tidak hamil.
+p: Klasifikasi etiologi (slide): tipe 1 (autoimun/idiopatik), tipe 2, DM gestasional, dan tipe spesifik lain: monogenik (neonatal, MODY), penyakit eksokrin pankreas (fibrosis kistik, pankreatitis), akibat obat/zat kimia (glukokortikoid, terapi HIV/AIDS, pascatransplantasi).
+
+#597 d=2 ty=application
+ks: DM akibat obat (glukokortikoid pascatransplantasi) termasuk tipe spesifik lain.
+kw: pascatransplantasi; prednison dosis tinggi; GDP 140 dan 152
+an: GDP ≥ 126 dua kali → DM. Ada pencetus jelas (steroid) → tipe spesifik lain akibat obat.
+A*: Tipe spesifik lain: akibat obat/zat kimia || Glukokortikoid meningkatkan glukoneogenesis dan resistensi insulin. || Sesuai slide (glukokortikoid, pascatransplantasi).
+B: DM tipe 1 autoimun onset dewasa || Destruksi autoimun sel β. || Tidak ada bukti autoimun; pencetusnya obat.
+C: DM tipe 2 murni terkait gaya hidup || Resistensi insulin tanpa penyebab spesifik. || Ada penyebab spesifik (steroid).
+D: Prediabetes dengan glukosa puasa terganggu || GDP 100–125 mg/dL. || GDP pasien ≥ 126 dua kali.
+E: DM gestasional || Hanya pada kehamilan. || Pasien laki-laki.
+p: Steroid ibarat "menyuruh hati terus memproduksi gula" sambil membuat otot malas menyerap glukosa.
+
+#598 d=2 ty=application
+ks: DM tipe 1: autoantibodi (GADA, IAA, IA-2A, ZnT8A) positif dan C-peptide rendah.
+kw: anak kurus; BB turun mendadak; Kussmaul
+an: Klinis tipe 1 dengan ketoasidosis → cari bukti autoimun (autoantibodi +) dan cadangan insulin habis (C-peptide rendah).
+A*: GADA positif dengan C-peptide rendah || Bukti destruksi autoimun dan insulin endogen hampir habis. || Khas DM tipe 1.
+B: Autoantibodi negatif dengan C-peptide tinggi || Pola resistensi insulin (tipe 2). || Tidak cocok dengan anak kurus onset mendadak.
+C: HbA1c 5,4% dengan GDP 92 mg/dL || Nilai glikemik normal. || Tidak menjelaskan gejala dan ketoasidosis.
+D: Kadar insulin endogen sangat tinggi || Hiperinsulinemia kompensasi (tipe 2/insulinoma). || Pada tipe 1 insulin endogen rendah.
+E: Glycated albumin rendah tanpa autoantibodi || GA menilai kontrol 2–3 minggu. || Tidak menilai etiologi.
+p: Autoantibodi DM tipe 1 di slide: IAA (insulin autoantibody), GADA, IA-2A, ZnT8A. C-peptide dilepas bersama insulin endogen (1:1) sehingga menggambarkan cadangan insulin, tidak terganggu insulin suntik.
+
+#599 d=2 ty=recall
+ks: Perbedaan DM tipe 1 vs 2 (tabel slide): konkordansi kembar identik tipe 1 ±50%, tipe 2 ±90%.
+kw: KECUALI; konkordansi kembar
+an: Cari pernyataan dengan angka tertukar: tipe 2 justru lebih genetik (90%).
+A*: Konkordansi kembar tipe 1 90%, tipe 2 50% || Angka tertukar dari tabel slide. || Pernyataan salah, jadi inilah jawabannya.
+B: Ketoasidosis sering pada tipe 1, jarang pada tipe 2 || Sesuai tabel. || Pernyataan benar.
+C: Autoantibodi biasanya ada pada tipe 1, tidak pada tipe 2 || Sesuai tabel. || Pernyataan benar.
+D: Insulin endogen tipe 2 bisa normal, turun, atau naik || Sesuai tabel. || Pernyataan benar.
+E: Tipe 2 meliputi ±90–95% penderita diabetes di AS || Sesuai tabel. || Pernyataan benar.
+p: Paradoks yang sering ditanyakan: tipe 2 justru lebih "genetik" (konkordansi kembar 90%) walau dipicu gaya hidup, sedangkan tipe 1 butuh pemicu lingkungan tambahan (konkordansi 50%).
+
+#600 d=2 ty=application
+ks: Interpretasi kriteria glikemik (ADA 2025/PERKENI 2021): GDP 100–125, TTGO 140–199, HbA1c 5,7–6,4% = prediabetes.
+kw: GDP 118; TTGO 160; HbA1c 6,1%
+an: Ketiganya di rentang prediabetes; GDP dan TTGO sama-sama terganggu → GDPT + TGT.
+A*: Prediabetes (GDPT dan TGT) || Semua nilai berada di rentang prediabetes. || GDP 100–125, TTGO 140–199, HbA1c 5,7–6,4%.
+B: Toleransi glukosa normal || GDP < 100, TTGO < 140, HbA1c < 5,7%. || Semua nilai pasien di atas normal.
+C: Diabetes melitus || GDP ≥ 126, TTGO ≥ 200, atau HbA1c ≥ 6,5%. || Tidak ada nilai yang mencapai ambang DM.
+D: Prediabetes bentuk GDPT saja || Hanya GDP yang terganggu. || TTGO 160 juga terganggu (TGT).
+E: DM gestasional || Didiagnosis saat hamil. || Pasien laki-laki.
+p: Tabel kriteria slide (ADA 2025/PERKENI 2021): GDP < 100 / 100–125 / ≥ 126; GD2PP < 140 / 140–199 / ≥ 200; HbA1c < 5,7 / 5,7–6,4 / ≥ 6,5%; GDS ≥ 200 + gejala klasik.
+
+#601 d=2 ty=application
+ks: Satu parameter yang memenuhi kriteria DM menentukan diagnosis (kategori terburuk).
+kw: GDP 108; TTGO 214
+an: GDP di rentang GDPT, tetapi TTGO ≥ 200 → DM. Ambil kategori tertinggi.
+A*: Diabetes melitus || TTGO 2 jam ≥ 200 mg/dL. || Satu kriteria DM terpenuhi menentukan kategori tertinggi.
+B: Prediabetes bentuk GDPT saja || GDP 100–125. || Mengabaikan TTGO yang sudah ≥ 200.
+C: Prediabetes bentuk TGT saja || TTGO 140–199. || TTGO pasien sudah 214.
+D: Toleransi glukosa normal || Semua nilai normal. || Kedua nilai abnormal.
+E: Tidak bisa disimpulkan karena hasilnya tidak searah || Tiap parameter dinilai sendiri. || Kategori terburuk yang menentukan.
+p: GDP sering masih "menutupi" DM karena resistensi insulin perifer (otot) lebih dulu muncul daripada resistensi hepar. TTGO membuka kedok ini.
+
+#602 d=2 ty=application
+ks: Diagnosis DM wajib dari plasma vena di laboratorium; GDS ≥ 200 hanya diagnostik bila disertai gejala klasik; POCT kapiler untuk skrining.
+kw: tanpa keluhan; glukometer kapiler; GDS 230
+an: Dua syarat belum terpenuhi: tidak ada gejala klasik dan spesimennya kapiler. Jadi hasil ini skrining positif yang harus dikonfirmasi.
+A*: Belum diagnosis DM; konfirmasi plasma vena di laboratorium || GDP, TTGO, atau HbA1c dengan metode standar. || GDS ≥ 200 tanpa gejala dari kapiler hanya skrining.
+B: Langsung didiagnosis DM karena GDS ≥ 200 mg/dL || Berlaku bila ada gejala klasik dan spesimen vena. || Kedua syarat tidak terpenuhi.
+C: Dinyatakan normal karena pasien tidak berkeluhan || Mengabaikan hasil abnormal. || Hasil skrining positif harus ditindaklanjuti.
+D: Didiagnosis prediabetes dari GDS tersebut || Prediabetes tidak dinilai dari GDS. || Kategori keliru.
+E: Langsung dimulai terapi insulin basal || Terapi tanpa diagnosis tegak. || Tidak tepat.
+p: Slide: diagnosis DM WAJIB memakai plasma vena di laboratorium standar; darah kapiler utuh (POCT) hanya untuk skrining massal atau pemantauan mandiri.
+
+#603 d=3 ty=understanding
+ks: IFG mencerminkan resistensi insulin hepar (puasa); IGT mencerminkan resistensi insulin perifer/otot (postprandial).
+kw: IFG; IGT; mekanisme
+an: Saat puasa, glukosa ditentukan produksi hati; setelah beban glukosa, ditentukan ambilan otot.
+A*: IFG – resistensi hepar; IGT – resistensi otot || Puasa = produksi hati; pascabeban = ambilan otot. || Sesuai slide.
+B: IFG – resistensi otot; IGT – resistensi hepar || Pasangan tertukar. || Tidak sesuai fisiologi puasa vs postprandial.
+C: IFG – destruksi sel β; IGT – destruksi sel α || Bukan mekanisme prediabetes. || Pernyataan keliru.
+D: IFG – defisiensi insulin absolut; IGT – glukagon berlebih || Bukan mekanisme yang disebut slide. || Pernyataan keliru.
+E: IFG dan IGT sama-sama mencerminkan gangguan ginjal || Ginjal bukan penentu utama keduanya. || Pernyataan keliru.
+p: Analogi: saat puasa, hati adalah "keran" glukosa; IFG = keran bocor (hati resisten). Setelah makan, otot adalah "spons" penyerap; IGT = spons tidak menyerap (otot resisten). Progresivitas prediabetes ke DM tipe 2 sekitar 5–10% per tahun.
+
+#604 d=3 ty=analysis
+ks: Glukosa kapiler postprandial 20–70 mg/dL lebih tinggi dari vena karena ambilan jaringan; saat puasa hampir sama.
+kw: kapiler 235; vena 185; 2 jam setelah makan
+an: Darah kapiler mendekati arteri; dalam perjalanan ke vena, jaringan menyerap glukosa. Selisih 50 mg/dL postprandial masih fisiologis.
+A*: Kapiler postprandial memang 20–70 mg/dL lebih tinggi || Jaringan menyerap glukosa sebelum darah mencapai vena. || Sesuai tabel vena vs kapiler di slide.
+B: Glukometer pasien pasti rusak dan harus diganti || Selisih ini fisiologis. || Tidak ada dasar menyimpulkan kerusakan alat.
+C: Plasma vena selalu lebih tinggi dari kapiler || Terbalik pada keadaan postprandial. || Saat puasa hampir sama; postprandial kapiler lebih tinggi.
+D: Selisih karena pasien belum puasa 8 jam || Pemeriksaan memang postprandial. || Bukan penjelasan selisih vena–kapiler.
+E: Glukosa kapiler tidak dipengaruhi hematokrit dan suhu || Slide: POCT dipengaruhi hematokrit, perfusi, suhu. || Pernyataan keliru.
+p: Tabel slide: puasa, kapiler sama atau sekitar 2–5 mg/dL lebih rendah dari plasma; post-prandial, kapiler 20–70 mg/dL lebih tinggi. Plasma vena: presisi tinggi (CV < 2%), gold standard diagnosis.
+
+#605 d=1 ty=recall
+ks: Persiapan GDP: puasa tanpa kalori 8–12 jam, air putih boleh, sampel pagi 07.00–09.00.
+kw: persiapan pasien; glukosa darah puasa
+an: Air putih mencegah hemokonsentrasi; pagi hari meminimalkan variasi sirkadian kortisol.
+A*: Puasa 8–12 jam, air putih boleh, ambil pagi hari || Pukul 07.00–09.00. || Sesuai slide.
+B: Puasa 4 jam, boleh minum teh manis || Masih ada asupan kalori. || Puasa terlalu singkat dan teh manis mengandung gula.
+C: Puasa 24 jam tanpa minum sama sekali || Dehidrasi menyebabkan hemokonsentrasi. || Berlebihan; puasa > 12 jam tidak dianjurkan.
+D: Puasa 8 jam, darah diambil sore hari || Variasi sirkadian kortisol. || Slide menganjurkan pagi.
+E: Tidak perlu puasa sebelum pengambilan || Berlaku untuk GDS. || GDP mensyaratkan puasa.
+p: Kortisol adalah hormon kontra-insulin dengan puncak pagi. Pengambilan sampel pada jam yang konsisten membuat hasil bisa dibandingkan.
+
+#606 d=2 ty=application
+ks: Protokol TTGO: pasien istirahat selama 2 jam, tidak merokok dan tidak beraktivitas fisik.
+kw: merokok; berjalan-jalan; menunggu 2 jam
+an: Semua langkah lain sesuai protokol (puasa 10 jam, 75 g dalam 250 mL, < 5 menit). Kesalahannya hanya aktivitas selama menunggu.
+A*: Merokok dan aktivitas fisik selama 2 jam menunggu || Rokok (stres simpatis) dan olahraga (ambilan otot) mengubah glukosa. || Slide: pasien istirahat, tidak merokok atau berolahraga.
+B: Glukosa dilarutkan dalam 250 mL air || Protokol 250–300 mL. || Sudah sesuai.
+C: Larutan glukosa diminum habis dalam 3 menit || Protokol < 5 menit. || Sudah sesuai.
+D: Pasien berpuasa 10 jam sebelum tes || Protokol 8–12 jam. || Sudah sesuai.
+E: Beban yang dipakai 75 g glukosa anhidrat || Sesuai protokol dewasa. || Sudah sesuai.
+p: Protokol TTGO slide: (1) diet karbohidrat cukup ≥ 150 g/hari selama 3 hari; (2) puasa 8–12 jam, ambil GDP; (3) 75 g glukosa anhidrat dalam 250–300 mL air, habis < 5 menit; (4) istirahat 2 jam tanpa merokok/olahraga, ambil GD2PP. Indikasi: kasus borderline, skrining DMG, evaluasi riwayat prediabetes.
+
+#607 d=3 ty=analysis
+ks: Persiapan TTGO: diet karbohidrat ≥ 150 g/hari selama 3 hari; diet rendah karbohidrat dapat memberi hasil positif palsu.
+kw: diet ±50 g karbohidrat/hari; 3 hari terakhir
+an: Syarat persiapan tidak terpenuhi. Sel β yang "beristirahat" merespons lambat terhadap beban 75 g → glukosa 2 jam tinggi palsu → tunda dan ulang.
+A*: Bisa positif palsu karena syarat karbohidrat tidak terpenuhi || Slide: diet karbohidrat ≥ 150 g/hari selama 3 hari. || Respons insulin terhadap beban glukosa menurun.
+B: Hasil pasti lebih rendah dari sebenarnya || Arah efek terbalik. || Toleransi glukosa justru tampak lebih buruk.
+C: Tidak berpengaruh asalkan pasien tetap berpuasa || Persiapan 3 hari termasuk syarat protokol. || Pernyataan keliru.
+D: Hanya memengaruhi hasil HbA1c pasien || HbA1c mencerminkan 2–3 bulan. || Diet 3 hari tidak mengubah HbA1c bermakna.
+E: TTGO menjadi tidak perlu dilakukan sama sekali || Tes tetap diperlukan. || Seharusnya ditunda dan diulang dengan persiapan benar.
+p: Analogi: pabrik insulin yang tiga hari "libur" karena jarang ada gula akan kaget saat tiba-tiba datang 75 g glukosa, sehingga responnya lambat.
+
+#608 d=2 ty=understanding
+ks: HbA1c: glikasi non-enzimatik ireversibel glukosa pada valin N-terminal rantai β HbA0 selama umur eritrosit (±120 hari).
+kw: pembentukan HbA1c
+an: Kata kunci: non-enzimatik, rantai β, ireversibel, umur eritrosit. Pilihan yang menyebut enzim, rantai α, albumin, atau HbF keliru.
+A*: Glikasi non-enzimatik valin rantai β HbA0, ireversibel || Basa Schiff (reversibel) → produk Amadori (stabil). || Sesuai slide; terbentuk selama ±120 hari.
+B: Reaksi enzimatik reversibel yang mencerminkan 1 hari terakhir || Glikasi tidak memakai enzim. || Pernyataan keliru.
+C: Ikatan glukosa dengan rantai α Hb yang mencerminkan 24 jam || HbA1c di valin N-terminal rantai β. || Rantai dan rentang waktu keliru.
+D: Ikatan glukosa dengan albumin yang mencerminkan 2–3 minggu || Itu glycated albumin. || Bukan HbA1c.
+E: Ikatan glukosa dengan HbF yang mencerminkan 1 tahun || HbA1c dari HbA0 dewasa. || Pernyataan keliru.
+p: Analogi: glukosa seperti "gula yang menempel" di eritrosit dan tidak bisa dicuci. Makin lama dan makin tinggi kadar gula, makin banyak yang menempel, sampai eritrosit dibuang (± 120 hari).
+
+#609 d=2 ty=application
+ks: HbA1c tidak andal bila umur eritrosit berubah (anemia, hemoglobinopati, transfusi, CKD) → pakai glycated albumin.
+kw: talasemia β mayor; transfusi tiap 4 minggu; pemantauan glikemik
+an: Transfusi rutin mengganti eritrosit pasien → HbA1c tidak menggambarkan glikemia. Albumin tidak bergantung eritrosit → GA.
+A*: Glycated albumin (GA) || Glikasi albumin tidak bergantung umur eritrosit; menggambarkan 2–3 minggu. || Slide menyarankan GA bila HbA1c tidak dapat dipakai.
+B: HbA1c tetap diperiksa setiap 3 bulan || Tidak andal pada hemoglobinopati dan transfusi. || Slide menyebut HbA1c tidak dapat dipakai pada kondisi ini.
+C: C-peptide serum puasa || Menilai cadangan insulin endogen. || Bukan penanda kontrol glikemik.
+D: Autoantibodi GADA || Menilai etiologi autoimun. || Bukan alat pemantauan.
+E: Kolesterol total dan trigliserida || Profil lipid. || Tidak menilai glikemik.
+p: Slide: HbA1c tidak dapat dipakai pada anemia, hemoglobinopati, riwayat transfusi 2–3 bulan terakhir, keadaan yang memengaruhi umur eritrosit, dan gangguan fungsi ginjal. Alternatifnya glycated albumin (atau fruktosamin).
+
+#610 d=1 ty=recall
+ks: HbA1c diperiksa tiap 3 bulan (stabil: minimal 2×/tahun); glukosa darah minimal sebulan sekali.
+kw: frekuensi pemeriksaan HbA1c; ganti terapi
+an: HbA1c merekam ±3 bulan, jadi efek terapi baru dinilai setelah ±3 bulan.
+A*: Setiap 3 bulan; bila stabil minimal 2× setahun || HbA1c menggambarkan 8–12 minggu terakhir. || Sesuai slide.
+B: Setiap minggu sampai target tercapai || Terlalu sering. || HbA1c belum berubah bermakna dalam seminggu.
+C: Setiap bulan seperti glukosa darah || Frekuensi itu untuk glukosa darah. || Bukan frekuensi HbA1c.
+D: Setahun sekali walau terapi baru diganti || Terlalu jarang untuk evaluasi terapi. || Tidak sesuai slide.
+E: Cukup sekali saat diagnosis ditegakkan || HbA1c alat pemantauan berkala. || Pernyataan keliru.
+p: Karena HbA1c merekam rata-rata glukosa ± 3 bulan, memeriksanya lebih sering tidak memberi informasi baru.
+
+#611 d=2 ty=recall
+ks: UKPDS 35: setiap penurunan HbA1c 1% menurunkan risiko amputasi/PAD fatal 43%, mikrovaskular 37%, kematian terkait DM 21%, infark 14%, stroke 12%.
+kw: UKPDS 35; penurunan risiko terbesar
+an: Urutan angka 43 > 37 > 21 > 14 > 12; yang terbesar adalah amputasi/PAD fatal.
+A*: Amputasi atau penyakit pembuluh darah tepi fatal (43%) || Angka tertinggi di slide. || Penurunan risiko terbesar.
+B: Komplikasi mikrovaskular (37%) || Angka kedua tertinggi. || Bukan yang terbesar.
+C: Kematian terkait diabetes (21%) || Sesuai slide. || Lebih kecil dari 43%.
+D: Infark miokard (14%) || Sesuai slide. || Lebih kecil dari 43%.
+E: Stroke (12%) || Angka terkecil di slide. || Bukan yang terbesar.
+p: UKPDS 35 (Stratton dkk, BMJ 2000): HbA1c turun 1% → kematian terkait DM −21%, mikrovaskular −37%, infark −14%, amputasi/PAD fatal −43%, stroke −12%.
+
+#612 d=2 ty=application
+ks: Sasaran pengendalian DM (PERKENI): kapiler preprandial 80–130, postprandial < 180, HbA1c < 7%, TD < 140/90, IMT 18,5–22,9.
+kw: sasaran tercapai; KECUALI
+an: Bandingkan tiap nilai ke target. Postprandial 210 > 180 → belum tercapai.
+A*: Glukosa kapiler 2 jam setelah makan 210 mg/dL || Sasaran postprandial < 180 mg/dL. || Belum tercapai, jadi inilah jawabannya.
+B: HbA1c 6,8% || Sasaran < 7% atau individual. || Sudah tercapai.
+C: Glukosa kapiler sebelum makan 110 mg/dL || Sasaran 80–130 mg/dL. || Sudah tercapai.
+D: Tekanan darah 132/84 mmHg || Sasaran < 140/< 90 mmHg. || Sudah tercapai.
+E: IMT 22 kg/m² || Sasaran 18,5–22,9 kg/m². || Sudah tercapai.
+p: Sasaran slide: IMT 18,5–22,9; TD < 140/< 90; HbA1c < 7% atau individual; kapiler puasa/sebelum makan 80–130; 1–2 jam setelah makan < 180; LDL < 100 (< 70 bila risiko tinggi PKV); TG < 150; Apo-B < 90.
+
+#613 d=2 ty=application
+ks: Sasaran lipid DM: LDL < 100 mg/dL (umum), < 70 mg/dL bila risiko tinggi PKV; Apo-B < 90 mg/dL.
+kw: riwayat infark miokard; target LDL dan Apo-B
+an: Riwayat infark = risiko tinggi → target paling ketat LDL < 70 dan Apo-B < 90.
+A*: LDL < 70 mg/dL dan Apo-B < 90 mg/dL || Target ketat untuk risiko tinggi PKV. || Sesuai tabel slide.
+B: LDL < 100 mg/dL dan Apo-B < 90 mg/dL || Target LDL umum tanpa risiko tinggi. || Pasien risiko tinggi butuh LDL < 70.
+C: LDL < 130 mg/dL dan Apo-B < 120 mg/dL || Terlalu longgar. || Tidak sesuai tabel.
+D: LDL < 160 mg/dL tanpa target Apo-B || Ambang LDL "tinggi" pada klasifikasi. || Bukan target terapi.
+E: LDL < 100 mg/dL dan Apo-B < 150 mg/dL || Target Apo-B terlalu longgar. || Slide: Apo-B < 90.
+p: Apo-B adalah protein pada setiap partikel aterogenik (LDL, VLDL, IDL); semakin banyak Apo-B, semakin banyak "truk" pembawa kolesterol ke dinding arteri.
+
+#614 d=3 ty=integrated
+ks: HHS: glukosa > 600, pH > 7,30, HCO₃⁻ > 18, keton minimal, osmolalitas efektif > 320 mOsm/kg.
+kw: lansia DM tipe 2; diare 5 hari; glukosa 760; pH 7,35
+an: Hitung osmolalitas efektif = 2 × 146 + 760/18 ≈ 334 (> 320). pH dan HCO₃⁻ normal, keton sedikit → HHS, bukan KAD.
+A*: Status hiperglikemik hiperosmolar (HHS) || Osmolalitas efektif ≈ 334 mOsm/kg. || Semua kriteria HHS terpenuhi.
+B: Ketoasidosis diabetik derajat ringan || pH 7,25–7,30, HCO₃⁻ 15–18, keton positif. || pH dan HCO₃⁻ pasien normal.
+C: Ketoasidosis diabetik derajat berat || pH < 7,00, HCO₃⁻ < 10. || Tidak sesuai data.
+D: Hipoglikemia level 3 dengan penurunan kesadaran || Glukosa rendah. || Glukosa pasien 760.
+E: Asidosis laktat akibat dehidrasi berat || pH rendah dengan laktat tinggi. || pH pasien 7,35 (normal).
+p: HHS khas pada lansia DM tipe 2 dengan dehidrasi berat. Insulin masih cukup untuk mencegah ketosis berat, tetapi tidak cukup mencegah hiperglikemia ekstrem.
+
+#615 d=3 ty=analysis
+ks: Derajat KAD (ADA 2009 di slide): ringan pH 7,25–7,30/HCO₃⁻ 15–18/sadar; sedang 7,00–7,24/10–15/sadar–mengantuk; berat < 7,00/< 10/stupor–koma.
+kw: pH 7,12; HCO₃⁻ 12; mengantuk; AG 22
+an: pH 7,12 dan HCO₃⁻ 12 masuk rentang sedang; status mental mengantuk tapi bisa diajak bicara juga sesuai sedang.
+A*: Ketoasidosis diabetik derajat sedang || pH 7,00–7,24, HCO₃⁻ 10–15, mengantuk. || AG = 134 − (100 + 12) = 22.
+B: Ketoasidosis diabetik derajat ringan || pH 7,25–7,30, HCO₃⁻ 15–18, sadar. || pH dan HCO₃⁻ pasien lebih rendah.
+C: Ketoasidosis diabetik derajat berat || pH < 7,00, HCO₃⁻ < 10, stupor/koma. || Pasien belum memenuhi kriteria berat.
+D: Status hiperglikemik hiperosmolar || Glukosa > 600, pH > 7,30, keton minimal. || Pasien asidosis dengan keton positif.
+E: Hipoglikemia level 2 || Glukosa < 54 mg/dL. || Glukosa pasien 420.
+p: Tabel DKA vs HHS (Kitabchi, ADA 2009) di slide. Keton diperiksa dengan reaksi nitroprusida. Anion gap = Na − (Cl + HCO₃).
+
+#616 d=2 ty=application
+ks: Klasifikasi hipoglikemia ADA: level 1 54–69 mg/dL; level 2 < 54 mg/dL; level 3 butuh bantuan orang lain (tanpa ambang angka).
+kw: sulfonilurea; glukosa 50; masih bisa menolong diri
+an: Angka < 54 → level 2. Pasien masih mandiri sehingga bukan level 3.
+A*: Hipoglikemia level 2 || Glukosa < 54 mg/dL. || Angka menentukan level 2 walau pasien masih mandiri.
+B: Hipoglikemia level 1 || Glukosa 54–69 mg/dL. || Nilai pasien di bawah 54.
+C: Hipoglikemia level 3 || Butuh bantuan orang lain karena gangguan kognitif berat. || Pasien masih bisa menolong diri sendiri.
+D: Masih normoglikemia || Glukosa ≥ 70 mg/dL. || Nilai pasien 50.
+E: Respons hiperglikemia reaktif || Bukan istilah klasifikasi ADA. || Glukosa pasien rendah.
+p: Level 1 dan 2 ditentukan oleh angka; level 3 ditentukan oleh klinis (butuh bantuan orang lain), berapa pun angkanya.
+
+#617 d=2 ty=application
+ks: Hipoglikemia level 3 didefinisikan secara fungsional: gangguan mental/fisik berat yang membutuhkan bantuan orang lain.
+kw: bingung; tidak bisa makan sendiri; dibantu keluarga
+an: Butuh bantuan orang lain → level 3, walau angka setelah diberi gula 58 mg/dL.
+A*: Hipoglikemia level 3 || Ditentukan gangguan berat yang butuh bantuan orang lain. || Level 3 tidak memakai ambang angka.
+B: Hipoglikemia level 1 karena glukosa 58 mg/dL || Hanya melihat angka. || Mengabaikan kriteria klinis level 3.
+C: Hipoglikemia level 2 || Glukosa < 54 mg/dL. || Kriteria klinis lebih menentukan.
+D: Bukan hipoglikemia karena sudah diberi gula || Episode tetap dinilai saat kejadian. || Ada neuroglikopenia yang butuh bantuan.
+E: Status hiperglikemik hiperosmolar || Glukosa > 600 mg/dL. || Glukosa pasien rendah.
+p: Glukosa yang diukur setelah diberi gula bisa "menyamarkan" beratnya episode. Yang dinilai adalah kondisi saat episode: butuh bantuan orang lain.
+
+#618 d=1 ty=recall
+ks: Komplikasi mikrovaskular DM: retinopati, nefropati, neuropati; makrovaskular: PJK, stroke, penyakit arteri perifer/amputasi.
+kw: komplikasi mikrovaskular
+an: Mikro = pembuluh kecil (mata, ginjal, saraf). Jantung, otak, tungkai = makro.
+A*: Retinopati, nefropati, dan neuropati || Kerusakan pembuluh darah kecil. || Sesuai gambar komplikasi di slide.
+B: Penyakit jantung koroner dan stroke || Komplikasi makrovaskular (±65% kematian terkait DM). || Bukan mikrovaskular.
+C: Amputasi tungkai non-traumatik || Slide menempatkannya di sisi makrovaskular. || Bukan mikrovaskular menurut slide.
+D: Penyakit arteri perifer tungkai bawah || Komplikasi makrovaskular. || Bukan mikrovaskular.
+E: Hipertensi esensial dan dislipidemia || Faktor risiko/penyerta. || Bukan komplikasi mikrovaskular.
+p: Slide: retinopati penyebab kebutaan baru usia 20–74 tahun; DM penyebab utama gagal ginjal (44% kasus baru 2002); 60–70% pasien mengalami kerusakan saraf.
+
+#619 d=2 ty=application
+ks: C-peptide menilai cadangan insulin endogen karena dilepas setara insulin dan tidak terdapat pada insulin suntik.
+kw: sudah mendapat insulin suntik; sisa fungsi sel β
+an: Insulin serum ikut terukur dari suntikan; C-peptide murni dari tubuh sendiri.
+A*: C-peptide serum || Dilepas setara insulin endogen; tidak ada di insulin suntik. || Slide memasukkan C-peptide sebagai penilai cadangan insulin.
+B: Kadar insulin serum || Ikut terukur dari insulin eksogen. || Tidak membedakan endogen dan suntik.
+C: HbA1c tiap tiga bulan || Kontrol glikemik jangka menengah. || Tidak menilai sel β.
+D: Glukosa darah sewaktu kapiler || Nilai sesaat. || Tidak menilai sel β.
+E: Fruktosamin serum || Kontrol glikemik 2–3 minggu. || Tidak menilai sel β.
+p: Proinsulin dipecah menjadi insulin + C-peptide dalam jumlah setara. Insulin suntik tidak mengandung C-peptide, jadi C-peptide murni menggambarkan produksi tubuh sendiri.
+
+#620 d=1 ty=recall
+ks: Epidemiologi DM (IDF Diabetes Atlas ed. 11, 2025): 589 juta (2024) menjadi 853 juta (2050).
+kw: IDF Diabetes Atlas ed. 11; 2024; 2050
+an: Ingat angka edisi terbaru di slide: 589 → 853 juta; angka 463 dan 537 juta dari edisi lama.
+A*: 589 juta (2024) menjadi 853 juta (2050) || Angka di slide pendahuluan. || Sesuai IDF edisi 11.
+B: 463 juta (2019) menjadi 700 juta (2045) || Angka IDF edisi 9. || Bukan angka slide.
+C: 537 juta (2021) menjadi 783 juta (2045) || Angka IDF edisi 10. || Bukan angka slide.
+D: 853 juta (2024) menjadi 589 juta (2050) || Angka tertukar. || Tren justru meningkat.
+E: 20 juta (2024) menjadi 35 juta (2050) || Angka kasus kanker baru (Globocan). || Bukan data DM.
+p: Slide juga menekankan bahwa sebagian besar pasien tidak sadar menderita DM sehingga datang dengan komplikasi, dan biaya terbesar adalah perawatan komplikasi.

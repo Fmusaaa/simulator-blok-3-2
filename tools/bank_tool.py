@@ -32,7 +32,7 @@ BANK = os.path.join(ROOT, 'data', 'bank.json')
 LOCKED = {'asli', 'rekon', 'slide'}
 TYPES = {'recall', 'understanding', 'application', 'analysis', 'integrated'}
 ABSOLUTE = re.compile(r'\b(selalu|tidak pernah|pasti|semua|satu-satunya|always|never|only)\b', re.I)
-strip = lambda s: re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', s or '')).strip()
+strip = lambda s: re.sub(r'\s+', ' ', re.sub(r'<[a-zA-Z/][^>]*>', ' ', s or '')).strip()
 
 
 def load():

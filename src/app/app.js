@@ -17,7 +17,7 @@ const CONF={y:"Yakin",c:"Cukup yakin",g:"Menebak"};
 const TAGL={asli:"SOAL ASLI · recall UAM 3.2",rekon:"Direkonstruksi",prediksi:"Prediksi",baru:"Soal baru",slide:"Contoh soal slide dosen"};
 const $=id=>document.getElementById(id);
 const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const strip=s=>String(s||"").replace(/<[^>]+>/g," ").replace(/\s+/g," ").trim();
+const strip=s=>String(s||"").replace(/<[a-zA-Z\/][^>]*>/g," ").replace(/\s+/g," ").trim();
 const pc=(a,b)=>b?Math.round(a/b*100):0;
 const shuffle=a=>{for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));const t=a[i];a[i]=a[j];a[j]=t;}return a;};
 const fmt=s=>{s=Math.max(0,Math.round(s));const h=Math.floor(s/3600),m=Math.floor(s%3600/60),x=s%60;return (h?h+":":"")+String(m).padStart(2,"0")+":"+String(x).padStart(2,"0");};
