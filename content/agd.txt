@@ -1,0 +1,385 @@
+#21 d=1 ty=recall
+ks: Definisi dan kegunaan analisis gas darah arteri (AGD).
+kw: analisis gas darah arteri; standar baku
+an: AGD mengukur pH, pCO₂, pO₂, HCO₃⁻, BE, dan SaO₂, sehingga menilai tiga hal sekaligus: asam basa, ventilasi (pCO₂), dan oksigenasi (pO₂).
+A: Status gizi dan cadangan protein pasien || Dinilai dengan antropometri, albumin, prealbumin. || AGD tidak memuat parameter status gizi.
+B: Kadar glukosa dan keton dalam darah || Diukur dengan kimia darah/glukometer. || Sebagian alat AGD memiliki modul glukosa, tetapi itu bukan tujuan baku AGD.
+C*: Status asam basa, ventilasi, dan oksigenasi || pH/HCO₃⁻/BE = asam basa; pCO₂ = ventilasi; pO₂/SaO₂ = oksigenasi. || Sesuai definisi slide: AGD arteri adalah standar baku untuk ketiganya.
+D: Jumlah dan jenis sel darah tepi || Diukur dengan hitung darah lengkap (hematologi). || Bukan parameter yang diukur alat AGD.
+E: Fungsi hemostasis dan pembekuan darah || Dinilai dengan PT, APTT, fibrinogen. || AGD justru memakai antikoagulan; tidak menilai pembekuan.
+p: Indikasi AGD: menegakkan diagnosis (gagal napas, hiperventilasi, asidosis/alkalosis), menilai beratnya kondisi, monitoring terapi.
+
+#22 d=2 ty=application
+ks: Parameter AGD penanda kondisi berat: PaO₂ < 8 kPa (60 mmHg), PaCO₂ meningkat, BE < −10 atau HCO₃⁻ < 15, pH < 7,25.
+kw: sesak berat; pH 7,18; PaO₂ 52; BE −12
+an: Cocokkan nilai pasien dengan ambang slide: PaO₂ 52 < 60, pCO₂ 58 naik, BE −12 < −10 dan HCO₃⁻ 14 < 15, pH 7,18 < 7,25 → keempatnya terpenuhi.
+A: HCO₃⁻ masih dalam rentang 22–26 mmol/L || Rentang normal bikarbonat. || HCO₃⁻ pasien 14; lagi pula nilai normal bukan penanda berat.
+B*: PaO₂ < 60 mmHg, PaCO₂ naik, BE < −10, pH < 7,25 || Empat kriteria beratnya kondisi di slide. || Semua terpenuhi pada pasien (PaO₂ 52, pCO₂ 58, BE −12, pH 7,18).
+C: pH masih dalam rentang 7,35–7,45 || Rentang pH normal. || pH pasien 7,18; nilai normal tidak menandakan beratnya kondisi.
+D: BE masih dalam rentang −2 sampai +2 || Rentang normal base excess. || BE pasien −12; normal bukan kriteria berat.
+E: PaO₂ di atas 100 mmHg (hiperoksemia) || Biasanya akibat terapi O₂ berlebihan. || Bukan kriteria berat dan tidak sesuai PaO₂ pasien 52.
+p: 8 kPa ≈ 60 mmHg. H⁺ > 55 nmol/L setara pH < 7,25.
+
+#23 d=1 ty=understanding
+ks: Uji Allen menilai sirkulasi kolateral arteri ulnaris sebelum pungsi arteri radialis.
+kw: tekan radialis dan ulnaris; telapak pucat; lepas ulnaris
+an: Prosedur menekan dua arteri lalu melepas ulnaris dan menilai kembalinya warna = uji Allen. Tujuannya keamanan: bila radialis cedera, tangan tetap diperdarahi ulnaris.
+A: Menilai fragilitas kapiler dengan bendungan || Uji Rumple-Leede: manset dipompa, dihitung petekie. || Prosedurnya berbeda dan tujuannya menilai kapiler, bukan kolateral arteri.
+B: Menilai refleks vasomotor saraf perifer || Pemeriksaan neurologis/otonom. || Uji ini menilai aliran darah, bukan refleks.
+C*: Menilai kolateral arteri ulnaris (uji Allen) || Warna kembali < 5–15 detik setelah ulnaris dilepas = kolateral baik. || Kolateral tidak adekuat adalah kontraindikasi pungsi radialis.
+D: Menentukan golongan darah sebelum transfusi || Pemeriksaan serologi (ABO/Rh). || Tidak ada hubungannya dengan manuver tangan.
+E: Menilai kekuatan genggam otot tangan || Pemeriksaan motorik (dinamometer). || Mengepal hanya untuk mengosongkan darah telapak, bukan mengukur kekuatan.
+p: Cara: tekan arteri radialis dan ulnaris, pasien mengepal lalu membuka (telapak pucat), lepaskan ulnaris; warna kembali < 5–15 detik = kolateral baik.
+
+#24 d=2 ty=understanding
+ks: Kontraindikasi pungsi arteri: antikoagulan dosis sedang–tinggi/gangguan pembekuan, kolateral tidak adekuat, infeksi/lesi lokasi tusukan, lokasi pascaoperasi.
+kw: kontraindikasi; pengambilan darah arteri
+an: Bedakan indikasi (gagal napas, KAD, ventilator, terapi O₂) dari kontraindikasi (risiko perdarahan/iskemia). Hanya antikoagulan yang meningkatkan risiko komplikasi.
+A: Pasien gagal napas yang butuh evaluasi ventilasi || Gagal napas adalah indikasi utama AGD. || Kondisi ini justru alasan memeriksa AGD.
+B*: Terapi antikoagulan dosis sedang sampai tinggi || Risiko perdarahan dan hematom di lokasi pungsi arteri. || Sesuai slide (bersama kolateral tidak adekuat dan infeksi lokasi).
+C: Pasien ketoasidosis diabetik dengan napas Kussmaul || Asidosis metabolik berat; AGD membantu menilai beratnya. || Termasuk indikasi, bukan kontraindikasi.
+D: Pasien hiperkapnia kronik yang mendapat O₂ || AGD dipakai memantau respons dan risiko retensi CO₂. || Indikasi pemantauan, bukan kontraindikasi.
+E: Pasien dengan ventilator mekanik di ICU || AGD dipakai menyesuaikan setelan ventilator. || Indikasi pemantauan rutin.
+p: Kontraindikasi lain: lokasi pascaoperasi atau prosedur tertentu, penyakit/infeksi di sekitar lokasi pengambilan, gangguan pembekuan.
+
+#25 d=1 ty=recall
+ks: Lokasi pungsi arteri tersering adalah arteri radialis karena superfisial, mudah difiksasi, dan memiliki kolateral.
+kw: lokasi paling sering; pungsi arteri
+an: Pilih arteri yang superfisial, mudah ditekan untuk hemostasis, dan punya aliran kolateral (ulnaris) → radialis. Brakialis/femoralis adalah alternatif.
+A: Arteri karotis komunis || Arteri besar di leher yang memperdarahi otak. || Risiko emboli/hematom yang membahayakan; tidak dipakai untuk AGD.
+B*: Arteri radialis || Superfisial di pergelangan tangan, mudah diraba dan ditekan. || Sesuai slide; ada kolateral arteri ulnaris (dinilai dengan uji Allen).
+C: Arteri brakialis di fossa kubiti || Alternatif bila radialis tidak bisa. || Lebih dalam dan tanpa kolateral sebaik radialis; bukan pilihan pertama.
+D: Vena mediana kubiti || Lokasi pungsi vena rutin. || Darah vena tidak menggambarkan oksigenasi arteri.
+E: Arteri femoralis di lipat paha || Dipakai saat syok atau bila radialis gagal. || Risiko infeksi dan perdarahan lebih besar; bukan pilihan pertama.
+p: Darah kapiler dipakai pada neonatus; darah vena untuk penilaian cepat atau status metabolik (misalnya pasien KAD).
+
+#26 d=2 ty=understanding
+ks: Teknik pungsi arteri: jarum 45° mengarah ke jantung (melawan aliran), darah mengisi spuit sendiri tanpa diaspirasi.
+kw: cara penusukan; sudut; tanpa aspirasi
+an: Tekanan arteri cukup untuk mengisi spuit; aspirasi justru memasukkan udara dan merusak sel. Sudut 45° melawan arah aliran memudahkan masuk lumen.
+A*: Sudut 45° ke arah jantung, darah mengalir sendiri || Tekanan arteri mendorong darah ke spuit dengan pulsasi. || Sesuai slide; aliran berdenyut spontan juga memastikan jarum di arteri, bukan vena.
+B: Sudut 90° menjauhi jantung lalu ditarik kuat || Kombinasi sudut dan aspirasi yang keliru. || Aspirasi kuat menarik udara/menyebabkan hemolisis.
+C: Diaspirasi kuat agar sampel cepat terkumpul || Tekanan negatif tinggi di spuit. || Menyebabkan gelembung udara dan hemolisis, mengubah PO₂ dan K⁺.
+D: Sudut 15° memakai tourniquet seperti pungsi vena || Teknik pungsi vena. || Tourniquet tidak dipakai dan sudut landai menyulitkan masuk arteri.
+E: Ditusuk tanpa meraba pulsasi arteri lebih dahulu || Penusukan buta. || Arteri harus diraba dan difiksasi dengan dua jari sebelum ditusuk.
+p: Setelah jarum dicabut, ujung ditusukkan ke karet penutup (cegah udara masuk) dan bekas tusukan ditekan kapas kering sampai darah berhenti.
+
+#27 d=2 ty=understanding
+ks: Heparin cair secukupnya hanya membasahi dinding spuit agar tidak terjadi dilusi sampel AGD.
+kw: heparin cair; spuit; membasahi dinding
+an: Antikoagulan wajib, tetapi heparin cair berlebih mengencerkan sampel sehingga pCO₂ dan HCO₃⁻ palsu turun. Jadi hanya dinding spuit yang dibasahi.
+A: Tanpa heparin agar sampel tidak terdilusi || Mencegah dilusi tetapi sampel membeku. || Bekuan menyumbat analyzer dan sampel tidak bisa diperiksa.
+B*: Isap 1 cc heparin lalu keluarkan lagi || Heparin tersisa hanya melapisi dinding spuit dan dead space. || Sesuai slide: mencegah bekuan tanpa mengencerkan sampel.
+C: Spuit diisi penuh heparin lalu darah ditambahkan || Volume heparin besar bercampur dengan sampel. || Dilusi menurunkan pCO₂ dan HCO₃⁻ terukur secara palsu.
+D: Memakai natrium sitrat 3,2% || Antikoagulan untuk tes koagulasi. || Rasio cair 1:9 mengencerkan sampel dan mengubah pH.
+E: Memakai K₂EDTA seperti tabung hematologi || Antikoagulan hematologi rutin. || EDTA bersifat asam dan mengubah pH serta mengganggu elektrolit.
+p: Banyak sentra kini memakai spuit AGD khusus berisi heparin kering (lithium heparin).
+
+#28 d=1 ty=recall
+ks: Waktu pengambilan sampel AGD untuk menilai respons terapi oksigen: setelah ±20 menit terapi.
+kw: respons terapi oksigen; waktu pengambilan
+an: Gas darah butuh waktu untuk mencapai keseimbangan baru setelah FiO₂ diubah; slide memakai patokan 20 menit.
+A*: Setelah ±20 menit terapi oksigen berjalan || Memberi waktu tercapainya keseimbangan gas darah baru. || Sesuai slide.
+B: Setelah pasien melakukan aktivitas fisik berat || Aktivitas mengubah konsumsi O₂ dan produksi CO₂. || Justru harus dihindari agar hasil mencerminkan kondisi istirahat.
+C: Hanya saat pasien sedang tidur malam hari || Tidak ada ketentuan seperti itu. || Waktu ditentukan oleh perubahan terapi, bukan siklus tidur.
+D: Segera dalam 1–2 menit setelah O₂ dipasang || Belum terjadi keseimbangan. || Hasil belum mencerminkan efek terapi.
+E: Setelah 24 jam terapi oksigen berjalan || Terlalu lama untuk menilai respons akut. || Penyesuaian FiO₂ yang lambat bisa membahayakan pasien.
+p: Pada keadaan darurat, sampel diambil sesegera mungkin; pemantauan rutin bisa tiap pagi.
+
+#29 d=2 ty=analysis
+ks: Gelembung udara dalam sampel AGD menyebabkan PaO₂ palsu tinggi (udara ruang PO₂ ±150 mmHg) dan pCO₂ cenderung turun.
+kw: gelembung udara; spuit tidak ditutup; PaO₂ 128; udara ruang
+an: PaO₂ 128 mmHg mustahil pada pasien bernapas udara ruang tanpa O₂ (maksimal ±100). Data teknik (spuit terbuka, gelembung) menjelaskan artefak.
+A*: Gelembung udara dalam sampel || Udara ruang (PO₂ ±150 mmHg) bercampur dengan darah dan menaikkan PO₂ sampel. || PaO₂ 128 tanpa O₂ tambahan tidak fisiologis → artefak pra-analitik.
+B: Sampel tertukar dengan darah vena || Darah vena PO₂ ±40 mmHg. || Akan menurunkan, bukan menaikkan PaO₂.
+C: Heparin cair berlebihan dalam spuit || Menyebabkan dilusi; pCO₂ dan HCO₃⁻ turun. || Tidak menjelaskan PaO₂ yang tinggi.
+D: Hemolisis karena aspirasi kuat || Terutama menaikkan K⁺ sampel. || Pengaruh pada PaO₂ minimal.
+E: Hiperventilasi karena cemas saat ditusuk || Menurunkan pCO₂ dan sedikit menaikkan PaO₂. || pCO₂ pasien normal (38) dan PaO₂ tidak bisa setinggi 128 pada udara ruang.
+p: Penyebab kesalahan interpretasi AGD di slide: gelembung udara, antikoagulan berlebihan, penundaan pemeriksaan.
+n+: Slide menjelaskan gelembung "menurunkan tekanan O₂ sampel sehingga alat meningkatkan nilai PO₂"; penjelasan fisiologis yang lazim: gas sampel menyeimbang dengan udara ruang [Tambahan di luar PPT]. Arah perubahan PaO₂ (naik) sama.
+
+#30 d=2 ty=analysis
+ks: Heparin cair berlebihan mengencerkan sampel sehingga pCO₂ dan HCO₃⁻ palsu rendah dengan pH relatif tetap.
+kw: heparin cair berlebihan; pCO₂ 28; HCO₃⁻ 18; klinis normal
+an: pCO₂ dan HCO₃⁻ turun sebanding dengan pH normal pada pasien tanpa gangguan klinis → pola dilusi, bukan gangguan asam basa sejati.
+A*: Dilusi sampel oleh heparin cair berlebihan || Heparin cair tidak mengandung CO₂/HCO₃⁻ sehingga mengencerkan keduanya. || Sesuai tabel kesalahan interpretasi di slide.
+B: Gelembung udara yang masuk ke spuit || Terutama menaikkan PO₂. || Efeknya pada HCO₃⁻ kecil; tidak menjelaskan pola ini.
+C: Alkalosis respiratorik akibat hiperventilasi || pCO₂ rendah dengan pH tinggi. || pH pasien normal dan klinis normal.
+D: Sampel ditunda dan disimpan dalam lemari es || Cara yang benar bila pemeriksaan tertunda. || Pendinginan tidak menyebabkan dilusi.
+E: Asidosis metabolik dengan kompensasi sempurna || HCO₃⁻ rendah dengan pCO₂ turun dan pH normal. || Tidak ada dasar klinis; kompensasi sempurna jarang dan riwayat heparin berlebih jelas.
+p: Itulah sebabnya heparin hanya membasahi dinding spuit.
+
+#31 d=2 ty=understanding
+ks: Penanganan sampel AGD yang tertunda: simpan dingin untuk memperlambat metabolisme sel darah.
+kw: ditunda lebih dari 20 menit; tindakan yang tepat
+an: Leukosit dan trombosit tetap bermetabolisme in vitro (konsumsi O₂, produksi CO₂). Pendinginan memperlambatnya.
+A: Menghangatkan sampel hingga 37 °C || Mempercepat metabolisme sel. || Perubahan PO₂ dan PCO₂ makin besar.
+B*: Menyimpan sampel dalam suhu dingin (es/kulkas) || Memperlambat metabolisme sel darah. || Sesuai slide untuk penundaan > 20 menit.
+C: Membiarkan sampel pada suhu ruang || Metabolisme tetap berjalan. || Slide: dalam 20 menit nilai PO₂ dan PCO₂ sudah berubah.
+D: Membuka tutup spuit agar tidak membeku || Udara ruang masuk ke sampel. || Mengubah PO₂ dan PCO₂ seperti efek gelembung.
+E: Menambah heparin cair agar sampel awet || Heparin hanya mencegah bekuan. || Menambah dilusi dan tidak menghentikan metabolisme sel.
+p: Slide menulis penyimpanan suhu ruang selama 20 menit meningkatkan nilai PO₂ dan PCO₂. Secara fisiologis, sel darah yang hidup mengonsumsi O₂ dan menghasilkan CO₂, sehingga PCO₂ naik dan PO₂ umumnya turun.
+
+#32 d=1 ty=recall
+ks: Metode alat AGD modern: elektroda pH, pCO₂ (Severinghaus), dan pO₂ (Clark).
+kw: alat analisis gas darah modern; metode
+an: Slide menyebut tiga metode historis: penyetimbangan Astrup, gasometri/osmometri, dan elektroda; hanya elektroda yang dipakai alat modern.
+A: Gasometri dan osmometri manual || Metode lama berbasis volume gas dan titik beku. || Tidak dipakai alat AGD modern.
+B: Metode Sahli dengan pembanding warna || Metode lama pengukuran hemoglobin. || Bukan metode gas darah.
+C: Metode Westergren dengan tabung tegak || Metode pengukuran laju endap darah. || Tidak berhubungan dengan gas darah.
+D: Penyetimbangan Astrup dengan gas standar || Metode lama yang menyetimbangkan sampel dengan gas berkadar CO₂ diketahui. || Sudah tidak dipakai alat modern.
+E*: Metode elektroda || Elektroda pH (gelas), pCO₂ (Severinghaus), pO₂ (Clark/amperometri). || Metode yang dipakai alat AGD saat ini; parameter lain dihitung dari hasil elektroda.
+p: Slide menyebut tiga metode: penyetimbangan Astrup, gasometri dan osmometri, elektroda.
+
+#33 d=1 ty=understanding
+ks: Persamaan Henderson–Hasselbalch: pH = 6,1 + log [HCO₃⁻]/(0,03 × pCO₂).
+kw: Henderson-Hasselbalch; pH ditentukan oleh
+an: pH bergantung pada rasio basa (HCO₃⁻, komponen metabolik) terhadap asam (H₂CO₃ ≈ 0,03 × pCO₂, komponen respiratorik), bukan pada kadar satu ion saja.
+A: Kadar klorida plasma secara langsung || Cl⁻ memengaruhi pH lewat strong ion difference, bukan persamaan ini. || Tidak muncul dalam Henderson–Hasselbalch.
+B: Kadar oksigen terlarut dalam plasma || PO₂ menggambarkan oksigenasi. || Tidak termasuk dalam persamaan penentu pH.
+C*: Rasio HCO₃⁻ terhadap H₂CO₃ dengan pK 6,1 || pH = pK + log [HCO₃⁻]/[H₂CO₃]. || Sesuai slide; rasio normal 20:1 menghasilkan pH 7,4.
+D: Kadar natrium plasma secara langsung || Na⁺ menentukan osmolalitas. || Tidak termasuk dalam persamaan penentu pH.
+E: Kadar hemoglobin total eritrosit || Hb adalah salah satu penyangga. || Persamaan ini hanya memakai pasangan bikarbonat–asam karbonat.
+p: H₂CO₃ ≈ 0,03 × pCO₂, sehingga HCO₃⁻ mewakili komponen metabolik dan pCO₂ komponen respiratorik.
+
+#34 d=1 ty=recall
+ks: Sistem penyangga tubuh dan lokasinya: bikarbonat (ekstrasel), fosfat (intrasel, urin), protein (intrasel, plasma), hemoglobin (eritrosit).
+kw: pasangan penyangga; lokasi
+an: Ingat lokasi dominan: bikarbonat = ECF; fosfat = intrasel dan urin (buffer titratable acid); protein = intrasel dan plasma; Hb = dalam eritrosit.
+A: Hemoglobin terutama bekerja di dalam urin || Hb berada di dalam eritrosit. || Hb tidak difiltrasi normal ke urin.
+B: Bikarbonat terutama bekerja di intraseluler || Bikarbonat penyangga utama ekstrasel. || Lokasi dominannya terbalik.
+C*: Bikarbonat–ECF; fosfat–intrasel/urin; protein–intrasel/plasma; Hb–eritrosit || Sesuai slide teori dasar. || Semua pasangan penyangga dan lokasinya tepat.
+D: Fosfat terutama bekerja di plasma saja || Kadar fosfat plasma rendah. || Fosfat dominan di intrasel dan urin.
+E: Protein terutama bekerja di dalam urin || Protein normal hampir tidak ada di urin. || Protein bekerja di intrasel dan plasma (albumin).
+p: Penyangga = kombinasi asam lemah atau basa lemah dengan garamnya.
+
+#35 d=1 ty=understanding
+ks: Peran paru dalam keseimbangan asam basa: mengatur pCO₂ dalam hitungan menit.
+kw: peran paru; keseimbangan asam basa
+an: Paru hanya membuang/menahan CO₂. Hiperventilasi → pCO₂ turun → alkalosis; hipoventilasi → pCO₂ naik → asidosis. HCO₃⁻ dan amonia urusan ginjal.
+A: Hipoventilasi menyebabkan alkalosis respiratorik || CO₂ tertahan saat hipoventilasi. || pCO₂ naik → asidosis, bukan alkalosis.
+B: Paru mengeluarkan HCO₃⁻ bersama udara ekspirasi || HCO₃⁻ adalah ion non-volatil. || Ekskresi/reabsorpsi HCO₃⁻ dilakukan ginjal.
+C: Paru menyekresi amonia untuk membuang H⁺ || Amoniagenesis terjadi di tubulus ginjal. || Paru tidak menyekresi amonia.
+D: Kompensasi paru baru efektif setelah beberapa hari || Ginjal yang butuh jam sampai hari. || Paru bekerja dalam hitungan menit.
+E*: Paru mengatur pCO₂: hiperventilasi menurunkan pCO₂ || CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻. || Hiperventilasi → alkalosis; hipoventilasi → asidosis; bekerja dalam menit.
+p: Mekanisme ginjal: reabsorpsi HCO₃⁻, asidifikasi garam dapar, sekresi amonia.
+
+#36 d=2 ty=application
+ks: Interpretasi base excess dan PaO₂: BE < −2 = asidosis metabolik; PaO₂ < 60 mmHg = indikasi oksigen tambahan.
+kw: BE −4; PaO₂ 58; SaO₂ 90
+an: BE −4 di bawah −2 → komponen metabolik asidosis. PaO₂ 58 < 60 dan SaO₂ 90% < 95% → hipoksemia yang perlu O₂.
+A: BE selalu bernilai positif pada orang sehat || Rujukan BE −2 sampai +2. || BE bisa negatif (defisit basa) maupun positif (kelebihan basa).
+B: BE −4 menunjukkan alkalosis metabolik || BE > +2 yang menandakan kelebihan basa. || BE negatif berarti defisit basa → asidosis metabolik.
+C: PaO₂ 58 mmHg masih normal untuk dewasa || Rujukan PaO₂ 80–100 mmHg. || 58 sudah hipoksemia sedang.
+D*: BE < −2 berarti asidosis metabolik; PaO₂ < 60 perlu O₂ || Sesuai slide parameter AGD. || BE −4 dan PaO₂ 58 memenuhi kedua kriteria.
+E: SaO₂ 90% masih normal || Rujukan SaO₂ > 95%. || 90% sesuai PaO₂ ±60 (titik curam kurva disosiasi).
+p: BE = jumlah asam atau basa yang perlu ditambahkan ke 1 liter darah (37 °C, pCO₂ 40, SO₂ 100%) agar pH kembali 7,4.
+
+#37 d=2 ty=understanding
+ks: Arah kompensasi: asidosis metabolik dikompensasi dengan alkalosis respiratorik (hiperventilasi menurunkan pCO₂).
+kw: asidemia; HCO₃⁻ rendah primer; kompensasi
+an: Kompensasi selalu oleh sistem lain dan berlawanan arah gangguan primer: gangguan metabolik → kompensasi respiratorik, dan sebaliknya.
+A*: Alkalosis respiratorik (pCO₂ turun) || Kemoreseptor merangsang hiperventilasi (napas Kussmaul). || Sesuai materi: metabolic acidosis → compensation respiratory alkalosis.
+B: Alkalosis metabolik (HCO₃⁻ naik) || Kompensasi ginjal untuk asidosis respiratorik. || Sistem yang sama tidak mengompensasi dirinya sendiri.
+C: Asidosis metabolik tambahan || Gangguan searah yang memperberat. || Bukan kompensasi.
+D: Asidosis respiratorik (pCO₂ naik) || Hipoventilasi menahan CO₂. || Akan memperberat asidemia.
+E: Tidak terjadi kompensasi sama sekali || Kompensasi respiratorik mulai dalam menit. || Tubuh selalu berusaha mengompensasi; pada asidosis metabolik pCO₂ turun.
+p: Kompensasi selalu berlawanan arah dengan gangguan primer, tetapi tidak pernah overkompensasi.
+
+#38 d=1 ty=application
+ks: Mnemonik ROME: Respiratory Opposite (pH dan pCO₂ berlawanan arah), Metabolic Equal (pH dan HCO₃⁻/pCO₂ searah).
+kw: ROME; pH 7,30; pCO₂ 55
+an: pH turun dan pCO₂ naik → arah berlawanan → respiratorik; pH turun → asidosis. Jadi asidosis respiratorik.
+A: Alkalosis respiratorik || pH naik dengan pCO₂ turun. || pH pasien 7,30 turun.
+B: Status asam basa normal || pH 7,35–7,45. || pH 7,30 sudah asidemia.
+C: Asidosis metabolik || pH turun dengan pCO₂ ikut turun (equal). || pCO₂ pasien naik, bukan turun.
+D: Alkalosis metabolik || pH naik dengan pCO₂ ikut naik. || pH pasien rendah.
+E*: Asidosis respiratorik || pH turun, pCO₂ naik (opposite). || Sesuai ROME untuk gangguan respiratorik.
+p: ROME: Respiratory Opposite, Metabolic Equal (arah pH dibandingkan dengan pCO₂).
+
+#39 d=2 ty=application
+ks: Interpretasi AGD bertahap: pH → parameter searah pH = primer → parameter lain = kompensasi.
+kw: pH 7,22; pCO₂ 15; HCO₃⁻ 6
+an: pH rendah = asidosis. HCO₃⁻ 6 searah (asidosis) → primer metabolik. pCO₂ 15 turun → kompensasi respiratorik (alkalosis).
+A: Status asam basa normal || Semua parameter abnormal. || pH 7,22 jelas asidemia.
+B: Asidosis respiratorik primer || Membutuhkan pCO₂ naik. || pCO₂ pasien rendah (15).
+C*: Asidosis metabolik dengan kompensasi alkalosis respiratorik || HCO₃⁻ ↓ primer; pCO₂ ↓ kompensasi. || Sesuai contoh slide.
+D: Campuran asidosis respiratorik dan metabolik || Butuh pCO₂ naik dan HCO₃⁻ turun. || pCO₂ pasien turun.
+E: Alkalosis respiratorik primer || pH seharusnya naik. || pH pasien rendah, sehingga pCO₂ rendah adalah kompensasi.
+p: Langkah: (1) pH asidosis/alkalosis; (2) cari parameter yang searah pH = primer; (3) parameter lain berlawanan = kompensasi.
+
+#40 d=2 ty=application
+ks: Alkalosis metabolik tanpa kompensasi: pH dan HCO₃⁻ naik dengan pCO₂ normal.
+kw: pH 7,5; HCO₃⁻ 33; pCO₂ 42
+an: pH tinggi + HCO₃⁻ tinggi (searah) → alkalosis metabolik. pCO₂ masih normal → belum ada kompensasi respiratorik.
+A: Alkalosis respiratorik || Butuh pCO₂ turun. || pCO₂ pasien normal (42).
+B: Asidosis metabolik || HCO₃⁻ dan pH turun. || Keduanya justru naik.
+C: Alkalosis metabolik terkompensasi sempurna || pH kembali normal. || pH pasien masih 7,5.
+D*: Alkalosis metabolik tanpa kompensasi || HCO₃⁻ ↑ primer; pCO₂ normal. || Sesuai contoh slide.
+E: Gangguan campuran alkalosis || Butuh pCO₂ turun dan HCO₃⁻ naik bersamaan. || pCO₂ pasien normal.
+p: Penyebab alkalosis metabolik: muntah, antasida berlebihan, efek aldosteron/steroid, infus bikarbonat berlebihan.
+
+#41 d=2 ty=application
+ks: Alkalosis respiratorik dengan kompensasi metabolik sebagian akibat hiperventilasi psikogenik.
+kw: cemas; napas cepat; pH 7,48; pCO₂ 32; HCO₃⁻ 21
+an: pH tinggi + pCO₂ turun (opposite) → alkalosis respiratorik primer. HCO₃⁻ sedikit turun → kompensasi ginjal, pH belum normal → sebagian.
+A: Asidosis metabolik primer || pH seharusnya turun. || pH pasien 7,48.
+B*: Alkalosis respiratorik dengan kompensasi metabolik || pCO₂ ↓ primer; HCO₃⁻ ↓ kompensasi. || Sesuai contoh slide; penyebab perangsangan SSP (emosi).
+C: Alkalosis metabolik || Butuh HCO₃⁻ naik. || HCO₃⁻ pasien 21, turun.
+D: Asidosis respiratorik || Butuh pCO₂ naik. || pCO₂ pasien 32, turun.
+E: Alkalosis respiratorik terkompensasi sempurna || pH kembali 7,35–7,45. || pH pasien 7,48 masih di atas normal.
+p: Etiologi alkalosis respiratorik (hiperventilasi): emosi/cemas, sepsis, hipertiroid.
+
+#42 d=3 ty=analysis
+ks: Kompensasi sempurna: pH normal dengan pCO₂ dan HCO₃⁻ abnormal; gangguan primer ditentukan sisi pH terhadap 7,40.
+kw: pH 7,41; pCO₂ 24; HCO₃⁻ 14; contoh slide
+an: pH 7,41 di sisi alkali dari 7,40 → primer alkalosis; parameter yang menyebabkan alkalosis adalah pCO₂ rendah → alkalosis respiratorik; HCO₃⁻ rendah sebagai kompensasi.
+A: Asidosis metabolik tanpa kompensasi || pH seharusnya rendah. || pH pasien normal (7,41).
+B*: Alkalosis respiratorik terkompensasi sempurna || pH normal sisi alkali; pCO₂ ↓ primer, HCO₃⁻ ↓ kompensasi. || Sesuai contoh slide.
+C: Asidosis respiratorik kronik || Butuh pCO₂ naik. || pCO₂ pasien 24, turun.
+D: Alkalosis metabolik || Butuh HCO₃⁻ naik. || HCO₃⁻ pasien 14, turun.
+E: Normal tanpa gangguan asam basa || pH normal saja tidak cukup. || pCO₂ dan HCO₃⁻ keduanya jelas abnormal.
+p: Pada pH normal, perhatikan sisi pH: 7,41 sedikit di atas 7,40 (sisi alkali) sehingga gangguan primernya alkalosis respiratorik.
+
+#43 d=2 ty=analysis
+ks: Gangguan campuran asidosis respiratorik + asidosis metabolik: pCO₂ naik dan HCO₃⁻ turun bersamaan.
+kw: henti napas; pH 7,1; pCO₂ 48; HCO₃⁻ 16
+an: Kedua parameter sama-sama mengarah ke asidosis (pCO₂ ↑ dan HCO₃⁻ ↓). Tidak ada yang berperan sebagai kompensasi → campuran. Cocok dengan henti napas (hiperkapnia) + hipoperfusi (asidosis laktat).
+A: Status asam basa normal || pH 7,35–7,45. || pH 7,1 adalah asidemia berat.
+B: Asidosis metabolik dengan kompensasi respiratorik || Kompensasinya pCO₂ turun. || pCO₂ pasien justru naik.
+C: Asidosis respiratorik murni || Kompensasinya HCO₃⁻ naik. || HCO₃⁻ pasien justru turun.
+D*: Campuran asidosis respiratorik dan asidosis metabolik || pCO₂ ↑ dan HCO₃⁻ ↓, keduanya menurunkan pH. || Sesuai contoh slide.
+E: Alkalosis metabolik dengan hipoventilasi || Butuh HCO₃⁻ naik dan pH tinggi. || pH dan HCO₃⁻ pasien rendah.
+p: Petunjuk campuran: pCO₂ dan HCO₃⁻ bergerak berlawanan arah, atau kompensasi tidak sesuai rumus.
+
+#44 d=2 ty=analysis
+ks: Gangguan campuran alkalosis respiratorik + alkalosis metabolik: pCO₂ turun dan HCO₃⁻ naik.
+kw: muntah hebat; cemas; pH 7,65; pCO₂ 31; HCO₃⁻ 35
+an: Muntah → kehilangan HCl → HCO₃⁻ naik (alkalosis metabolik). Cemas → hiperventilasi → pCO₂ turun (alkalosis respiratorik). Keduanya searah alkali → pH sangat tinggi.
+A: Alkalosis metabolik dengan kompensasi respiratorik || Kompensasi seharusnya pCO₂ naik (hipoventilasi). || pCO₂ pasien turun.
+B: Status asam basa normal || pH 7,35–7,45. || pH 7,65 sangat tinggi.
+C: Alkalosis respiratorik dengan kompensasi metabolik || Kompensasi seharusnya HCO₃⁻ turun. || HCO₃⁻ pasien naik.
+D*: Campuran alkalosis respiratorik dan alkalosis metabolik || pCO₂ ↓ dan HCO₃⁻ ↑, keduanya menaikkan pH. || Sesuai contoh slide; klinis (muntah + cemas) mendukung.
+E: Campuran asidosis respiratorik dan metabolik || Butuh pH rendah. || pH pasien 7,65.
+p: Gangguan searah (keduanya alkalosis) membuat pH sangat ekstrem.
+
+#45 d=2 ty=application
+ks: Asidosis respiratorik akut tanpa kompensasi: pCO₂ naik dengan HCO₃⁻ dan BE normal.
+kw: pH 7,24; pCO₂ 70; HCO₃⁻ 24; BE +1
+an: pH turun + pCO₂ naik → asidosis respiratorik. HCO₃⁻ dan BE normal → ginjal belum sempat mengompensasi.
+A: Asidosis respiratorik terkompensasi sebagian || Butuh HCO₃⁻ naik di atas normal. || HCO₃⁻ pasien 24 (normal).
+B: Alkalosis respiratorik || Butuh pCO₂ turun. || pCO₂ pasien 70.
+C: Gangguan campuran respiratorik dan metabolik || Butuh komponen metabolik abnormal. || HCO₃⁻ dan BE normal.
+D: Asidosis metabolik || Butuh HCO₃⁻/BE turun. || HCO₃⁻ dan BE normal.
+E*: Asidosis respiratorik tidak terkompensasi || pCO₂ ↑ primer; HCO₃⁻ dan BE normal. || Sesuai contoh kasus 1 di slide.
+p: Etiologi asidosis respiratorik (hipoventilasi): PPOK, depresi pernapasan, kelainan dinding dada.
+
+#46 d=3 ty=analysis
+ks: Formula Winter untuk menilai kecukupan kompensasi respiratorik pada asidosis metabolik: pCO₂ = 1,5 × HCO₃⁻ + 8 ± 2.
+kw: formula Winter; HCO₃⁻ 9; pCO₂ 22
+an: Hitung: 1,5 × 9 + 8 = 21,5 ± 2 → 19,5–23,5. pCO₂ terukur 22 berada dalam rentang → kompensasi adekuat, tidak ada gangguan respiratorik tambahan.
+A: 30–34 mmHg; kompensasi respiratorik kurang || Hasil salah hitung (mungkin memakai 1,5 × 15). || Dengan HCO₃⁻ 9, rentang yang benar 19,5–23,5.
+B: 9–13 mmHg; ada alkalosis respiratorik tambahan || Hasil salah hitung (lupa menambah 8). || Rentang ini terlalu rendah.
+C*: 19,5–23,5 mmHg; pCO₂ 22 → kompensasi adekuat || (1,5 × 9) + 8 ± 2 = 21,5 ± 2. || Sesuai contoh kasus 2 di slide.
+D: 35–45 mmHg; ada asidosis respiratorik tambahan || Rentang normal pCO₂, bukan nilai kompensasi. || Pada asidosis metabolik pCO₂ seharusnya turun.
+E: Formula Winter tidak berlaku untuk kasus ini || Winter justru dirancang untuk asidosis metabolik. || Kasus ini asidosis metabolik, jadi formula tepat dipakai.
+p: Bila pCO₂ terukur lebih tinggi dari rentang Winter → ada asidosis respiratorik tambahan; lebih rendah → alkalosis respiratorik tambahan.
+
+#47 d=2 ty=application
+ks: Anion gap = Na⁺ − (Cl⁻ + HCO₃⁻); AG tinggi menandakan penumpukan anion organik seperti keton.
+kw: DM tipe 1; Kussmaul; keton urin +3; HCO₃⁻ 10
+an: AG = 140 − (100 + 10) = 30 (normal 8–16) → asidosis metabolik AG tinggi; konteks DM tipe 1 dan ketonuria → ketoasidosis.
+A*: 30 mmol/L, meningkat → asidosis AG tinggi (ketoasidosis) || 140 − (100 + 10) = 30. || Keto-anion (β-hidroksibutirat, asetoasetat) adalah anion tak terukur.
+B: 50 mmol/L, meningkat → keracunan metanol || Hasil salah hitung (Na + HCO₃⁻ − Cl⁻). || Nilainya keliru dan konteks klinis menunjuk KAD.
+C: 130 mmol/L → hipernatremia relatif || Hasil Na − HCO₃⁻ (lupa Cl⁻). || Salah rumus; Na⁺ pasien normal.
+D: 10 mmol/L, normal → asidosis hiperkloremik || Hasil salah hitung. || AG pasien jauh di atas normal.
+E: Tidak dapat dihitung karena kalium tidak ada || Rumus di slide tidak memakai K⁺. || Data Na⁺, Cl⁻, HCO₃⁻ sudah cukup.
+p: Anion gap dipakai untuk mencari penyebab asidosis metabolik. AG tinggi: ketoasidosis, asidosis laktat, gagal ginjal, keracunan (salisilat, metanol). AG normal: diare, asidosis tubulus ginjal.
+
+#48 d=3 ty=integrated
+ks: Delta ratio = (AG − 10)/(24 − HCO₃⁻) mendeteksi gangguan metabolik tambahan pada asidosis AG tinggi; > 2 menandakan alkalosis metabolik penyerta.
+kw: muntah berat; AG 48; HCO₃⁻ 9; delta ratio
+an: (48 − 10)/(24 − 9) = 38/15 ≈ 2,5 > 2 → HCO₃⁻ lebih tinggi dari yang diharapkan → ada alkalosis metabolik (muntah) di samping asidosis laktat (hipovolemia).
+A: Tidak dapat dihitung karena data tidak cukup || Semua komponen rumus tersedia. || AG dan HCO₃⁻ diketahui.
+B: 0,4–0,8 → asidosis AG tinggi + AG normal || Rentang ini untuk campuran AG tinggi dan AG normal. || Hasil hitung pasien jauh lebih besar.
+C*: ±2,5 (> 2) → asidosis AG tinggi + alkalosis metabolik || (48 − 10)/(24 − 9) = 38/15 ≈ 2,5. || Sesuai kesimpulan kasus 2 di slide: asidosis laktat + alkalosis metabolik karena muntah.
+D: 1–2 → asidosis metabolik AG tinggi murni || Rentang untuk asidosis AG tinggi tanpa gangguan lain. || Nilai pasien di atas 2.
+E: < 0,4 → asidosis metabolik AG normal hiperkloremik || Rentang untuk asidosis AG normal. || AG pasien jelas tinggi (48).
+p: Delta ratio > 2 berarti HCO₃⁻ lebih tinggi dari yang diharapkan → ada alkalosis metabolik atau kompensasi asidosis respiratorik.
+
+#49 d=3 ty=analysis
+ks: Membedakan asidosis respiratorik akut (HCO₃⁻ naik ±1 per 10 mmHg pCO₂) dan kronik (±3–4 per 10 mmHg).
+kw: CHF; sesak mendadak; pCO₂ 60; HCO₃⁻ 27
+an: pCO₂ naik 20 → akut: HCO₃⁻ ≈ 24 + 2 = 26; kronik: ≈ 30–32. Terukur 27 → mendekati akut. Klinis mendadak (edema paru) mendukung.
+A: Asidosis respiratorik kronik || Pada kronik HCO₃⁻ diharapkan ±30–32. || HCO₃⁻ 27 terlalu rendah untuk kronik.
+B: Gangguan campuran alkalosis || Butuh pH tinggi. || pH pasien 7,24.
+C: Asidosis metabolik dengan hipoventilasi || Butuh HCO₃⁻ turun. || HCO₃⁻ pasien sedikit naik.
+D: Alkalosis metabolik primer || Butuh pH tinggi. || pH pasien asidemia.
+E*: Asidosis respiratorik akut akibat edema paru || HCO₃⁻ diharapkan ±26; terukur 27 sesuai. || Sesuai contoh kasus 3 di slide.
+p: Akut vs kronik dibedakan dari besarnya kompensasi ginjal (ginjal butuh jam sampai hari).
+
+#50 d=3 ty=analysis
+ks: Asidosis respiratorik kronik pada PPOK dengan kompensasi metabolik sesuai rumus (HCO₃⁻ naik 3–4 per 10 mmHg pCO₂).
+kw: PPOK lama; pCO₂ 62; HCO₃⁻ 32; pH 7,33
+an: pCO₂ naik 22 → kronik: HCO₃⁻ ≈ 24 + 6,6–8,8 = 30,6–32,8. Terukur 32 → sesuai kronik; pH masih sedikit asidosis.
+A: Status asam basa normal || pH 7,35–7,45. || pH 7,33 dan pCO₂ 62 abnormal.
+B: Alkalosis metabolik primer || Butuh pH tinggi. || pH pasien rendah; HCO₃⁻ tinggi adalah kompensasi.
+C*: Asidosis respiratorik kronik terkompensasi metabolik || HCO₃⁻ diharapkan 30,6–32,8; terukur 32. || Sesuai etiologi PPOK (hipoventilasi kronik).
+D: Asidosis metabolik primer || Butuh HCO₃⁻ turun. || HCO₃⁻ pasien tinggi.
+E: Asidosis respiratorik akut || Pada akut HCO₃⁻ hanya naik ±2 (≈26). || HCO₃⁻ 32 terlalu tinggi untuk akut.
+p: Pasien hiperkapnia kronik yang mendapat terapi O₂ termasuk indikasi pemantauan AGD.
+
+#528 d=1 ty=recall
+ks: Antikoagulan baku sampel AGD adalah heparin (lithium/natrium heparin; spuit heparinized).
+kw: antikoagulan; analisis gas darah
+an: Antikoagulan untuk AGD tidak boleh mengubah pH, pCO₂, atau mengencerkan sampel; hanya heparin yang memenuhi.
+A: = || Tanpa antikoagulan darah membeku dalam beberapa menit. || Bekuan menyumbat analyzer sehingga sampel tidak bisa diperiksa.
+B: = || EDTA adalah antikoagulan hematologi rutin. || Bersifat asam dan mengubah pH serta elektrolit.
+C*: = || Heparin tidak mengubah pH dan gas darah. || Antikoagulan baku AGD; dipakai secukupnya atau dalam bentuk kering.
+D: = || NaF menghambat glikolisis untuk pemeriksaan glukosa. || Bukan antikoagulan untuk gas darah.
+E: = || Sitrat cair (1:9) untuk koagulasi dan LED. || Mengencerkan sampel dan mengubah pH.
+p: Sampel AGD dari arteri, tanpa gelembung udara, segera diperiksa (atau disimpan dingin) agar PaO₂ dan PaCO₂ tidak berubah.
+
+#529 d=1 ty=recall
+ks: Kontraindikasi relatif pungsi arteri: antikoagulan dosis sedang–tinggi atau gangguan pembekuan.
+kw: kontraindikasi relatif; AGD arteri
+an: Pasien PPOK, asidosis, sesak, dan ventilator adalah alasan memeriksa AGD. Yang menambah risiko tindakan adalah kecenderungan perdarahan.
+A: = || PPOK dengan hiperkapnia perlu dipantau dengan AGD. || Indikasi, bukan kontraindikasi.
+B: = || Asidosis metabolik dinilai beratnya dengan AGD. || Indikasi, bukan kontraindikasi.
+C: = || Sesak napas perlu evaluasi ventilasi dan oksigenasi. || Justru indikasi AGD.
+D*: = || Risiko hematom dan perdarahan di lokasi tusukan arteri. || Sesuai slide dan recall UAM.
+E: = || Ventilator butuh AGD berkala untuk menyesuaikan setelan. || Indikasi pemantauan.
+p: Kontraindikasi lain: uji Allen negatif (sirkulasi kolateral buruk), infeksi atau luka bakar di lokasi tusukan, fistula AV.
+
+#530 d=1 ty=recall
+ks: Uji Allen menilai kolateral arteri ulnaris sebelum pungsi arteri radialis.
+kw: sirkulasi kolateral; arteri ulnaris; arteri radialis
+an: Nama uji yang tepat untuk kolateral tangan adalah Allen; uji lain menilai vena, TB, saraf medianus, atau kapiler.
+A: = || Uji Trendelenburg menilai insufisiensi katup vena tungkai. || Tidak berhubungan dengan arteri tangan.
+B*: = || Tekan radialis dan ulnaris, kepal–buka, lepas ulnaris; warna kembali < 5–15 detik = kolateral baik. || Memastikan tangan tetap diperdarahi bila radialis cedera.
+C: = || Uji Mantoux (tuberkulin) untuk infeksi TB. || Uji kulit imunologis, bukan sirkulasi.
+D: = || Uji Phalen untuk sindrom terowongan karpal (n. medianus). || Menilai saraf, bukan arteri.
+E: = || Uji Rumple-Leede menilai fragilitas kapiler (petekie). || Menilai kapiler, bukan kolateral arteri.
+p: Uji Allen positif (normal) bila tangan kembali merah dalam beberapa detik.
+
+#531 d=1 ty=recall
+ks: Kecepatan sistem penyangga: kimia (detik) → paru (menit) → ginjal (jam–hari, paling kuat).
+kw: paling lambat; jam hingga hari; paling kuat
+an: Ginjal butuh waktu untuk ekskresi H⁺ dan pembentukan HCO₃⁻ baru, tetapi kapasitasnya paling besar karena dapat membuang asam non-volatil.
+A: = || Paru mengatur CO₂ dalam hitungan menit. || Lebih cepat dari ginjal dan tidak bisa membuang asam non-volatil.
+B: = || Hati memetabolisme laktat/keton tetapi bukan sistem penyangga utama. || Tidak termasuk tiga lini pertahanan asam basa.
+C*: = || Ekskresi H⁺ (sebagai NH₄⁺ dan asam titrasi) dan regenerasi HCO₃⁻. || Kompensasi metabolik butuh 24 jam sampai beberapa hari, tetapi paling kuat.
+D: = || Buffer kimia bekerja dalam hitungan detik. || Tercepat, tetapi kapasitasnya terbatas.
+E: = || Kulit bukan organ pengatur asam basa. || Tidak berperan sebagai sistem penyangga.
+p: Urutan kecepatan: buffer kimia (detik) → paru (menit) → ginjal (jam–hari).
+
+#588 d=2 ty=application
+ks: Asidosis respiratorik kronik pada PPOK dengan kompensasi metabolik sebagian.
+kw: PPOK lama; pH 7,31; pCO₂ 62; HCO₃⁻ 30
+an: pH turun + pCO₂ naik → asidosis respiratorik. HCO₃⁻ naik → kompensasi ginjal. pH belum normal → sebagian.
+A: Alkalosis metabolik primer dengan hipoventilasi || HCO₃⁻ tinggi sebagai gangguan primer. || pH pasien rendah, jadi HCO₃⁻ tinggi adalah kompensasi.
+B*: Asidosis respiratorik dengan kompensasi metabolik || pCO₂ ↑ primer; HCO₃⁻ ↑ kompensasi ginjal. || pH masih asidosis sehingga kompensasi belum sempurna.
+C: Status asam basa normal pada pasien PPOK || pH 7,35–7,45. || pH 7,31 sudah asidemia.
+D: Alkalosis respiratorik kronik || Butuh pCO₂ turun. || pCO₂ pasien 62.
+E: Asidosis metabolik dengan retensi CO₂ || Butuh HCO₃⁻ turun. || HCO₃⁻ pasien 30, naik.
+p: Ingat ROME: Respiratory Opposite (pH turun, pCO₂ naik).
