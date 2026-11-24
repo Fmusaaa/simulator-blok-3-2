@@ -1,0 +1,309 @@
+#261 d=1 ty=recall
+ks: Imunitas nonspesifik: tersedia sebelum infeksi, cepat (jam), durasi pendek, bekerja pada semua patogen, tanpa memori.
+kw: nonspesifik; bawaan; karakteristik
+an: Memori, spesifisitas, dan antibodi adalah ciri adaptif.
+A*: Ada sebelum infeksi, singkat, semua patogen, tanpa memori || Sesuai tabel slide. || Ciri imunitas bawaan.
+B: Diperantarai antibodi yang diproduksi sel plasma || Antibodi bagian respons spesifik. || Tidak sesuai.
+C: Bekerja hanya pada patogen tertentu || Ciri respons spesifik. || Tidak sesuai.
+D: Memiliki mekanisme memori imunologik || Ciri respons spesifik. || Tidak sesuai.
+E: Tersedia setelah infeksi dengan durasi bertahun-tahun || Ciri respons spesifik. || Tidak sesuai.
+
+#262 d=1 ty=recall
+ks: Respons spesifik memiliki memori → respons ulangan lebih cepat dan kuat (dasar vaksinasi).
+kw: spesifik; pembeda
+an: Satu-satunya ciri adaptif di pilihan adalah memori.
+A: Bekerja dalam hitungan jam || Ciri nonspesifik. || Tidak sesuai.
+B: Tersedia sebelum infeksi terjadi || Ciri nonspesifik. || Tidak sesuai.
+C*: Memiliki memori imunologik || Respons ulangan lebih cepat dan kuat. || Dasar vaksinasi.
+D: Bekerja pada semua jenis patogen || Ciri nonspesifik. || Tidak sesuai.
+E: Durasi kerja yang pendek || Ciri nonspesifik. || Tidak sesuai.
+
+#263 d=1 ty=recall
+ks: Innate: makrofag, sel mast, NK, sel dendritik, granulosit, komplemen. Adaptif: sel B, sel T, antibodi.
+kw: komponen innate
+an: Pilih kelompok yang tidak mengandung limfosit B/T atau antibodi.
+A: Sel plasma dan sel B memori || Imunitas adaptif. || Tidak sesuai.
+B*: Makrofag, sel mast, sel NK, granulosit, komplemen || Respons cepat. || Sesuai gambar innate.
+C: Sel T CD4 dan sel T CD8 || Imunitas adaptif. || Tidak sesuai.
+D: Sel B naif beserta antibodi yang dihasilkannya || Imunitas adaptif. || Tidak sesuai.
+E: Antibodi IgG yang beredar di plasma || Imunitas adaptif. || Tidak sesuai.
+
+#264 d=1 ty=recall
+ks: Innate bekerja dalam jam; adaptif butuh hari (aktivasi dan proliferasi klonal).
+kw: waktu; adaptif
+an: Sel B/T harus diaktifkan dan berproliferasi dulu.
+A: Bertahun-tahun sebelum aktif || Terlalu lama. || Tidak sesuai.
+B: 0–12 jam || Waktu respons innate. || Tidak sesuai.
+C: Hitungan detik setelah pajanan || Terlalu cepat. || Tidak sesuai.
+D: Tidak pernah aktif tanpa vaksinasi || Infeksi alami juga mengaktifkan. || Tidak sesuai.
+E*: Hitungan hari sejak infeksi || Aktivasi dan proliferasi klonal. || Sesuai skema slide.
+
+#265 d=1 ty=recall
+ks: Hipersensitivitas: reaksi imun patologik akibat respons berlebihan terhadap antigen sehingga merusak tubuh.
+kw: definisi hipersensitivitas
+an: Kata kunci: berlebihan + kerusakan.
+A: Infeksi virus pada sel-sel imun || Contoh HIV. || Tidak sesuai.
+B: Reaksi imun normal tanpa kerusakan jaringan || Kebalikan definisi. || Tidak sesuai.
+C: Hilangnya toleransi terhadap antigen diri || Definisi autoimunitas. || Tidak sesuai.
+D: Kurangnya respons imun terhadap infeksi || Definisi imunodefisiensi. || Tidak sesuai.
+E*: Respons imun berlebihan yang merusak tubuh || Sesuai definisi slide. || Dibagi tipe I–IV.
+
+#266 d=2 ty=recall
+ks: Gell-Coombs: I IgE; II IgG/IgM terhadap sel; III kompleks imun; IV sel T tersensitisasi (ACID).
+kw: pasangan tipe–mekanisme
+an: Cocokkan tiap pasangan dengan mnemonik ACID.
+A: Tipe IV – IgE pada sel mast || Itu tipe I. || Tidak sesuai.
+B: Tipe I – sel T yang tersensitisasi || Itu tipe IV. || Tidak sesuai.
+C: Tipe II – IgE yang terikat basofil || Itu tipe I. || Tidak sesuai.
+D: Tipe III – sel T sitotoksik || Itu tipe IV. || Tidak sesuai.
+E*: I IgE, II antisel, III kompleks imun, IV sel T || Sesuai tabel slide. || Semua pasangan benar.
+
+#267 d=1 ty=recall
+ks: Tipe I: alergen berikatan dengan IgE yang sudah menempel pada FcεRI sel mast/basofil → degranulasi dalam menit.
+kw: tipe I; interaksi alergen
+an: Sensitisasi dulu (IgE menempel), pajanan ulang memicu reaksi.
+A: Kompleks imun yang mengendap di jaringan || Tipe III. || Tidak sesuai.
+B: IgG pada permukaan eritrosit || Tipe II. || Tidak sesuai.
+C*: IgE yang terikat di sel mast dan basofil || Pada orang yang sudah tersensitisasi. || Sesuai slide.
+D: Sel T CD4 yang melepaskan sitokin || Tipe IV. || Tidak sesuai.
+E: Komplemen secara langsung tanpa antibodi || Bukan mekanisme tipe I. || Tidak sesuai.
+
+#268 d=2 ty=understanding
+ks: Degranulasi sel mast melepaskan amina vasoaktif (histamin) → vasodilatasi, bronkokonstriksi, hipersekresi mukus, gatal, rekrutmen eosinofil.
+kw: sel mast; mediator
+an: Mediator tipe I adalah histamin dan amina vasoaktif.
+A: Perforin dan granzim || Dari sel T sitotoksik/NK. || Tidak sesuai.
+B*: Amina vasoaktif (histamin) || Bekerja pada otot polos, pembuluh, kelenjar, saraf. || Sesuai gambar patogenesis.
+C: Antibodi IgG || Diproduksi sel plasma. || Tidak sesuai.
+D: Kompleks antigen–antibodi yang beredar || Mekanisme tipe III. || Tidak sesuai.
+E: Interferon-γ dari sel Th1 || Mediator tipe IV. || Tidak sesuai.
+
+#269 d=1 ty=application
+ks: Anafilaksis: tipe I sistemik (obat, sengatan lebah); terapi pertama epinefrin IM.
+kw: penisilin; urtikaria; edema laring; hipotensi
+an: Onset menit setelah obat + gejala multisistem → anafilaksis tipe I.
+A: Hipersensitivitas tipe II || Antibodi terhadap sel. || Tidak sesuai.
+B: Imunodefisiensi didapat || Tidak sesuai. || Respons imun justru berlebihan.
+C: Hipersensitivitas tipe IV || Muncul 24–72 jam. || Onset terlalu lambat.
+D*: Tipe I sistemik (syok anafilaktik) || IgE → mediator → bronkokonstriksi, vasodilatasi. || Sesuai slide.
+E: Hipersensitivitas tipe III || Kompleks imun, berhari-hari. || Onset terlalu lambat.
+
+#270 d=1 ty=recall
+ks: Contoh tipe I: rinitis alergi, asma bronkial, syok anafilaktik.
+kw: contoh tipe I
+an: Kenali contoh tiap tipe.
+A: Serum sickness dan reaksi Arthus || Contoh tipe III. || Tidak sesuai.
+B: Reaksi tuberkulin dan granuloma || Contoh tipe IV. || Tidak sesuai.
+C: Reaksi transfusi dan eritroblastosis fetalis || Contoh tipe II. || Tidak sesuai.
+D: Infeksi HIV || Imunodefisiensi. || Tidak sesuai.
+E*: Rinitis alergi, asma, anafilaksis || Sesuai slide. || Contoh tipe I.
+
+#271 d=1 ty=recall
+ks: Tipe II: IgG/IgM terhadap antigen permukaan sel/jaringan → komplemen, opsonisasi, ADCC.
+kw: tipe II; perantara
+an: Tipe II = antibodi terhadap antigen yang menempel di sel.
+A*: IgG/IgM terhadap antigen permukaan sel || Sel target dihancurkan komplemen/opsonisasi/ADCC. || Sesuai slide.
+B: Sel T tersensitisasi yang melepas sitokin || Tipe IV. || Tidak sesuai.
+C: IgE yang menempel pada sel mast || Tipe I. || Tidak sesuai.
+D: Kompleks imun yang beredar lalu mengendap || Tipe III. || Tidak sesuai.
+E: Makrofag yang bekerja tanpa antibodi || Tidak sesuai. || Bukan mekanisme tipe II.
+
+#272 d=1 ty=application
+ks: Reaksi transfusi hemolitik: antibodi resipien terhadap antigen eritrosit donor → hemolisis (tipe II).
+kw: transfusi tidak cocok; urin gelap
+an: Hemolisis eritrosit oleh antibodi → tipe II.
+A: Tipe IV || Sel T, lambat. || Tidak sesuai.
+B*: Tipe II || Antibodi terhadap antigen eritrosit donor. || Sesuai contoh slide.
+C: Tipe III || Kompleks imun terlarut. || Tidak sesuai.
+D: Bukan reaksi imunologik || Ada keterlibatan antibodi. || Tidak sesuai.
+E: Tipe I || Diperantarai IgE. || Tidak sesuai.
+
+#273 d=1 ty=application
+ks: Eritroblastosis fetalis: IgG anti-Rh ibu menembus plasenta → hemolisis eritrosit janin (tipe II).
+kw: ibu Rh negatif; anak kedua; hemolitik
+an: Antibodi terhadap antigen pada eritrosit janin → tipe II.
+A: Imunodefisiensi kongenital || Tidak sesuai. || Bukan kurangnya imun.
+B: Tipe III || Kompleks imun terlarut. || Antigen menempel pada sel.
+C*: Tipe II (eritroblastosis fetalis) || IgG anti-Rh menembus plasenta. || Sesuai contoh slide.
+D: Tipe I || IgE tidak menembus plasenta. || Tidak sesuai.
+E: Tipe IV || Sel T. || Tidak sesuai.
+
+#274 d=1 ty=recall
+ks: Tipe III: kompleks antigen–antibodi mengendap → aktivasi komplemen → rekrutmen PMN → jejas (sering sistemik).
+kw: tipe III; mekanisme
+an: Kompleks imun mengendap di ginjal, sendi, kulit, pembuluh kecil.
+A: Antibodi terhadap antigen permukaan sel || Tipe II. || Tidak sesuai.
+B: Virus menginfeksi sel T CD4 || HIV. || Tidak sesuai.
+C: Sel T memori yang melepas sitokin || Tipe IV. || Tidak sesuai.
+D*: Kompleks imun mengendap, aktivasi komplemen dan PMN || Sesuai slide. || Jejas sistemik.
+E: IgE yang terikat pada sel mast || Tipe I. || Tidak sesuai.
+
+#275 d=2 ty=application
+ks: Serum sickness: antibodi terbentuk ±5 hari, bereaksi dengan antigen asing yang masih beredar → kompleks imun mengendap (tipe III sistemik).
+kw: antiserum kuda; 5 hari; proteinuria
+an: Antigen asing terlarut + beberapa hari + sendi/ginjal/kulit → serum sickness.
+A: Reaksi transfusi hemolitik || Tipe II. || Tidak sesuai.
+B: Syok anafilaktik || Terjadi dalam menit. || Onset tidak sesuai.
+C*: Serum sickness (tipe III) || Kompleks imun mengendap di jaringan. || Sesuai contoh slide.
+D: Reaksi tuberkulin || Tipe IV lokal. || Tidak sesuai.
+E: Imunodefisiensi akibat serum hewan || Tidak sesuai. || Respons imun justru berlebih.
+
+#276 d=2 ty=recall
+ks: Reaksi Arthus: bentuk lokal tipe III; vaskulitis kompleks imun akut dengan nekrosis fibrinoid.
+kw: reaksi Arthus
+an: Arthus = lokal; serum sickness = sistemik.
+A*: Nekrosis lokal akibat vaskulitis kompleks imun || Gambaran nekrosis fibrinoid. || Sesuai slide.
+B: Urtikaria yang muncul dalam beberapa menit || Tipe I. || Tidak sesuai.
+C: Granuloma dengan nekrosis kaseosa || Tipe IV. || Tidak sesuai.
+D: Hemolisis eritrosit oleh antibodi || Tipe II. || Tidak sesuai.
+E: Indurasi 24–72 jam yang diperantarai sel T || Reaksi tuberkulin (tipe IV). || Tidak sesuai.
+
+#277 d=1 ty=application
+ks: DTH (tipe IV): indurasi mulai 8–12 jam, puncak 24–72 jam; diperantarai sel T, bukan antibodi.
+kw: Mantoux; 24–72 jam; indurasi
+an: Waktu lambat + indurasi → tipe IV.
+A*: Tipe IV (tipe lambat/DTH) || Diperantarai sel T tersensitisasi. || Sesuai slide.
+B: Tipe II || Antibodi terhadap sel. || Tidak sesuai.
+C: Tipe I || Reaksi dalam menit. || Terlalu cepat.
+D: Reaksi anafilaktoid nonimunologik || Pelepasan mediator tanpa IgE. || Tidak sesuai.
+E: Tipe III || Kompleks imun. || Tidak sesuai.
+
+#278 d=2 ty=understanding
+ks: Granuloma: antigen persisten tidak terdegradasi → makrofag berubah menjadi sel epiteloid (bentuk khusus DTH) ± sel datia Langhans.
+kw: granuloma; tuberkulosis
+an: Kunci: antigen persisten → DTH kronik.
+A: Produksi IgE yang berlebihan || Tipe I. || Tidak sesuai.
+B: Defisiensi sel T CD4 || Granuloma justru butuh sel T. || Tidak sesuai.
+C*: Antigen persisten mengubah makrofag menjadi epiteloid || Bentuk khusus DTH. || Sesuai slide.
+D: Kompleks imun yang mengendap di glomerulus || Tipe III. || Tidak sesuai.
+E: Antibodi terhadap antigen eritrosit || Tipe II. || Tidak sesuai.
+
+#279 d=2 ty=application
+ks: Dermatitis kontak alergi (nikel) adalah tipe IV yang diperantarai sel T, muncul 24–72 jam.
+kw: nikel; 2 hari; vesikel
+an: Onset 2 hari setelah kontak → reaksi lambat (tipe IV).
+A: Hipersensitivitas tipe II || Antibodi terhadap sel. || Tidak sesuai.
+B: Infeksi bakteri kulit sekunder || Tidak sesuai. || Ada pola pajanan alergen.
+C*: Tipe IV (dermatitis kontak alergi) || Diperantarai sel T, 24–72 jam. || Sesuai konsep DTH.
+D: Hipersensitivitas tipe III || Kompleks imun. || Tidak sesuai.
+E: Hipersensitivitas tipe I || Reaksi dalam menit. || Terlalu cepat.
+
+#280 d=1 ty=recall
+ks: SLE: penyakit inflamasi autoimun kronis dengan manifestasi luas dan perjalanan/prognosis beragam.
+kw: definisi SLE
+an: Autoimun + kronis + multisistem.
+A: Tumor ganas jaringan ikat || Sarkoma. || Tidak sesuai.
+B: Alergi makanan yang diperantarai IgE || Tipe I. || Tidak sesuai.
+C: Imunodefisiensi kongenital || Tidak sesuai. || SLE bukan imunodefisiensi.
+D: Infeksi virus akut pada kulit || Tidak sesuai. || SLE bukan infeksi.
+E*: Autoimun inflamasi kronis multisistem || Prognosis beragam. || Sesuai definisi slide.
+
+#281 d=2 ty=understanding
+ks: Patogenesis SLE: hilangnya self-tolerance, fungsi imun abnormal, produksi autoantibodi berlebih → kompleks imun.
+kw: patogenesis; SLE
+an: SLE = prototipe penyakit kompleks imun.
+A: Infeksi virus pada sel T CD4 || HIV. || Tidak sesuai.
+B: Defisiensi IgE serum || Tidak sesuai. || Tidak terkait SLE.
+C: Kekurangan jumlah sel B || Sel B justru hiperaktif. || Tidak sesuai.
+D*: Hilang toleransi diri, autoantibodi membentuk kompleks imun || Sesuai slide. || Dasar patogenesis SLE.
+E: Kelebihan sel NK yang menyerang jaringan || Tidak sesuai. || Bukan mekanisme SLE.
+
+#282 d=1 ty=recall
+ks: SLE paling sering pada wanita usia reproduksi (rasio ±9:1).
+kw: epidemiologi SLE
+an: Peran estrogen.
+A*: Wanita usia reproduksi || Sesuai slide. || Rasio wanita:pria ± 9:1.
+B: Anak laki-laki usia sekolah || Tidak sesuai. || Jarang.
+C: Pria lanjut usia || Tidak sesuai. || Jarang.
+D: Semua usia dan jenis kelamin sama banyak || Tidak sesuai. || Ada predominansi wanita.
+E: Bayi baru lahir || Tidak sesuai. || Lupus neonatal jarang.
+
+#283 d=1 ty=recall
+ks: Pemicu awal SLE (skema slide): sinar UV atau virus → kerusakan sel dan apoptosis.
+kw: pemicu awal; apoptosis
+an: UV memicu apoptosis keratinosit → fotosensitivitas.
+A: Uji tuberkulin || Uji tipe IV. || Tidak sesuai.
+B: Transfusi darah || Pemicu reaksi tipe II. || Tidak sesuai.
+C: Antiserum kuda || Pemicu serum sickness. || Tidak sesuai.
+D*: Sinar UV atau virus || Sesuai skema slide. || Pasien SLE fotosensitif.
+E: Alergen debu rumah || Pemicu tipe I. || Tidak sesuai.
+
+#284 d=3 ty=analysis
+ks: Pada individu berisiko, sisa apoptosis tidak dibersihkan → pDC memproduksi IFN-α → APC teraktivasi pindah ke KGB → aktivasi limfosit autoreaktif.
+kw: sisa apoptosis; interferon-α
+an: Kegagalan klirens apoptosis adalah sumber antigen inti (DNA, nukleosom).
+A: Produksi IgE meningkat || Tipe I. || Tidak sesuai.
+B*: pDC menghasilkan IFN-α, APC teraktivasi ke KGB || Sesuai skema slide. || Memicu limfosit autoreaktif.
+C: Terbentuk granuloma epiteloid || Tipe IV. || Tidak sesuai.
+D: Sel T CD4 dihancurkan oleh virus || HIV. || Tidak sesuai.
+E: Sisa apoptosis langsung hilang tanpa memicu respons apa pun || Terjadi pada individu normal. || Tidak sesuai.
+
+#285 d=2 ty=recall
+ks: Sel B imatur menjadi matur di KGB dengan bantuan Th (MHC II, CD40, IL-21), lalu menjadi sel plasma penghasil autoantibodi dan sel B memori.
+kw: sel B matur; bantuan
+an: Sel B butuh bantuan sel T helper (CD40–CD40L, sitokin).
+A: Eosinofil || Tidak sesuai. || Bukan sel penolong sel B.
+B: Virus HIV || Tidak sesuai. || Bukan bagian patogenesis SLE.
+C: Sel mast dan IgE || Tipe I. || Tidak sesuai.
+D: Sel NK || Tidak sesuai. || Bukan sel penolong sel B.
+E*: Sel T helper (MHC II, CD40, IL-21) || Sesuai skema slide. || Sel B lalu menjadi sel plasma.
+
+#286 d=2 ty=understanding
+ks: Lingkaran setan SLE: autoantibodi → kompleks imun → komplemen → sel rusak → antigen bertambah → sel B memori → autoantibodi bertambah.
+kw: lingkaran setan; kerusakan jaringan
+an: Mirip epitope spreading: kerusakan menambah antigen.
+A: Antigen langsung dibuang oleh ginjal || Tidak sesuai. || Tidak menjelaskan amplifikasi.
+B: IgE berikatan dengan sel mast || Tipe I. || Tidak sesuai.
+C: Sel T sitotoksik dihancurkan || Tidak sesuai. || Bukan mekanisme slide.
+D*: Sel rusak melepas antigen, autoantibodi makin banyak || Kompleks imun mengaktifkan komplemen. || Sesuai skema slide.
+E: Produksi antibodi berhenti setelah kerusakan || Tidak sesuai. || Justru meningkat.
+
+#287 d=1 ty=recall
+ks: HIV menyerang sel T CD4 → imunitas seluler melemah (imunodefisiensi didapat).
+kw: HIV; imunodefisiensi
+an: Target utama: sel T CD4.
+A: Meningkatkan IgE secara berlebihan || Tidak sesuai. || Bukan mekanisme HIV.
+B*: Menyerang sel T CD4 || Jumlah CD4 turun. || Sesuai slide.
+C: Membentuk kompleks imun di sendi || Tidak sesuai. || Bukan mekanisme utama.
+D: Menghancurkan eritrosit di limpa || Tidak sesuai. || Bukan target HIV.
+E: Menyerang sel beta pankreas || Tidak sesuai. || Bukan target HIV.
+
+#288 d=2 ty=recall
+ks: Siklus HIV: binding → fusion → reverse transcription → integration → replication → assembly → budding.
+kw: siklus hidup HIV
+an: Masuk → ubah RNA ke DNA → sisip → perbanyak → rakit → keluar.
+A: Integrasi → transkripsi balik → binding || Urutan salah. || Tidak sesuai.
+B*: Binding → fusi → RT → integrasi → replikasi → assembly → budding || Sesuai gambar slide. || Urutan benar.
+C: Replikasi → binding → fusi → integrasi → budding || Urutan salah. || Tidak sesuai.
+D: Assembly → fusi → budding → binding → replikasi || Urutan salah. || Tidak sesuai.
+E: Budding → binding → integrasi → fusi → assembly || Urutan salah. || Tidak sesuai.
+
+#289 d=1 ty=recall
+ks: Reverse transcription: RNA virus → DNA oleh reverse transcriptase (target NRTI/NNRTI).
+kw: RNA menjadi DNA
+an: "Reverse" karena arah kebalikan dogma sentral.
+A*: Reverse transcription || Dikatalisis reverse transcriptase. || Target NRTI dan NNRTI.
+B: Integration || Penyisipan DNA virus ke genom sel. || Tidak sesuai.
+C: Budding || Virion keluar dari sel. || Tidak sesuai.
+D: Assembly || Perakitan komponen virion. || Tidak sesuai.
+E: Binding || Penempelan gp120 ke CD4. || Tidak sesuai.
+
+#290 d=1 ty=recall
+ks: Sindrom retroviral akut: mirip flu (demam, nyeri tenggorokan, limfadenopati, ruam, mialgia, keringat malam, sariawan).
+kw: HIV akut; gejala
+an: Gejala tidak khas seperti flu.
+A: Poliuria dan polidipsia || Gejala diabetes. || Tidak sesuai.
+B: Ikterus dan asites || Gejala penyakit hati. || Tidak sesuai.
+C: Eksoftalmus dan tremor halus || Gejala penyakit Graves. || Tidak sesuai.
+D: Hemartrosis berulang || Gejala hemofilia. || Tidak sesuai.
+E*: Demam, nyeri tenggorokan, limfadenopati, ruam || Mirip flu. || Sesuai gambar slide.
+
+#547 d=1 ty=recall
+ks: IgE berperan pada hipersensitivitas tipe I.
+kw: imunoglobulin; alergi
+an: IgE terikat sel mast/basofil.
+
+#548 d=1 ty=application
+ks: Uji tuberkulin = hipersensitivitas tipe lambat (tipe IV), dibaca 48–72 jam.
+kw: Mantoux; mekanisme
+an: Sel T memori → IFN-γ → aktivasi makrofag → indurasi.
