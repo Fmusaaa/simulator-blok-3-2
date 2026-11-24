@@ -15,10 +15,16 @@ def render(bank,out,title,logo,h1,intro,examtitle,key,showall=False,tpl=None,cus
     os.makedirs(os.path.dirname(out) or '.',exist_ok=True)
     open(out,'w').write(h); print(out,len(bank['qs']),'soal')
 
-# 1) Simulator utama
+# 1) Simulator utama = platform v2 (src/app/*)
+def app_template():
+    A='src/app/'
+    sh=open(A+'shell.html').read()
+    css=open(A+'base.css').read()+'\n'+open(A+'app.css').read()
+    js=open(A+'app.js').read().replace('__OLDKEY__','sim-blok32-v1')
+    return sh.replace('/*__CSS__*/',css).replace('/*__JS__*/',js)
 b=json.load(open('data/bank.json'))
-render(b,'index.html','Simulator Blok 3.2','Simulator <span>Blok 3.2</span>','Bank soal Blok 3.2',
-       'soal dari 20 judul PPT dosen + recall UAM 3.2.','Simulasi ujian Blok 3.2','sim-blok32-v1',showall=True,custom=True)
+render(b,'index.html','Simulator Blok 3.2 · Medical Exam & Learning','Simulator <span>Blok 3.2</span>','Bank soal Blok 3.2',
+       '','Simulasi ujian Blok 3.2','sim-blok32-v2',tpl=app_template())
 
 # 2) Simulator recall UAM 3.2 tahun 2024 (terpisah)
 U=[]
