@@ -1,0 +1,207 @@
+#1 d=1 ty=recall
+ks: Mekanisme transpor aktif primer pompa Na⁺/K⁺-ATPase yang menjaga gradien Na⁺ ekstrasel dan K⁺ intrasel.
+kw: Na⁺/K⁺-ATPase; setiap siklus; memindahkan ion
+an: Ingat stoikiometri 3:2:1 — tiga Na⁺ dikeluarkan, dua K⁺ dimasukkan, satu ATP dipakai. Opsi lain menukar arah ion atau menyebut transporter lain.
+A: 1 Ca²⁺ keluar sel dengan memakai 1 ATP || Pompa Ca²⁺-ATPase (PMCA/SERCA) yang mengeluarkan Ca²⁺ dari sitosol. || Ion yang dipindahkan berbeda; Na⁺/K⁺-ATPase tidak mengangkut Ca²⁺.
+B: 2 Na⁺ dan 2 K⁺ masuk sel tanpa memakai ATP || Pergerakan searah tanpa energi adalah difusi/kanal, bukan pompa. || Na⁺/K⁺-ATPase adalah transpor aktif primer yang wajib menghidrolisis ATP dan arah kedua ion berlawanan.
+C*: 3 Na⁺ keluar sel dan 2 K⁺ masuk sel memakai 1 ATP || Pompa elektrogenik: tiap siklus menghasilkan muatan positif bersih keluar sel. || Inilah yang mempertahankan Na⁺ tinggi di ekstrasel dan K⁺ tinggi di intrasel serta potensial membran istirahat.
+D: 1 Na⁺, 1 K⁺, dan 2 Cl⁻ masuk sel bersamaan || Ini kotransporter NKCC (misalnya NKCC2 di ansa Henle, target furosemid). || Kotransporter memakai gradien Na⁺ (transpor aktif sekunder), bukan pompa Na⁺/K⁺ yang menghidrolisis ATP.
+E: 3 K⁺ keluar sel dan 2 Na⁺ masuk memakai 1 ATP || Stoikiometrinya benar tetapi arah ionnya terbalik. || Bila K⁺ dikeluarkan dan Na⁺ dimasukkan, gradien normal justru rusak.
+
+#2 d=1 ty=recall
+ks: Distribusi cairan tubuh: total ±60% BB, intrasel 2/3 (±40% BB) dan ekstrasel 1/3 (±20% BB: interstisial ±15%, plasma ±5%).
+kw: distribusi cairan tubuh; kompartemen
+an: Hitung dari aturan 60–40–20: ICF 40% BB, ECF 20% BB, dan ECF dibagi interstisial (3/4) serta plasma (1/4).
+A*: Intrasel ±40% BB; ekstrasel ±20% BB (interstisial 15%, plasma 5%) || Total air tubuh dewasa ±60% BB; 2/3 di intrasel, 1/3 di ekstrasel. || Angka ini sesuai aturan 60–40–20 dan pembagian ECF menjadi interstisial dan plasma.
+B: Kation utama cairan intrasel adalah Na⁺, bukan K⁺ || Na⁺ adalah kation utama ekstrasel. || Kation utama intrasel adalah K⁺ (±140 mmol/L), dijaga oleh pompa Na⁺/K⁺.
+C: Plasma adalah kompartemen cairan tubuh terbesar || Plasma hanya ±5% BB (±3 L pada dewasa 70 kg). || Kompartemen terbesar adalah cairan intrasel (±40% BB).
+D: Cairan ekstrasel (±40% BB) lebih banyak dari intrasel || Perbandingannya terbalik. || ECF hanya ±1/3 air tubuh; ICF ±2/3.
+E: Cairan interstisial ±40% BB, plasma ±20% BB || Angka ini tertukar dengan proporsi ICF/ECF. || Interstisial sebenarnya ±15% BB dan plasma ±5% BB.
+
+#3 d=1 ty=recall
+ks: Fungsi natrium sebagai kation utama ekstrasel dan penentu utama osmolalitas plasma.
+kw: kation utama ekstraseluler; diatur ginjal; tekanan osmotik
+an: Kata kunci "kation" + "ekstrasel" + "tekanan osmotik" langsung menunjuk Na⁺. Cl⁻ juga ekstrasel tetapi anion; K⁺ kation tetapi intrasel.
+A*: Natrium (Na⁺) || Kation utama ECF (136–145 mmol/L); osmolalitas plasma ≈ 2×Na + glukosa/18 + BUN/2,8. || Na⁺ menentukan tekanan osmotik dan volume ECF, dan keseimbangannya diatur ginjal (aldosteron, ADH, ANP).
+B: Kalium (K⁺) || Kation utama intrasel; kadar serum hanya 3,5–5,1 mmol/L. || Kadar ekstraselnya kecil sehingga kontribusinya pada osmolalitas plasma minimal.
+C: Kalsium (Ca²⁺) || Berperan pada tulang, kontraksi otot, dan koagulasi. || Kadarnya ±2,5 mmol/L, terlalu kecil untuk menjadi penentu osmotik ECF.
+D: Klorida (Cl⁻) || Anion utama ECF (98–107 mmol/L). || Stem meminta kation; Cl⁻ bermuatan negatif.
+E: Magnesium (Mg²⁺) || Kofaktor ratusan enzim, sebagian besar di tulang dan intrasel. || Bukan elektrolit utama ECF dan tidak menentukan tekanan osmotik plasma.
+
+#4 d=1 ty=recall
+ks: Kalium sebagai kation utama intrasel yang menentukan potensial membran istirahat jaringan saraf, otot, dan jantung.
+kw: kation utama intraseluler; neuromuskular; jantung
+an: Kation + intrasel + efek jantung = K⁺. Perubahan kecil K⁺ serum mengubah eksitabilitas miokard, sehingga sangat relevan klinis.
+A: Bikarbonat (HCO₃⁻) || Anion dan penyangga utama ECF (22–28 mmol/L). || Bukan kation dan bukan elektrolit utama intrasel.
+B*: Kalium (K⁺) || ±98% K⁺ tubuh berada di intrasel; menentukan potensial membran istirahat. || Hipo- maupun hiperkalemia cepat menimbulkan kelemahan otot dan aritmia.
+C: Natrium (Na⁺) || Kation utama ekstrasel. || Kadar Na⁺ intrasel rendah (±10 mmol/L) karena dipompa keluar.
+D: Klorida (Cl⁻) || Anion utama ekstrasel. || Muatannya negatif dan letaknya terutama ekstrasel.
+E: Kalsium (Ca²⁺) || Kadar Ca²⁺ bebas sitosol sangat rendah (±100 nmol/L). || Ca²⁺ penting untuk kontraksi, tetapi bukan kation utama intrasel secara kuantitatif.
+
+#5 d=1 ty=recall
+ks: Klorida sebagai anion utama ekstrasel: menjaga netralitas listrik, ikut keseimbangan asam basa, dan bahan HCl lambung.
+kw: anion utama ekstraseluler; netralitas serum; HCl lambung
+an: "Anion" menyingkirkan Na⁺; "pembentukan HCl lambung" menunjuk Cl⁻. HCO₃⁻ juga anion ECF tetapi kadarnya lebih rendah dan bukan bahan HCl.
+A: Natrium (Na⁺) || Kation utama ekstrasel. || Stem meminta anion; Na⁺ bermuatan positif.
+B: Bikarbonat (HCO₃⁻) || Anion ECF kedua terbanyak dan penyangga utama. || Bikarbonat justru disekresi pankreas untuk menetralkan HCl, bukan membentuknya.
+C: Fosfat (HPO₄²⁻) || Anion utama intrasel. || Kadarnya di ECF rendah dan tidak membentuk HCl.
+D: Sulfat (SO₄²⁻) || Anion minor, bagian dari unmeasured anion. || Kadarnya sangat kecil dan tidak berperan pada HCl.
+E*: Klorida (Cl⁻) || Anion utama ECF (98–107 mmol/L), bergerak bersama Na⁺. || Cl⁻ menyeimbangkan muatan kation, menjadi komponen anion gap, dan disekresi sel parietal sebagai HCl.
+
+#6 d=1 ty=recall
+ks: Metode pemeriksaan elektrolit: ion-selective electrode (ISE) kini paling banyak dipakai untuk Na⁺, K⁺, Cl⁻.
+kw: metode paling banyak; Na⁺ dan K⁺; IGD dan ICU
+an: Metode yang cepat, murah, akurat, dan bisa di analyzer maupun POCT adalah ISE. Fotometri nyala adalah metode lama yang sudah ditinggalkan.
+A: Fotometri nyala (flame emission photometry) || Metode klasik Na⁺/K⁺ berdasar emisi cahaya ion dalam nyala. || Sudah jarang dipakai karena butuh gas mudah terbakar dan rawan kesalahan; digantikan ISE.
+B: Pemeriksaan mikroskopis sedimen serum || Mikroskopi dipakai untuk sel/kristal, bukan ion terlarut. || Ion tidak dapat dihitung secara mikroskopis.
+C: Spektrofotometri enzimatik || Ada untuk beberapa analit (mis. Mg²⁺, Ca²⁺, beberapa metode Na/K). || Tersedia, tetapi bukan metode yang paling banyak dipakai untuk Na⁺/K⁺.
+D: Titrasi merkurimetri || Metode lama penetapan klorida. || Hanya untuk Cl⁻ dan sudah ditinggalkan.
+E*: Ion-selective electrode (ISE) || Potensiometri: cepat, sederhana, murah, akurat. || Dipakai di analyzer laboratorium (indirect) maupun POCT/blood gas (direct).
+
+#7 d=2 ty=understanding
+ks: Prinsip potensiometri ISE: beda potensial antara elektroda kerja dan referensi sebanding dengan aktivitas ion.
+kw: prinsip kerja; ion-selective electrode
+an: Bedakan prinsip tiap metode: ISE = potensial listrik; spektrofotometri = serapan cahaya; turbidimetri = kekeruhan; fotometri nyala = emisi cahaya nyala.
+A*: Mengukur beda potensial elektroda kerja terhadap elektroda referensi || Membran selektif ion menghasilkan potensial yang sebanding dengan log aktivitas ion (persamaan Nernst). || Ini prinsip potensiometri yang menjadi dasar ISE.
+B: Menghitung jumlah ion yang terlihat di bawah mikroskop || Ion tidak tampak dengan mikroskop cahaya. || Tidak ada metode elektrolit berbasis penghitungan mikroskopis.
+C: Mengukur serapan cahaya oleh larutan berwarna || Prinsip spektrofotometri/kolorimetri (hukum Lambert–Beer). || Itu metode optik, bukan elektrokimia.
+D: Mengukur kekeruhan akibat ikatan antigen–antibodi || Prinsip turbidimetri/nefelometri untuk protein. || Tidak dipakai untuk mengukur ion Na⁺/K⁺.
+E: Mengukur intensitas warna emisi nyala api || Prinsip fotometri nyala. || Itu metode optik lama, bukan ISE.
+
+#8 d=2 ty=understanding
+ks: Perbedaan direct ISE (tanpa pengenceran; POCT/blood gas) dan indirect ISE (dengan prapengenceran; analyzer kimia).
+kw: POCT; blood gas analyzer; tanpa pengenceran
+an: "Tanpa pengenceran" adalah ciri direct ISE. Indirect ISE mengencerkan sampel dulu sehingga dipakai autoanalyzer kimia.
+A: Fotometri nyala dengan sampel darah utuh || Metode lama yang butuh pengenceran. || Tidak dipakai pada POCT atau blood gas analyzer modern.
+B: Kolorimetri dengan reagen kering || Metode optik, mis. pada strip/slide kering. || Prinsipnya optik, bukan pengukuran langsung aktivitas ion.
+C: Elektroforesis serum dengan pewarnaan || Memisahkan protein berdasarkan muatan. || Tidak dipakai untuk kadar elektrolit.
+D*: ISE langsung (direct ISE) || Sampel langsung kontak dengan elektroda, mengukur aktivitas ion dalam air plasma. || Ciri ini sesuai alat POCT dan blood gas analyzer; bisa memakai darah utuh.
+E: ISE tidak langsung (indirect ISE) || Sampel diencerkan ±1:20 dengan buffer sebelum diukur. || Ada tahap pengenceran, sehingga tidak sesuai deskripsi stem.
+
+#9 d=2 ty=understanding
+ks: Indirect ISE pada analyzer kimia otomatis: prapengenceran sampel ±1:20 dengan buffer berkekuatan ion tinggi.
+kw: analyzer kimia otomatis; high-throughput; laboratorium sentral
+an: Alat throughput tinggi butuh sampel sedikit sehingga mengencerkan sampel; itulah indirect ISE.
+A: ISE langsung tanpa pengenceran sampel || Dipakai POCT dan blood gas analyzer. || Bukan metode khas analyzer kimia otomatis kapasitas besar.
+B: Mikroskop elektron dengan analisis spektrum || Alat riset struktur sel. || Tidak dipakai untuk elektrolit rutin.
+C: Strip urin semikuantitatif (dipstik) || Untuk urinalisis cepat. || Tidak mengukur elektrolit serum secara kuantitatif.
+D*: ISE tidak langsung dengan pengenceran ±1:20 || Mengukur ion dalam volume plasma total setelah diencerkan buffer. || Sesuai slide: sampel sedikit, cocok untuk analyzer kapasitas besar.
+E: Titrasi manual dengan indikator warna || Metode lama, terutama untuk Cl⁻. || Terlalu lambat untuk laboratorium throughput tinggi.
+
+#10 d=3 ty=analysis
+ks: Pseudohiponatremia: hasil Na⁺ palsu rendah pada indirect ISE ketika fase padat plasma (lipid/protein) meningkat; osmolalitas tetap normal.
+kw: hiperlipidemia berat; paraproteinemia; ISE tidak langsung; osmolalitas normal
+an: Na⁺ rendah + osmolalitas normal + lipid/protein sangat tinggi + metode indirect ISE → artefak pengukuran. Konfirmasi dengan direct ISE yang tidak terpengaruh.
+A: Hipernatremia akibat hemokonsentrasi || Na⁺ > 145 mmol/L. || Hasil pasien justru rendah (128 mmol/L).
+B: Hiponatremia hipotonik sejati || Na⁺ dalam air plasma memang rendah dan osmolalitas turun. || Osmolalitas pasien normal, sehingga bukan hipotonik.
+C: Pseudohiperkalemia akibat hemolisis || K⁺ palsu tinggi karena sel pecah. || Masalahnya pada Na⁺, dan penyebabnya lipid/protein, bukan hemolisis.
+D*: Pseudohiponatremia || Fase padat plasma naik sehingga air per volume plasma berkurang; indirect ISE mengencerkan volume total. || Na⁺ dalam air plasma sebenarnya normal, terbukti dari osmolalitas normal.
+E: Hiponatremia hipertonik karena hiperglikemia || Glukosa tinggi menarik air ke ECF sehingga Na⁺ turun dan osmolalitas naik. || Osmolalitas pasien normal, dan pemicunya lipid/paraprotein, bukan glukosa.
+n+: Opsi E pada versi revisi menggantikan "hipokloremia" agar distraktor lebih bermakna; literatur: hiponatremia translokasional akibat hiperglikemia [Tambahan di luar PPT].
+
+#11 d=2 ty=application
+ks: Pseudohiperkalemia akibat hemolisis in vitro: K⁺ intrasel eritrosit keluar ke serum.
+kw: tanpa keluhan; EKG normal; hemolisis +2; kalium 6,9
+an: Hiperkalemia berat tanpa gejala dan tanpa perubahan EKG pada sampel hemolisis → curigai artefak. Langkah benar: ambil ulang sampel dengan teknik baik sebelum terapi.
+A: Gagal ginjal akut dengan gangguan ekskresi kalium || Penyebab hiperkalemia sejati yang sering. || Tidak ada data klinis gangguan ginjal; sampel hemolisis menjelaskan hasil.
+B: Pseudohiponatremia karena lipemia sampel || Artefak pada pengukuran Na⁺. || Na⁺ pasien normal dan masalahnya hemolisis, bukan lipemia.
+C: Hiperkalemia berat yang memerlukan terapi segera || Terapi (Ca-glukonas, insulin-glukosa) diberikan pada hiperkalemia sejati. || Klinis dan EKG normal; harus konfirmasi dengan sampel ulang tanpa hemolisis.
+D: Hipokalemia yang tertutup efek hemolisis || Hemolisis hanya menaikkan K⁺, tidak menyamarkan K⁺ rendah menjadi 6,9. || Tidak ada dasar menyimpulkan hipokalemia dari data ini.
+E*: Pseudohiperkalemia akibat hemolisis sampel || K⁺ intrasel eritrosit ±25× lebih tinggi dari plasma; sel pecah melepaskannya. || Pasien asimtomatik, EKG normal, dan serum hemolisis +2 → hasil palsu.
+
+#12 d=2 ty=understanding
+ks: Pemilihan antikoagulan untuk elektrolit plasma: lithium/amonium heparin tidak menambah Na⁺ atau K⁺.
+kw: plasma; antikoagulan yang dianjurkan; elektrolit
+an: Antikoagulan garam natrium menaikkan Na⁺; K₂EDTA menaikkan K⁺ dan mengikat Ca²⁺. Yang aman adalah heparin dengan kation selain Na⁺/K⁺.
+A: Natrium fluorida/kalium oksalat (tabung abu-abu) || Penghambat glikolisis untuk pemeriksaan glukosa. || Menambah Na⁺ dan K⁺ sehingga hasil elektrolit palsu.
+B: Natrium sitrat 3,2% (tabung biru) || Antikoagulan untuk tes koagulasi (PT/APTT). || Menambah Na⁺ dan mengencerkan sampel 1:9.
+C: Natrium heparin || Heparin dalam bentuk garam natrium. || Menambah Na⁺ ke sampel sehingga Na⁺ palsu tinggi.
+D*: Lithium heparin atau amonium heparin || Heparin dengan kation yang tidak diukur pada panel elektrolit. || Sesuai slide: tidak menambah Na⁺ maupun K⁺.
+E: K₂EDTA (tabung ungu) || Antikoagulan untuk hematologi rutin. || Menambah K⁺ (K palsu sangat tinggi) dan mengikat Ca²⁺ (Ca palsu rendah).
+
+#13 d=2 ty=understanding
+ks: Stabilitas dan penyimpanan sampel elektrolit: serum Na⁺/K⁺ stabil ±1 minggu pada 2–8 °C; darah utuh jangan didinginkan sebelum dipisah.
+kw: penyimpanan sampel; stabil; darah utuh
+an: Pendinginan menghambat pompa Na⁺/K⁺ eritrosit sehingga K⁺ bocor keluar. Maka serum dipisah dulu, baru serum yang disimpan dingin.
+A*: Serum stabil ±1 minggu pada 2–8 °C; darah utuh jangan didinginkan || Pompa Na⁺/K⁺ eritrosit berhenti pada suhu dingin sehingga K⁺ keluar sel. || Sesuai slide sample storage: pisahkan serum dulu, baru simpan.
+B: Sampel urin elektrolit disimpan pada suhu 37 °C || Suhu tubuh mempercepat pertumbuhan bakteri dan penguapan. || Urin untuk elektrolit disimpan dingin (2–8 °C).
+C: Darah utuh segera dimasukkan kulkas sebelum disentrifus || Kesalahan pra-analitik yang sering. || Justru menyebabkan pseudohiperkalemia karena K⁺ keluar dari eritrosit.
+D: Serum hanya stabil 10 menit sehingga wajib diperiksa segera || Batas waktu ini tidak sesuai materi. || Idealnya diperiksa dalam 1–2 jam, tetapi serum terpisah tetap stabil berhari-hari.
+E: Serum untuk klorida harus dibekukan agar stabil || Pembekuan tidak diperlukan. || Slide: klorida stabil ±1 minggu pada 2–30 °C.
+
+#14 d=1 ty=application
+ks: Interpretasi hasil elektrolit: hiponatremia bila Na⁺ < 135–136 mmol/L; sering pada lansia dan pasien rawat inap dengan gejala neurologis.
+kw: lansia panti wreda; bingung; Na 128
+an: Bandingkan tiap parameter dengan rujukan: Na⁺ 128 (rendah), K⁺ 4,0 (normal), Cl⁻ 95 (rendah, ikut Na⁺). Gangguan utamanya hiponatremia.
+A: Hipernatremia akibat dehidrasi lansia || Na⁺ > 145 mmol/L. || Na⁺ pasien 128, di bawah rujukan.
+B: Hiperkloremia akibat asidosis || Cl⁻ > 106 mmol/L. || Cl⁻ pasien 95, justru rendah.
+C: Hiperkalemia akibat insufisiensi ginjal || K⁺ > 5,1–5,5 mmol/L. || K⁺ pasien 4,0, dalam batas normal.
+D: Hipokalemia akibat asupan kurang || K⁺ < 3,5 mmol/L. || K⁺ pasien normal.
+E*: Hiponatremia || Na⁺ < 135 mmol/L; gangguan elektrolit tersering di rumah sakit. || Na⁺ 128 dengan gejala neurologis (bingung) pada lansia sesuai hiponatremia.
+p: Slide: prevalensi hiponatremia ±1% di panti wreda, 18% rawat inap akut, 30% di ICU; hiponatremia ringan-kronik sering tanpa gejala atau dengan gejala neurologis dan GI.
+
+#15 d=2 ty=application
+ks: Hipernatremia dan hiperkloremia pada dehidrasi akibat diare berat pada anak.
+kw: diare cair; haus; Na 154; Cl 112
+an: Na⁺ dan Cl⁻ sama-sama tinggi pada anak diare yang haus → kehilangan air relatif lebih banyak dari garam (dehidrasi hipernatremik).
+A: Hipokloremia akibat muntah || Cl⁻ rendah. || Cl⁻ pasien 112, tinggi.
+B: Pseudohiponatremia akibat lipemia || Na⁺ palsu rendah. || Na⁺ pasien justru tinggi.
+C: Hiponatremia karena kehilangan Na⁺ di tinja || Na⁺ < 135 mmol/L. || Na⁺ pasien 154, di atas rujukan.
+D*: Hipernatremia + hiperkloremia, sesuai dehidrasi || Na⁺ > 150 (batas slide) dan Cl⁻ > 106 mmol/L. || Slide: hiperkloremia terjadi pada dehidrasi dan diare berat.
+E: Hiperkalemia akibat kerusakan sel || K⁺ > 5,1 mmol/L. || K⁺ pasien 3,9, normal.
+p: Slide mendefinisikan hipernatremia > 150 mEq/L (literatur lain > 145). Insidensnya lebih jarang (0,3–8,9% pasien rawat inap).
+
+#16 d=2 ty=application
+ks: Klasifikasi hiperkalemia menurut European Resuscitation Council: > 5,5 mmol/L; berat > 6,5 mmol/L.
+kw: gagal ginjal kronik; K 7,0; tidak hemolisis; ERC
+an: Sampel tidak hemolisis dan ada penyebab nyata (GGK) → hiperkalemia sejati. Nilai 7,0 melewati ambang berat 6,5.
+A*: Hiperkalemia berat (> 6,5 mmol/L) || ERC: hiperkalemia > 5,5; berat > 6,5 mmol/L. || K⁺ 7,0 pada GGK dengan sampel baik = hiperkalemia sejati derajat berat.
+B: Hiperkalemia ringan (5,5–6,0 mmol/L) || Kategori ringan menurut ERC. || Nilai pasien jauh di atas rentang ini.
+C: Hipokalemia relatif akibat asidosis || K⁺ < 3,5 mmol/L. || Kadar pasien tinggi, bukan rendah.
+D: Masih normal untuk pasien gagal ginjal || Rujukan K⁺ 3,5–5,1 mmol/L berlaku umum. || Tidak ada "rujukan khusus GGK"; 7,0 tetap berbahaya.
+E: Pseudohiperkalemia akibat artefak sampel || Biasanya karena hemolisis/trombositosis/EDTA. || Sampel tidak hemolisis dan ada penyebab klinis yang jelas.
+p: Hiperkalemia dapat terjadi pada hipoksia, sepsis, gagal jantung, dan gagal ginjal. Keterlambatan tata laksana mengancam nyawa.
+
+#17 d=2 ty=application
+ks: Gambaran EKG hiperkalemia: gelombang T tinggi runcing sebagai tanda paling awal dan paling khas.
+kw: gagal ginjal kronik; kalium 7,0; EKG khas
+an: Urutkan perubahan EKG hiperkalemia: T runcing → PR memanjang/P datar → QRS melebar → sine wave. Gelombang U dan T datar adalah hipokalemia.
+A: QT memanjang akibat hipokalsemia || Hipokalsemia memperpanjang segmen ST/interval QT. || Ini gambaran gangguan kalsium, bukan kalium tinggi.
+B: Gelombang delta dengan PR pendek || Khas sindrom Wolff–Parkinson–White (jalur aksesori). || Tidak berhubungan dengan elektrolit.
+C: Gelombang U yang menonjol || Tanda klasik hipokalemia. || Pasien hiperkalemia, bukan hipokalemia.
+D: Gelombang T mendatar atau terbalik || Juga tanda hipokalemia (bersama depresi ST). || Arah perubahannya berlawanan dengan hiperkalemia.
+E*: Gelombang T tinggi dan runcing (peaked T) || Repolarisasi dipercepat oleh K⁺ ekstrasel tinggi. || Tanda EKG paling awal dan paling khas hiperkalemia.
+p: Progresi hiperkalemia: T runcing → PR memanjang dan P mendatar → QRS melebar → pola sine wave → fibrilasi ventrikel/asistol.
+
+#18 d=2 ty=application
+ks: Hipokloremia akibat kehilangan HCl lambung pada muntah berulang (gangguan saluran cerna).
+kw: muntah berulang; stenosis pilorus; Cl 85; K 3,2
+an: Muntah membuang HCl → Cl⁻ turun; HCO₃⁻ tertahan (alkalosis metabolik) dan ginjal membuang K⁺ → hipokalemia. Pola ini cocok dengan hasil pasien.
+A*: Hipokloremia akibat kehilangan HCl lambung || Slide: hipokloremia (< 96 mEq/L) terjadi pada gangguan GI dan ginjal. || Muntah berulang membuang HCl sehingga Cl⁻ serum turun.
+B: Hiperkloremia akibat dehidrasi || Cl⁻ > 106 mmol/L. || Cl⁻ pasien 85, rendah.
+C: Hiperkloremia pada sindrom Cushing || Retensi Na⁺/Cl⁻ akibat efek mineralokortikoid. || Arah kelainan berlawanan dan tidak ada tanda Cushing.
+D: Pseudohipokloremia akibat lipemia sampel || Artefak indirect ISE pada lipemia. || Ada penyebab klinis jelas (muntah) dan tidak ada data lipemia.
+E: Klorida masih normal, hanya kalium yang turun || Rujukan Cl⁻ 98–107 mmol/L. || Cl⁻ 85 jelas di bawah rujukan.
+p: Muntah juga menyebabkan alkalosis metabolik hipokloremik dan hipokalemia.
+
+#19 d=2 ty=recall
+ks: Penyebab hiperkloremia (> 106 mEq/L) menurut slide: dehidrasi, sindrom Cushing, hiperaldosteronisme, diare berat, asidosis respiratorik.
+kw: hiperkloremia; > 106 mEq/L; penyebab
+an: Kenali kelompok penyebab: kehilangan air relatif (dehidrasi), retensi NaCl (Cushing, hiperaldosteron), kehilangan HCO₃⁻ (diare). Overhidrasi, diuretik loop, dan muntah menurunkan Cl⁻.
+A*: Dehidrasi, Cushing, hiperaldosteronisme, diare berat || Daftar penyebab hiperkloremia di slide (ditambah asidosis respiratorik). || Semua menaikkan Cl⁻ lewat hemokonsentrasi, retensi NaCl, atau kehilangan HCO₃⁻.
+B: Gagal jantung dengan retensi air yang berlebihan || Retensi air lebih besar dari garam mengencerkan elektrolit. || Cenderung menyebabkan hiponatremia/hipokloremia dilusional.
+C: Overhidrasi dengan cairan hipotonik berlebihan || Air bebas berlebih mengencerkan Cl⁻. || Menyebabkan hipokloremia, bukan hiperkloremia.
+D: Pemakaian diuretik loop jangka panjang || Menghambat NKCC2 sehingga NaCl terbuang. || Menyebabkan hipokloremia dan alkalosis metabolik.
+E: Muntah berulang akibat obstruksi pilorus || Kehilangan HCl lambung. || Menyebabkan hipokloremia, bukan hiperkloremia.
+p: Diare berat membuang HCO₃⁻ sehingga Cl⁻ ditahan (asidosis metabolik hiperkloremik, anion gap normal).
+
+#20 d=1 ty=application
+ks: Interpretasi kalium serum terhadap rujukan 3,5–5,1 mmol/L dan gejala hipokalemia.
+kw: K 3,1; kelemahan otot; kram
+an: 3,1 < 3,5 → hipokalemia; gejala neuromuskular (lemah, kram) mendukung karena K⁺ rendah menghiperpolarisasi membran.
+A: Hipokloremia || Gangguan kadar klorida. || Data yang diberikan adalah kalium, bukan klorida.
+B: Normokalemia (masih batas bawah) || Rujukan 3,5–5,1 mmol/L. || 3,1 sudah di bawah batas bawah.
+C: Hiponatremia || Gangguan kadar natrium. || Tidak ada data Na⁺; yang abnormal adalah K⁺.
+D*: Hipokalemia || K⁺ di bawah 3,5 mmol/L. || Gejala lemah otot dan kram sesuai tabel "too little K⁺" di slide.
+E: Hiperkalemia || K⁺ di atas 5,1 mmol/L. || Arah kelainan terbalik.
+p: Nilai rujukan di slide: Na 136–145, K 3,5–5,1, Cl 98–107, HCO₃⁻ 22–28 mmol/L.
