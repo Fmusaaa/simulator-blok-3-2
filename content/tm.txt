@@ -1,0 +1,439 @@
+#51 d=1 ty=recall
+ks: Definisi petanda tumor: tumor-derived product atau tumor-associated product (dibuat sel normal sebagai respons terhadap tumor).
+kw: diproduksi sel tumor; atau oleh sel lain sebagai
+an: Petanda tumor punya dua asal: dari sel tumor sendiri, atau dari sel/jaringan tubuh yang bereaksi terhadap tumor (mis. protein fase akut, feritin).
+A: Hasil metabolisme obat kemoterapi dalam darah || Metabolit obat dipantau lewat therapeutic drug monitoring. || Bukan definisi petanda tumor; kadarnya bergantung dosis, bukan tumor.
+B*: Respons terhadap adanya tumor (tumor-associated) || Contoh: protein fase akut, feritin, hormon dari jaringan normal. || Melengkapi definisi di slide: tumor-derived atau tumor-associated product.
+C: Antibodi yang terbentuk setelah vaksinasi || Respons imun adaptif terhadap antigen vaksin. || Tidak berkaitan dengan keberadaan tumor.
+D: Respons terhadap infeksi bakteri akut || Ini penanda inflamasi/infeksi (CRP, prokalsitonin). || Bukan definisi petanda tumor, meski beberapa marker bisa naik saat inflamasi.
+E: Enzim pencernaan yang disekresi normal || Enzim seperti amilase/lipase disekresi fisiologis. || Bukan molekul yang mencerminkan tumor.
+p: Petanda tumor disekresikan ke darah; sebagian dapat diperiksa di urin dan jaringan.
+
+#52 d=1 ty=recall
+ks: Golongan petanda tumor: tumor-associated antigen (CEA, AFP, PSA, CA 19-9, CA 15-3, CA 125), enzim, hormon, metabolit, protein serum, antigen virus.
+kw: CEA, AFP, PSA, CA 19-9, CA 15-3, CA 125; golongan
+an: Semua yang diawali "CA" dan antigen onkofetal (CEA, AFP) termasuk tumor-associated antigen menurut tabel slide.
+A: Hormon (β-hCG, kalsitonin, prolaktin) || Golongan hormon dalam tabel. || Daftar di stem bukan hormon.
+B*: Tumor-associated antigen || Glikoprotein/antigen yang diekspresikan berlebih oleh sel tumor. || Sesuai tabel jenis petanda tumor.
+C: Metabolit (katekolamin, VMA) || Produk metabolisme, mis. neuroblastoma. || Tidak sesuai daftar di stem.
+D: Enzim (PAP, NSE, γ-GT, ALP) || Golongan enzim dalam tabel. || PSA memang serin protease, tetapi di tabel dikelompokkan sebagai tumor-associated antigen bersama CEA dan CA.
+E: Antigen virus (HPV, EBV) || Golongan antigen/antibodi virus. || Tidak ada antigen virus dalam daftar stem.
+p: Golongan protein serum: feritin, β2-mikroglobulin, protein fase akut.
+
+#53 d=1 ty=recall
+ks: Golongan enzim dalam tabel petanda tumor: PAP, NSE, γ-GT, ALP.
+kw: NSE; PAP; golongan
+an: Nama "enolase" dan "phosphatase" sudah menunjukkan enzim.
+A: Hormon || Contoh: β-hCG, kalsitonin. || NSE dan PAP bukan hormon.
+B*: Enzim || Enolase (glikolitik) dan fosfatase asam dilepas sel tumor. || Sesuai tabel golongan enzim.
+C: Metabolit || Contoh: katekolamin, VMA. || Bukan metabolit.
+D: Antigen virus || Contoh: HPV, EBV. || Tidak berkaitan dengan virus.
+E: Protein serum || Contoh: feritin, β2-mikroglobulin. || Golongan lain dalam tabel.
+p: NSE: Ca paru sel kecil, neuroblastoma. PAP: Ca prostat (lama).
+
+#54 d=1 ty=understanding
+ks: Ciri tumor marker ideal: spesifik, sensitif, berkorelasi dengan massa tumor dan prognosis, metode mudah/andal, cost-effective.
+kw: tumor marker ideal; KECUALI
+an: Soal "kecuali" → cari pernyataan yang justru kelemahan. Meningkat pada penyakit jinak = tidak spesifik, bukan ciri ideal.
+A: Spesifik terhadap satu jenis kanker tertentu || Ciri ideal: tidak naik pada kanker lain/kondisi jinak. || Termasuk ciri ideal, jadi bukan jawaban.
+B: Sensitif mendeteksi tumor kecil sejak dini || Ciri ideal: memungkinkan diagnosis dini. || Termasuk ciri ideal.
+C: Pemeriksaannya murah dan cost-effective || Ciri ideal: terjangkau. || Termasuk ciri ideal.
+D: Kadar sebanding dengan massa tumor dan prognosis || Ciri ideal: mencerminkan beban tumor. || Termasuk ciri ideal.
+E*: Kadarnya juga naik pada berbagai penyakit jinak || Kelemahan marker yang ada (spesifisitas rendah). || Bukan ciri ideal, jadi inilah jawabannya.
+p: Ciri ideal lainnya: metode mudah dan hasil dapat dipercaya.
+
+#55 d=1 ty=recall
+ks: Fungsi terpenting tumor marker: pemantauan efektivitas terapi, terutama pada kanker stadium lanjut.
+kw: fungsi paling penting
+an: Diagnosis tetap biopsi dan skrining terbatas. Kekuatan marker adalah memantau tren kadar selama/sesudah terapi.
+A: Menggantikan biopsi untuk menegakkan diagnosis || Gold standard diagnosis kanker adalah histopatologi. || Marker tidak cukup sensitif dan spesifik untuk menggantikan biopsi.
+B: Skrining kanker pada populasi umum || Slide: peran skrining terbatas (contoh PSA + DRE). || Pada prevalensi rendah positif palsu terlalu banyak.
+C: Menentukan jenis histologi tumor || Itu peran pemeriksaan histopatologi/imunohistokimia jaringan. || Kadar serum tidak menggambarkan histologi.
+D: Menentukan stadium TNM secara tunggal || Staging memakai pencitraan dan patologi. || Marker hanya membantu, bukan penentu tunggal.
+E*: Memantau efektivitas terapi || Slide menyebutnya "sangat penting", terutama stadium lanjut. || Penurunan kadar = respons; kenaikan = progresi.
+p: Fungsi lain: diagnostik dan staging (terbatas), prognosis, deteksi remisi, prediksi respons terapi.
+
+#56 d=1 ty=understanding
+ks: Keterbatasan diagnostik tumor marker: biopsi adalah gold standard dan sensitivitas/spesifisitas marker < 100%.
+kw: peran diagnostik terbatas; karena
+an: Marker membantu memutuskan pemeriksaan lanjutan pada risiko tinggi, tetapi tidak bisa memastikan diagnosis.
+A: Marker hanya dapat diperiksa dari sampel urin || Kebanyakan diperiksa dari serum/plasma. || Premis keliru.
+B: Semua marker sudah 100% spesifik || Kenyataannya banyak marker naik pada kondisi jinak. || Pernyataannya terbalik.
+C: Biaya marker lebih mahal daripada biopsi || Marker darah umumnya lebih murah dan tidak invasif. || Bukan alasan keterbatasan diagnostik.
+D*: Biopsi tetap gold standard; akurasi marker < 100% || Sesuai slide diagnostik dan staging. || Marker hanya membantu memutuskan pemeriksaan lanjutan.
+E: Marker tidak dapat diukur dari darah || Dapat diukur dari serum/plasma dengan immunoassay. || Premis keliru.
+p: Biopsi memberi diagnosis histopatologi pasti.
+
+#57 d=2 ty=recall
+ks: Contoh tumor marker untuk skrining menurut slide: PSA bersama colok dubur (DRE) untuk kanker prostat.
+kw: skrining; menurut materi
+an: Slide hanya memberi satu contoh skrining berbasis marker serum: PSA + DRE. Marker lain dipakai untuk diagnosis pendukung atau pemantauan.
+A: CEA pada semua orang dewasa || CEA tidak spesifik (naik pada perokok, IBD, sirosis). || Tidak direkomendasikan untuk skrining populasi.
+B*: PSA bersama colok dubur untuk Ca prostat || Satu-satunya contoh skrining di slide. || Kombinasi dengan DRE meningkatkan nilai skrining.
+C: Feritin untuk kanker hati || Feritin protein fase akut dan cadangan besi. || Terlalu tidak spesifik untuk skrining.
+D: CA 125 pada perempuan populasi umum || Naik pada endometriosis, haid, kehamilan. || Tidak direkomendasikan untuk skrining umum.
+E: CA 15-3 untuk kanker payudara || Sensitivitas rendah pada stadium dini. || Slide: hanya untuk monitoring.
+p: Pada tabel per kanker, skrining juga meliputi darah samar feses (kolorektal), AFP (hati), IgA anti-EBV-VCA (nasofaring), Pap smear/HPV-DNA (serviks).
+
+#58 d=2 ty=understanding
+ks: Fungsi prediksi respons terapi: HER2/neu memprediksi respons trastuzumab (Herceptin), ER memprediksi respons antiestrogen.
+kw: HER2/neu; kanker payudara; bertujuan
+an: HER2 adalah target trastuzumab (antibodi monoklonal anti-HER2); ekspresinya menentukan apakah terapi ini bermanfaat.
+A: Menegakkan diagnosis tanpa biopsi || Diagnosis tetap histopatologi. || HER2 justru diperiksa pada jaringan biopsi yang sudah terdiagnosis.
+B: Skrining kanker payudara pada wanita sehat || Skrining memakai mamografi. || HER2 tidak dipakai untuk skrining.
+C: Menilai fungsi hati sebelum kemoterapi || Fungsi hati dinilai dengan SGOT/SGPT, bilirubin. || Tidak berhubungan dengan HER2.
+D*: Memprediksi respons terhadap trastuzumab (Herceptin) || Trastuzumab bekerja pada reseptor HER2. || Sesuai fungsi "memperkirakan respons terapi" di slide.
+E: Memantau rekurensi kanker prostat || Fungsi PSA. || Organ dan markernya berbeda.
+p: Reseptor estrogen (ER) dipakai untuk memperkirakan respons terapi antiestrogen (tamoksifen).
+
+#59 d=2 ty=application
+ks: Deteksi remisi/rekurensi: kadar yang tidak turun sesuai waktu paruh lalu naik lagi menandakan sisa tumor atau kekambuhan.
+kw: pascaoperasi; tidak turun sesuai waktu paruh; meningkat kembali
+an: Setelah reseksi lengkap, PSA seharusnya turun mengikuti waktu paruhnya. Gagal turun lalu naik = residu/rekurensi → fungsi deteksi remisi/rekurensi.
+A*: Deteksi remisi atau rekurensi tumor || Pola kadar pascaterapi menilai apakah tumor hilang atau kambuh. || Sesuai slide.
+B: Menentukan stadium awal sebelum operasi || Staging dilakukan sebelum terapi. || Pasien sudah dioperasi; ini pemantauan.
+C: Menegakkan diagnosis awal kanker prostat || Diagnosis sudah ditegakkan sebelum operasi. || Bukan konteks soal.
+D: Skrining kanker pada pria sehat || Skrining untuk orang tanpa diagnosis. || Pasien sudah terdiagnosis dan dioperasi.
+E: Memprediksi respons terhadap terapi target || Dinilai sebelum memilih terapi (mis. HER2). || Bukan pola kadar pascaoperasi.
+p: Itulah sebabnya kadar diperiksa sebelum dan sesudah tindakan.
+
+#60 d=1 ty=recall
+ks: CEA: glikoprotein onkofetal (Gold & Freedman, 1965) untuk Ca kolorektal; diproduksi fetus dan berhenti sebelum lahir.
+kw: Gold dan Freedman 1965; Ca kolorektal; glikoprotein
+an: Ciri sejarah 1965 dan kolorektal khas CEA. CA 125 ditemukan Bast 1983.
+A: AFP (alfa-fetoprotein) || Protein hepatosit/yolk sac janin; marker HCC. || Tidak sesuai penemu dan organ kolorektal.
+B: CA 15-3 || Glikoprotein MUC1, marker Ca payudara. || Organ target berbeda.
+C: CA 125 || Ditemukan Bast tahun 1983 untuk Ca ovarium. || Tahun dan organ berbeda.
+D*: CEA (carcinoembryonic antigen) || Ditemukan 1965 pada Ca kolon; karbohidrat 50–85%. || Sesuai slide.
+E: PSA (prostate-specific antigen) || Serin protease epitel prostat. || Organ target berbeda.
+p: CEA naik 5–10× batas normal mengarah ke Ca kolon.
+
+#61 d=2 ty=application
+ks: Interferensi CEA: merokok dapat menaikkan CEA tanpa keganasan; interpretasi tidak dari satu pengukuran.
+kw: perokok berat; tanpa keluhan; CEA sedikit di atas normal
+an: Kenaikan ringan CEA pada perokok tanpa gejala → pertimbangkan faktor interferensi sebelum menduga kanker; Ca kolon biasanya 5–10× normal.
+A: Peningkatan fisiologis akibat kehamilan || CEA bisa sedikit naik saat hamil. || Pasien laki-laki.
+B: Pasti Ca kolorektal stadium lanjut || CEA tidak spesifik. || Kesimpulan berlebihan; stadium lanjut biasanya kadar jauh lebih tinggi.
+C: Pasti sampel tertukar di laboratorium || Kesalahan identifikasi mungkin terjadi. || Tidak ada dasar; ada penjelasan biologis yang lebih mungkin.
+D*: Merokok dapat menaikkan CEA tanpa keganasan || Faktor interferensi yang disebut di slide. || Kenaikan ringan tunggal pada perokok tidak cukup untuk diagnosis.
+E: Pasti Ca prostat karena usia 50 tahun || Marker prostat adalah PSA. || CEA bukan marker prostat.
+p: Interpretasi: jangan dari satu pengukuran; ulangi secara serial.
+
+#62 d=1 ty=recall
+ks: AFP: protein hepatosit imatur/yolk sac janin; marker karsinoma hepatoseluler dan tumor sel germinal.
+kw: hepatosit imatur; fetus; karsinoma hepatoseluler
+an: Protein janin dari hati yang muncul lagi pada HCC = AFP.
+A: CEA || Antigen onkofetal saluran cerna. || Bukan produk hepatosit janin dan bukan marker utama HCC.
+B: β-hCG || Dihasilkan sinsitiotrofoblas. || Marker koriokarsinoma/tumor sel germinal, bukan HCC.
+C*: AFP (alpha-fetoprotein) || Diproduksi hepatosit janin; muncul lagi pada HCC. || Sesuai slide; juga naik pada tumor sel germinal dan metastasis hati.
+D: Albumin || Protein utama hati dewasa. || Justru turun pada sirosis; bukan petanda tumor.
+E: Kalsitonin || Hormon sel C tiroid. || Marker Ca tiroid medular.
+p: Pada tabel, marker diagnosis Ca hati: AFP dan PIVKA-II.
+
+#63 d=2 ty=understanding
+ks: Kondisi nonmaligna yang menaikkan AFP: kehamilan, sirosis, hepatitis.
+kw: nonmaligna; AFP
+an: AFP naik bila ada sumber janin (kehamilan) atau regenerasi hepatosit (sirosis, hepatitis). Faktor lain menaikkan marker yang berbeda.
+A*: Kehamilan, sirosis, dan hepatitis || AFP janin masuk sirkulasi ibu; hepatosit beregenerasi pada sirosis/hepatitis. || Sesuai daftar kondisi nonmaligna di slide.
+B: Merokok kronik dan PPOK || Faktor interferensi untuk CEA. || Tidak menaikkan AFP.
+C: Hipertensi esensial dan obesitas || Tidak berhubungan dengan sintesis AFP. || Tidak disebut sebagai penyebab kenaikan AFP.
+D: Colok dubur dan kateterisasi uretra || Menaikkan PSA/PAP. || Bukan penyebab kenaikan AFP.
+E: Artritis reumatoid dan penyakit reumatik || Menaikkan CA 19-9. || Bukan penyebab kenaikan AFP.
+p: AFP pada sirosis perlu dipantau karena sirosis adalah faktor risiko HCC.
+
+#64 d=2 ty=application
+ks: Marker tumor sel germinal testis: AFP dan β-hCG untuk diagnosis, prognosis, dan pemantauan.
+kw: pria 25 tahun; massa testis
+an: Massa testis pada usia muda → tumor sel germinal → AFP (yolk sac) dan β-hCG (koriokarsinoma); LDH juga lazim [Tambahan di luar PPT].
+A: PSA dan PAP || Marker prostat. || Organ berbeda dan usia tidak khas.
+B: CEA dan CA 15-3 || Marker kolorektal dan payudara. || Tidak relevan untuk testis.
+C*: AFP dan β-hCG || Dihasilkan komponen yolk sac dan trofoblas tumor sel germinal. || Sesuai tabel petanda tumor testis.
+D: Kalsitonin dan tiroglobulin || Marker kanker tiroid. || Organ berbeda.
+E: CA 125 dan CA 19-9 || Marker ovarium dan pankreas. || Tidak relevan untuk testis.
+p: hCG: indikasi absolut pada tumor sel germinal (tumor testis pada pria, koriokarsinoma pada wanita) dan tumor germinal ekstragonad.
+
+#65 d=2 ty=application
+ks: Koriokarsinoma: tumor trofoblas ganas pascamola dengan hCG sangat tinggi.
+kw: riwayat mola hidatidosa; perdarahan pervaginam; hCG sangat tinggi
+an: Riwayat mola + perdarahan menetap + hCG sangat tinggi → penyakit trofoblas ganas (koriokarsinoma).
+A: Karsinoma tiroid papiler || Marker tiroglobulin. || Tidak berhubungan dengan hCG dan mola.
+B: Karsinoma kolorektal || Marker CEA. || Tidak berhubungan dengan riwayat mola.
+C: Karsinoma hepatoseluler || Marker AFP. || Tidak menghasilkan hCG tinggi.
+D: Karsinoma payudara duktal || Marker CA 15-3. || Tidak berhubungan dengan mola.
+E*: Koriokarsinoma || Tumor trofoblas ganas yang menghasilkan hCG. || Sesuai slide hCG.
+p: hCG juga untuk memantau respons kemoterapi koriokarsinoma.
+
+#66 d=1 ty=recall
+ks: Kalsitonin: hormon sel C parafolikular tiroid yang menurunkan Ca darah; marker Ca tiroid medular.
+kw: menurunkan kalsium; Ca tiroid; ukuran tumor dan metastasis
+an: Hormon yang menurunkan Ca²⁺ adalah kalsitonin; PTH justru menaikkan.
+A*: Kalsitonin || Dari sel C (parafolikular) tiroid. || Sesuai slide: berkorelasi dengan ukuran tumor dan metastasis.
+B: Parathormon (PTH) || Dari kelenjar paratiroid. || Efeknya menaikkan kalsium darah.
+C: Prolaktin || Dari laktotrof hipofisis anterior. || Fungsi utamanya laktasi.
+D: Tiroglobulin || Protein prekursor hormon tiroid. || Marker Ca tiroid berdiferensiasi; bukan hormon penurun Ca.
+E: Tiroksin (T4) || Hormon metabolisme dari sel folikel. || Tidak berperan menurunkan kalsium.
+p: Kalsitonin juga bisa naik pada Ca paru, mammae, ginjal, hati, penyakit paru, hiperparatiroid, kehamilan.
+
+#67 d=2 ty=application
+ks: CA 19-9: marker utama Ca pankreas (diagnosis, prognosis, pemantauan); dapat naik palsu pada kolestasis.
+kw: massa kepala pankreas; ikterus obstruktif
+an: Organ pankreas → CA 19-9. Ingat ikterus obstruktif juga menaikkan CA 19-9, jadi interpretasi hati-hati.
+A: CA 15-3 || Marker Ca payudara. || Organ berbeda.
+B: Kalsitonin || Marker Ca tiroid medular. || Organ berbeda.
+C*: CA 19-9 || Diproduksi epitel pankreas dan hepatobilier. || Sesuai tabel (diagnosis, prognosis, pemantauan Ca pankreas).
+D: β2-mikroglobulin || Marker mieloma multipel dan limfoma. || Tidak spesifik untuk pankreas.
+E: PSA || Marker prostat. || Organ berbeda.
+p: Ikterus obstruktif (kolestasis) bisa ikut menaikkan CA 19-9, jadi interpretasi dengan hati-hati.
+
+#68 d=2 ty=recall
+ks: CA 19-9 sebagai second-line marker: setelah CEA (kolorektal) dan setelah CA 125 (ovarium).
+kw: second-line; CA 19-9; setelah
+an: Cari pasangan lini pertama: kolorektal = CEA, ovarium = CA 125. CA 19-9 menjadi cadangan untuk keduanya.
+A: AFP untuk karsinoma hepatoseluler || Pasangan lini pertama HCC. || Slide tidak menyebut CA 19-9 sebagai lini kedua HCC.
+B: Kalsitonin untuk Ca tiroid medular || Marker spesifik tiroid. || Tidak berpasangan dengan CA 19-9.
+C*: CEA (kolorektal) dan CA 125 (ovarium) || Sesuai slide CA 19-9. || CA 19-9 menjadi cadangan untuk kedua organ ini.
+D: PSA untuk kanker prostat || Marker organ-spesifik prostat. || Tidak berpasangan dengan CA 19-9.
+E: CA 15-3 untuk kanker payudara || Marker pemantauan payudara. || Tidak berpasangan dengan CA 19-9.
+p: CA 125 sebaliknya adalah second-line setelah CA 19-9 untuk Ca pankreas.
+
+#69 d=1 ty=recall
+ks: CA 125: glikoprotein (Bast, 1983) untuk Ca ovarium dengan cut-off 35 U/mL.
+kw: Bast 1983; Ca ovarium; 35 U/mL
+an: Tahun 1983 + ovarium + 35 U/mL = CA 125.
+A*: CA 125 || Glikoprotein 200–1000 kDa. || Sesuai slide.
+B: CA 19-9 || Marker pankreas/hepatobilier. || Penemu, tahun, dan organ berbeda.
+C: AFP || Marker hati dan sel germinal. || Organ berbeda.
+D: CEA || Ditemukan 1965 untuk kolorektal. || Tahun dan organ berbeda.
+E: CA 15-3 || Marker payudara. || Organ berbeda.
+p: Fungsi utama CA 125: deteksi rekurensi dan pemantauan.
+
+#70 d=2 ty=application
+ks: Penyebab nonmaligna kenaikan CA 125: endometriosis, haid, kehamilan awal, sirosis, hepatitis.
+kw: nyeri haid hebat; CA 125 sedikit naik; tanpa massa ovarium
+an: Wanita muda, dismenore berat, tanpa massa → endometriosis menjelaskan CA 125 ringan; tidak ada dasar mendiagnosis Ca ovarium.
+A*: Endometriosis menaikkan CA 125 tanpa keganasan || Jaringan endometrium ektopik mengekspresikan CA 125. || Disebut di slide dan sesuai klinis dismenore berat.
+B: Pasti karsinoma ovarium stadium awal || CA 125 tidak spesifik dan sering normal pada stadium dini. || Tanpa massa pada USG, kesimpulan ini berlebihan.
+C: Karsinoma prostat dengan metastasis || Kanker pria. || Pasien perempuan.
+D: Kebiasaan merokok berat sejak remaja || Merokok menaikkan CEA. || Bukan penyebab kenaikan CA 125.
+E: Infeksi hepatitis A akut yang subklinis || Hepatitis dapat menaikkan CA 125. || Tidak ada data mendukung; endometriosis lebih sesuai klinis.
+p: Kondisi lain yang menaikkan CA 125: sirosis, hepatitis, kehamilan awal, Ca pankreas/paru/kolorektal.
+
+#71 d=1 ty=recall
+ks: CA 15-3 dipakai untuk monitoring terapi Ca mammae, bukan diagnosis atau skrining.
+kw: CA 15-3; Ca mammae; penggunaan tepat
+an: Sensitivitas CA 15-3 rendah pada stadium dini sehingga perannya hanya pemantauan.
+A*: Monitoring terapi, bukan diagnosis || Sesuai slide CA 15-3. || Tren kadar mencerminkan respons atau progresi.
+B: Menentukan respons terhadap terapi antiestrogen || Fungsi reseptor estrogen (ER) pada jaringan. || Bukan peran CA 15-3.
+C: Skrining kanker payudara pada wanita sehat || Skrining memakai mamografi. || CA 15-3 terlalu tidak sensitif untuk skrining.
+D: Menentukan respons terhadap trastuzumab || Fungsi pemeriksaan HER2/neu. || Bukan peran CA 15-3.
+E: Diagnosis pasti tanpa biopsi jaringan || Diagnosis tetap histopatologi. || Marker serum tidak bisa menggantikan biopsi.
+p: Marker pemantauan Ca payudara: CA 15-3, CEA, CA 27.29.
+
+#72 d=2 ty=application
+ks: PSA spesifik organ, bukan spesifik kanker: naik pada BPH, prostatitis, setelah DRE/manipulasi transuretra.
+kw: PSA meningkat; BPH; biopsi tanpa keganasan
+an: Biopsi negatif + BPH → kenaikan PSA berasal dari jaringan prostat jinak.
+A: Endometriosis || Menaikkan CA 125. || Pasien laki-laki.
+B*: BPH dan prostatitis || Epitel prostat jinak juga menghasilkan PSA. || Disebut di slide PSA.
+C: Hepatitis virus kronik || Menaikkan AFP. || Tidak menaikkan PSA.
+D: Merokok berat || Menaikkan CEA. || Tidak menaikkan PSA.
+E: Penyakit reumatik || Menaikkan CA 19-9. || Tidak menaikkan PSA.
+p: PSA spesifik untuk prostat (organ), bukan spesifik untuk kanker.
+
+#73 d=2 ty=application
+ks: β2-mikroglobulin: marker prognosis mieloma multipel (dan limfoma).
+kw: nyeri tulang; anemia; protein M; prognosis
+an: Nyeri tulang + anemia + protein M → mieloma multipel. Marker prognosisnya β2-mikroglobulin (bagian sistem staging ISS [Tambahan di luar PPT]).
+A: PSA || Marker prostat; metastasis tulang Ca prostat bersifat osteoblastik. || Protein M menunjuk mieloma, bukan prostat.
+B: AFP || Marker hati/sel germinal. || Tidak relevan untuk protein M.
+C*: β2-mikroglobulin || Rantai ringan HLA kelas I; kadar mencerminkan massa sel tumor. || Sesuai slide: diagnosis, prognosis, pemantauan mieloma.
+D: Kalsitonin || Marker tiroid medular. || Tidak relevan.
+E: CA 125 || Marker ovarium. || Tidak relevan.
+p: β2-mikroglobulin juga naik pada inflamasi kronik dan hepatitis virus.
+
+#74 d=2 ty=application
+ks: Neuroblastoma: metabolit katekolamin urin (VMA, HVA) untuk diagnosis; NSE untuk pemantauan.
+kw: anak 3 tahun; massa adrenal; urin
+an: Tumor neural crest anak di adrenal menghasilkan katekolamin → metabolitnya (VMA) diekskresi di urin.
+A: PSA serum || Marker prostat dewasa. || Tidak relevan untuk anak.
+B: CA 125 serum || Marker ovarium. || Tidak relevan.
+C: CEA serum || Marker kolorektal. || Tidak relevan.
+D: β-hCG urin || Marker kehamilan/trofoblas. || Tidak relevan untuk neuroblastoma.
+E*: Katekolamin dan VMA urin || Golongan metabolit pada tabel petanda tumor. || Sesuai tabel neuroblastoma (bersama NSE).
+p: Pemantauan neuroblastoma memakai NSE.
+
+#75 d=2 ty=application
+ks: Ca nasofaring berkaitan dengan virus Epstein–Barr; marker skrining/diagnosis IgA anti-EBV-VCA dan EA.
+kw: daerah endemis; benjolan leher; epistaksis/hidung tersumbat
+an: Ca nasofaring ↔ EBV; antibodi IgA terhadap antigen kapsid (VCA) dan early antigen (EA) dipakai skrining.
+A: PSA serum || Marker prostat. || Tidak relevan.
+B*: IgA anti-EBV-VCA (dan EA) || Golongan antigen/antibodi virus pada tabel. || Sesuai tabel Ca nasofaring.
+C: HPV-DNA || Untuk skrining Ca serviks. || Virus berbeda.
+D: AFP || Marker hati. || Tidak relevan.
+E: CA 19-9 || Marker pankreas. || Tidak relevan.
+p: Ca serviks: skrining Pap smear dan HPV-DNA; pemantauan SCC.
+
+#76 d=1 ty=recall
+ks: Metode pemeriksaan tumor marker: immunoassay (IRMA, RIA, ELISA, CLIA, FPIA).
+kw: metode pemeriksaan
+an: Tumor marker adalah antigen/protein → diukur dengan reaksi antigen–antibodi (immunoassay).
+A: Mikroskop cahaya dengan pewarnaan HE || Menilai morfologi sel/jaringan. || Tidak mengukur kadar marker serum.
+B: Pewarnaan Gram dan kultur || Identifikasi bakteri. || Tidak relevan.
+C: Ion-selective electrode || Untuk elektrolit. || Tidak relevan.
+D*: Immunoassay (IRMA, RIA, ELISA, CLIA, FPIA) || Prinsip antigen–antibodi berlabel. || Sesuai slide.
+E: Fotometri nyala || Metode lama elektrolit. || Tidak relevan.
+p: Sampel: serum/plasma, diperiksa serial dengan metode dan laboratorium yang sama.
+
+#77 d=1 ty=understanding
+ks: Pemantauan tumor marker harus serial dengan metode dan laboratorium yang sama.
+kw: pemantauan; sebaiknya dilakukan
+an: Antibodi dan kalibrator tiap metode berbeda, sehingga angka antarlab tidak bisa dibandingkan; tren hanya valid pada metode sama.
+A*: Serial dengan metode dan laboratorium sama || Hasil antarmetode bisa berbeda sehingga tren rancu. || Sesuai slide dan simpulan.
+B: Hanya setelah pasien dinyatakan sembuh || Pemantauan dimulai sejak sebelum terapi. || Kehilangan nilai dasar dan deteksi dini relaps.
+C: Cukup satu kali pemeriksaan || Satu nilai tidak menunjukkan tren. || Slide: jangan menilai dari satu pengukuran.
+D: Bergantian di beberapa laboratorium || Beda metode → beda angka. || Mengacaukan interpretasi tren.
+E: Tanpa nilai dasar sebelum tindakan || Nilai dasar diperlukan untuk pembanding. || Tanpa itu penurunan/kenaikan tidak bisa dinilai.
+p: Kenaikan kadar menandakan progresi; penurunan menandakan regresi.
+
+#78 d=2 ty=recall
+ks: Jadwal pengukuran tumor marker: sebelum tindakan, 2–10 hari setelah, tiap 3 bulan tahun 1–2, tiap 6 bulan tahun 3–5, dan saat curiga relaps.
+kw: jadwal; setelah operasi atau pengobatan
+an: Pemantauan rapat pada 2 tahun pertama karena risiko rekurensi tertinggi, lalu lebih jarang.
+A: Sekali setahun sejak hari pertama || Terlalu jarang untuk periode risiko tinggi. || Tidak sesuai jadwal slide.
+B: Hanya 1 hari setelah operasi || Satu kali tidak cukup untuk pemantauan. || Jadwal tidak lengkap.
+C*: 2–10 hari pasca, tiap 3 bulan (1–2 th), tiap 6 bulan (3–5 th) || Sesuai slide jadwal pengukuran. || Didahului pengukuran sebelum tindakan dan ditambah saat curiga relaps.
+D: Tiap minggu seumur hidup pasien || Berlebihan dan tidak bermanfaat. || Tidak sesuai materi.
+E: Tiap 6 bulan sejak awal pascaoperasi || Terlalu jarang pada 2 tahun pertama. || Tidak sesuai jadwal slide.
+p: Pengukuran sebelum tindakan menjadi nilai dasar.
+
+#79 d=2 ty=recall
+ks: Nilai pemantauan: pada > 50% kasus perubahan kadar marker mendeteksi progresi 1–6 bulan lebih cepat dari metode invasif.
+kw: lebih dari 50% kasus; lebih cepat
+an: Angka yang perlu dihafal dari slide interpretasi: 1–6 bulan.
+A: 2–5 tahun lebih cepat || Rentang terlalu panjang. || Tidak sesuai materi.
+B: 1–2 hari lebih cepat || Rentang terlalu singkat. || Tidak sesuai materi.
+C: 1–2 minggu lebih cepat || Tidak sesuai angka slide. || Tidak sesuai materi.
+D*: 1–6 bulan lebih cepat || Sesuai slide interpretasi. || Alasan marker berguna untuk pemantauan.
+E: Tidak pernah lebih cepat dari metode invasif || Bertentangan dengan slide. || Salah.
+p: Itulah alasan marker sangat berguna untuk pemantauan.
+
+#80 d=2 ty=understanding
+ks: Faktor interferensi umum tumor marker: CKD dan kolestasis menaikkan banyak marker karena klirens terganggu.
+kw: menaikkan banyak petanda tumor; nonmaligna
+an: Marker dibersihkan ginjal/hati; gangguan ekskresi membuat kadar menumpuk tanpa tumor.
+A: Tidur cukup 7–8 jam || Tidak memengaruhi kadar marker. || Tidak disebut sebagai interferensi.
+B: Minum air putih yang banyak || Tidak memengaruhi kadar marker. || Tidak disebut sebagai interferensi.
+C: Puasa 8 jam sebelum pengambilan || Persiapan umum pemeriksaan kimia. || Tidak menaikkan marker.
+D: Olahraga ringan teratur || Tidak memengaruhi kadar marker. || Tidak disebut sebagai interferensi.
+E*: Penyakit ginjal kronik dan kolestasis || Klirens/ekskresi marker terganggu sehingga kadar menumpuk. || Sesuai slide faktor interferensi.
+p: Interferensi spesifik: penyakit reumatik (CA 19-9), DRE/manipulasi transuretra (PSA, PAP), merokok (CEA).
+
+#538 d=1 ty=recall
+ks: CEA meningkat pada berbagai adenokarsinoma dan paling banyak dipakai untuk memantau respons terapi.
+kw: berbagai keganasan epitel; memantau respons terapi
+an: Marker yang tidak terbatas satu organ dan dipakai luas untuk monitoring adenokarsinoma = CEA.
+A: = || CA 125 khas kanker ovarium. || Terbatas pada organ tertentu.
+B: = || CA 15-3 khas kanker payudara. || Terbatas pada organ tertentu.
+C: = || PSA spesifik organ prostat. || Tidak dipakai untuk karsinoma organ lain.
+D: = || CA 19-9 khas pankreas dan saluran empedu. || Terbatas pada organ tertentu.
+E*: = || Antigen onkofetal yang naik pada banyak karsinoma (kolorektal, paru, payudara, pankreas). || Sesuai dua recall UAM.
+p: Petanda tumor terutama untuk monitoring respons terapi dan kekambuhan, bukan skrining umum.
+
+#539 d=1 ty=recall
+ks: AFP: protein hepatosit imatur dan yolk sac janin; marker HCC dan tumor sel germinal pada dewasa.
+kw: hepatosit imatur; yolk sac; janin
+an: Hepatosit janin + yolk sac → AFP.
+A: = || β-hCG dibuat sinsitiotrofoblas plasenta. || Bukan dari hepatosit/yolk sac.
+B: = || CEA dibuat epitel saluran cerna janin. || Bukan dari hepatosit imatur.
+C: = || PSA dibuat epitel prostat. || Tidak berasal dari janin.
+D: = || Albumin protein hati dewasa. || Bukan petanda tumor.
+E*: = || Protein janin yang naik lagi pada HCC dan tumor yolk sac. || Sesuai recall UAM.
+p: AFP juga meningkat pada hepatitis dan sirosis, jadi tidak spesifik.
+
+#540 d=1 ty=recall
+ks: Definisi petanda tumor: tumor-derived atau tumor-associated product (respons tubuh terhadap tumor).
+kw: diproduksi sel tumor; atau oleh tubuh sebagai
+an: Sama dengan definisi slide: asalnya sel tumor atau respons tubuh terhadap tumor.
+A: = || Penanda infeksi (CRP, prokalsitonin). || Bukan definisi petanda tumor.
+B: = || Antibodi antivirus adalah respons imun terhadap infeksi. || Bukan definisi petanda tumor.
+C: = || Metabolit obat dipantau lewat TDM. || Tidak mencerminkan keberadaan tumor.
+D: = || Enzim pencernaan disekresi fisiologis. || Tidak mencerminkan keberadaan tumor.
+E*: = || Contoh: protein fase akut atau hormon dari jaringan normal karena tumor. || Sesuai recall UAM.
+p: Petanda tumor ideal: spesifik, sensitif, kadarnya sebanding dengan massa tumor.
+
+#580 d=2 ty=application
+ks: CA 125 adalah marker Ca ovarium (cut-off 35 U/mL), relevan pada perempuan pascamenopause dengan massa adneksa dan asites.
+kw: pascamenopause; asites; massa adneksa
+an: Massa adneksa + asites pada pascamenopause → curiga Ca ovarium epitel → CA 125.
+A*: CA 125 || Marker Ca ovarium epitel. || Paling sesuai; pada pascamenopause spesifisitasnya lebih baik karena endometriosis/haid tidak ada.
+B: AFP || Marker hati dan tumor sel germinal (yolk sac). || Tumor sel germinal ovarium lebih khas pada usia muda.
+C: Kalsitonin || Marker Ca tiroid medular. || Tidak relevan.
+D: CA 15-3 || Marker Ca payudara. || Organ berbeda.
+E: PSA || Marker prostat. || Pasien perempuan.
+p: CA 125 juga naik pada endometriosis, sirosis, kehamilan awal, sehingga tidak spesifik.
+
+#581 d=2 ty=application
+ks: PSA untuk curiga Ca prostat; sampel diambil sebelum colok dubur atau ditunda karena DRE dapat menaikkan PSA.
+kw: LUTS; prostat keras berbenjol; cara pengambilan sampel
+an: Klinis mengarah Ca prostat → PSA. Karena DRE/manipulasi menaikkan PSA, darah diambil sebelum DRE atau beberapa hari sesudahnya.
+A*: PSA; diambil sebelum colok dubur atau beberapa hari sesudahnya || DRE dan manipulasi transuretra dapat menaikkan PSA. || Sesuai faktor interferensi di materi.
+B: AFP serum pagi hari setelah puasa || Marker hati/sel germinal. || Organ dan persiapan tidak sesuai.
+C: CEA segera setelah colok dubur || CEA bukan marker prostat. || Waktu pengambilan juga keliru.
+D: CA 125 serum tanpa persiapan khusus || Marker ovarium. || Pasien laki-laki.
+E: CA 19-9 serum setelah makan || Marker pankreas. || Tidak relevan.
+p: PSA juga naik pada BPH dan prostatitis.
+
+#683 d=1 ty=understanding
+ks: Kriteria tumor marker ideal menurut slide 2026: sensitif, spesifik, sebanding beban tumor, waktu paruh jelas dan singkat, metode tervalidasi.
+kw: KECUALI; waktu paruh
+an: Waktu paruh singkat diperlukan agar kadar cepat turun bila tumor hilang. "Waktu paruh panjang" kebalikan kriteria ideal.
+A*: Waktu paruh panjang agar kadar stabil lama pascaterapi || Kebalikan kriteria ideal (waktu paruh jelas dan singkat). || Inilah pengecualiannya.
+B: Sensitivitas tinggi untuk deteksi kanker sedini mungkin || Kriteria ideal. || Bukan jawaban.
+C: Spesifisitas tinggi, tidak naik pada kondisi jinak || Kriteria ideal. || Bukan jawaban.
+D: Kadar sebanding beban tumor dan respons terapi || Kriteria ideal. || Bukan jawaban.
+E: Metode tervalidasi, murah, presisi, terstandar antarlab || Kriteria ideal. || Bukan jawaban.
+p: Waktu paruh singkat memudahkan pemantauan penurunan kadar pascaterapi dan deteksi dini rekurensi. Kenyataannya, belum ada satu pun tumor marker yang memenuhi semua kriteria ideal.
+
+#684 d=2 ty=application
+ks: PSA spesifik organ, bukan spesifik kanker; naik pada BPH dan prostatitis.
+kw: PSA 9 ng/mL; BPH; prostatitis; tanpa keganasan
+an: Kenaikan PSA dengan jaringan prostat jinak → PSA berasal dari epitel prostat normal/jinak.
+A*: PSA spesifik organ, bukan spesifik kanker || PSA serin protease epitel prostat (mencairkan koagulum semen). || Menjelaskan kenaikan pada BPH dan prostatitis.
+B: PSA spesifik untuk kanker prostat saja || Bertentangan dengan data pasien. || Itulah sebabnya PSA bisa positif palsu.
+C: PSA hanya dihasilkan oleh sel kanker prostat || Epitel prostat normal juga membuat PSA. || Pernyataan keliru.
+D: PSA tidak berguna untuk monitoring terapi || Slide: PSA untuk diagnosis, follow-up, prognosis, monitoring. || Pernyataan keliru.
+E: PSA justru menurun pada pembesaran prostat jinak || Volume prostat lebih besar → PSA naik. || Arah perubahan keliru.
+p: Slide 2026 menambahkan: PSA sensitivitas tinggi untuk kanker prostat, tetapi meningkat juga pada BPH dan prostatitis.
+
+#685 d=2 ty=application
+ks: Faktor interferensi tumor marker (slide 2026): merokok menaikkan CEA; reumatik → CA 19-9; DRE → PSA/PAP; CKD/kolestasis → banyak marker.
+kw: perokok berat; CEA sedikit naik; kolonoskopi normal
+an: Kolonoskopi normal + perokok → kenaikan CEA ringan paling mungkin karena merokok.
+A*: Merokok meningkatkan kadar CEA || Faktor interferensi yang tercantum di slide. || Menjelaskan kenaikan ringan tanpa massa.
+B: Merokok meningkatkan CA 19-9 || Slide: CA 19-9 naik pada penyakit reumatik. || Pasangan faktor–marker keliru.
+C: Merokok meningkatkan PSA dan PAP || Slide: PSA/PAP naik setelah DRE/manipulasi transuretra. || Pasangan faktor–marker keliru.
+D: CEA yang naik pasti menandakan kanker kolon || Marker jarang dipakai sendiri untuk diagnosis definitif. || Kolonoskopi normal membantahnya.
+E: Hasil pasti kesalahan teknis laboratorium || Mungkin, tetapi tanpa bukti. || Ada penjelasan biologis yang lebih kuat.
+p: Faktor interferensi slide: CKD dan kolestasis (meningkatkan banyak marker), penyakit reumatik (CA 19-9), colok dubur/manipulasi transuretra (PAP, PSA), merokok (CEA). Implikasi: riwayat klinis lengkap wajib tersedia sebelum menginterpretasikan hasil abnormal sebagai keganasan.
+
+#686 d=2 ty=recall
+ks: Pasangan lini pertama–kedua: kolorektal CEA → CA 19-9; ovarium CA 125 → CA 19-9; pankreas CA 19-9 → CA 125.
+kw: second-line; CA 19-9; CA 125
+an: Hafalkan tiga pasangan organ. Pernyataan yang menempatkan CA 19-9 setelah CEA (kolorektal) dan CA 125 setelah CA 19-9 (pankreas) yang benar.
+A*: CA 19-9 setelah CEA (kolorektal); CA 125 setelah CA 19-9 (pankreas) || Pasangan sesuai slide. || Kedua pernyataan tepat.
+B: CA 19-9 lini pertama untuk kanker ovarium || Lini pertama ovarium adalah CA 125. || CA 19-9 hanya lini kedua untuk ovarium.
+C: CA 125 lini pertama untuk kanker pankreas || Lini pertama pankreas adalah CA 19-9. || CA 125 hanya lini kedua untuk pankreas.
+D: CEA lini kedua setelah CA 19-9 pada kolorektal || Urutannya terbalik. || CEA lini pertama kolorektal.
+E: CA 15-3 lini pertama diagnosis Ca payudara dini || CA 15-3 untuk monitoring. || Sensitivitas rendah pada stadium dini.
+p: Slide: CA 19-9 dihasilkan pankreas, hepatobilier, gaster; second-line setelah CEA (kolorektal) dan setelah CA 125 (ovarium). CA 125 (Bast 1983, cut-off 35 U/mL) second-line setelah CA 19-9 untuk pankreas.
+
+#687 d=2 ty=application
+ks: Jadwal pemantauan CEA pascareseksi kanker kolon sesuai slide.
+kw: pascareseksi kanker kolon; jadwal pemeriksaan
+an: Nilai dasar sebelum operasi, lalu 2–10 hari pasca, tiap 3 bulan (tahun 1–2), tiap 6 bulan (tahun 3–5), dan saat curiga relaps.
+A*: 2–10 hari pasca, tiap 3 bulan (1–2 th), tiap 6 bulan (3–5 th) || Jadwal pemantauan di slide. || Ditambah pemeriksaan saat diduga relaps.
+B: Hanya sekali setahun selama lima tahun || Terlalu jarang di periode risiko tinggi. || Tidak sesuai jadwal slide.
+C: Tiap minggu selama sisa hidup pasien || Berlebihan dan tidak bermanfaat. || Tidak sesuai materi.
+D: Hanya bila muncul gejala klinis baru || Terlambat. || Marker dapat mendeteksi progresi 1–6 bulan lebih cepat.
+E: Tidak perlu karena tumor sudah diangkat || Rekurensi tetap mungkin. || Pemantauan bertujuan mendeteksi rekurensi dini.
+p: Interpretasi slide: jangan menilai dari satu kali pengukuran; kadar naik bila progresif dan turun bila regresi; pada > 50% kasus perubahan kadar mendeteksi progresi 1–6 bulan lebih cepat daripada metode invasif. Pemeriksaan serial dengan metode dan laboratorium yang sama.
