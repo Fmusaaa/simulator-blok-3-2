@@ -14,7 +14,9 @@ const LET="ABCDEFGH", KEY="__KEY__", OLDKEY="__OLDKEY__";
 const DIFF={1:"Mudah",2:"Sedang",3:"Sulit"};
 const TYPE={recall:"Recall",understanding:"Pemahaman",application:"Aplikasi klinis",analysis:"Analisis",integrated:"Kasus terintegrasi"};
 const CONF={y:"Yakin",c:"Cukup yakin",g:"Menebak"};
-const TAGL={asli:"SOAL ASLI · recall UAM 3.2",rekon:"Direkonstruksi",prediksi:"Prediksi",baru:"Soal baru",slide:"Contoh soal slide dosen"};
+const tagIs=(q,t)=>t==="asli"?(q.tag==="asli"||q.tag==="rekon"):t==="cere"?q.src==="uas-cere":(q.tag||"")===t;
+const tagLabel=q=>q.src==="uas-cere"?(q.tag==="asli"?"SOAL ASLI · recall UAS 3.2 Cerebrum":"Recall direkonstruksi · UAS 3.2 Cerebrum"):TAGL[q.tag]+(q.src==="uam2024"?" (2024)":"");
+const TAGL={asli:"SOAL ASLI · recall UAM 3.2",rekon:"Recall direkonstruksi",prediksi:"Prediksi",baru:"Soal baru",slide:"Contoh soal slide dosen"};
 const $=id=>document.getElementById(id);
 const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const strip=s=>String(s||"").replace(/<[a-zA-Z\/][^>]*>/g," ").replace(/\s+/g," ").trim();
@@ -178,7 +180,7 @@ function stopTimer(){ if(TIMER){clearInterval(TIMER);TIMER=null;} $("topTimer").
 function metaPills(q,full){
   const p=PBY[q.ppt];
   let h='<span class="pill">'+esc(p.title)+'</span><span class="pill">'+esc(q.topik)+'</span>';
-  if(q.tag&&TAGL[q.tag]) h+='<span class="pill '+(q.tag==="asli"||q.tag==="rekon"?"asli":q.tag==="prediksi"?"pred":"baru")+'">'+TAGL[q.tag]+(q.src==="uam2024"?" (2024)":"")+'</span>';
+  if(q.tag&&TAGL[q.tag]) h+='<span class="pill '+(q.tag==="asli"||q.tag==="rekon"?"asli":q.tag==="prediksi"?"pred":"baru")+'">'+tagLabel(q)+'</span>';
   if(full!==false){
     if(q.d) h+='<span class="pill d'+q.d+'">'+DIFF[q.d]+'</span>';
     if(q.ty) h+='<span class="pill">'+TYPE[q.ty]+'</span>';
@@ -432,7 +434,7 @@ function scopeList(sc){
   if(sc.mode==="bm") L=L.filter(q=>ST.bm[q.id]);
   if(sc.mode==="flag") L=L.filter(q=>ST.flags[q.id]);
   if(sc.mode==="new") L=L.filter(q=>!stat(q.id));
-  if(sc.tag&&sc.tag!=="all") L=L.filter(q=>(q.tag||"")===sc.tag);
+  if(sc.tag&&sc.tag!=="all") L=L.filter(q=>tagIs(q,sc.tag));
   return L;
 }
 const SCOPES={
@@ -453,7 +455,7 @@ function scopeUI(kind){
   const cnt=m=>scopeList({mode:m,bag:BAGS,ppt:PPTS.map(p=>p.id),sub:[],diff:["1","2","3","0"]}).length;
   let h='<div class="field"><label>'+(kind==="ujian"?"Ujian berdasarkan":"Sumber soal")+'</label><div class="modes">'+modes.map(m=>{const c=["all","bag","ppt","sub","diff"].includes(m)?null:cnt(m);return '<button class="mode'+(sc.mode===m?" on":"")+'" data-mode="'+m+'" '+(c===0?"disabled":"")+'><b>'+SCOPES[m][0]+(c!=null?' ('+c+')':'')+'</b><span>'+SCOPES[m][1]+'</span></button>';}).join("")+'</div></div>';
   h+='<div id="scopeSub"></div>';
-  h+='<div class="setgrid"><div class="field"><label for="scTag">Jenis soal</label><select id="scTag">'+[["all","Semua jenis"],["asli","Soal asli recall UAM"],["","Bank reguler"],["baru","Soal baru"],["prediksi","Prediksi"],["slide","Contoh soal slide dosen"]].map(([v,l])=>'<option value="'+v+'"'+(sc.tag===v?" selected":"")+'>'+l+'</option>').join("")+'</select></div>'+
+  h+='<div class="setgrid"><div class="field"><label for="scTag">Jenis soal</label><select id="scTag">'+[["all","Semua jenis"],["asli","Soal asli recall (UAM + UAS)"],["cere","Recall UAS 3.2 Cerebrum"],["","Bank reguler"],["baru","Soal baru"],["prediksi","Prediksi"],["slide","Contoh soal slide dosen"]].map(([v,l])=>'<option value="'+v+'"'+(sc.tag===v?" selected":"")+'>'+l+'</option>').join("")+'</select></div>'+
      '<div class="field"><label for="scN">Jumlah soal</label><select id="scN">'+["10","20","30","50","100","all"].map(v=>'<option value="'+v+'"'+(sc.n===v?" selected":"")+'>'+(v==="all"?"Semua yang cocok":v)+'</option>').join("")+'</select></div>';
   if(kind==="ujian") h+='<div class="field"><label for="scT">Waktu per soal</label><select id="scT">'+[[0,"Tanpa batas waktu"],[60,"60 detik"],[72,"72 detik (±1,2 mnt)"],[90,"90 detik"],[120,"2 menit"]].map(([v,l])=>'<option value="'+v+'"'+(+ST.set.tpq===v?" selected":"")+'>'+l+'</option>').join("")+'</select></div>';
   else h+='<div class="field"><label for="scO">Urutan</label><select id="scO"><option value="rnd"'+(sc.ord==="rnd"?" selected":"")+'>Acak</option><option value="seq"'+(sc.ord==="seq"?" selected":"")+'>Urut per PPT & subtopik</option></select></div>';
@@ -645,7 +647,7 @@ function pageBank(){
     sel("bfD","Kesulitan",[["","Semua"],["1","Mudah"],["2","Sedang"],["3","Sulit"],["0","Belum diklasifikasi"]],BF.d)+
     sel("bfY","Jenis kognitif",[["","Semua"]].concat(Object.entries(TYPE)).concat([["-","Belum diklasifikasi"]]),BF.ty)+
     sel("bfS","Status",[["","Semua"],["new","Belum dikerjakan"],["ok","Benar"],["no","Salah"],["g","Benar tapi menebak"],["bm","Bookmark"],["fl","Ragu"]],BF.st)+
-    sel("bfT","Jenis soal",[["all","Semua"],["asli","Soal asli"],["","Bank reguler"],["baru","Soal baru"],["prediksi","Prediksi"],["slide","Contoh slide"]],BF.tag)+
+    sel("bfT","Jenis soal",[["all","Semua"],["asli","Soal asli/recall"],["cere","UAS Cerebrum"],["","Bank reguler"],["baru","Soal baru"],["prediksi","Prediksi"],["slide","Contoh slide"]],BF.tag)+
     '</div></div><div id="bfOut" class="mt"></div>';
   $("app").innerHTML=h;
   const upd=()=>{
@@ -654,7 +656,7 @@ function pageBank(){
       if(BF.ppt&&q.ppt!==BF.ppt) return false;
       if(BF.d&&String(q.d||0)!==BF.d) return false;
       if(BF.ty&&(BF.ty==="-"?!!q.ty:q.ty!==BF.ty)) return false;
-      if(BF.tag!=="all"&&(q.tag||"")!==BF.tag) return false;
+      if(BF.tag!=="all"&&!tagIs(q,BF.tag)) return false;
       if(BF.st){const s=status(q); if(BF.st==="bm"){if(!ST.bm[q.id])return false;} else if(BF.st==="fl"){if(!ST.flags[q.id])return false;} else if(BF.st==="g"){if(!isWeakOk(q))return false;} else if(s!==BF.st) return false;}
       if(qq){const t=(strip(q.s)+" "+q.o.map(o=>strip(o[0])).join(" ")+" "+q.topik).toLowerCase(); if(!qq.split(/\s+/).every(w=>t.includes(w))) return false;}
       return true;});
@@ -662,7 +664,7 @@ function pageBank(){
     let o='<div class="row" style="margin-bottom:8px"><b>'+L.length+' soal</b><div class="sp"></div><button class="btn sm pri" id="bfLearn" '+(L.length?"":"disabled")+'>Belajar dari hasil ini</button><button class="btn sm" id="bfExam" '+(L.length?"":"disabled")+'>Ujian dari hasil ini</button></div>';
     o+=L.slice(BF.page*per,BF.page*per+per).map(q=>{const s=stat(q.id),st=status(q);
       return '<div class="qrow"><span class="st '+st+'" title="'+(st==="new"?"Belum":st==="ok"?"Benar":"Salah")+'"></span><div class="tx"><b>#'+q.id+'</b> '+esc(strip(q.s).slice(0,200))+(strip(q.s).length>200?"…":"")+
-        '<div class="m">'+esc(PBY[q.ppt].title)+' · '+esc(q.topik)+(q.d?' · '+DIFF[q.d]:'')+(q.ty?' · '+TYPE[q.ty]:'')+(q.tag&&TAGL[q.tag]?' · '+TAGL[q.tag]:'')+(s?' · dijawab '+s.n+'×':'')+'</div>'+
+        '<div class="m">'+esc(PBY[q.ppt].title)+' · '+esc(q.topik)+(q.d?' · '+DIFF[q.d]:'')+(q.ty?' · '+TYPE[q.ty]:'')+(q.tag&&TAGL[q.tag]?' · '+tagLabel(q):'')+(s?' · dijawab '+s.n+'×':'')+'</div>'+
         (BF.open===q.id?'<div style="margin-top:10px"><div class="stem">'+q.s+'</div>'+figure(q)+explain(q,null)+'</div>':'')+
         '</div><div class="ac"><button class="btn sm" data-bo="'+q.id+'">'+(BF.open===q.id?"Tutup":"Kunci")+'</button><button class="btn sm" data-bl="'+q.id+'">Kerjakan</button><button class="btn sm bmk'+(ST.bm[q.id]?" on":"")+'" data-bb="'+q.id+'" title="Bookmark">'+(ST.bm[q.id]?"★":"☆")+'</button></div></div>';}).join("")||'<div class="empty">Tidak ada soal yang cocok.</div>';
     if(pages>1) o+='<div class="pager"><button class="btn sm" data-pg="-1" '+(BF.page?"":"disabled")+'>←</button><span class="small">Hal. '+(BF.page+1)+' / '+pages+'</span><button class="btn sm" data-pg="1" '+(BF.page<pages-1?"":"disabled")+'>→</button></div>';

@@ -1,7 +1,7 @@
 # Simulator Blok 3.2 – FK UNWAHAS
 
 Platform latihan & ujian berbasis HTML (satu file, tanpa backend) untuk Modul 3.2 Kelas B.
-**687 soal** dari 20 PPT dosen + 1 kelompok recall UAM di luar PPT. Buka `index.html` atau GitHub Pages.
+**742 soal** dari 20 PPT dosen + 1 kelompok recall UAM/UAS di luar PPT, termasuk 55 soal recall UAS 3.2 angkatan Cerebrum (6 asli, 49 direkonstruksi; `src/uas_cere.py`). Buka `index.html` atau GitHub Pages.
 
 ## Fitur
 - **Mode CBT (ujian):** timer real-time, peta soal (dijawab/kosong/ragu), tandai ragu, sebelumnya/berikutnya, soal & opsi diacak, kirim otomatis saat waktu habis, konfirmasi sebelum kirim, skor otomatis, halaman hasil + review. Kunci tidak tampil sampai ujian selesai. Ujian yang sedang berjalan tetap tersimpan bila halaman ditutup/di-refresh.
@@ -17,7 +17,7 @@ Platform latihan & ujian berbasis HTML (satu file, tanpa backend) untuk Modul 3.
 ## Standar soal
 5 opsi A–E (kecuali soal slide asli 2/4 opsi), satu jawaban terbaik, metadata kesulitan (`d`), jenis kognitif (`ty`: recall/understanding/application/analysis/integrated), konsep (`ks`), kata kunci (`kw`), analisis (`an`), referensi.
 Desain **anti-clue** dicek otomatis: panjang opsi seimbang (rasio kunci/distraktor rata-rata 1,05), kunci tidak menonjol panjangnya (0%), posisi kunci A–E merata.
-Soal asli/recall/slide (85 soal) **tidak diubah teksnya**; hanya ditambah metadata dan pembahasan.
+Soal asli/recall/slide **tidak diubah teksnya**; hanya ditambah metadata dan pembahasan.
 PPT dosen adalah sumber utama; tambahan dari literatur dan koreksi slide ditandai di catatan soal.
 
 Dokumentasi: [`docs/BANK_GUIDE.md`](docs/BANK_GUIDE.md) (kelola bank soal) · [`docs/DEPLOY.md`](docs/DEPLOY.md) · [`docs/AUDIT.md`](docs/AUDIT.md).

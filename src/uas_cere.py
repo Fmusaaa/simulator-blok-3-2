@@ -1,0 +1,540 @@
+"""Recall UAS 3.2 angkatan Cerebrum (file "UAS 3.2 CERE.docx") -> ditambahkan ke data/bank.json.
+tag 'asli'  = stem + 5 opsi lengkap dari recall (teks tidak diubah)
+tag 'rekon' = recall hanya berisi pertanyaan/jawaban/opsi tidak lengkap -> opsi dilengkapi
+Jalankan sekali: python3 src/uas_cere.py   (menolak bila sudah ada soal src='uas-cere')"""
+import json
+SRC = 'uas-cere'
+N_ASLI = 'Recall UAS 3.2 angkatan Cerebrum.'
+Q = []
+def add(ppt, topik, tag, d, ty, s, opts, ks, kw, an, p='', n=''):
+    a = [i for i, o in enumerate(opts) if o[0].startswith('*')]
+    assert len(a) == 1, s
+    o = [[x[0].lstrip('*'), x[1], x[2]] for x in opts]
+    Q.append(dict(ppt=ppt, topik=topik, s=s, o=o, a=a[0], p=p, k='', t='', n=(N_ASLI + (' ' + n if n else '')),
+                  tag=tag, src=SRC, d=d, ty=ty, ks=ks, kw=kw, an=an, rev=2))
+
+# ---------- Onkologi / radiologi / K3 / histopatologi (lain) ----------
+add('lain', 'Onkologi – kemoterapi', 'asli', 1, 'recall',
+    'Pada pemberian obat kemoterapi dibagi menjadi berapa tahap?',
+    [['1', 'Kemoterapi kuratif tidak diberikan sekali saja.', 'Salah.'],
+     ['2', 'Hanya menyebut induksi dan rumatan.', 'Fase konsolidasi terlewat.'],
+     ['*3', 'Induksi → konsolidasi (intensifikasi) → rumatan (maintenance).', 'Benar sesuai recall angkatan.'],
+     ['4', 'Tidak ada fase keempat yang baku.', 'Salah.'],
+     ['5', 'Tidak ada pembagian lima fase.', 'Salah.']],
+    'Kemoterapi (terutama leukemia/limfoma) diberikan bertahap: induksi remisi, konsolidasi/intensifikasi, rumatan.',
+    ['tahap kemoterapi'], 'Ingat urutan: induksi untuk mencapai remisi, konsolidasi untuk membasmi sisa sel, rumatan untuk mencegah kambuh.',
+    n='Tidak dibahas di 20 PPT; kunci dari literatur onkologi.')
+add('lain', 'Radiologi – kontras', 'rekon', 1, 'recall',
+    'Contoh pemeriksaan radiologi dengan kontras pada traktus urinarius adalah…',
+    [['*IVP (intravenous pyelography)', 'Kontras iodium IV diekskresi ginjal sehingga ginjal, ureter, dan buli tervisualisasi.', 'Benar.'],
+     ['Barium meal (OMD)', 'Kontras barium oral untuk esofagus, lambung, duodenum.', 'Traktus digestivus, bukan urinarius.'],
+     ['Colon in loop (barium enema)', 'Kontras barium per rektal untuk kolon.', 'Traktus digestivus.'],
+     ['Histerosalpingografi', 'Kontras ke kavum uteri dan tuba.', 'Traktus genitalia wanita.'],
+     ['Foto polos BNO tanpa kontras', 'Foto abdomen polos.', 'Tidak memakai kontras.']],
+    'Pemeriksaan kontras traktus urinarius: IVP, sistografi, uretrografi (retrograd).', ['kontras', 'traktus urinarius'],
+    'Cocokkan nama pemeriksaan dengan organ yang dicitrakan.')
+add('lain', 'Radiologi – metastasis paru', 'rekon', 2, 'understanding',
+    'Gambaran radiologis metastasis kanker paru yang menyebar langsung ke pleura adalah…',
+    [['Cannon ball', 'Nodul bulat besar multipel di parenkim.', 'Pola metastasis hematogen ke parenkim.'],
+     ['Nodul milier', 'Nodul kecil-kecil difus.', 'Pola penyebaran hematogen.'],
+     ['Lesi cincin', 'Gambaran lesi berdinding (ring).', 'Bukan gambaran khas keterlibatan pleura.'],
+     ['*Efusi pleura', 'Cairan di rongga pleura, sering maligna.', 'Keterlibatan pleura bermanifestasi sebagai efusi.'],
+     ['Konsolidasi lobaris dengan air bronchogram', 'Gambaran pneumonia.', 'Bukan metastasis pleura.']],
+    'Metastasis pleura → efusi pleura maligna; metastasis hematogen → nodul (milier/cannon ball); limfogen → limfangitis karsinomatosa.',
+    ['metastasis paru', 'pleura'], 'Tentukan jalur penyebaran dulu, lalu cocokkan dengan gambaran radiologisnya.')
+add('lain', 'Radiologi – metastasis paru', 'rekon', 2, 'understanding',
+    'Penyebaran metastasis kanker paru secara hematogen (melalui pembuluh darah) memberikan gambaran radiologis…',
+    [['Efusi pleura masif unilateral', 'Gambaran keterlibatan pleura.', 'Penyebaran langsung ke pleura.'],
+     ['*Nodul milier difus di kedua paru', 'Nodul kecil tersebar mengikuti aliran darah.', 'Sesuai recall angkatan.'],
+     ['Garis Kerley B dan penebalan interstisial', 'Limfangitis karsinomatosa.', 'Pola penyebaran limfogen.'],
+     ['Konsolidasi lobaris dengan air bronchogram', 'Gambaran pneumonia.', 'Bukan metastasis.'],
+     ['Kavitas tunggal berdinding tebal', 'Abses atau karsinoma sel skuamosa primer.', 'Bukan pola hematogen.']],
+    'Metastasis hematogen → nodul multipel (milier atau cannon ball) bilateral, terutama di basal.',
+    ['hematogen', 'metastasis paru'], 'Hematogen menyebar merata ke kedua paru → nodul difus.')
+add('lain', 'Onkologi – terapi', 'rekon', 1, 'application',
+    'Seorang pasien didiagnosis kanker stadium IV dengan kondisi umum yang buruk. Terapi yang sebaiknya diberikan adalah…',
+    [['Kemoterapi dosis tinggi kuratif', 'Butuh kondisi umum yang baik.', 'Toksisitas tinggi pada kondisi buruk.'],
+     ['Operasi radikal pengangkatan tumor', 'Untuk stadium dini yang resektabel.', 'Tidak sesuai stadium IV.'],
+     ['*Terapi paliatif', 'Fokus mengurangi gejala dan meningkatkan kualitas hidup.', 'Sesuai stadium lanjut dengan kondisi buruk.'],
+     ['Radioterapi kuratif dosis penuh', 'Bertujuan menyembuhkan.', 'Tidak realistis pada stadium IV.'],
+     ['Observasi tanpa tindakan apa pun', 'Pasien tetap butuh penanganan gejala.', 'Tidak sesuai.']],
+    'Stadium IV dengan performa buruk: tujuan terapi bergeser dari kuratif ke paliatif.', ['stadium IV', 'kondisi buruk'],
+    'Stadium + performance status menentukan tujuan terapi.')
+add('lain', 'Histopatologi – penanganan spesimen', 'rekon', 2, 'recall',
+    'Penanganan spesimen cairan lambung (gaster) untuk pemeriksaan sitologi yang tepat adalah…',
+    [['Difiksasi formalin 10% dan dikirim keesokan harinya', 'Fiksasi untuk jaringan, bukan cairan.', 'Tidak sesuai.'],
+     ['Disimpan pada suhu ruang selama 24 jam', 'Enzim dan asam lambung merusak sel.', 'Tidak sesuai.'],
+     ['*Segera dikirim dalam beberapa menit dengan es', 'Pendinginan menghambat autolisis oleh asam dan enzim lambung.', 'Sesuai recall angkatan.'],
+     ['Dibekukan di freezer sebelum dikirim', 'Kristal es merusak morfologi sel.', 'Tidak sesuai.'],
+     ['Dicampur larutan glukosa agar sel tetap hidup', 'Tidak lazim.', 'Tidak sesuai.']],
+    'Cairan lambung mengandung asam dan enzim pencerna sehingga sel cepat rusak → kirim segera dalam keadaan dingin (es).',
+    ['cairan gaster', 'spesimen'], 'Lingkungan asam dan enzimatik → harus segera dan dingin.',
+    n='Tidak dibahas di 20 PPT; kunci sesuai catatan recall.')
+add('lain', 'Histopatologi – penanganan spesimen', 'rekon', 2, 'recall',
+    'Penanganan spesimen cairan asites untuk pemeriksaan sitologi adalah…',
+    [['Fiksasi BNF 10% selama 24 jam lalu dikirim', 'Fiksasi standar untuk jaringan padat.', 'Kurang tepat untuk cairan.'],
+     ['*Segar < 30 menit atau fiksasi alkohol 50%', 'Sel cairan cepat degenerasi.', 'Sesuai recall angkatan.'],
+     ['Disimpan pada suhu ruang selama 2 hari', 'Sel mengalami degenerasi.', 'Tidak sesuai.'],
+     ['Dibekukan kemudian dicairkan sebelum diperiksa', 'Merusak morfologi sel.', 'Tidak sesuai.'],
+     ['Ditambah air suling dengan volume yang sama', 'Hipotonik → sel lisis.', 'Tidak sesuai.']],
+    'Cairan tubuh untuk sitologi dikirim segar (< 30 menit) atau difiksasi alkohol (50%).', ['asites', 'spesimen'],
+    'Cairan → segar atau alkohol; jaringan → BNF 10%.', n='Tidak dibahas di 20 PPT; kunci sesuai catatan recall.')
+add('lain', 'Histopatologi – fiksasi', 'rekon', 1, 'recall',
+    'Larutan fiksasi terbaik untuk jaringan histopatologi adalah…',
+    [['Alkohol absolut 100%', 'Mengerutkan jaringan.', 'Bukan fiksatif jaringan standar.'],
+     ['NaCl 0,9% (salin)', 'Bukan fiksatif.', 'Jaringan tetap autolisis.'],
+     ['Air suling', 'Hipotonik dan bukan fiksatif.', 'Tidak sesuai.'],
+     ['*BNF 10% (buffer neutral formalin)', 'Fiksatif standar; pH netral mencegah pigmen formalin.', 'Sesuai recall angkatan.'],
+     ['Glutaraldehid untuk semua jenis jaringan', 'Untuk mikroskop elektron.', 'Bukan fiksatif rutin.']],
+    'Fiksatif rutin terbaik jaringan = BNF 10%, volume 10–20× volume jaringan.', ['fiksasi', 'jaringan'],
+    'Formalin dengan buffer netral mencegah artefak.')
+add('lain', 'Patologi Klinik – lipid', 'asli', 1, 'recall',
+    'Rumus untuk menghitung kadar LDL, formula apa?',
+    [['*Friedewald', 'LDL = kolesterol total − HDL − TG/5.', 'Tidak valid bila TG > 400 mg/dL.'],
+     ['Frederickson', 'Klasifikasi fenotip hiperlipoproteinemia.', 'Bukan rumus LDL.'],
+     ['Bland dan Altman', 'Metode statistik untuk uji kesesuaian dua metode ukur.', 'Bukan rumus LDL.'],
+     ['Cordoba', 'Tidak lazim dipakai sebagai rumus LDL.', 'Salah.'],
+     ['Cheng', 'Tidak lazim dipakai sebagai rumus LDL.', 'Salah.']],
+    'LDL indirek dihitung dengan Friedewald.', ['LDL', 'rumus'], 'Hafalkan rumus dan batas validitasnya (TG ≤ 400).')
+add('lain', 'K3 – penyakit akibat kerja', 'rekon', 2, 'application',
+    'Laki-laki 60 tahun, mantan pekerja tambang, mengeluh batuk dan sesak napas dengan pelebaran ujung jari (clubbing). Rontgen toraks: gambaran "ground glass appearance". Penyakit yang paling mungkin adalah…',
+    [['Silikosis', 'Nodul kecil di lobus atas ± kalsifikasi eggshell kelenjar hilus.', 'Gambaran khasnya nodular, bukan ground glass.'],
+     ['Antrasilikosis', 'Pneumokoniosis debu batu bara + silika.', 'Gambaran nodular.'],
+     ['Bisinosis', 'Debu kapas; keluhan memburuk hari Senin.', 'Pajanan berbeda.'],
+     ['*Asbestosis', 'Fibrosis basal, ground glass, plak pleura, clubbing sering.', 'Sesuai catatan recall angkatan.'],
+     ['Asma kerja', 'Obstruksi reversibel.', 'Tidak menyebabkan clubbing dan fibrosis.']],
+    'Asbestosis: fibrosis interstisial basal, ground glass/retikular, plak pleura; clubbing lebih sering dibanding silikosis.',
+    ['ground glass', 'clubbing', 'pekerja tambang'], 'Kata kunci radiologis (ground glass + clubbing) lebih menentukan daripada jenis tambang.',
+    n='Opsi asli di recall hanya silikosis, antrasilikosis, bisinosis; catatan recall menyebut kuncinya asbestosis.')
+add('lain', 'K3 – pemeriksaan kesehatan pekerja', 'rekon', 1, 'recall',
+    'Pemeriksaan kesehatan awal, berkala, dan khusus pada pekerja terutama bertujuan untuk…',
+    [['Menentukan besaran gaji pekerja', 'Bukan tujuan kesehatan.', 'Salah.'],
+     ['*Deteksi dini penyakit akibat kerja (PAK)', 'Menemukan gangguan sebelum menjadi berat.', 'Sesuai recall angkatan.'],
+     ['Memberhentikan pekerja yang sudah tua', 'Bukan tujuan.', 'Salah.'],
+     ['Menggantikan penggunaan alat pelindung diri', 'APD tetap wajib.', 'Salah.'],
+     ['Menilai produktivitas harian setiap pekerja', 'Bukan tujuan medis.', 'Salah.']],
+    'Pemeriksaan kesehatan pra-kerja, berkala, dan khusus → deteksi dini PAK dan penilaian kelaikan kerja.',
+    ['pemeriksaan awal berkala khusus'], 'Pencegahan sekunder di K3.')
+add('lain', 'K3 – penyakit akibat kerja', 'rekon', 2, 'application',
+    "Weil's disease merupakan penyakit yang berhubungan dengan lingkungan kerja. Upaya pencegahan yang tepat pada pekerja adalah…",
+    [['Menggunakan masker saat kerja', 'Infeksi tidak terutama lewat inhalasi.', 'Kurang tepat.'],
+     ['Menggunakan earplug saat kerja', 'Untuk kebisingan.', 'Tidak relevan.'],
+     ['Menggunakan meja dan kursi yang ergonomis', 'Untuk faktor ergonomi.', 'Tidak relevan.'],
+     ['*Memakai sepatu bot dan sarung tangan karet', 'Leptospira masuk lewat kulit lecet/mukosa dari air tercemar urin tikus.', 'Mencegah kontak.'],
+     ['Memeriksakan pendengaran pekerja setiap tahun', 'Untuk kebisingan.', 'Tidak relevan.']],
+    "Weil's disease = leptospirosis berat (Leptospira dari urin tikus); pencegahan: APD kedap air, pengendalian tikus, sanitasi.",
+    ['Weil disease', 'pencegahan'], 'Kenali jalur masuk kuman, lalu pilih APD yang memutus jalur itu.',
+    n='Opsi asli di recall: masker, earplug, meja-kursi; opsi kunci dilengkapi dari literatur.')
+add('lain', 'K3 – bahan berbahaya', 'rekon', 1, 'recall',
+    'Dalam klasifikasi bahan berbahaya dan beracun (B3), istilah "explosive" berarti…',
+    [['Beracun', 'Istilahnya toxic.', 'Salah.'],
+     ['Berbahaya bagi lingkungan', 'Dangerous for environment.', 'Salah.'],
+     ['*Mudah meledak', 'Bahan yang dapat meledak karena reaksi kimia, panas, atau tekanan.', 'Benar.'],
+     ['Korosif terhadap logam dan kulit', 'Istilahnya corrosive.', 'Salah.'],
+     ['Mudah menyala atau terbakar', 'Istilahnya flammable.', 'Salah.']],
+    'Karakteristik B3: explosive, oxidizing, flammable, toxic, harmful, corrosive, irritant, dangerous for environment, carcinogenic, mutagenic.',
+    ['B3', 'explosive'], 'Terjemahan langsung istilah.')
+add('lain', 'K3 – kesehatan lingkungan', 'rekon', 2, 'understanding',
+    'Pegawai sebuah gedung perkantoran mengeluh sakit kepala, mata perih, dan lelah selama berada di dalam gedung; keluhan hilang setelah meninggalkan gedung. Kondisi ini disebut…',
+    [['Building-related illness', 'Penyakit spesifik dengan penyebab teridentifikasi (misal Legionella).', 'Keluhan tidak hilang saat keluar gedung.'],
+     ['*Sick building syndrome', 'Keluhan nonspesifik terkait waktu di dalam gedung.', 'Hilang setelah keluar gedung.'],
+     ['Heat stroke akibat paparan panas', 'Gangguan termoregulasi berat.', 'Tidak sesuai.'],
+     ['Asma kerja', 'Obstruksi saluran napas karena sensitizer.', 'Tidak sesuai.'],
+     ['Gangguan muskuloskeletal akibat kerja', 'Keluhan otot dan sendi.', 'Tidak sesuai.']],
+    'Sick building syndrome: keluhan nonspesifik (mata, saluran napas, kepala, lelah) terkait kualitas udara dalam gedung, membaik setelah keluar.',
+    ['sick building', 'hilang setelah keluar'], 'Kunci pembeda: perbaikan saat keluar gedung dan tidak ada penyebab spesifik.')
+
+# ---------- Tumor marker ----------
+add('tm', 'PSA', 'asli', 1, 'recall',
+    'Antigen spesifik prostat memiliki spesifisitas dan sensitivitas yang tinggi untuk karsinoma prostat. Namun, antigen ini dapat meningkat palsu setelah tindakan apa?',
+    [['*Rectal toucher', 'Manipulasi prostat melepaskan PSA ke darah.', 'Ambil sampel sebelum DRE.'],
+     ['Colonoscopy', 'Tidak memanipulasi prostat secara langsung.', 'Kurang tepat.'],
+     ['Bronkhoscopy', 'Tindakan saluran napas.', 'Tidak terkait prostat.'],
+     ['Gastroscopy', 'Tindakan saluran cerna atas.', 'Tidak terkait prostat.'],
+     ['Laparotomy', 'Bedah abdomen.', 'Tidak terkait prostat.']],
+    'PSA meningkat palsu setelah DRE (rectal toucher), biopsi, sistoskopi, prostatitis, retensi urin, ejakulasi.',
+    ['PSA', 'meningkat palsu'], 'Cari tindakan yang menekan atau memanipulasi prostat.')
+add('tm', 'CEA', 'rekon', 1, 'recall',
+    'Kadar CEA dapat meningkat pada kondisi non-keganasan, misalnya pada…',
+    [['*Perokok berat', 'Slide: CEA meningkat pada perokok berat.', 'Benar.'],
+     ['Kehamilan normal trimester ketiga', 'Lebih khas untuk AFP/hCG.', 'Kurang tepat.'],
+     ['Atlet setelah olahraga berat', 'Tidak disebut sebagai penyebab.', 'Salah.'],
+     ['Anak usia sekolah yang sehat', 'Tidak disebut.', 'Salah.'],
+     ['Pasien yang baru selesai berpuasa', 'Tidak berpengaruh.', 'Salah.']],
+    'CEA: marker Ca kolorektal; dapat meningkat pada perokok berat dan penyakit inflamasi.', ['CEA', 'perokok'],
+    'Hafalkan kondisi non-keganasan yang menaikkan tiap marker.')
+add('tm', 'CA 125', 'rekon', 1, 'recall',
+    'Petanda tumor yang memiliki spesifisitas tinggi untuk neoplasma ovarium adalah…',
+    [['CA 19-9', 'Marker utama Ca pankreas.', 'Second-line untuk ovarium.'],
+     ['PSA', 'Marker Ca prostat.', 'Salah organ.'],
+     ['*CA 125', 'Glikoprotein, cut-off 35 U/mL.', 'Marker utama Ca ovarium.'],
+     ['CEA', 'Marker Ca kolorektal.', 'Salah organ.'],
+     ['AFP', 'Marker HCC dan germ cell tumor.', 'Bukan marker epitelial ovarium utama.']],
+    'CA 125 (Bast 1983) untuk Ca ovarium; juga naik pada endometriosis, kehamilan awal, sirosis.', ['ovarium', 'petanda tumor'],
+    'Cocokkan marker dengan organ.')
+add('tm', 'CA 19-9', 'rekon', 1, 'recall',
+    'CA 19-9 terutama digunakan sebagai petanda tumor untuk keganasan…',
+    [['Prostat', 'Markernya PSA.', 'Salah.'],
+     ['Tiroid meduler', 'Markernya kalsitonin.', 'Salah.'],
+     ['Payudara', 'Markernya CA 15-3.', 'Salah.'],
+     ['Sel germinal testis', 'Markernya AFP dan hCG.', 'Salah.'],
+     ['*Pankreas dan hepatobilier', 'Slide: dihasilkan pankreas, hepatobilier, lambung.', 'Benar.']],
+    'CA 19-9: Ca pankreas (utama), hepatobilier, lambung; second-line untuk kolorektal dan ovarium.', ['CA 19-9'],
+    'Marker gastrointestinal atas.', n='Catatan recall menyebut CA 19-9 "meningkat pada reumatik"; hal ini tidak ada di slide.')
+
+# ---------- Hemodinamik / syok ----------
+add('hemo', 'Syok', 'rekon', 1, 'application',
+    'Pasien diberi obat injeksi. Dalam waktu 15 menit kemudian kesadaran menurun, TD 80/50 mmHg, nadi 130×/menit, RR 22×/menit, akral dingin. Apa yang terjadi pada pasien?',
+    [['Syok kardiogenik', 'Kegagalan pompa jantung.', 'Tidak ada riwayat penyakit jantung.'],
+     ['Syok hipovolemik', 'Kehilangan volume (perdarahan, diare).', 'Tidak ada kehilangan cairan.'],
+     ['Syok neurogenik', 'Cedera medula spinalis, bradikardia.', 'Pasien takikardia.'],
+     ['*Syok anafilaktik', 'Reaksi hipersensitivitas tipe I sistemik dalam menit setelah obat.', 'Sesuai recall angkatan.'],
+     ['Syok septik', 'Butuh waktu dan sumber infeksi.', 'Onset terlalu cepat.']],
+    'Onset menit setelah pajanan obat + hipotensi + takikardia = syok anafilaktik; terapi epinefrin IM.',
+    ['15 menit setelah injeksi', 'hipotensi'], 'Hubungan waktu dengan pajanan obat adalah kunci.')
+add('hemo', 'Syok', 'rekon', 1, 'application',
+    'Pasien dengan cedera medula spinalis sering mengalami syok. Termasuk syok apa?',
+    [['Syok kardiogenik', 'Kegagalan pompa.', 'Tidak sesuai.'],
+     ['Syok hipovolemik', 'Kehilangan volume.', 'Bisa menyertai trauma, tetapi bukan mekanisme khas cedera medula.'],
+     ['*Syok neurogenik', 'Tonus simpatis hilang → vasodilatasi + bradikardia.', 'Sesuai slide.'],
+     ['Syok septik', 'Infeksi berat.', 'Tidak sesuai.'],
+     ['Syok anafilaktik', 'Diperantarai IgE.', 'Tidak sesuai.']],
+    'Syok neurogenik: cedera medula spinalis/anestesi spinal → hilang tonus vaskular.', ['medula spinalis'],
+    'Hipotensi + bradikardia setelah cedera spinal.', n='Opsi asli di recall: kardiogenik, …, neurogenik, …, anafilaktik.')
+add('hemo', 'Perdarahan', 'rekon', 1, 'recall',
+    'Perdarahan subkutan berukuran 3–5 mm disebut…',
+    [['Petekie', 'Perdarahan 1–2 mm.', 'Ukurannya lebih kecil.'],
+     ['*Purpura', 'Perdarahan 3–5 mm.', 'Sesuai tabel slide.'],
+     ['Ekimosis', 'Memar 1–2 cm.', 'Ukurannya lebih besar.'],
+     ['Hematoma', 'Akumulasi darah membentuk massa.', 'Tidak sesuai.'],
+     ['Hiperemia', 'Bukan perdarahan; memucat saat ditekan.', 'Tidak sesuai.']],
+    'Petekie 1–2 mm, purpura 3–5 mm, ekimosis 1–2 cm.', ['3–5 mm'], 'Urutkan menurut ukuran.')
+
+# ---------- Imunologi ----------
+add('imun', 'Hipersensitivitas', 'rekon', 1, 'understanding',
+    'Pada kasus SLE, mekanisme imunologi yang terjadi termasuk hipersensitivitas tipe…',
+    [['Tipe I, diperantarai IgE', 'Alergi cepat.', 'Tidak sesuai.'],
+     ['Tipe II, antibodi terhadap antigen sel', 'Bisa ikut berperan (anemia hemolitik), tetapi bukan mekanisme utama.', 'Kurang tepat.'],
+     ['*Tipe III, pengendapan kompleks imun', 'Kompleks antigen inti–antibodi mengendap di ginjal, sendi, kulit.', 'Sesuai recall angkatan.'],
+     ['Tipe IV, diperantarai sel T', 'Reaksi lambat.', 'Tidak sesuai.'],
+     ['Tipe IV granulomatosa', 'Granuloma.', 'Tidak sesuai.']],
+    'SLE = prototipe penyakit kompleks imun (tipe III).', ['SLE', 'mekanisme'], 'Autoantibodi + antigen terlarut → kompleks imun.')
+add('imun', 'Innate vs adaptif', 'rekon', 2, 'recall',
+    'Sel imun yang berada di perbatasan sistem imun innate dan adaptive adalah…',
+    [['Sel plasma', 'Penghasil antibodi.', 'Adaptif murni.'],
+     ['Neutrofil', 'Fagosit.', 'Innate murni.'],
+     ['*Sel NKT (natural killer T)', 'Memiliki TCR dan sifat sel NK.', 'Bersama sel T γδ berada di perbatasan.'],
+     ['Sel mast', 'Degranulasi pada alergi.', 'Innate.'],
+     ['Sel B memori', 'Memori humoral.', 'Adaptif murni.']],
+    'Gambar materi: sel T γδ dan sel NKT berada di perbatasan innate dan adaptif.', ['innate dan adaptive'],
+    'Sel yang punya reseptor antigen (TCR) tetapi bereaksi cepat seperti innate.',
+    n='Jawaban recall angkatan berbeda-beda ("NK" dan "dendritic cells"); kunci disesuaikan dengan gambar materi (NKT/γδ). Sel dendritik adalah penghubung (APC) innate ke adaptif.')
+
+# ---------- Koagulasi ----------
+add('koag', 'Hemofilia', 'rekon', 1, 'recall',
+    'Defisiensi faktor IX akan bermanifestasi sebagai penyakit…',
+    [['Hemofilia A', 'Defisiensi faktor VIII.', 'Salah faktor.'],
+     ['*Hemofilia B (penyakit Christmas)', 'Defisiensi faktor IX, X-linked.', 'Benar.'],
+     ['Hemofilia C', 'Defisiensi faktor XI.', 'Salah faktor.'],
+     ['Penyakit von Willebrand', 'Defisiensi vWF.', 'Salah.'],
+     ['Defisiensi vitamin K', 'Faktor II, VII, IX, X turun bersamaan.', 'Bukan defisiensi tunggal.']],
+    'Hemofilia A = VIII, B = IX, C = XI.', ['faktor IX'], 'Hafalkan pasangan faktor–hemofilia.',
+    n='Catatan recall menulis "XII = hemofilia D"; istilah ini tidak baku, dan defisiensi faktor XII umumnya tanpa perdarahan.')
+add('koag', 'Fibrinolisis', 'rekon', 2, 'recall',
+    'Komponen utama sistem fibrinolisis meliputi…',
+    [['Trombosit, vWF, dan kolagen subendotel', 'Hemostasis primer.', 'Bukan fibrinolisis.'],
+     ['*Plasminogen, aktivator plasminogen, inhibitor plasmin', 'tPA/uPA mengaktifkan plasmin; α2-antiplasmin dan PAI-1 sebagai rem.', 'Sesuai recall angkatan.'],
+     ['Faktor VII dan tissue factor saja', 'Jalur ekstrinsik koagulasi.', 'Bukan fibrinolisis.'],
+     ['Fibrinogen dan trombin saja', 'Pembentukan fibrin.', 'Bukan fibrinolisis.'],
+     ['Ion kalsium dan vitamin K', 'Kofaktor koagulasi.', 'Bukan fibrinolisis.']],
+    'Fibrinolisis: plasminogen → plasmin (oleh tPA/uPA) memecah fibrin → FDP/D-dimer; diatur α2-antiplasmin dan PAI-1.',
+    ['fibrinolisis'], 'Pembentuk, aktivator, dan penghambat.')
+add('koag', 'Antikoagulan', 'rekon', 1, 'recall',
+    'Pemantauan terapi warfarin dilakukan dengan pemeriksaan…',
+    [['Masa perdarahan (bleeding time)', 'Menilai fungsi trombosit.', 'Tidak sesuai.'],
+     ['APTT', 'Memantau heparin unfractionated.', 'Kurang tepat.'],
+     ['Hitung trombosit', 'Memantau HIT pada heparin.', 'Tidak sesuai.'],
+     ['*PT dengan INR', 'Faktor VII (t½ terpendek) turun lebih dulu.', 'Target INR umumnya 2–3.'],
+     ['Kadar D-dimer', 'Penanda fibrinolisis.', 'Tidak sesuai.']],
+    'Warfarin → PT/INR; heparin UFH → APTT.', ['warfarin', 'monitoring'], 'Warfarin menghambat faktor vitamin K → jalur ekstrinsik (PT).')
+
+# ---------- AGD ----------
+add('agd', 'Interpretasi AGD', 'rekon', 1, 'recall',
+    'Interpretasi hasil analisis gas darah harus memperhatikan komponen respiratorik dan metabolik. Parameter yang termasuk komponen metabolik adalah…',
+    [['PaCO₂', 'Komponen respiratorik.', 'Salah.'],
+     ['PaO₂', 'Menilai oksigenasi.', 'Bukan komponen asam-basa metabolik.'],
+     ['*HCO₃⁻ (bikarbonat)', 'Diatur ginjal.', 'Komponen metabolik.'],
+     ['SaO₂', 'Saturasi oksigen.', 'Bukan komponen asam-basa.'],
+     ['Frekuensi napas', 'Tanda vital.', 'Bukan parameter AGD.']],
+    'Respiratorik = PaCO₂; metabolik = HCO₃⁻ (dan base excess).', ['komponen metabolik'], 'Paru mengatur CO₂, ginjal mengatur HCO₃⁻.')
+add('agd', 'Gangguan asam basa', 'rekon', 1, 'application',
+    'Penyebab alkalosis metabolik di antara pilihan berikut adalah…',
+    [['Diare akut profus', 'Kehilangan HCO₃⁻.', 'Menyebabkan asidosis metabolik.'],
+     ['Ketoasidosis diabetik', 'Penumpukan keton.', 'Asidosis metabolik.'],
+     ['*Penggunaan antasida berlebihan', 'Beban alkali (bikarbonat) eksogen.', 'Sesuai recall angkatan.'],
+     ['Hiperventilasi karena cemas', 'PaCO₂ turun.', 'Alkalosis respiratorik.'],
+     ['Gagal ginjal kronik', 'Retensi asam.', 'Asidosis metabolik.']],
+    'Alkalosis metabolik: muntah, diuretik, antasida/bikarbonat berlebih, hiperaldosteronisme.', ['alkalosis metabolik'],
+    'Cari penyebab yang menambah HCO₃⁻ atau membuang H⁺.')
+
+# ---------- Lab DM ----------
+add('ldm', 'Pemantauan glikemik', 'rekon', 1, 'recall',
+    'Alternatif pemeriksaan bila HbA1c tidak dapat digunakan (misalnya pada anemia atau hemoglobinopati) adalah…',
+    [['Kadar insulin puasa', 'Menilai resistensi insulin.', 'Bukan penanda kontrol glikemik.'],
+     ['C-peptide serum', 'Menilai cadangan insulin.', 'Bukan penanda kontrol glikemik.'],
+     ['*Glycated albumin (GA)', 'Menggambarkan glikemia 2–3 minggu, tidak bergantung umur eritrosit.', 'Sesuai slide.'],
+     ['Autoantibodi GAD', 'Menilai etiologi autoimun.', 'Bukan alat pemantauan.'],
+     ['Profil lipid lengkap', 'Menilai lipid.', 'Tidak menilai glikemik.']],
+    'HbA1c tidak andal bila umur eritrosit berubah → glycated albumin.', ['alternatif HbA1c'], 'Pilih penanda glikasi yang bukan dari Hb.')
+
+# ---------- Tiroid ----------
+add('tir', 'Transport hormon tiroid', 'rekon', 1, 'recall',
+    'Di dalam plasma, T3 dan T4 sebagian besar beredar terikat pada…',
+    [['Albumin saja', 'Mengikat sebagian kecil.', 'Bukan pengikat utama.'],
+     ['Transkortin (CBG)', 'Mengikat kortisol.', 'Salah.'],
+     ['*Thyroxine-binding globulin (TBG)', 'Pengikat utama hormon tiroid.', 'Benar.'],
+     ['Transferin', 'Mengikat besi.', 'Salah.'],
+     ['Sex hormone-binding globulin (SHBG)', 'Mengikat hormon seks.', 'Salah.']],
+    'Hormon tiroid terikat TBG (utama), transtiretin, dan albumin; hanya fraksi bebas yang aktif.', ['TBG'],
+    'Kehamilan/estrogen menaikkan TBG sehingga T4 total naik dengan FT4 normal.')
+add('ktp', 'Aksis tiroid', 'rekon', 1, 'recall',
+    'Produksi hormon tiroid oleh kelenjar tiroid diatur oleh hipotalamus–hipofisis. Hormon yang diproduksi hipofisis untuk mengatur tiroid adalah…',
+    [['TRH (thyrotropin-releasing hormone)', 'Dihasilkan hipotalamus.', 'Bukan hipofisis.'],
+     ['*TSH (thyroid-stimulating hormone)', 'Dari hipofisis anterior.', 'Merangsang sintesis dan pelepasan T4/T3.'],
+     ['Kalsitonin', 'Dari sel C parafolikular tiroid.', 'Salah.'],
+     ['Tiroglobulin', 'Protein simpanan di folikel tiroid.', 'Salah.'],
+     ['Somatostatin', 'Menghambat TSH dan GH.', 'Salah.']],
+    'Aksis: TRH (hipotalamus) → TSH (hipofisis anterior) → T4/T3.', ['hipofisis'], 'Cari hormon dari hipofisis anterior.')
+
+# ---------- Farmakoterapi tiroid ----------
+add('ftr', 'Hipotiroid', 'rekon', 1, 'recall',
+    'Obat pilihan untuk terapi sulih hormon pada hipotiroidisme adalah…',
+    [['Propiltiourasil', 'Obat antitiroid.', 'Memperberat hipotiroid.'],
+     ['*Levotiroksin', 'T4 sintetik: stabil, murah, t½ ±7 hari.', 'Pilihan utama.'],
+     ['Metimazol', 'Obat antitiroid.', 'Memperberat hipotiroid.'],
+     ['Larutan Lugol (iodida)', 'Persiapan operasi hipertiroid.', 'Salah.'],
+     ['Propranolol', 'Untuk gejala hipertiroid.', 'Salah.']],
+    'Levotiroksin = drug of choice hipotiroid.', ['hipotiroid'], 'Sulih hormon, bukan penghambat.')
+add('ftr', 'Hipotiroid', 'rekon', 1, 'recall',
+    'Levotiroksin sebaiknya diminum…',
+    [['*Pagi hari dengan perut kosong sebelum makan', 'Absorpsi terbaik tanpa makanan.', 'Sesuai slide (empty stomach).'],
+     ['Bersamaan saat makan pagi', 'Makanan menurunkan absorpsi.', 'Kurang tepat.'],
+     ['Segera setelah makan besar', 'Absorpsi turun.', 'Kurang tepat.'],
+     ['Bersama susu dan suplemen kalsium', 'Kalsium mengikat levotiroksin.', 'Salah.'],
+     ['Kapan saja tanpa memperhatikan makanan', 'Absorpsi bervariasi.', 'Kurang tepat.']],
+    'Levotiroksin: pagi, perut kosong (± 30–60 menit sebelum makan); beri jarak dengan kalsium dan besi.', ['waktu minum'],
+    'Absorpsi dipengaruhi makanan dan mineral.')
+add('ftr', 'Hipertiroid', 'rekon', 1, 'recall',
+    'Obat antitiroid yang juga menghambat konversi T4 menjadi T3 di perifer adalah…',
+    [['Metimazol', 'Hanya menghambat peroksidase tiroid.', 'Tidak berefek perifer.'],
+     ['Karbimazol', 'Prodrug metimazol.', 'Tidak berefek perifer.'],
+     ['*Propiltiourasil (PTU)', 'Menghambat TPO dan deiodinase perifer.', 'Dipilih pada krisis tiroid.'],
+     ['Levotiroksin', 'Sulih hormon.', 'Salah.'],
+     ['Yodium radioaktif', 'Destruksi kelenjar.', 'Salah.']],
+    'PTU (dan propranolol, glukokortikoid) menghambat konversi T4 → T3 perifer.', ['konversi perifer'], 'Keunggulan PTU dibanding metimazol.')
+add('ftr', 'Hipertiroid – persiapan operasi', 'rekon', 2, 'recall',
+    'Dosis dan lama pemberian iodida sebelum tiroidektomi pada pasien hipertiroid adalah…',
+    [['5 mg/hari selama 6 bulan', 'Dosis dan durasi keliru.', 'Salah.'],
+     ['*500 mg/hari selama 1–14 hari', 'Mengurangi vaskularisasi kelenjar.', 'Sesuai slide.'],
+     ['50 mg/hari selama 3 bulan', 'Efek iodida hanya sementara (escape).', 'Salah.'],
+     ['1 g dosis tunggal sesaat sebelum operasi', 'Tidak sesuai slide.', 'Salah.'],
+     ['500 mg/hari selama 12–18 bulan', 'Durasi itu untuk obat antitiroid.', 'Salah.']],
+    'Slide: PTU/metimazol sampai eutiroid (6–8 minggu), lalu iodida 500 mg/hari selama 1–14 hari sebelum operasi.',
+    ['iodida', 'sebelum operasi'], 'Iodida jangka pendek saja karena efeknya sementara.')
+add('ftr', 'Krisis tiroid', 'rekon', 2, 'recall',
+    'Pada krisis tiroid, obat yang diberikan untuk mengantisipasi kemungkinan insufisiensi adrenal adalah…',
+    [['Propranolol oral 40 mg', 'Untuk gejala adrenergik.', 'Bukan untuk adrenal.'],
+     ['Fludrokortison 0,1 mg oral', 'Mineralokortikoid untuk Addison kronik.', 'Kurang tepat.'],
+     ['*Hidrokortison IV 300 mg, lalu 100 mg/8 jam', 'Sesuai slide.', 'Kemungkinan insufisiensi adrenal.'],
+     ['Deksametason topikal', 'Rute tidak sesuai.', 'Salah.'],
+     ['Levotiroksin IV bolus', 'Untuk koma miksedema.', 'Memperberat krisis.']],
+    'Krisis tiroid: esmolol, iodida, PTU dosis besar, asetaminofen, cairan, hidrokortison IV.', ['krisis tiroid', 'insufisiensi adrenal'],
+    'Steroid dosis stres.')
+
+# ---------- Steroid ----------
+add('ster', 'Sediaan kortikosteroid', 'rekon', 1, 'recall',
+    'Obat glukokortikoid yang bekerja cepat dengan masa kerja singkat adalah…',
+    [['Deksametason', 'Kerja panjang (36–72 jam).', 'Salah.'],
+     ['Betametason', 'Kerja panjang.', 'Salah.'],
+     ['Prednison', 'Kerja menengah.', 'Salah.'],
+     ['*Hidrokortison', 'Kerja singkat 8–12 jam.', 'Dipakai pada kondisi darurat.'],
+     ['Triamsinolon', 'Kerja menengah.', 'Salah.']],
+    'Kerja singkat: hidrokortison, kortison; menengah: prednison, metilprednisolon, triamsinolon; panjang: deksametason, betametason.',
+    ['kerja singkat'], 'Hafalkan tabel lama kerja.')
+add('ster', 'Sediaan kortikosteroid', 'rekon', 2, 'understanding',
+    'Keunggulan deksametason dibandingkan glukokortikoid lain adalah…',
+    [['Efek mineralokortikoidnya paling kuat', 'Itu sifat fludrokortison.', 'Salah.'],
+     ['Masa kerjanya paling singkat', 'Itu hidrokortison.', 'Salah.'],
+     ['Tidak menekan aksis HPA sama sekali', 'Justru supresi HPA kuat.', 'Salah.'],
+     ['Paling murah dan tanpa efek samping', 'Tidak benar.', 'Salah.'],
+     ['*Antiradang kuat, efek mineralokortikoid hampir nol', 'Fluorokortikoid; potensi GC tinggi.', 'Sesuai recall angkatan.']],
+    'Deksametason/betametason (fluorokortikoid): daya glukokortikoid dan antiradang ±10–30× lebih kuat, daya mineralokortikoid praktis hilang.',
+    ['deksametason', 'keunggulan'], 'Bedakan potensi GC dan MC tiap sediaan.')
+
+# ---------- Antidiabetes ----------
+add('ado', 'Pemilihan OHO', 'rekon', 1, 'application',
+    'Seorang wanita menderita DM tipe 2 dan mengalami obesitas. Obat yang tepat adalah…',
+    [['*Metformin', 'Tanpa hipoglikemia dan tanpa kenaikan BB.', 'Lini pertama, cocok untuk obesitas.'],
+     ['Glibenklamid', 'Sulfonilurea.', 'Berisiko hipoglikemia dan BB naik.'],
+     ['Glimepirid', 'Sulfonilurea.', 'Berisiko hipoglikemia dan BB naik.'],
+     ['Insulin', 'Bukan pilihan awal; BB naik.', 'Kurang tepat.'],
+     ['Pioglitazon', 'TZD: BB naik dan edema.', 'Kurang tepat.']],
+    'DMT2 dengan obesitas: metformin (BB netral, tanpa hipoglikemia).', ['obesitas', 'DMT2'], 'Hindari obat yang menaikkan BB.',
+    n='Recall hanya memuat 4 opsi (metformin, glibenklamid, glimepirid, insulin); opsi E ditambahkan.')
+add('ado', 'Sulfonilurea', 'asli', 3, 'application',
+    'Seorang pria telah menjalani terapi metformin selama 3 bulan, tetapi target HbA1c belum tercapai. Dokter memberikan glipizide sebagai obat kedua. Dosis obatnya adalah…',
+    [['2 × 5 mg', 'Dosis harian masih di rentang 5–40 mg.', 'Slide menyebut 1×/hari.'],
+     ['2 × 2 mg', 'Tablet glipizide 5/10 mg.', 'Sediaan tidak sesuai.'],
+     ['1 × 1 mg', 'Di bawah dosis minimal 5 mg.', 'Salah.'],
+     ['*1 × 10 mg', 'Slide: tablet 5 dan 10 mg, 1×/hari; dosis 5–40 mg.', 'Paling sesuai slide.'],
+     ['2 × 500 mg', 'Dosis tablet metformin.', 'Salah obat.']],
+    'Glipizide: tablet 5 dan 10 mg (juga XR), sekali sehari; dosis harian 5–40 mg.', ['glipizide', 'dosis'],
+    'Cocokkan dengan kekuatan tablet dan frekuensi di slide.',
+    n='Recall tidak mencantumkan kunci; kunci ditetapkan dari slide (tablet 5/10 mg, 1×/hari).')
+add('ado', 'Penghambat α-glukosidase', 'rekon', 1, 'recall',
+    'Obat antidiabetes yang diminum bersama suapan pertama makan adalah…',
+    [['Metformin', 'Diminum bersama atau setelah makan.', 'Tidak khas suapan pertama.'],
+     ['Glimepirid', 'Diminum sebelum makan pagi.', 'Kurang tepat.'],
+     ['*Akarbose', 'Menghambat α-glukosidase saat karbohidrat masuk usus.', 'Sesuai slide.'],
+     ['Pioglitazon', 'Sekali sehari tanpa terkait makan.', 'Kurang tepat.'],
+     ['Sitagliptin', 'Sekali sehari tanpa terkait makan.', 'Kurang tepat.']],
+    'Akarbose 3×/hari bersama suapan pertama makan.', ['suapan pertama'], 'Obat harus ada di usus bersamaan dengan karbohidrat.')
+add('ado', 'Penghambat α-glukosidase', 'rekon', 2, 'understanding',
+    'Keuntungan penghambat α-glukosidase dibandingkan antidiabetes lain adalah…',
+    [['Menurunkan HbA1c paling besar di antara OHO', 'Efeknya justru sedang.', 'Salah.'],
+     ['Tidak menimbulkan efek samping saluran cerna', 'Flatulen dan kembung sering.', 'Salah.'],
+     ['Meningkatkan sekresi insulin sel β', 'Itu sulfonilurea.', 'Salah.'],
+     ['*Non-sistemik; menurunkan glukosa postprandial', 'Bekerja lokal di usus.', 'Sesuai recall angkatan.'],
+     ['Dapat dipakai tunggal untuk ketoasidosis diabetik', 'KAD butuh insulin IV.', 'Salah.']],
+    'Akarbose: kerja lokal di usus (non-sistemik), target glukosa postprandial, tanpa hipoglikemia bila tunggal.',
+    ['keuntungan', 'α-glukosidase'], 'Kerja lokal = minim efek sistemik.')
+add('ado', 'Inkretin', 'rekon', 1, 'recall',
+    'Fenomena ketika konsumsi glukosa ORAL menaikkan kadar insulin lebih besar daripada pemberian glukosa IV, walaupun kadar glukosa darahnya sama pada individu sehat, disebut…',
+    [['Fenomena Somogyi', 'Hiperglikemia pagi pascahipoglikemia malam.', 'Salah.'],
+     ['Dawn phenomenon', 'Hiperglikemia pagi akibat hormon kontra-insulin.', 'Salah.'],
+     ['*Incretin effect', 'Dimediasi GLP-1 dan GIP dari usus.', 'Benar.'],
+     ['Glukotoksisitas', 'Kerusakan sel β akibat hiperglikemia kronik.', 'Salah.'],
+     ['Resistensi insulin perifer', 'Respons jaringan menurun.', 'Salah.']],
+    'Efek inkretin berkurang pada DMT2 → dasar penggunaan GLP-1 RA dan penghambat DPP-4.', ['oral vs IV'], 'Perbedaan rute = peran hormon usus.')
+add('ado', 'Penghambat DPP-4', 'asli', 1, 'recall',
+    'Bagaimana mekanisme aksi obat DPP-4 inhibitor?',
+    [['Menghambat degenerasi insulin', 'Bukan mekanisme DPP-4i.', 'Salah.'],
+     ['Menghambat glukogenesis', 'Efek utama metformin.', 'Salah.'],
+     ['*Memperpanjang masa kerja hormon incretin endogen', 'DPP-4 memecah GLP-1/GIP; dihambat → inkretin bertahan lebih lama.', 'Benar.'],
+     ['Memperpendek masa kerja hormon incretin endogen', 'Arah terbalik.', 'Salah.'],
+     ['Meningkatkan sekresi glukagon', 'Justru menekan glukagon.', 'Salah.']],
+    'Penghambat DPP-4 (gliptin) → GLP-1/GIP endogen naik → insulin naik, glukagon turun.', ['DPP-4'], 'Enzim pemecah inkretin dihambat.')
+add('ado', 'Hipoglikemia', 'rekon', 2, 'application',
+    'Pasien DM pingsan setelah minum obat antidiabetes dan didapatkan hipoglikemia. Tata laksana yang tepat adalah…',
+    [['Insulin reguler intravena', 'Memperberat hipoglikemia.', 'Kontraindikasi.'],
+     ['*Pemberian dekstrosa (glukosa) intravena', 'Pasien tidak sadar → tidak boleh per oral.', 'Sesuai recall angkatan.'],
+     ['Teh manis per oral', 'Risiko aspirasi pada pasien tidak sadar.', 'Tidak aman.'],
+     ['Menambah dosis glibenklamid', 'Memperberat hipoglikemia.', 'Salah.'],
+     ['Infus NaCl 0,9% saja', 'Tidak menaikkan glukosa.', 'Kurang tepat.']],
+    'Hipoglikemia berat (tidak sadar): dekstrosa IV (PERKENI: D40% bolus lalu infus D10%) atau glukagon IM.',
+    ['pingsan', 'hipoglikemia'], 'Tidak sadar → jalur IV.',
+    n='Catatan recall menulis "infus dekstrosa 5%"; pedoman umumnya memakai bolus D40% dilanjutkan infus dekstrosa.')
+add('ado', 'Komplikasi DM', 'rekon', 2, 'recall',
+    'Obat tambahan untuk pasien DM dengan keluhan nyeri neuropati adalah…',
+    [['Metformin dosis ganda', 'Tidak mengatasi nyeri neuropati.', 'Salah.'],
+     ['*Pregabalin', 'Ligan α2δ kanal kalsium untuk nyeri neuropatik.', 'Sesuai recall angkatan.'],
+     ['Glibenklamid', 'OHO.', 'Salah.'],
+     ['Asam mefenamat jangka panjang', 'OAINS; kurang efektif untuk nyeri neuropatik.', 'Kurang tepat.'],
+     ['Prednison oral', 'Memperburuk glikemia.', 'Salah.']],
+    'Nyeri neuropati diabetik: pregabalin, duloksetin, gabapentin, amitriptilin.', ['neuropati'], 'Nyeri neuropatik butuh obat neuromodulator.',
+    n='Tidak dibahas di PPT antidiabetes; kunci sesuai recall dan literatur.')
+
+# ---------- Gizi ----------
+add('gdm', 'IMT', 'rekon', 1, 'recall',
+    'Rentang IMT (Asia Pasifik) yang dikategorikan berat badan lebih dengan risiko adalah…',
+    [['*23,0–24,9', 'BB lebih dengan risiko.', 'Sesuai tabel slide.'],
+     ['25,0–29,9', 'Obes I.', 'Salah kategori.'],
+     ['≥ 30,0', 'Obes II.', 'Salah kategori.'],
+     ['18,5–22,9', 'Normal.', 'Salah kategori.'],
+     ['< 18,5', 'BB kurang.', 'Salah kategori.']],
+    'IMT Asia Pasifik: < 18,5 kurang; 18,5–22,9 normal; 23,0–24,9 BB lebih dengan risiko; 25,0–29,9 obes I; ≥ 30 obes II.',
+    ['IMT dengan risiko'], 'Hafalkan batas Asia Pasifik.')
+add('gdm', 'IMT', 'rekon', 1, 'application',
+    'Perempuan dengan BB 65 kg dan TB 150 cm ingin menurunkan berat badan. Kategori IMT-nya adalah…',
+    [['BB lebih dengan risiko', 'IMT 23,0–24,9.', 'IMT pasien lebih tinggi.'],
+     ['Normal', 'IMT 18,5–22,9.', 'Salah.'],
+     ['*Obes I', '65 ÷ 1,5² = 28,9 → 25,0–29,9.', 'Benar.'],
+     ['Obes II', 'IMT ≥ 30.', 'Belum 30.'],
+     ['BB kurang', 'IMT < 18,5.', 'Salah.']],
+    'IMT = BB/TB² (m).', ['BB 65', 'TB 150'], '65/2,25 = 28,9.')
+add('gdm', 'Kebutuhan kalori', 'rekon', 1, 'recall',
+    'Pada perhitungan kebutuhan kalori pasien DM usia 40–59 tahun, koreksi umur yang dilakukan adalah…',
+    [['*−5%', 'Usia 40–59 tahun.', 'Sesuai slide.'],
+     ['+10%', 'Arah koreksi salah.', 'Salah.'],
+     ['−10%', 'Untuk usia 60–69 tahun.', 'Salah.'],
+     ['+15%', 'Arah koreksi salah.', 'Salah.'],
+     ['−15%', 'Tidak ada di tabel.', 'Salah.']],
+    'Koreksi umur: 40–59 th −5%; 60–69 th −10%; ≥ 70 th −20%.', ['usia > 40'], 'Kebutuhan kalori turun dengan usia.',
+    n='Opsi sesuai recall; stem direkonstruksi.')
+add('gdm', 'Kebutuhan kalori', 'asli', 1, 'application',
+    'Usia 67 tahun dengan DM tipe 2 telah mengonsumsi obat selama 2 tahun terakhir. Perhitungan kalorinya dikurangi berapa persen?',
+    [['5%', 'Usia 40–59 tahun.', 'Salah.'],
+     ['7,5%', 'Tidak ada di tabel.', 'Salah.'],
+     ['*10%', 'Usia 60–69 tahun.', 'Benar.'],
+     ['15%', 'Tidak ada di tabel.', 'Salah.'],
+     ['20%', 'Usia ≥ 70 tahun.', 'Salah.']],
+    'Koreksi umur: 40–59 th −5%; 60–69 th −10%; ≥ 70 th −20%.', ['67 tahun'], '67 berada di 60–69.')
+add('gdm', 'Kebutuhan kalori', 'rekon', 2, 'understanding',
+    'Faktor berikut digunakan dalam perhitungan kebutuhan kalori pasien DM, KECUALI…',
+    [['Stres metabolik', 'Faktor penambah.', 'Dipakai.'],
+     ['Umur', 'Faktor pengurang.', 'Dipakai.'],
+     ['Tinggi badan (untuk BB ideal)', 'Dasar kalori basal.', 'Dipakai.'],
+     ['*Lingkar perut', 'Menilai obesitas sentral.', 'Tidak dipakai dalam rumus, jadi inilah jawabannya.'],
+     ['Aktivitas fisik', 'Faktor penambah.', 'Dipakai.']],
+    'Kalori DM: basal (BB ideal × 25/30) ± umur, aktivitas, BB (gemuk/kurus), stres.', ['KECUALI', 'perhitungan kalori'],
+    'Lingkar perut adalah kriteria sindroma metabolik, bukan faktor kalori.',
+    n='Opsi recall: stres, umur, tinggi badan, lingkar perut, (lupa); opsi E dilengkapi.')
+add('gkv', 'Diet kanker', 'rekon', 2, 'recall',
+    'Pasien kanker perlu diberikan terapi nutrisi apabila memenuhi minimal dua dari tiga kriteria berikut…',
+    [['IMT > 25, kolesterol > 200, TD > 140/90', 'Bukan kriteria malnutrisi.', 'Salah.'],
+     ['*BB turun > 10%/3 bulan, transferin < 150, albumin < 3,4', 'Sesuai slide.', 'Penanda malnutrisi.'],
+     ['Hb < 12, leukosit > 10.000, trombosit < 150.000', 'Parameter hematologi.', 'Salah.'],
+     ['Usia > 60 tahun, perokok, riwayat keluarga kanker', 'Faktor risiko kanker.', 'Salah.'],
+     ['Demam, nyeri, mual selama 3 hari', 'Gejala, bukan kriteria.', 'Salah.']],
+    'Kriteria terapi nutrisi kanker (≥ 2 dari 3): BB turun > 10% dalam 3 bulan, transferin < 150 mg/dL, albumin < 3,4 g/dL.',
+    ['2 dari 3 kriteria'], 'Ketiganya penanda malnutrisi.')
+add('gkv', 'Diet kanker', 'rekon', 1, 'recall',
+    'Syarat diet untuk lemak pada pasien kanker adalah…',
+    [['Lemak tinggi 40–50% energi total', 'Terlalu tinggi.', 'Salah.'],
+     ['*Lemak sedang, 15–20% energi total', 'Sesuai slide.', 'Benar.'],
+     ['Tanpa lemak sama sekali', 'Lemak tetap dibutuhkan.', 'Salah.'],
+     ['Lemak 25% energi total', 'Angka diet jantung.', 'Salah.'],
+     ['Lemak 30–35% energi total', 'Terlalu tinggi.', 'Salah.']],
+    'Diet kanker: TKTP, protein 1–1,5 g/kgBB, lemak sedang 15–20%, KH cukup.', ['lemak', 'kanker'], 'Bedakan dengan diet jantung (lemak 25%).')
+add('gkv', 'Diagnosis gizi', 'rekon', 1, 'recall',
+    'Kode diagnosis gizi NC-1.2 adalah…',
+    [['Penurunan berat badan yang tidak diharapkan', 'NC-3.2.', 'Salah.'],
+     ['Gangguan utilisasi zat gizi', 'NC-2.1.', 'Salah.'],
+     ['*Kesulitan mengunyah', 'Domain klinis (fungsional).', 'Sesuai tabel slide.'],
+     ['Malnutrisi energi-protein nyata', 'NI-5.2.', 'Salah.'],
+     ['Keyakinan yang salah tentang makanan', 'NB-1.2.', 'Salah.']],
+    'Contoh kode slide: NC-1.2 kesulitan mengunyah; NC-2.1 utilisasi; NC-3.2 penurunan BB; NI-5.2 MEP; NB-1.2 keyakinan salah.',
+    ['NC-1.2'], 'NC = klinis.')
+add('gkv', 'Diagnosis gizi', 'rekon', 1, 'recall',
+    'Diagnosis gizi NB-1.2 adalah…',
+    [['Kesulitan mengunyah', 'NC-1.2.', 'Salah.'],
+     ['Kelebihan asupan zat gizi', 'NI-5.1.', 'Salah.'],
+     ['Ketidaksiapan melakukan diet', 'NB-1.3.', 'Salah.'],
+     ['*Kepercayaan/sikap yang salah mengenai makanan', 'Domain perilaku-lingkungan.', 'Sesuai slide.'],
+     ['Overweight/obesitas', 'NC-3.3.', 'Salah.']],
+    'NB = behavioral-environmental; NB-1.2 = kepercayaan/sikap yang salah mengenai makanan atau zat gizi.', ['NB-1.2'], 'NB = perilaku.')
+
+json_path = 'data/bank.json'
+if __name__ == '__main__':
+    b = json.load(open(json_path))
+    if any(q.get('src') == SRC for q in b['qs']):
+        raise SystemExit('Soal UAS Cerebrum sudah ada di bank.')
+    nid = max(q['id'] for q in b['qs']) + 1
+    for q in Q:
+        q['id'] = nid; nid += 1
+        b['qs'].append(q)
+    for q in b['qs']:   # soal yang sama sudah ada sebagai soal asli
+        if q['id'] in (532, 541, 545):
+            q['n'] = ((q.get('n') or '') + ' Juga keluar di recall UAS 3.2 angkatan Cerebrum.').strip()
+    json.dump(b, open(json_path, 'w'), ensure_ascii=False)
+    print('ditambahkan', len(Q), 'soal; id', Q[0]['id'], '-', Q[-1]['id'])
