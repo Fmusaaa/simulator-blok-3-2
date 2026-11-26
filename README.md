@@ -20,6 +20,8 @@ Desain **anti-clue** dicek otomatis: panjang opsi seimbang (rasio kunci/distrakt
 Soal asli/recall/slide **tidak diubah teksnya**; hanya ditambah metadata dan pembahasan.
 PPT dosen adalah sumber utama; tambahan dari literatur dan koreksi slide ditandai di catatan soal.
 
+Simulator terpisah: [`praktikum-neoplasma/`](praktikum-neoplasma/) — Praktikum Neoplasma Modul 3.2 (32 soal gambar histopatologi).
+
 Dokumentasi: [`docs/BANK_GUIDE.md`](docs/BANK_GUIDE.md) (kelola bank soal) · [`docs/DEPLOY.md`](docs/DEPLOY.md) · [`docs/AUDIT.md`](docs/AUDIT.md).
 
 ## Simulator terpisah: Recall UAM 3.2 tahun 2024
