@@ -20,7 +20,7 @@ Desain **anti-clue** dicek otomatis: panjang opsi seimbang (rasio kunci/distrakt
 Soal asli/recall/slide **tidak diubah teksnya**; hanya ditambah metadata dan pembahasan.
 PPT dosen adalah sumber utama; tambahan dari literatur dan koreksi slide ditandai di catatan soal.
 
-Simulator terpisah: [`praktikum-neoplasma/`](praktikum-neoplasma/) — Praktikum Neoplasma Modul 3.2 (32 soal gambar histopatologi).
+Simulator terpisah: [`praktikum-neoplasma/`](praktikum-neoplasma/) — Praktikum Neoplasma Modul 3.2 (32 soal gambar histopatologi) · [`praktikum-koagulasi/`](praktikum-koagulasi/) — Praktikum Koagulasi + POCT/glukosa urin (51 soal pre/post test; dibangun dengan `src/praktikum_koagulasi.py`).
 
 Dokumentasi: [`docs/BANK_GUIDE.md`](docs/BANK_GUIDE.md) (kelola bank soal) · [`docs/DEPLOY.md`](docs/DEPLOY.md) · [`docs/AUDIT.md`](docs/AUDIT.md).
 
