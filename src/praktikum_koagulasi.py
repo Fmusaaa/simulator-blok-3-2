@@ -1,6 +1,6 @@
-"""Bangun praktikum-koagulasi/index.html memakai mesin halaman praktikum-neoplasma.
+"""Soal Praktikum Koagulasi (dipakai oleh src/praktikum_gabung.py).
 Sumber: Petunjuk Praktikum Modul 3.2 (Koagulasi), catatan asistensi dr. Meta Safitri, Sp.PK, kisi-kisi pre/post test.
-python3 src/praktikum_koagulasi.py"""
+Bangun: python3 src/praktikum_gabung.py"""
 import json, re, collections
 
 CATS = {
@@ -408,19 +408,3 @@ L = lambda s: len(s)
 mon = [x["num"] for x in Q if (lambda l, k: k == l[-1] and k >= 1.2 * l[-2] and k - l[-2] >= 8)(sorted(L(o[0]) for o in x["o"]), L(x["o"][x["a"]][0]))]
 print("kunci menonjol", mon)
 
-tpl = open('praktikum-neoplasma/index.html').read()
-def sub(old, new, count=1):
-    global tpl
-    assert old in tpl, old[:60]
-    tpl = tpl.replace(old, new, count)
-qs_json = json.dumps(Q, ensure_ascii=False)
-tpl = re.sub(r'const CATS=\{.*?\};\n', lambda m: 'const CATS=' + json.dumps(CATS, ensure_ascii=False) + ';\n', tpl, count=1, flags=re.S)
-tpl = re.sub(r'const QS=\[.*?\];\n', lambda m: 'const QS=' + qs_json + ';\n', tpl, count=1, flags=re.S)
-sub('const KEY="prak-neoplasma-32-v1"', 'const KEY="prak-koagulasi-32-v1"')
-sub('<title>Praktikum Neoplasma Modul 3.2</title>', '<title>Praktikum Koagulasi Modul 3.2</title>')
-sub('<h1>Praktikum Neoplasma 3.2</h1><p id="sub">24 gambar, 32 soal</p>', f'<h1>Praktikum Koagulasi 3.2</h1><p id="sub">Pre/post test, {len(Q)} soal</p>')
-sub('placeholder="mis. griseofulvin, Th2, nekrosis"', 'placeholder="mis. Brecher, Duke, Lee and White"')
-assert 'data:image' not in tpl
-import os; os.makedirs('praktikum-koagulasi', exist_ok=True)
-open('praktikum-koagulasi/index.html', 'w').write(tpl)
-print(len(Q), 'soal ->', len(tpl), 'byte')
